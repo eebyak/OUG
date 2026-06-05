@@ -44,17 +44,22 @@ The resulting principles were then compared across perspectives and used to stre
 
 This work distinguishes between:
 
-- **Founding Principles** — the core commitments from which the OUG was originally born;
-  - every person is a student
-  - every person has the right to learn
-  - it is the duty of the western democratic government to support this financially
+- **OUG Founding Commitments** — the personal and moral commitments from which the OUG was originally born;
+  - every person is a student;
+  - every person has the right to learn;
+  - a democractic society has a responsibility to enable learning for all.
+ 
+- **Bologna Founding Principles** — principles visible in the architecture of the earliest university:
+  - learning is the goal;
+  - the learner directs the learning relationship, while the institution holds the accountability;
+  - what is available to learn is determined by learner need.
   
-- **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues;
+- **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners.
   - 42 principles were derived based on open dialogues
   - the interlocuters agreed to the principles that were documented as emerging from the dialogue
   
-- **Institutional Design Principles** — structural rules synthesised from the founding principles, dialogues, research, and legal realities;
-  ???
+- **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legel realities. 
+  
 - **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
   - in the spirit of Software Engineering, Design Patterns are a way to design software around best practices. They can also be expressed in terms of anti-patterns. Spagetthi code is one such anti-pattern. Patterns support communication at a meta-level about situations because one word (the pattern name) is easier to use than complex descriptions.
     
