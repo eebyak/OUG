@@ -92,7 +92,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 ### Governance
 
 - [Allgemeinwohl Verfassung (Public-Benefit Constitution)](governance/allgemeinwohl-verfassung.md)
-- [Federated Legal Model](governance/federated-legal-model.md)
+- [Grundordnung](governance/grundordnung.md)
 - [Rechtliche Implementierungsvoraussetzungen (Legal Implementation Requirements)](governance/legal-implementation-requirements.md)
 - [Governance Artikel v2](governance/governance-article-v2.md)
 - [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
