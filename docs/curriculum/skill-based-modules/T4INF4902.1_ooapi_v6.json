@@ -1,0 +1,492 @@
+{
+  "id": "58d34721-421e-55bb-84c2-7e1ed9d2d492",
+  "code": "T4INF4902.1",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Ausgewählte Themen der Informatik — Natural Language Processing"
+    },
+    {
+      "language": "en-GB",
+      "value": "Selected Topics in Computer Science — Natural Language Processing"
+    }
+  ],
+  "abbreviation": "NLP",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit: Natural Language Processing (1 von 2 Semestern des Modulschirms T4INF4902). Linguistische Grundlagen (Morphologie, Lexik, Phrasenstruktur, Semantik, Pragmatik); Aufbau von NLP-Komponenten (Tokenisierung, POS-Tagging, Named Entity Recognition, Satzerkennung); Encodings und Embeddings (BERT, ELMo); Einsatz von ML-Verfahren für NLP (supervised, unsupervised, Reinforcement Learning); Textklassifikation und Sentiment Detection; Implementierung einfacher Spracherkennungs- und Textgenerierungssysteme zum Verständnis der Funktionsweise moderner LLMs."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit: Natural Language Processing (1 of 2 semesters of umbrella module T4INF4902). Linguistic foundations (morphology, lexis, phrase structure, semantics, pragmatics); building NLP components (tokenisation, POS tagging, named entity recognition, sentence boundary detection); encodings and embeddings (BERT, ELMo); applying ML methods for NLP (supervised, unsupervised, reinforcement learning); text classification and sentiment detection; implementing simple speech recognition and text generation systems to understand how modern LLMs work."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 30
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 30,
+      "selfStudy": 45,
+      "note": "Contact and self-study are for the NLP unit only (1 of 2 semesters). Full module workload is 300h / 132h contact across both semesters."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v8.json",
+      "codebook_version": "8.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 13,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 5,
+        "Personale und Soziale Kompetenz": 3,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 8,
+        "L3": 2,
+        "L4": 2
+      },
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "ARCH",
+        "COMM",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG"
+      ],
+      "ai_related_count": 4,
+      "human_skill_self_count": 3,
+      "human_skill_social_count": 1,
+      "standing_policies": [
+        "All LOs derived from unit topic list — module-level prose is generic boilerplate for umbrella elective T4INF4902. Explicitly documented.",
+        "Pedagogical emphasis: students BUILD NLP components (POS tagger, tokeniser, text generator, simple speech recognition) to understand how modern LLMs work. This 'understanding through construction' approach informs the shift from METH-2-02 (apply) to PROG-2-03 (implement) and ARCH-2-02 (design system architecture).",
+        "APPL-3-01 (new in codebook v8) used in Methodenkompetenz — integrating NLP APIs and language model tools into own implementations with critical oversight. L3 appropriate: integration is more demanding than mere use.",
+        "ANLY-4-03 module sentence updated to include 'self-implemented' systems — evaluation applies to both own implementations and AI-generated output.",
+        "Elective note: students take 2 units from T4INF4902 across two streams. This NLP unit = Data, AI & Intelligent Systems stream. The second elective unit (Quantum Computing) = Systems stream.",
+        "Workload figures (30h contact / 45h self-study) are for this unit only. Full module is 300h / 132h contact over 2 semesters."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 3,
+      "note": "Final module in the Data, AI & IS stream. Builds NLP systems bottom-up to understand LLMs. APPL-3-01 from codebook v8 first used here. Elective — students self-select based on stream interest."
+    }
+  },
+  "resources": [
+    "Jurafsky, D. / Martin, J.H.: Speech and Language Processing (3rd ed. draft, 2024) [free: web.stanford.edu/~jurafsky/slp3/]",
+    "Eisenstein, J.: Introduction to Natural Language Processing (2019), MIT Press [free online]",
+    "Devlin, J. et al.: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, NAACL (2019) [free online]",
+    "Vaswani, A. et al.: Attention Is All You Need, NeurIPS (2017) [free online]",
+    "Bender, E.M. et al.: On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?, FAccT (2021) [free online]"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden linguistischen Konzepte der natürlichen Sprachverarbeitung: Morphologie, Lexik, Phrasenstruktur, Semantik und Pragmatik."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the fundamental linguistic concepts of natural language processing: morphology, lexis, phrase structure, semantics, and pragmatics."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "273794b2-fd64-5448-9b8f-4eab1c7e0824",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding interdependencies"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können die wesentlichen Komponenten von Sprachverarbeitungssystemen — einschließlich Tokenisierung, Part-of-Speech Tagging, Named Entity Recognition und Satzerkennung — beschreiben und erläutern, wie diese zusammenwirken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Describe the essential components of natural language processing systems — including tokenisation, part-of-speech tagging, named entity recognition, and sentence boundary detection — and explain how they interact."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fb6772e7-d3d7-57c0-bef3-40fb93477a48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Funktionsweise und Grenzen von KI-Modellen erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining how AI models work and where they fail"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können erklären, wie Sprachmodelle und Embedding-Verfahren wie BERT und ELMo funktionieren, wie sie trainiert werden und warum sie die Grundlage moderner NLP-Systeme bilden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain how language models and embedding methods such as BERT and ELMo function, how they are trained, and why they form the foundation of modern NLP systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c46a1786-dcb1-52d4-b883-9fce84dcfafd",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können grundlegende NLP-Komponenten — wie Tokenisierer, POS-Tagger oder einfache Textgeneratoren — in einer geeigneten Programmiersprache implementieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement basic NLP components — such as tokenisers, POS taggers, or simple text generators — in an appropriate programming language."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ab117158-9be8-519f-894f-487b18d27e9f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können die Architektur eines NLP-Systems oder eines einfachen Spracherkennungssystems entwerfen und dessen Komponenten und deren Zusammenspiel beschreiben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design the architecture of an NLP system or simple speech recognition system and describe its components and their interactions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können NLP-Verfahren zur Textklassifikation und Sentiment-Analyse auf gegebene Datensätze anwenden und die Ergebnisse interpretieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply NLP methods for text classification and sentiment analysis to given datasets and interpret the results."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fefee247-d0b9-581a-b849-36b25fe2c835",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge in Entwicklungsprozesse integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating AI tools into development workflows"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können KI-gestützte NLP-Werkzeuge und Sprachmodell-APIs in eigene Implementierungen integrieren und dabei eine kritische Kontrolle über die Ergebnisse behalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate AI-powered NLP tools and language model APIs into own implementations while maintaining critical oversight of the results."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e92b3be4-b941-54ca-9a00-f307e1fd0892",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Ausgaben bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI output"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können die Ausgaben selbst implementierter und KI-generierter NLP-Systeme anhand definierter Qualitätskriterien — einschließlich Genauigkeit, Bias und Halluzinationen — bewerten und mit Baseline-Methoden vergleichen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate the outputs of self-implemented and AI-generated NLP systems against defined quality criteria — including accuracy, bias, and hallucinations — and compare them with baseline methods."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f1d7f7ff-bec6-55e3-946e-4d2c48218703",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Bias und Fairness erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising AI bias and fairness issues"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden ethische Kriterien an, um Bias und Fairnessprobleme in NLP-Modellen und Sprachdaten zu erkennen und zu benennen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply ethical criteria to recognise and name bias and fairness issues in NLP models and language data."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue NLP-Bibliotheken, Sprachmodelle und Implementierungsansätze einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently orient themselves in new NLP libraries, language models, and implementation approaches."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihre NLP-Implementierungen und Projektergebnisse mündlich präsentieren und schriftlich dokumentieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present their NLP implementations and project results orally and document them in writing."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können NLP-Methoden und selbst entwickelte Sprachverarbeitungskomponenten auf reale Anwendungsaufgaben aus verschiedenen Domänen übertragen und einsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer and apply NLP methods and self-developed language processing components to real-world tasks from different domains."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig ein funktionsfähiges NLP-System — von der Komponentenimplementierung über die Integration von Sprachmodell-APIs bis zur Evaluation — für eine gegebene Aufgabenstellung entwickeln und liefern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently develop and deliver a functional NLP system — from component implementation through language model API integration to evaluation — for a given task."
+        }
+      ]
+    }
+  ]
+}

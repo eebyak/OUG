@@ -1,0 +1,225 @@
+{
+  "id": "ec5cbef1-a175-5088-b2a6-7784d5411b20",
+  "code": "T4INF2001",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Mathematik III — Angewandte Mathematik und Statistik"
+    },
+    {
+      "language": "en-GB",
+      "value": "Mathematics III — Applied Mathematics and Statistics"
+    }
+  ],
+  "abbreviation": "MATH3",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Angewandte Mathematik: Grundlagen der mehrdimensionalen Differential- und Integralrechnung, Differentialgleichungen und -gleichungssysteme, numerische Methoden. Statistik: deskriptive Statistik, Zufallsexperimente und Wahrscheinlichkeitsverteilungen, induktive Statistik, Anwendungen in der Informatik."
+    },
+    {
+      "language": "en-GB",
+      "value": "Applied Mathematics: foundations of multidimensional differential and integral calculus, differential equations and systems, numerical methods. Statistics: descriptive statistics, random experiments and probability distributions, inferential statistics, applications in computer science."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 6
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 180
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 180,
+      "contact": 72,
+      "selfStudy": 108
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 4,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 2,
+        "L3": 1,
+        "L4": 1
+      },
+      "bloom_average": 2.75,
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "MATH"
+      ],
+      "ai_related_count": 1,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 2
+    }
+  },
+  "resources": [
+    "Fahrmeir, L. et al. (2016). Statistik: Der Weg zur Datenanalyse. Springer.",
+    "Dümbgen, L. (2016). Stochastik für Informatiker. Springer.",
+    "Cramer, E., & Kamps, U. (2017). Grundlagen der Wahrscheinlichkeitsrechnung und Statistik. Springer.",
+    "Dahmen, W., & Reusken, A. (2018). Numerik für Ingenieure und Naturwissenschaftler. Springer.",
+    "Teschl, G., & Teschl, S. (2014). Mathematik für Informatiker: Band 2. Springer."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "638b1bb2-e7e5-5a62-a1fc-9110c294ae2c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mathematische Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying mathematical methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen problemadäquate Methoden aus mehrdimensionaler Analysis, Differentialgleichungen, numerischen Methoden und Wahrscheinlichkeitsrechnung aus und wenden diese auf Aufgabenstellungen aus der Informatik an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select problem-appropriate methods from multidimensional analysis, differential equations, numerical methods, and probability theory, and apply these to computer science problem statements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "57e1a982-4642-58bd-8fdb-ce730a5da792",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Formale Methoden beherrschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Mastering formal methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden modellieren Aufgabenstellungen aus der Informatik und den Betriebswissenschaften mathematisch — unter Einsatz von Differential- und Integralrechnung, Differentialgleichungen, Numerik und Statistik — und lösen diese Software-gestützt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Mathematically model problem statements from computer science and business — using differential and integral calculus, differential equations, numerics, and statistics — and solve these with software support."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fa6e17b2-7886-5d52-9f9e-962416dfa23d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑spezifische Erfolgsmetriken definieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Defining AI‑specific success metrics"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden definieren und messen statistische Kennzahlen und Erfolgsmetriken für datenbasierte Systeme — einschließlich Wahrscheinlichkeitsverteilungen, Schätzverfahren und induktiver Statistik — und übertragen diese auf Anwendungskontexte der Informatik und des maschinellen Lernens."
+        },
+        {
+          "language": "en-GB",
+          "value": "Define and measure statistical parameters and success metrics for data-driven systems — including probability distributions, estimation methods, and inferential statistics — and transfer these to application contexts in computer science and machine learning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "dde02358-13dd-5840-b751-fd2975eaf7c4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte auf Probleme übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring concepts to problems"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen mathematisches Wissen aus Numerik, Wahrscheinlichkeitsrechnung und Statistik auf praktische Probleme aus Informatik und Datenwissenschaft und entwickeln damit systematische, Software-gestützte Lösungsansätze."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer mathematical knowledge from numerics, probability theory, and statistics to practical problems in computer science and data science, and develop systematic, software-supported solution approaches."
+        }
+      ]
+    }
+  ]
+}

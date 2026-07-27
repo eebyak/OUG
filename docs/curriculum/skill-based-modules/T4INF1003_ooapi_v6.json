@@ -1,0 +1,221 @@
+{
+  "id": "6138d75d-f496-54a4-8535-24f29c31fc94",
+  "code": "T4INF1003",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Theoretische Informatik II — Algorithmen und Komplexität"
+    },
+    {
+      "language": "en-GB",
+      "value": "Theoretical Computer Science II — Algorithms and Complexity"
+    }
+  ],
+  "abbreviation": "TI2",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Einführung in Algorithmen; Komplexitätstheorie: O-Notation, Komplexitätsklassen (P, NP, NP-vollständig); Such- und Sortieralgorithmen, Hashing; Korrektheit von Algorithmen; Datenstrukturen: Mengen, Listen, Keller, Schlangen; Bäume, binäre Suchbäume, balancierte Graphen und Graphalgorithmen; Codierung: Kompression, fehlererkennende und fehlerkorrigierende Codes."
+    },
+    {
+      "language": "en-GB",
+      "value": "Introduction to algorithms; complexity theory: O-notation, complexity classes (P, NP, NP-complete); search and sorting algorithms, hashing; correctness of algorithms; data structures: sets, lists, stacks, queues; trees, binary search trees, balanced graphs and graph algorithms; coding: compression, error-detecting and error-correcting codes."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 4,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 2
+      },
+      "bloom_distribution": {
+        "L2": 1,
+        "L3": 2,
+        "L4": 1
+      },
+      "bloom_average": 3.0,
+      "competence_domains": [
+        "ALGO",
+        "ANLY"
+      ],
+      "ai_related_count": 1,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 1
+    }
+  },
+  "resources": [
+    "Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). Introduction to Algorithms (4th ed.). MIT Press.",
+    "Sedgewick, R., & Wayne, K. (2011). Algorithms (4th ed.). Addison-Wesley.",
+    "Wirth, N. (2000). Algorithmen und Datenstrukturen. Teubner."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "285274e1-10c5-5959-84c9-cd35165ec74a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Komplexität analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing complexity"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die Komplexität von Algorithmen für wichtige Problemklassen der Informatik — unter Einsatz der O-Notation und Komplexitätsklassen (P, NP, NP-vollständig) — und beurteilen deren Einsatzmöglichkeiten im beruflichen Kontext."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the complexity of algorithms for key problem classes in computer science — using O-notation and complexity classes (P, NP, NP-complete) — and assess their practical applicability in professional contexts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a7cae586-b1b0-5091-8deb-671098356b56",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Algorithmen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing algorithms"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen Algorithmen für definierte Problemklassen — einschließlich Such- und Sortieralgorithmen, Hashing und Graphalgorithmen — begründen deren Korrektheit und passen effiziente Datenstrukturen an konkrete praktische Probleme an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design algorithms for defined problem classes — including search and sorting algorithms, hashing, and graph algorithms — justify their correctness, and adapt efficient data structures to concrete practical problems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "18b71ce8-2a69-5317-9f10-38b1ee56e183",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Informationen klassifizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Classifying information"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden klassifizieren Informationen und Datenstrukturen nach ihren Eigenschaften und algorithmischen Anforderungen — Mengen, Listen, Bäume, Graphen — und leiten daraus begründete Entscheidungen über die geeignete Datenstrukturwahl ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Classify information and data structures according to their properties and algorithmic requirements — sets, lists, trees, graphs — and derive justified decisions about the appropriate choice of data structure."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fa6e17b2-7886-5d52-9f9e-962416dfa23d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑spezifische Erfolgsmetriken definieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Defining AI‑specific success metrics"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden bewerten die Notwendigkeit einer Komplexitätsanalyse für ein Programm und wählen angemessene Metriken für den beruflichen Einsatz — eine Kompetenz, die direkt auf die Bewertung von KI-Systemperformance und maschinellen Lernmodellen übertragbar ist."
+        },
+        {
+          "language": "en-GB",
+          "value": "Assess the necessity of a complexity analysis for a programme and select appropriate metrics for professional deployment — a competence directly transferable to evaluating AI system performance and machine learning model behaviour."
+        }
+      ]
+    }
+  ]
+}

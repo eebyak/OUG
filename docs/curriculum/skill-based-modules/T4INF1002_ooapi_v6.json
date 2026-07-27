@@ -1,0 +1,224 @@
+{
+  "id": "b23f4dca-aaa1-51bd-8ead-75237a1269e9",
+  "code": "T4INF1002",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Theoretische Informatik I — Logik und formale Grundlagen"
+    },
+    {
+      "language": "en-GB",
+      "value": "Theoretical Computer Science I — Logic and Formal Foundations"
+    }
+  ],
+  "abbreviation": "TI1",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Algebraische Strukturen: Relationen, Ordnung, Abbildung; formale Logik: Aussagenlogik, Prädikatenlogik; Algorithmentheorie: Rekursion, Terminierung und Komplexität, Korrektheit; Grundkenntnisse deklarativer Programmierung (logisch/funktional)."
+    },
+    {
+      "language": "en-GB",
+      "value": "Algebraic structures: relations, orderings, mappings; formal logic: propositional logic, predicate logic; algorithm theory: recursion, termination and complexity, correctness; basic knowledge of declarative programming (logical/functional)."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 4,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 3
+      },
+      "bloom_average": 1.75,
+      "competence_domains": [
+        "ALGO",
+        "ANLY",
+        "COMM",
+        "THEO"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 1
+    }
+  },
+  "resources": [
+    "Kelly, J. (1997). The Essence of Logic. Prentice Hall.",
+    "Siefkes, D. (1998). Formalisieren und Beweisen: Logik für Informatiker. Vieweg.",
+    "Clocksin, W. F., & Mellish, C. S. (2003). Programming in Prolog. Springer.",
+    "Alagic, S. (1978). The Design of Well-Structured and Correct Programs. Springer."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "689d635b-1bfa-577b-87f2-be96dd39c04c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "THEO-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen theoretisches Informatikwissen aus Aussagen- und Prädikatenlogik auf praktische Problemstellungen: Sie formulieren formale Spezifikationen von Algorithmen, prüfen deren Korrektheit und wenden logisches Schließen systematisch an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer theoretical computer science knowledge from propositional and predicate logic to practical problem statements: formulate formal specifications of algorithms, verify their correctness, and apply logical reasoning systematically."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "28d0daed-ab92-5fea-be08-f728afe1c4f0",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Algorithmen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing algorithms"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende algorithmische Ansätze — einschließlich Rekursion, Terminierung und formale Spezifikation — und verstehen den Zusammenhang zwischen logischer Programmierung und algorithmischer Problemlösung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know foundational algorithmic approaches — including recursion, termination, and formal specification — and understand the relationship between logic programming and algorithmic problem solving."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden lösen komplexere Unternehmens- und Informatikanwendungen durch abstraktes Denken: Sie zerlegen Probleme in überschaubare Einheiten, wenden fallabhängig logisches Schließen an und entwickeln systematische Lösungsstrategien."
+        },
+        {
+          "language": "en-GB",
+          "value": "Solve more complex business and computer science applications through abstract thinking: decompose problems into manageable units, apply logical reasoning as appropriate, and develop systematic solution strategies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b776cbb9-1a6d-5d85-87b5-aceeb11ff76d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit Fachvertretungen austauschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchanging views with experts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden tauschen sich mit Fachvertreterinnen und -vertretern sowie mit fachfremden Personen über Fachfragen aus den Bereichen Logik, Verifikation und abstraktes Denken auf wissenschaftlichem Niveau aus."
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchange views with domain experts and non-specialists on technical questions in the areas of logic, verification, and abstract thinking at a scholarly level."
+        }
+      ]
+    }
+  ]
+}

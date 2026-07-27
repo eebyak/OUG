@@ -1,0 +1,360 @@
+{
+  "id": "5ec9e439-b546-5908-b480-e53c47f877b3",
+  "code": "T4INF4902",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Quantencomputer"
+    },
+    {
+      "language": "en-GB",
+      "value": "Quantum Computing"
+    }
+  ],
+  "abbreviation": "QC",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Grundlagen der Quantenmechanik für die Informationsverarbeitung: Qubits, Quantenzustände, Superposition, Verschränkung, Messung und Dekohärenz. Quantenlogikgatter und Quantenschaltkreise. Quantenalgorithmen: Shor-Algorithmus (Faktorisierung), Grover-Algorithmus (Datenbanksuche), Quantenparallelismus. Physikalische Realisierungen: supraleitende Qubits, Photonik, Ionenfallen. Komplexitätstheorie im Quantenkontext: BQP, Quantenspeedup. Fehlerkorrektur und Dekohärenz als praktische Grenzen. Anwendungsfelder: Kryptographie (Post-Quantum-Kryptographie), Optimierung, Simulation, KI. Gesellschaftliche und sicherheitsrelevante Implikationen."
+    },
+    {
+      "language": "en-GB",
+      "value": "Foundations of quantum mechanics for information processing: qubits, quantum states, superposition, entanglement, measurement, and decoherence. Quantum logic gates and quantum circuits. Quantum algorithms: Shor's algorithm (factorisation), Grover's algorithm (database search), quantum parallelism. Physical realisations: superconducting qubits, photonics, ion traps. Complexity theory in the quantum context: BQP, quantum speedup. Error correction and decoherence as practical limits. Application domains: cryptography (post-quantum cryptography), optimisation, simulation, AI. Societal and security-relevant implications."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 30
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Projektarbeit oder Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Project work or written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Systems, Platforms & Security",
+    "x-dhbw-stream-id": "2223d636-3c1d-571d-abf8-496b77f33216",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 30,
+      "selfStudy": 120,
+      "note": "Unit: Quantencomputer / Quantum Computing (T4INF4902 Selected Topics in CS). 30h contact, 120h self-study. High self-study ratio reflects independent engagement with a frontier technology topic."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 8,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 3,
+        "Personale und Soziale Kompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 2,
+        "L3": 1,
+        "L4": 3
+      },
+      "bloom_average": 2.62,
+      "competence_domains": [
+        "ALGO",
+        "ANLY",
+        "KNOW",
+        "PERS",
+        "THEO"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "ALGO-1-01, ALGO-3-01, ALGO-4-01: All three ALGO entries that remain are placed here, activating the full ALGO progression (L1→L3→L4) in a single module. Quantum algorithms are the most natural home — Shor and Grover are the canonical examples of non-trivial algorithm design with provable complexity advantages.",
+        "THEO-2-01 (second use): Also placed in T4INF2005 U3 for assembly instruction sets. Here used for quantum circuit modelling — both are theoretical CS knowledge transferred to practical computation models. Two different transfer contexts.",
+        "ALGO-4-01 (designing algorithms, L4): Raised to L4 because the module content explicitly includes 'Entwicklung einfacher Quantenalgorithmen' and requires students to reason about correctness and hardware limitations. This is not mere application — it is design and justification.",
+        "PERS-4-15 (embracing change, L4, Pers): Quantum computing is the paradigmatic example of a technology that forces a complete rethink of cryptographic security assumptions. The module's 'Anwendungen und Grenzen' section explicitly addresses post-quantum cryptography implications. PERS-4-15 has its deepest pedagogical home here.",
+        "ANLY-4-01 (evaluating solutions, L4, Überg): Students must evaluate which problem types quantum computing can and cannot improve — this is the classic use of ANLY-4-01 as an integration act.",
+        "No AI entries: Quantum computing is not an AI module. The connection to AI (quantum ML) exists but is mentioned as an application area, not a primary competence. If QML becomes a separate unit in future, AI entries could be added."
+      ]
+    },
+    "newStudy": {
+      "stream": "Systems, Platforms & Security",
+      "year": 3,
+      "elective": true,
+      "elective_note": "Unit within module T4INF4902 (Selected Topics in CS). 5 ECTS.",
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Quantencomputer",
+          "title_en": "Quantum Computing",
+          "contact_h": 30,
+          "self_study_h": 120,
+          "lo_count": 8
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information (10th Anniversary ed.). Cambridge University Press.",
+    "Wilde, M. M. (2017). Quantum Information Theory (2nd ed.). Cambridge University Press.",
+    "Preskill, J. (2018). Quantum computing in the NISQ era and beyond. Quantum, 2, 79.",
+    "Shor, P. W. (1994). Algorithms for quantum computation: Discrete logarithms and factoring. FOCS 1994.",
+    "Grover, L. K. (1996). A fast quantum mechanical algorithm for database search. STOC 1996.",
+    "Bernhardt, C. (2019). Quantum Computing: An Applied Approach. MIT Press.",
+    "NIST (2024). Post-Quantum Cryptography Standards. NIST FIPS 203/204/205.",
+    "IBM Quantum (2024). Qiskit — Open-Source Quantum Computing Framework. https://qiskit.org"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die Grundlagen der Quantenmechanik für die Informationsverarbeitung — einschließlich Qubits, Quantenzustände, Superposition, Verschränkung, Messung und Dekohärenz — und verstehen, wie sich Quantencomputer grundlegend von klassischen Rechnern unterscheiden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the foundations of quantum mechanics for information processing — including qubits, quantum states, superposition, entanglement, measurement, and decoherence — and understand how quantum computers differ fundamentally from classical computers."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "28d0daed-ab92-5fea-be08-f728afe1c4f0",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Algorithmen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing algorithms"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Quantenalgorithmen — insbesondere den Shor-Algorithmus (Faktorisierung) und den Grover-Algorithmus (Datenbanksuche) — und verstehen das Prinzip des Quantenparallelismus als Quelle des algorithmischen Vorteils."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know foundational quantum algorithms — in particular Shor's algorithm (factorisation) and Grover's algorithm (database search) — and understand the principle of quantum parallelism as the source of algorithmic advantage."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "04136f3d-2f8a-5e8d-84e4-a5f5de19b558",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding concepts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen aktuelle Konzepte und Methoden des Quantencomputings — darunter Quantenlogikgatter, Quantenschaltkreise und physikalische Realisierungsansätze (supraleitende Qubits, Photonik, Ionenfallen) — und können diese erklären und einordnen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand current concepts and methods of quantum computing — including quantum logic gates, quantum circuits, and physical realisation approaches (superconducting qubits, photonics, ion traps) — and can explain and contextualise these."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "689d635b-1bfa-577b-87f2-be96dd39c04c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "THEO-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen theoretisches Informatikwissen auf die Quantencomputing-Domäne: Sie modellieren Quantenschaltkreise mittels Quantenlogikgattern und analysieren deren Funktionsweise im Vergleich zu klassischen Logikgattern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer theoretical computer science knowledge to the quantum computing domain: model quantum circuits using quantum logic gates and analyse their functioning in comparison to classical logic gates."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "285274e1-10c5-5959-84c9-cd35165ec74a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Komplexität analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing complexity"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die Komplexität von Quantenalgorithmen — einschließlich ihrer Laufzeit- und Speichervorteile gegenüber klassischen Algorithmen — und klassifizieren Problemklassen nach ihrer Eignung für Quantenbeschleunigung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the complexity of quantum algorithms — including their runtime and memory advantages over classical algorithms — and classify problem classes according to their suitability for quantum speedup."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a7cae586-b1b0-5091-8deb-671098356b56",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Algorithmen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing algorithms"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen einfache Quantenalgorithmen für definierte Problemklassen, begründen ihre Korrektheit und reflektieren die praktischen Grenzen aktueller Quantenhardware — einschließlich Fehlerkorrektur, Dekohärenz und Skalierbarkeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design simple quantum algorithms for defined problem classes, justify their correctness, and reflect on the practical limitations of current quantum hardware — including error correction, decoherence, and scalability."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "368820ee-d1e2-5834-b57a-c03c4c6a9f3f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-15"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Veränderungen als Chance begreifen und navigieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Embracing and navigating change as an opportunity"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen Quantencomputing als paradigmatischen Technologiewandel, der klassische Annahmen über Berechenbarkeit und Kryptographie grundlegend herausfordert, und passen ihre professionellen Perspektiven aktiv an diesen Wandel an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise quantum computing as a paradigmatic technology shift that fundamentally challenges classical assumptions about computability and cryptography, and actively adapt their professional perspectives to this change."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren Anwendungsmöglichkeiten und Grenzen des Quantencomputings — für Kryptographie, Optimierung, Simulation und KI — und beurteilen, welche Problemstellungen einen quantenmechanischen Ansatz rechtfertigen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate the application possibilities and limitations of quantum computing — for cryptography, optimisation, simulation, and AI — and assess which problem statements justify a quantum-mechanical approach."
+        }
+      ]
+    }
+  ]
+}

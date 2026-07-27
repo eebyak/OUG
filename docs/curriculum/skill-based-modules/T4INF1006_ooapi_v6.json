@@ -1,0 +1,352 @@
+{
+  "id": "2b17bd51-b29f-549f-bee1-ba4572ff5230",
+  "code": "T4INF1006",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Technische Informatik I — Digitale Technik"
+    },
+    {
+      "language": "en-GB",
+      "value": "Computer Engineering I — Digital Technology"
+    }
+  ],
+  "abbreviation": "TI1",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Zahlensysteme und Codes; logische Verknüpfungen und ihre Darstellung; Schaltalgebra und formale Methoden (Normalformen, KV-Diagramme); Schaltnetze: Analyse und Entwurf; Schaltwerke: Zustandsautomaten, Zustandsdiagramme; Schaltkreistechnik und Interfacing; Halbleiterspeicher. Grundlage für Rechnerarchitektur, Betriebssysteme und Systemnahe Programmierung."
+    },
+    {
+      "language": "en-GB",
+      "value": "Number systems and codes; logical operations and their representation; switching algebra and formal methods (normal forms, K-maps); combinational circuits: analysis and design; sequential circuits: state machines, state diagrams; circuit technology and interfacing; semiconductor memory. Foundation for computer architecture, operating systems, and system-level programming."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Systems, Platforms & Security",
+    "x-dhbw-stream-id": "2223d636-3c1d-571d-abf8-496b77f33216",
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "1 unit: Digitaltechnik."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 8,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 3,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 5,
+        "L3": 1
+      },
+      "bloom_average": 1.88,
+      "competence_domains": [
+        "ANLY",
+        "GENR",
+        "KNOW",
+        "MATH",
+        "METH",
+        "SYST"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "MATH-2-01 and MATH-2-02 are first used here: switching algebra and formal circuit specification are the natural first application of mathematical and formal methods in the programme. These entries activate the MATH domain for the first time.",
+        "SYST-2-02 (system-level programming, L2): Placed here as the foundational entry — digital circuits ARE system-level programming at its lowest abstraction. The canonical sentence ('programme at system level and follow developments in computer hardware') maps precisely to the module's Fachkompetenz.",
+        "GENR-1-01 (professional capabilities, L1): T4INF1006 is the first technical module in the programme and the entry point to hardware understanding. GENR-1-01 serves as the programme-wide baseline competence anchor, placed here intentionally as Year 1 foundation.",
+        "No AI entries: Digital technology as taught here is pre-AI infrastructure knowledge. AI relevance emerges in higher modules (T4INF2006 Embedded Security, T4INF2005 system architecture for ML).",
+        "Year 1 register: all L1/L2 except ANLY-3-01 (L3) for the Übergreifende Handlungskompetenz — justified because the module explicitly requires practical problem capture and solution design, not just application of known methods."
+      ]
+    },
+    "newStudy": {
+      "stream": "Systems, Platforms & Security",
+      "year": 1,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Digitaltechnik",
+          "title_en": "Digital Technology",
+          "contact_h": 60,
+          "self_study_h": 90,
+          "lo_count": 8
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Gehrke, D., Winzker, M., Urbanski, K., & Woitowitz, R. (2021). Digitaltechnik. Springer.",
+    "Fricke, K. (2020). Digitaltechnik: Lehr- und Übungsbuch für Elektrotechniker und Informatiker. Springer.",
+    "Beuth, K.: Elektronik 4 — Digitaltechnik. Vogel.",
+    "Wöstenkühler, G. (2019). Grundlagen der Digitaltechnik. Hanser."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "f85a3525-f883-5bf4-bda6-8d99a27b39fe",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundlegende Konzepte kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing foundational concepts"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Konzepte der Digitaltechnik — einschließlich Zahlensysteme und Codes, logische Verknüpfungen, Boole'sche Algebra und die Arbeitsweise digitaler Gatter und Schaltkreise."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know foundational concepts of digital technology — including number systems and codes, logical operations, Boolean algebra, and the functioning of digital gates and circuits."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "638b1bb2-e7e5-5a62-a1fc-9110c294ae2c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mathematische Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying mathematical methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden mathematische Methoden der Schaltalgebra an — darunter Normalformen, Karnaugh-Veitch-Diagramme und algebraische Vereinfachungsverfahren — zur Analyse und Optimierung digitaler Schaltungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply mathematical methods of switching algebra — including normal forms, Karnaugh-Veitch maps, and algebraic simplification techniques — to analyse and optimise digital circuits."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "57e1a982-4642-58bd-8fdb-ce730a5da792",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Formale Methoden beherrschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Mastering formal methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beherrschen formale Methoden zur Modellierung und Analyse von Schaltnetzen und Schaltwerken und setzen diese zur präzisen Spezifikation digitaler Systeme ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Master formal methods for modelling and analysing combinational and sequential circuits, and apply these to precisely specify digital systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden lösen Entwurfsaufgaben aus der Digitaltechnik systematisch — von der Problemformulierung über die Wahl geeigneter Logikmethoden bis zur funktions- und aufwandoptimierten Implementierung in Schaltkreistechnologie."
+        },
+        {
+          "language": "en-GB",
+          "value": "Solve design tasks in digital technology systematically — from problem formulation through selection of appropriate logic methods to resource-optimised implementation in circuit technology."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "951546e4-48c5-5c4b-ae29-d5878fb2c485",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SYST-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Systemnah programmieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Programming at system level"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden programmieren auf Systemebene der Digitaltechnik: Sie entwerfen und analysieren digitale Schaltwerke und verstehen die Wechselwirkung zwischen Logikebene, Schaltkreistechnik und Speicherbausteinen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Programme at the system level of digital technology: design and analyse sequential circuits and understand the interaction between logic level, circuit technology, and memory components."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden Methoden der Digitaltechnik — darunter Wahrheitstabellen, Zustandsdiagramme und Schnittstellenbeschreibungen — zur zielgerichteten Lösung von Entwurfsaufgaben an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply methods of digital technology — including truth tables, state diagrams, and interface descriptions — to achieve targeted solutions to design tasks."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erfassen logische Problemstellungen aus der Praxis, analysieren sie im Hinblick auf digitaltechnische Umsetzbarkeit und entwickeln daraus aufwand- und ressourcenoptimierte Lösungskonzepte."
+        },
+        {
+          "language": "en-GB",
+          "value": "Capture logical problem statements from practice, analyse them with respect to digital-technology implementability, and develop resource-optimised solution concepts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "487a9499-f5df-5206-9a12-fa52d672ce3b",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "GENR-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachliche Fähigkeiten besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing professional capabilities"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden besitzen ein breites Grundlagenspektrum an professionellen Fähigkeiten in der Digitaltechnik und wenden diese zielgerichtet als Basis für das Verständnis höherer Systemebenen — Rechnerarchitektur, Betriebssysteme, Systemsoftware — an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Possess a broad foundational spectrum of professional capabilities in digital technology and apply these purposefully as a basis for understanding higher system levels — computer architecture, operating systems, system software."
+        }
+      ]
+    }
+  ]
+}

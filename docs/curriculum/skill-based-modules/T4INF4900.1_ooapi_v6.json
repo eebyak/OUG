@@ -1,0 +1,619 @@
+{
+  "id": "4232c5f8-92ac-5b50-a63b-36a8b65855a2",
+  "code": "T4INF4900.1",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Games and Gaming"
+    },
+    {
+      "language": "en-GB",
+      "value": "Games and Gaming"
+    }
+  ],
+  "abbreviation": "Games",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Game-Architektur und Entwurfsmuster für Spielprojekte (Game-State-Pattern, Komponentensysteme); Player-Experience-Design: Interaktion, Feedback und psychologische Engagement-Prinzipien; Spezialisierung in Game Engines und Technologien (Unity, Godot, Unreal Engine); Analyse und Erweiterung bestehender Codebasen in kollaborativen Entwicklungsworkflows; Iterative Projektplanung: Umgang mit Unsicherheiten, Scope-Management und gemeinsame Projektvision; Code-Qualität: Pull Requests, Code Reviews, Dokumentation und Teamkonventionen; Verantwortungsvoller Einsatz und kritische Kontrolle von KI-Werkzeugen in der Spielentwicklung; Analyse des KI-Einflusses auf kreative Prozesse: generative Assets, prozedurale Inhalte, KI-gestützte Levelgestaltung; Ethische Dimensionen der Spielgestaltung: Engagement-Mechaniken, Darstellung und Barrierefreiheit; Tutorial-Produktion und Wissensdokumentation; Team-Dynamik, interdisziplinäre Zusammenarbeit und persönliche Resilienz."
+    },
+    {
+      "language": "en-GB",
+      "value": "Game architecture and design patterns for game projects (Game-State-Pattern, component systems); player experience design: interaction, feedback, and psychological engagement principles; specialisation in game engines and technologies (Unity, Godot, Unreal Engine); analysing and extending existing codebases in collaborative development workflows; iterative project planning: managing uncertainty, scope, and shared project vision; code quality: pull requests, code reviews, documentation, and team conventions; responsible integration and critical oversight of AI tools in game development; analysis of AI influence on creative processes: generative assets, procedural content, AI-assisted level design; ethical dimensions of game design: engagement mechanics, representation, and accessibility; tutorial production and knowledge documentation; team dynamics, interdisciplinary collaboration, and personal resilience."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 3
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 90
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 30
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung: Projektarbeit (Spielprototyp) und Präsentation (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment: project work (game prototype) and presentation (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Programming & Software Construction",
+    "x-dhbw-stream-id": "23e0f61b-cddd-5045-8a58-3e2b3f195088",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 90,
+      "contact": 30,
+      "selfStudy": 60,
+      "note": "This unit is 1 of 2 in module T4INF4900. The complementary unit (Gamification, 2 ECTS) is administered separately."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v9.json",
+      "codebook_version": "9.0",
+      "processing_date": "2026-04-11",
+      "total_competences": 17,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 7,
+        "Personale und Soziale Kompetenz": 6,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 1,
+        "L3": 7,
+        "L4": 9
+      },
+      "bloom_average": 3.47,
+      "competence_domains": [
+        "APPL",
+        "ARCH",
+        "COMM",
+        "CREA",
+        "ETHI",
+        "PERS",
+        "PROG",
+        "PROJ",
+        "QUAL",
+        "SPEC",
+        "TEAM"
+      ],
+      "ai_related_count": 3,
+      "human_skill_self_count": 7,
+      "human_skill_social_count": 5,
+      "standing_policies": [
+        "Stream reassigned from 'Human-Centred & Societal Computing' to 'Programming & Software Construction'. Rationale: primary deliverable (PROG-4-01 Spielprototyp) is a software artefact; all 7 Meth LOs are SE process competences; ARCH-4-01, PROG-3-02, QUAL-3-02 anchor the engineering core; PROJ-3-02/4-03/4-04 provide the agile methodology layer; module fills the Year 3 capstone gap in the Programming stream. HCI/ethics elements (CREA-4-01, ETHI-3-01) are the responsible-development wrapper, not the centre of gravity.",
+        "ETHI upgraded from ETHI-2-01 L2 to ETHI-3-01 L3: Year 3 module with Bloom avg 3.41; 'consider' (L2) is mismatched with register of surrounding LOs; students actively make and justify design decisions against ethical criteria — L3 'analysieren + begründen' is the correct register. Module sentence rewritten accordingly.",
+        "Two literature additions: Sicart (2009) The Ethics of Computer Games — only book-length scholarly treatment of game ethics; Game Accessibility Guidelines (free, maintained) — fills accessibility gap in ETHI-3-01 literature coverage.",
+        "Bloom avg 3.41 — highest in programme across both processed streams. L2:2 · L3:6 · L4:9. No L1 entries — appropriate for Year 3 elective capstone.",
+        "PROJ domain has 3 entries (PROJ-3-02, PROJ-4-03, PROJ-4-04) — the most complete agile project management LO set in the programme. Directly supported by Keith (2010) Agile Game Development with Scrum.",
+        "Three AI entries: APPL-3-01 (integrate AI tools with critical oversight, L3), CREA-3-01 (analyse AI influence on creative design, L3), PERS-4-09 (reflect on AI use and agency maintenance, L4). ai_domains: application, evaluation, agency, cognitive.",
+        "CREA domain has 2 entries (CREA-4-01, CREA-3-01) — only module in the programme to use CREA at this depth. Game design uniquely requires both creative design capacity and critical analysis of AI's role in creative processes."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Programming & Software Construction",
+      "year": 3,
+      "elective": true,
+      "elective_note": "1 of 2 units in T4INF4900. Students take Games (3 ECTS) + Gamification (2 ECTS) as elective combination, or select alternative units. Games unit = Programming & Software Construction stream. Gamification unit = Human-Centred & Societal Computing stream.",
+      "note": "Year 3 capstone for the Programming stream. Bloom avg 3.41 — highest in programme. Provides the full-cycle software project (architecture, agile, quality, AI integration, delivery) that SE I/II cannot provide alone. CREA domain entries are unique to this module."
+    }
+  },
+  "resources": [
+    "Schell, J. (2019). The Art of Game Design: A Book of Lenses (3rd ed.). CRC Press.",
+    "Nystrom, R. (2014). Game Programming Patterns. Genever Benning. [free online: gameprogrammingpatterns.com]",
+    "Martin, R. C. (2018). Clean Architecture: A Craftsman's Guide to Software Structure and Design. Prentice Hall.",
+    "Swink, S. (2009). Game Feel: A Game Designer's Guide to Virtual Sensation. Morgan Kaufmann.",
+    "Eyal, N. (2014). Hooked: How to Build Habit-Forming Products. Portfolio.",
+    "Keith, C. (2010). Agile Game Development with Scrum. Addison-Wesley.",
+    "Shaker, N., Togelius, J., & Nelson, M. J. (2016). Procedural Content Generation in Games. Springer. [free online: pcgbook.com]",
+    "Hocking, J. (2021). Unity in Action: Multiplatform Game Development in C# (3rd ed.). Manning.",
+    "Crumpler, C. (2023). Unreal Engine 5 Game Development with C++. Packt Publishing.",
+    "Chacon, S., & Straub, B. (2014). Pro Git (2nd ed.). Apress. [free online: git-scm.com/book]",
+    "Lencioni, P. (2002). The Five Dysfunctions of a Team. Jossey-Bass.",
+    "Schreier, J. (2017). Blood, Sweat, and Pixels. HarperCollins.",
+    "Clark, O. (2022). Continuous Delivery for Games. CRC Press.",
+    "Sicart, M. (2009). The Ethics of Computer Games. MIT Press.",
+    "Game Accessibility Guidelines. gameaccessibilityguidelines.com [free online, maintained]"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "7ba27c4e-49af-5aa5-9194-66fd5317460e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwarearchitekturen konstruieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Constructing software architectures"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen tragfähige Softwarearchitekturen für Spielprojekte und begründen zentrale Strukturentscheidungen im Hinblick auf Erweiterbarkeit, Zusammenarbeit und Wartbarkeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design robust software architectures for game projects and justify key structural decisions with respect to extensibility, collaboration, and maintainability."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8683737f-172a-596c-a1d9-43e521bd84ea",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Innovativ gestalten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Creating innovatively"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden gestalten das Spielerlebnis ihres Projekts unter Berücksichtigung von Game Design, Interaktion, Feedback und psychologischen Engagement-Prinzipien."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design the player experience of their project with attention to game design, interaction, feedback, and psychological engagement principles."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ef852077-8573-5db3-8fea-6d22f9ca2b56",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SPEC-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachgebiet vertiefen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Deepening specialisation"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden arbeiten sich vertieft in ausgewählte Spieltechnologien, Engines und Werkzeuge ein und analysieren deren Einsatzmöglichkeiten für das eigene Projekt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Specialise in selected game technologies, engines, and tools and analyse their suitability for the project."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "85ba69d8-be31-508e-9641-21350c8b513d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fremden Code analysieren und erweitern"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing and extending existing codebases"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren bestehende Codebasen und integrieren eigene Beiträge in kollaborative Entwicklungsprozesse."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse existing codebases and integrate contributions into collaborative development workflows."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "392e3bb8-f560-5f62-85d6-73acf1e3dcc4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Unsicherheiten in der Projektplanung analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing uncertainty in project planning"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren Unsicherheiten in Projektkontexten und berücksichtigen diese durch geeignete Zeitpuffer und Planungsmaßnahmen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse uncertainty in project contexts and incorporate it through appropriate time buffers and planning measures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a401042a-c8b0-5157-a1de-5e2392033b43",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Gemeinsame Projektvision entwickeln und abstimmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Establishing and aligning a shared project vision"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eine gemeinsame Projektvision und stimmen diese im Team ab, um Entwicklungsentscheidungen zu leiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Establish and align a shared project vision across team members to guide development decisions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "78943c16-d49d-58cb-98e3-0d877b0ec7e7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projektumfang in iterativen Entwicklungsprozessen steuern"
+        },
+        {
+          "language": "en-GB",
+          "value": "Controlling scope evolution in iterative development"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden steuern den Projektumfang in iterativen Entwicklungsprozessen, indem sie Teamentscheidungen mit den vereinbarten Projektzielen abstimmen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Control scope evolution during iterative development by aligning team decisions with agreed project goals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fefee247-d0b9-581a-b849-36b25fe2c835",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge in Entwicklungsprozesse integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating AI tools into development workflows"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden integrieren KI-Werkzeuge in ihre Entwicklungsprozesse, um Lernen, Programmierung und Entscheidungsfindung zu unterstützen, und behalten dabei eine kritische Kontrolle über die Ergebnisse."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate AI tools into development workflows to support learning, coding, and decision-making while maintaining critical oversight."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3d924b9d-06dd-5090-99a0-6d8ecf8eb4da",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Einfluss auf kreative Prozesse analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI's influence on creative processes"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren, wie KI-gestützte Werkzeuge (z. B. generative Asset-Erzeugung, KI-gestützte Levelgestaltung, prozedurale Inhalte) ihren kreativen Designprozess verändern, und entwickeln eine begründete Haltung zum verantwortungsvollen Einsatz dieser Werkzeuge."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse how AI-assisted tools (e.g. generative asset creation, AI-assisted level design, procedural content) change their creative design process, and develop a reasoned position on the responsible use of these tools."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "da29e6b9-34df-51d6-aa7b-19ac4acdfc41",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Reviews und Tests durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Conducting reviews and testing"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden sichern die Qualität ihrer Beiträge durch Pull Requests, Code Reviews, Dokumentation und geeignete Teamkonventionen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Assure the quality of their contributions through pull requests, code reviews, documentation, and appropriate team conventions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7f46df29-98d5-58a9-884d-899f22909e86",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Interdisziplinäre Perspektiven integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating cross-disciplinary perspectives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden integrieren unterschiedliche fachliche Perspektiven in kollaborative Entwicklungsprozesse, indem sie zwischen Domänen vermitteln und Beiträge zu kohärenten Lösungen zusammenführen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate diverse disciplinary perspectives into collaborative development processes by translating between domains and aligning contributions into coherent solutions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b4f5ac88-15ef-58d2-b54f-a9ed935e2bb2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teams aufbauen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Building teams"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen Verantwortung für die Teamdynamik, fördern eine konstruktive Zusammenarbeit und gestalten gemeinsame Arbeitsabläufe im Spielprojekt aktiv mit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take responsibility for team dynamics, foster constructive collaboration, and actively shape shared workflows in the game project."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden präsentieren Entwurfsentscheidungen, Entwicklungsfortschritte und Projektergebnisse mündlich und schriftlich in verständlicher Form."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present design decisions, development progress, and project results orally and in writing in a comprehensible form."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "768226c5-404a-527d-a8f8-6d8618d503a9",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-12"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Umgang mit Unsicherheit reflektieren und persönliche Resilienz entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on uncertainty and developing personal resilience"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren ihren Umgang mit unsicheren und komplexen Situationen, entwickeln daraus persönliche Resilienz und übertragen diese Erkenntnisse auf zukünftige Herausforderungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on their engagement with uncertain and complex situations, develop personal resilience, and transfer these insights to future challenges."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d4c60703-6ed4-5efa-8a19-12059082b954",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Auswirkungen auf Gesellschaft analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI's societal effects"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren ethische Dimensionen der Spielgestaltung — insbesondere suchtfördernde Mechaniken, Darstellung von Personen und Gruppen sowie Barrierefreiheit — und begründen Entwurfsentscheidungen im Hinblick auf ethische Verantwortung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse ethical dimensions of game design — particularly addictive mechanics, representation of people and groups, and accessibility — and justify design decisions with respect to ethical responsibility."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a1764775-3e89-5f8b-a64d-74a9b137d627",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-09"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Nutzung reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI use"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren kritisch, wie und wo sie KI-Werkzeuge in ihrem Spielprojekt eingesetzt haben, welchen Einfluss dies auf ihre Entwurfsentscheidungen hatte und wie sie ihre eigene Urteils- und Handlungsfähigkeit als Entwicklerinnen und Entwickler dabei aufrechterhalten haben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on how and where they used AI tools in their game project, the influence AI had on their design decisions, and how they maintained their own judgement and agency as developers throughout."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eigenständig oder im Team einen funktionsfähigen Spielprototyp, der die zu Beginn definierten Qualitätskriterien erfüllt, und liefern diesen als prüfungsrelevante Projektarbeit ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently or as a team, develop a functional game prototype that meets the quality criteria defined at the outset and deliver it as the assessed project submission."
+        }
+      ]
+    }
+  ]
+}

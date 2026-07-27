@@ -1,0 +1,1528 @@
+{
+  "id": "2cfcb2fa-43eb-58bb-8e7d-985fc31f0e8c",
+  "code": "T4INF2003",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Software Engineering I"
+    },
+    {
+      "language": "en-GB",
+      "value": "Software Engineering Fundamentals"
+    }
+  ],
+  "abbreviation": "SE 1",
+  "description": [
+    {
+      "language": "de",
+      "value": "Vorgehensmodelle; Phasen des SW-Engineering und deren Zusammenhänge; Requirements-Engineering und Management, Anwendungsfälle; Analyse- und Entwurfsmodelle (z.B. UML, SADT); Softwarearchitekturen, Schnittstellenentwurf, Softwareentwurf und Entwurfsmuster; Coderichtlinien und Codequalität: Reviewing und Testplanung, -durchführung und -bewertung; Continuous Integration; Versionsverwaltung; Betrieb und Wartung; phasenspezifische Dokumentation; Durchführung eines konkreten Softwareentwicklungsprojektes in Projektteams mittlerer Größe"
+    },
+    {
+      "language": "en",
+      "value": "Software process models; phases of software engineering and their relationships; requirements engineering and management, use cases; analysis and design models (e.g. UML, SADT); software architectures, interface design, software design and design patterns; code guidelines and code quality: reviewing and test planning, execution and evaluation; continuous integration; version control; operation and maintenance; phase-specific documentation; execution of a concrete software development project in medium-sized project teams"
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de",
+      "value": "Entwurf"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Unknown",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "oug": {
+      "stream": "Programming & Software Construction",
+      "role_within_stream": "Foundational module introducing the full software engineering lifecycle, professional methods, code quality practices, and project-based team development.",
+      "contribution_to_profile": "Forms graduates who design, implement and evaluate software systems using professional methods, working effectively in teams across the full development lifecycle.",
+      "didactic_model": "Vorlesung, Übung, Projekt",
+      "ai_tools": "Supportive use for learning; assessment focuses on understanding.",
+      "microcredential": "Standalone validity with certification.",
+      "stackability": "Feeds into T4INF3102 Software Engineering II and all advanced Programming & Software Construction modules.",
+      "lifelong_learning": "Professionals can upskill in software engineering fundamentals, project-based development, and code quality practices.",
+      "hub": "OUG",
+      "coordinator": "Prof. Dipl.-Phys. Till Hänisch",
+      "grading_system": "Standardnoten",
+      "total_workload": "270 hours",
+      "contact_hours": "96 hours",
+      "self_study_hours": "174 hours",
+      "module_type": "Mandatory",
+      "study_year": 2,
+      "semesters": 2,
+      "codebook_version": "3.0",
+      "learning_outcomes_original": [
+        {
+          "type": "Fachkompetenz",
+          "text": "Die Studierenden kennen die Grundlagen des Softwareerstellungsprozesses. Sie kennen die Methoden und unterstützenden Technologien der jeweiligen Projektphasen."
+        },
+        {
+          "type": "Methodenkompetenz",
+          "text": "Die Studierenden können eine vorgegebene Problemstellung analysieren. Sie können für konkrete Problemstellungen angemessene Methoden auswählen und anwenden. Sie können eine rechnergestützte Lösung entwerfen und umsetzen. Sie können korrigierende Anpassungen an Lösungsvorschlägen vornehmen. Sie können Tools für die Zusammenarbeit und Problemlösung nutzen."
+        },
+        {
+          "type": "Personale und Soziale Kompetenz",
+          "text": "Die Studierenden können Lösungsvorschläge für ein gegebenes Problem konkurrierend bewerten und ihre Entwürfe und Lösungen begründen. Sie können Lösungsvorschläge für ein gegebenes Problem konkurrierend bewerten, auswählen und kritisch reflektieren. Die Studierenden können sich mit Fachvertretungen über Problemanalysen und Lösungsvorschläge sowie über die Zusammenhänge der einzelnen Phasen austauschen. Sie können ihre Entwürfe und Lösungen mündlich und schriftlich präsentieren. In der Diskussion können sie sich kritisch mit verschiedenen Sichtweisen auseinandersetzen. Sie können Teams aufbauen und weiterentwickeln."
+        },
+        {
+          "type": "Übergreifende Handlungskompetenz",
+          "text": "Die Studierenden können interdisziplinäre Fähigkeiten verbinden, wie z.B. den Softwareentwicklungsprozess mit Techniken des Projektmanagements und beachten während des Projekts Zeit- und Kostenfaktoren. Sie können sich selbstständig in Werkzeuge einarbeiten. Sie können ihre eigenen Stärken und Schwächen im Projekt erkennen und sich verbessern. Sie können mit Konflikten umgehen und sie konstruktiv lösen. Sie können Fähigkeiten weitergeben und unterstützen. Sie können sich gegenseitig konstruktives Feedback geben. Sie können bei komplexen Projekten effektiv in einem Team mitwirken."
+        }
+      ]
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v5.json",
+      "esco_skills": [
+        {
+          "uri": "http://data.europa.eu/esco/skill/c0e2c2b1",
+          "prefLabel": "develop software",
+          "matchType": "exact_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/8ba7e318",
+          "prefLabel": "analytical thinking",
+          "matchType": "close_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/ae1e4822",
+          "prefLabel": "software architecture",
+          "matchType": "close_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/8cc21e38",
+          "prefLabel": "work in teams",
+          "matchType": "exact_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b6c06854",
+          "prefLabel": "manage software quality",
+          "matchType": "close_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b3c3c73f",
+          "prefLabel": "use version control system",
+          "matchType": "exact_match"
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/fc9d8b70",
+          "prefLabel": "apply project management methods",
+          "matchType": "close_match"
+        }
+      ],
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "ARCH",
+        "COMM",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG",
+        "PROJ",
+        "QUAL",
+        "TEAM"
+      ],
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 17,
+        "L3": 4,
+        "L4": 11
+      },
+      "domain_distribution": {
+        "ANLY": 3,
+        "APPL": 1,
+        "ARCH": 1,
+        "COMM": 3,
+        "KNOW": 2,
+        "METH": 2,
+        "PERS": 9,
+        "PROG": 3,
+        "PROJ": 3,
+        "QUAL": 3,
+        "TEAM": 4
+      },
+      "competency_type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 11,
+        "Personale und Soziale Kompetenz": 8,
+        "Übergreifende Handlungskompetenz": 13
+      },
+      "action_verbs": [
+        {
+          "verb_de": "kennen",
+          "verb_en": "know",
+          "competence_id": "KNOW-1-04"
+        },
+        {
+          "verb_de": "kennen",
+          "verb_en": "know",
+          "competence_id": "KNOW-1-03"
+        },
+        {
+          "verb_de": "analysieren",
+          "verb_en": "analyse",
+          "competence_id": "ANLY-3-01"
+        },
+        {
+          "verb_de": "auswählen",
+          "verb_en": "select",
+          "competence_id": "METH-2-01"
+        },
+        {
+          "verb_de": "anwenden",
+          "verb_en": "apply",
+          "competence_id": "METH-2-02"
+        },
+        {
+          "verb_de": "entwerfen / umsetzen",
+          "verb_en": "design / implement",
+          "competence_id": "ARCH-2-02"
+        },
+        {
+          "verb_de": "vornehmen",
+          "verb_en": "make",
+          "competence_id": "PERS-4-03"
+        },
+        {
+          "verb_de": "nutzen",
+          "verb_en": "use",
+          "competence_id": "APPL-2-02"
+        },
+        {
+          "verb_de": "bewerten",
+          "verb_en": "evaluate",
+          "competence_id": "QUAL-3-01"
+        },
+        {
+          "verb_de": "bewerten / auswählen",
+          "verb_en": "evaluate / select",
+          "competence_id": "ANLY-4-01"
+        },
+        {
+          "verb_de": "reflektieren",
+          "verb_en": "reflect",
+          "competence_id": "PERS-4-04"
+        },
+        {
+          "verb_de": "begründen",
+          "verb_en": "justify",
+          "competence_id": "ANLY-2-02"
+        },
+        {
+          "verb_de": "austauschen",
+          "verb_en": "exchange",
+          "competence_id": "COMM-3-01"
+        },
+        {
+          "verb_de": "präsentieren",
+          "verb_en": "present",
+          "competence_id": "COMM-2-01"
+        },
+        {
+          "verb_de": "aufbauen",
+          "verb_en": "build",
+          "competence_id": "TEAM-4-01"
+        },
+        {
+          "verb_de": "planen / durchführen",
+          "verb_en": "plan / execute",
+          "competence_id": "PROJ-4-01"
+        },
+        {
+          "verb_de": "verbinden",
+          "verb_en": "connect",
+          "competence_id": "PROJ-4-02"
+        },
+        {
+          "verb_de": "erkennen / verbessern",
+          "verb_en": "identify / improve",
+          "competence_id": "PERS-4-01"
+        },
+        {
+          "verb_de": "umgehen / weitergeben",
+          "verb_en": "handle / share",
+          "competence_id": "PERS-4-06"
+        },
+        {
+          "verb_de": "mitwirken",
+          "verb_en": "contribute",
+          "competence_id": "TEAM-2-01"
+        },
+        {
+          "verb_de": "handeln",
+          "verb_en": "act",
+          "competence_id": "TEAM-2-02"
+        },
+        {
+          "verb_de": "durchführen / entwickeln",
+          "verb_en": "execute / develop",
+          "competence_id": "PROG-4-01"
+        },
+        {
+          "verb_de": "einsetzen",
+          "verb_en": "use",
+          "competence_id": "PROG-2-02"
+        }
+      ],
+      "esco_skills_aggregated": [
+        {
+          "uri": "http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e",
+          "label": "Oversee development of software",
+          "score": 83.54
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/0b8da079-f587-403f-a6ad-cd18b8150044",
+          "label": "Gather technical information",
+          "score": 84.1
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17",
+          "label": "Analyse business requirements",
+          "score": 85.77
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/7a8fb784-67fa-41e9-a75c-6b491d91f800",
+          "label": "Develop strategy to solve problems",
+          "score": 70.35
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7",
+          "label": "Apply scientific methods",
+          "score": 80.36
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a",
+          "label": "Solve technical problems",
+          "score": 83.29
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba",
+          "label": "Create software design",
+          "score": 82.05
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041",
+          "label": "Create solutions to problems",
+          "score": 81.15
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/d4cc5022-7801-4885-bcff-166552788d35",
+          "label": "Provide improvement strategies",
+          "score": 84.76
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/7e5147d1-60b1-4a68-804b-1f5cb0396b91",
+          "label": "Problem-solving with digital tools",
+          "score": 85.66
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/2b34a99f-9813-4c91-9509-b6b9b8c3132e",
+          "label": "Collaborate through digital technologies",
+          "score": 84.6
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/9d1b08b3-ba1e-41f6-a466-1ac1e62eb5f0",
+          "label": "Conduct ict code review",
+          "score": 87.62
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1",
+          "label": "Plan software testing",
+          "score": 83.84
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/60097ce1-0f58-417b-b9c2-053d96300d49",
+          "label": "Conduct evaluation of quality standards",
+          "score": 83.17
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425",
+          "label": "Optimise choice of ict solution",
+          "score": 83.32
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/409a0245-0e6c-4aac-ba16-0920ecb76a8d",
+          "label": "Exercise self-reflection",
+          "score": 81.02
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/bad0f996-a299-4631-a7d8-104185b2ef22",
+          "label": "Engage in debates",
+          "score": 81.62
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/20a8fe89-d4eb-4698-8521-8881c13377e0",
+          "label": "Interact professionally in research and professional environments",
+          "score": 81.08
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/609a8ac1-9d29-4237-9886-596dbbe7ca8a",
+          "label": "Address an audience",
+          "score": 84.51
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb",
+          "label": "Present reports",
+          "score": 82.62
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/dffed0c4-0de5-437c-90d6-a1619eacc05e",
+          "label": "Speak about your work in public",
+          "score": 82.01
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b19e0820-a96f-4c0a-a724-3c056180c1b3",
+          "label": "Build team spirit",
+          "score": 84.45
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0",
+          "label": "Work in teams",
+          "score": 82.11
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/8c6feedd-339f-4dba-b28a-dae84c759853",
+          "label": "Develop project schedule",
+          "score": 85.64
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/ab20726a-14dd-4536-9aa1-6166bc1a5832",
+          "label": "Evaluate cost of software products",
+          "score": 85.52
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388",
+          "label": "Project management",
+          "score": 84.13
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612",
+          "label": "Manage personal professional development",
+          "score": 84.61
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/c29aa9d2-4da8-4bdd-831c-8d4a2fb51730",
+          "label": "Work independently",
+          "score": 84.0
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b9bb1f03-15e2-4079-943e-7e483b21725b",
+          "label": "Give constructive feedback",
+          "score": 87.96
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/08e2ff26-88ff-47b5-9d37-d19ace01b075",
+          "label": "Manage feedback",
+          "score": 87.07
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d",
+          "label": "Carry out project activities",
+          "score": 80.87
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/75e48971-3242-4ea5-a1ba-4deec48ad41c",
+          "label": "Manage teamwork",
+          "score": 78.95
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c",
+          "label": "Cooperate with colleagues",
+          "score": 81.56
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/4539aeca-b56f-4d03-ba86-8f675a7f2536",
+          "label": "Develop solutions to information issues",
+          "score": 86.09
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f",
+          "label": "Tools for software configuration management",
+          "score": 82.07
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/925463a7-d51f-4d5b-9f79-4d28cf30acde",
+          "label": "Integrated development environment software",
+          "score": 81.88
+        },
+        {
+          "uri": "http://data.europa.eu/esco/skill/b080a008-a35d-4bd0-92e9-edf3773bb2b7",
+          "label": "Use communication and collaboration software",
+          "score": 81.71
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Balzert, H.: Lehrbuch der Softwaretechnik: Entwurf, Implementierung, Installation und Betrieb, Spektrum akademischer Verlag",
+    "Balzert, H.: Lehrbuch der Softwaretechnik: Softwaremanagement, Spektrum akademischer Verlag",
+    "Rupp, C.: Requirements-Engineering und -Management: Aus der Praxis von klassisch bis agil, Carl Hanser Verlag GmbH & Co. KG",
+    "Sommerville, I.: Software Engineering, Pearson Studium",
+    "Fowler, M.: Refactoring: Improving the Design of Existing Code, Addison-Wesley"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie kennen die Methoden und unterstützenden Technologien der jeweiligen Projektphasen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the methods and supporting technologies of the relevant project phases."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e27d7211-2ed5-5122-9148-98b0213c4acf",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwareentwicklungsprozess kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing the software development process"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die Grundlagen des Softwareerstellungsprozesses."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the fundamentals of the software creation process."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können ihre Entwürfe und Lösungen begründen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Justify their designs and solutions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eine vorgegebene Problemstellung analysieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse a given problem statement."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Lösungsvorschläge für ein gegebenes Problem konkurrierend bewerten und auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate and select competing solution proposals for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e92b3be4-b941-54ca-9a00-f307e1fd0892",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Ausgaben bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI output"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können KI-generierten Code mit einer eigenen Lösung vergleichen und anhand definierter Qualitätskriterien bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate AI-generated code against a human-authored solution using defined quality criteria."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a769c664-efb1-5a88-b328-47988a24673d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Werkzeuge nutzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können Tools für die Zusammenarbeit und Problemlösung nutzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use tools for collaboration and problem-solving."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können KI-gestützte Werkzeuge einsetzen, um Softwarelösungen für definierte Problemstellungen zu generieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI-assisted tools to generate software solutions for defined problems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ab117158-9be8-519f-894f-487b18d27e9f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können eine rechnergestützte Lösung entwerfen und umsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design and implement a computer-based solution."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können für konkrete Problemstellungen angemessene Methoden auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate methods for concrete problem statements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können angemessene Methoden auf konkrete Problemstellungen anwenden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply appropriate methods to concrete problem statements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5a24900e-ea3f-5027-b7d4-d42622ef22e6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Entwicklungswerkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using development tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie wenden Versionsverwaltung und Continuous Integration in der Projektarbeit an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply version control and continuous integration in project work."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c46a1786-dcb1-52d4-b883-9fce84dcfafd",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können eine rechnergestützte Lösung entwerfen und umsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design and implement a computer-based solution."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "9c5d641b-632b-5ea8-93df-a7e8036f230c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Coderichtlinien anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying coding guidelines"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Codequalität bewerten, Coderichtlinien anwenden und Software durch Reviewing sowie Testplanung qualitätssichern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate code quality, apply coding guidelines, and assure software quality through reviewing and test planning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a7a8a769-dd61-578f-a12c-07cca38d38b1",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Codequalität bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating code quality"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Codequalität bewerten, Coderichtlinien anwenden und Software durch Reviewing sowie Testplanung qualitätssichern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate code quality, apply coding guidelines, and assure software quality through reviewing and test planning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "da29e6b9-34df-51d6-aa7b-19ac4acdfc41",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Reviews und Tests durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Conducting reviews and testing"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Codequalität bewerten, Coderichtlinien anwenden und Software durch Reviewing sowie Testplanung qualitätssichern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate code quality, apply coding guidelines, and assure software quality through reviewing and test planning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können ihre Entwürfe und Lösungen mündlich und schriftlich präsentieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present designs and solutions orally and in writing."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b776cbb9-1a6d-5d85-87b5-aceeb11ff76d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit Fachvertretungen austauschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchanging views with experts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können sich mit Fachvertretungen über Problemanalysen und Lösungsvorschläge austauschen und sich in der Diskussion kritisch mit verschiedenen Sichtweisen auseinandersetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchange views with domain experts on problem analyses and solution proposals, and critically engage with different perspectives in discussion."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8d6326fa-d953-5d75-a890-137e4d48063c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sichtweisen kritisch analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing perspectives critically"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können sich mit Fachvertretungen über Problemanalysen und Lösungsvorschläge austauschen und sich in der Diskussion kritisch mit verschiedenen Sichtweisen auseinandersetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchange views with domain experts on problem analyses and solution proposals, and critically engage with different perspectives in discussion."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5428916-2483-5012-9f15-b85a3f2809e7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Feedback geben und empfangen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Giving and receiving feedback"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können mit Konflikten umgehen, konstruktives Feedback geben und Fähigkeiten weitergeben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Handle conflicts constructively, give feedback, and share expertise."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "85949121-421d-52e5-bc82-39e06f55bfa8",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Wissen weitergeben"
+        },
+        {
+          "language": "en-GB",
+          "value": "Sharing expertise"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können mit Konflikten umgehen, konstruktives Feedback geben und Fähigkeiten weitergeben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Handle conflicts constructively, give feedback, and share expertise."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können sich selbstständig in Werkzeuge einarbeiten und ihre eigenen Stärken und Schwächen erkennen und verbessern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently learn new tools and identify and improve personal strengths and weaknesses."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f6448666-59a9-52ec-a521-3d31c11750e3",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Stärken und Schwächen erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Identifying strengths and weaknesses"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können sich selbstständig in Werkzeuge einarbeiten und ihre eigenen Stärken und Schwächen erkennen und verbessern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently learn new tools and identify and improve personal strengths and weaknesses."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "07536764-100f-5c30-ae46-08345852c139",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Anpassungen vornehmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Making adjustments"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können korrigierende Anpassungen an Lösungsvorschlägen vornehmen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Make corrective adjustments to solution proposals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ebc23c5f-1339-512b-8ba3-a1069bc8bd13",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kritisch reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting critically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können Lösungsvorschläge kritisch reflektieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on solution proposals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "91f6ca43-f068-5d04-96fe-86f0ee5a4912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konflikte lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Resolving conflicts"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können mit Konflikten umgehen, konstruktives Feedback geben und Fähigkeiten weitergeben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Handle conflicts constructively, give feedback, and share expertise."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "af7ec807-9ca0-5312-b77f-049ae64d6ede",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-07"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sich gezielt verbessern"
+        },
+        {
+          "language": "en-GB",
+          "value": "Improving purposefully"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können sich selbstständig in Werkzeuge einarbeiten und ihre eigenen Stärken und Schwächen erkennen und verbessern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently learn new tools and identify and improve personal strengths and weaknesses."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "071b798e-e0e9-5bf4-b289-2aef344002bf",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-08"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Verbesserungen ableiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Deriving improvements"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können Lösungsvorschläge kritisch reflektieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on solution proposals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a1764775-3e89-5f8b-a64d-74a9b137d627",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-09"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Nutzung reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI use"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren kritisch den angemessenen Einsatz von KI-Werkzeugen in der eigenen Softwareentwicklungspraxis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on the appropriate use of AI tools in one's own professional software development practice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden führen ein konkretes Softwareentwicklungsprojekt in Projektteams mittlerer Größe durch und liefern ein lauffähiges Softwareprodukt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Execute a concrete software development project in a medium-sized project team and deliver a working software product."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "6f1d34a7-30dc-565b-8f48-6fc1af9c9a0c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Executing projects"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können interdisziplinäre Fähigkeiten verbinden und beachten dabei Zeit- und Kostenfaktoren im Projekt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Connect interdisciplinary skills and take time and cost factors into account in the project."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "0880ad8e-7912-517f-a4bc-852bd53e3bb6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte planen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Planning projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können interdisziplinäre Fähigkeiten verbinden und beachten dabei Zeit- und Kostenfaktoren im Projekt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Connect interdisciplinary skills and take time and cost factors into account in the project."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a72fe9b2-7017-52ff-91fe-6f146901955a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Disziplinen verbinden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Connecting disciplines"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können den Softwareentwicklungsprozess mit Techniken des Projektmanagements verbinden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Connect the software development process with project management techniques."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können bei komplexen Projekten effektiv in einem Team mitwirken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Effectively contribute to complex projects as a team member."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3be3446c-d572-520e-92c5-02f231b5165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teamorientiert handeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Acting team-orientedly"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie handeln dabei teamorientiert."
+        },
+        {
+          "language": "en-GB",
+          "value": "Act in a team-oriented manner."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "133fe314-aa2c-59eb-b456-b897ab3b68ee",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenarbeit fördern"
+        },
+        {
+          "language": "en-GB",
+          "value": "Fostering collaboration"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können Teams aufbauen und weiterentwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Build and develop teams."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b4f5ac88-15ef-58d2-b54f-a9ed935e2bb2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teams aufbauen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Building teams"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Sie können Teams aufbauen und weiterentwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Build and develop teams."
+        }
+      ]
+    }
+  ]
+}

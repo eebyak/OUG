@@ -1,0 +1,248 @@
+{
+  "id": "2bf81ce9-ff45-5e6f-9b3f-2b8d62259444",
+  "code": "T4_3000",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Praxisprojekt III — Arbeit integriertes Projekt III"
+    },
+    {
+      "language": "en-GB",
+      "value": "Work Integrated Project III"
+    }
+  ],
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Erfassen industrieller Problemstellungen in breitem Kontext und umfassender Komplexität. Tiefgehendes Verständnis organisatorischer und inhaltlicher Zusammenhänge, Strukturen, Produkte und Prozesse des dualen Partners. Beitrag zur Verbesserung technischer und organisatorischer Prozesse. Entwicklung von Lösungsideen auf Basis von Theorie und Praxis."
+    },
+    {
+      "language": "en-GB",
+      "value": "Capture of industrial problem statements in broad context and comprehensive complexity. Deep understanding of organisational and content-related interdependencies, structures, products, and processes of the dual partner. Contribution to the improvement of technical and organisational processes. Development of solution ideas based on theory and practice."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 8
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 240
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 4
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P6M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Hausarbeit (Bestanden/Nicht-Bestanden) + Bericht zum Ablauf und zur Reflexion des Praxismoduls (Bestanden/Nicht-Bestanden)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Home assignment (pass/fail) + process and reflection report on the practical module (pass/fail)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Work Integrated Learning / Praxisprojekte",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 240,
+      "contact": 4,
+      "selfStudy": 236,
+      "note": "Self-study = work-based learning at dual partner enterprise."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 5,
+      "type_distribution": {
+        "Fachkompetenz": 1,
+        "Methodenkompetenz": 2,
+        "Personale und Soziale Kompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L3": 1,
+        "L4": 4
+      },
+      "bloom_average": 3.8,
+      "competence_domains": [
+        "ANLY",
+        "METH",
+        "PERS",
+        "PROJ",
+        "RSCH"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Praxisprojekte are work-integrated learning modules — the 'teaching' happens at the dual partner enterprise. LOs are therefore competence anchors that describe what graduates can demonstrate after the work phase, not learning activities during a lecture.",
+        "Progressive complexity: T4_1000 (Y1) — supervised, L1/L2 mostly, first professional identity formation. T4_2000 (Y2) — increasing independence, L2/L3, project management competence. T4_3000 (Y3) — near-independent, L3/L4, integration with academic research, preparation for Bachelorarbeit.",
+        "No AI entries by design: the Praxisprojekte are assessment vehicles for the full programme. AI competences are developed in substantive modules and demonstrated in practice."
+      ]
+    },
+    "newStudy": {
+      "stream": "Work Integrated Learning",
+      "year": 3
+    }
+  },
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erfassen industrielle Problemstellungen in breitem Kontext und umfassender Komplexität, besitzen ein tiefes Verständnis der Strukturen und Prozesse des dualen Partners und entwickeln eigenständig Ideen für Lösungsansätze auf Basis von Theorie und Praxis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Capture industrial problem statements in broad context and comprehensive complexity, possess deep understanding of the dual partner's structures and processes, and independently develop solution ideas based on theory and practice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen theoretisches Wissen aus dem Studium auf komplexe betriebliche Problemstellungen, wählen angemessene Methoden aus und beurteilen kritisch, welchen Beitrag theoretische Modelle zur Lösung leisten können."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer theoretical knowledge from their studies to complex operational problem statements, select appropriate methods, and critically assess what contribution theoretical models can make to the solution."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8db27732-0bef-5301-9421-99814ddd165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Wissenschaftlich arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working scientifically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden planen und erstellen eine wissenschaftliche Hausarbeit, die eine betriebliche Problemstellung des Studiengangs mit dem aktuellen Forschungsstand verknüpft, und dokumentieren Lösungsansätze wissenschaftlich korrekt und verständlich."
+        },
+        {
+          "language": "en-GB",
+          "value": "Plan and produce a scholarly home assignment that links an operational problem of the degree programme with the current state of research, and document solution approaches in a scientifically correct and comprehensible manner."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ebc23c5f-1339-512b-8ba3-a1069bc8bd13",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kritisch reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting critically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren ihre eigene berufliche Entwicklung kritisch, identifizieren Kompetenzen, die sie im Studium erworben und im Betrieb angewendet haben, und leiten daraus gezielte Weiterentwicklungsschritte für das Abschlussjahr ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on their own professional development, identify competences acquired in their studies and applied in the enterprise, and derive targeted development steps for their final year."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "0880ad8e-7912-517f-a4bc-852bd53e3bb6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte planen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Planning projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden steuern ihre Praxisphase als eigenständiges Projekt — mit Planung, Meilensteinen, Selbstmanagement und eigenverantwortlicher Abstimmung zwischen Hochschule und dualem Partner — und liefern die geforderten Prüfungsleistungen termingerecht."
+        },
+        {
+          "language": "en-GB",
+          "value": "Manage their practical phase as an independent project — with planning, milestones, self-management, and self-directed coordination between university and dual partner — and deliver the required assessment outputs on time."
+        }
+      ]
+    }
+  ]
+}

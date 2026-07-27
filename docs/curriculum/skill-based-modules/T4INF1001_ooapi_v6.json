@@ -1,0 +1,224 @@
+{
+  "id": "696d6500-20bc-5398-a4a3-1e411f9f22fe",
+  "code": "T4INF1001",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Mathematik I — Lineare Algebra"
+    },
+    {
+      "language": "en-GB",
+      "value": "Mathematics I — Linear Algebra"
+    }
+  ],
+  "abbreviation": "MATH1",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Grundlagen der diskreten Mathematik; grundlegende algebraische Strukturen; Vektorräume und lineare Abbildungen; Determinanten, Eigenwerte, Diagonalisierbarkeit; komplexe Zahlen; Anwendungsbeispiele aus Informatik und Ingenieurwissenschaften."
+    },
+    {
+      "language": "en-GB",
+      "value": "Foundations of discrete mathematics; fundamental algebraic structures; vector spaces and linear mappings; determinants, eigenvalues, diagonalisability; complex numbers; application examples from computer science and engineering."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 4,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 3,
+        "L4": 1
+      },
+      "bloom_average": 2.5,
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "MATH"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 1
+    }
+  },
+  "resources": [
+    "Beutelspacher, A. (2019). Lineare Algebra. Springer.",
+    "Fischer, G. (2020). Lineare Algebra. Springer.",
+    "Hachenberger, D., & Jungnickel, D. (2018). Mathematik für Informatiker. Pearson.",
+    "Hartmann, P. (2019). Mathematik für Informatiker. Springer.",
+    "Teschl, G., & Teschl, S. (2013). Mathematik für Informatiker: Band 1. Springer."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "638b1bb2-e7e5-5a62-a1fc-9110c294ae2c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mathematische Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying mathematical methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden mathematische Methoden der diskreten Mathematik und linearen Algebra auf informatikbezogene Problemstellungen an — darunter Mengenoperationen, Relationen, Vektorräume, lineare Abbildungen und Matrizenrechnung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply mathematical methods of discrete mathematics and linear algebra to computer-science-related problem statements — including set operations, relations, vector spaces, linear mappings, and matrix arithmetic."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "57e1a982-4642-58bd-8fdb-ce730a5da792",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Formale Methoden beherrschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Mastering formal methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beherrschen formale Methoden der diskreten Mathematik und linearen Algebra — einschließlich algebraischer Strukturen, Determinanten, Eigenwerten und Diagonalisierbarkeit — und nutzen diese zur präzisen Modellierung mathematischer Sachverhalte."
+        },
+        {
+          "language": "en-GB",
+          "value": "Master formal methods of discrete mathematics and linear algebra — including algebraic structures, determinants, eigenvalues, and diagonalisability — and use these to precisely model mathematical subject matter."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "04136f3d-2f8a-5e8d-84e4-a5f5de19b558",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding concepts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen grundlegende Konzepte der diskreten Mathematik und linearen Algebra, erklären Zusammenhänge zwischen mathematischen Strukturen und übertragen diese auf technische und informatikbezogene Anwendungskontexte."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand foundational concepts of discrete mathematics and linear algebra, explain relationships between mathematical structures, and transfer these to technical and computer-science-related application contexts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "dde02358-13dd-5840-b751-fd2975eaf7c4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte auf Probleme übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring concepts to problems"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen mathematische Konzepte der linearen Algebra — insbesondere Matrizenrechnung, Vektorraumstrukturen und Eigenwertanalyse — auf praktische Probleme aus Informatik und Ingenieurwissenschaften und entwickeln damit systematische Lösungsansätze."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer mathematical concepts of linear algebra — particularly matrix arithmetic, vector space structures, and eigenvalue analysis — to practical problems in computer science and engineering, and use these to develop systematic solution approaches."
+        }
+      ]
+    }
+  ]
+}

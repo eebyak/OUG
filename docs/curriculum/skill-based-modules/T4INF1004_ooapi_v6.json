@@ -1,0 +1,607 @@
+{
+  "id": "424885ef-438a-5629-babb-21b211b097ff",
+  "code": "T4INF1004",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Programmieren"
+    },
+    {
+      "language": "en-GB",
+      "value": "Programming"
+    }
+  ],
+  "abbreviation": "PROG",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Kenntnisse in prozeduraler Programmierung: Algorithmenbeschreibung, Datentypen, E/A-Operationen, Kontrollstrukturen, Funktionen, Stringverarbeitung, strukturierte und dynamische Datentypen, Zeiger, Speicherverwaltung. Kenntnisse in objektorientierter Programmierung: OOP-Entwurf, Klassenkonzept, Vererbung, Polymorphismus, Templates/Generics, Klassenbibliotheken, Garbage Collection."
+    },
+    {
+      "language": "en-GB",
+      "value": "Procedural programming: algorithm description, data types, I/O, control structures, functions, string processing, structured and dynamic data types, pointers, memory management. Object-oriented programming: OOP design, class concept, inheritance, polymorphism, templates/generics, class libraries, garbage collection."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 84
+    }
+  ],
+  "level": " bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Entwurf (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Design project (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Programming & Software Construction",
+    "x-dhbw-stream-id": "23e0f61b-cddd-5045-8a58-3e2b3f195088",
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 84,
+      "selfStudy": 66,
+      "note": "Includes up to 24h guided self-study (exercises, labs, projects)."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v6.json",
+      "codebook_version": "6.0",
+      "processing_date": "2026-04-09",
+      "total_competences": 19,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 12,
+        "Personale und Soziale Kompetenz": 4,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 13,
+        "L3": 3,
+        "L4": 1
+      },
+      "competence_domains": [
+        "ALGO",
+        "ANLY",
+        "APPL",
+        "ARCH",
+        "COMM",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG",
+        "QUAL"
+      ],
+      "ai_related_count": 2,
+      "human_skill_self_count": 2,
+      "human_skill_social_count": 0,
+      "standing_policies": [
+        "ALGO L1 entries → Fachkompetenz (knowledge of algorithm families)",
+        "ALGO L2+ entries → Methodenkompetenz (selecting/applying algorithms is methodological)",
+        "Two module sentences may map to same canonical ID when object of cognitive act differs (e.g. ANLY-3-01 for code analysis and problem analysis; QUAL-2-01 for testing and debugging)",
+        "Debugging = quality verification act → QUAL domain, not APPL"
+      ],
+      "ai_related_entries": [
+        "APPL-2-04",
+        "PERS-2-05"
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Programming & Software Construction",
+      "year": 1,
+      "note": "Foundation module covering procedural and OOP. Entry point for AI tool use (APPL-2-04) and AI agency (PERS-2-05) at L2."
+    }
+  },
+  "resources": [
+    "Günster: Einführung in Java, Rheinwerk Computing",
+    "Habelitz: Programmieren lernen mit Java, Rheinwerk Computing",
+    "Kerninghan, B.W./Richie, D.M.: Programmieren in C, Hanser",
+    "McConnell: Code Complete, Microsoft Press",
+    "Ullenboom: Java ist auch eine Insel, Rheinwerk Computing"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "f85a3525-f883-5bf4-bda6-8d99a27b39fe",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundlegende Konzepte kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing foundational concepts"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die Grundelemente der prozeduralen und der objektorientierten Programmierung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the fundamental elements of procedural and object-oriented programming."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die Syntax und Semantik der verwendeten Programmiersprachen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the syntax and semantics of the programming languages used."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2a3d3d0b-c0bf-5c7c-bd8f-251a9114a3a0",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Datenstrukturen einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying data structures"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine Problemstellung passende Datenstrukturen auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate data structures for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "6073b93d-b58c-5e1b-8018-b0167ff258b5",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Programmierparadigmen anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying programming paradigms"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können passende Datenstrukturen für eine Problemstellung implementieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement appropriate data structures for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ab117158-9be8-519f-894f-487b18d27e9f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ein Programmdesign für eine gegebene Aufgabenstellung selbstständig entwerfen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently design a program structure for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c46a1786-dcb1-52d4-b883-9fce84dcfafd",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihr Programmdesign in einer Programmiersprache codieren und umsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement their program design in a programming language."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fc910d26-e430-5283-9475-003daa4daca7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software testen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Testing software"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihr Programm systematisch auf Funktionsfähigkeit testen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Test their program systematically for correct functionality."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen verschiedene Strukturierungsmöglichkeiten ein, um einfache Programme selbstständig zu erstellen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply various structuring approaches to independently create simple programs."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a769c664-efb1-5a88-b328-47988a24673d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Werkzeuge nutzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eine Entwicklungsumgebung zur Erstellung und Strukturierung von Programmen verwenden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use a development environment to create and structure programs."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können existierenden Code analysieren und seine Struktur und Logik nachvollziehen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse existing code to understand its structure and logic."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a7a8a769-dd61-578f-a12c-07cca38d38b1",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Codequalität bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating code quality"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können existierenden Code hinsichtlich Qualität und Korrektheit beurteilen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate existing code with respect to quality and correctness."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen KI-gestützte Werkzeuge zur Problemlösung und Softwareentwicklung ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI-assisted tools for problem-solving and software development."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b776cbb9-1a6d-5d85-87b5-aceeb11ff76d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit Fachvertretungen austauschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchanging views with experts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihren Programmentwurf und die Codierung im Team diskutieren, begründen und gemeinsam weiterentwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Discuss, justify, and collaboratively develop program designs and implementations within a team."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihren Programmentwurf fachlich begründen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Justify their program design decisions with technical reasoning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue Entwicklungsumgebungen und Werkzeuge einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently learn and orient themselves in new development environments and tools."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1a32ac19-a339-5495-8ec1-f3241e7ec202",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Eigenständig über KI-Einsatz entscheiden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Making independent decisions about AI use"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden treffen begründete, eigenständige Entscheidungen darüber, wann und wie sie KI-Werkzeuge beim Programmieren einsetzen — und wann nicht."
+        },
+        {
+          "language": "en-GB",
+          "value": "Make reasoned, independent decisions about when and how to use AI tools in programming — and when not to."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig ein Programm für eine gegebene Problemstellung entwerfen, implementieren und testen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently design, implement, and test a program solving a real-world problem."
+        }
+      ]
+    }
+  ]
+}

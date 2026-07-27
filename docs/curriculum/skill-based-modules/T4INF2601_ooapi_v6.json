@@ -1,0 +1,650 @@
+{
+  "id": "a9f3b8d5-58fc-512f-87d6-57a93558fe52",
+  "code": "T4INF2601",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Data Science"
+    },
+    {
+      "language": "en-GB",
+      "value": "Data Science"
+    }
+  ],
+  "abbreviation": "DS",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 (Grundlagen Data Science): Einsatz von Tools; Datenerhebung und -aufbereitung; Exploratory Data Analysis; Datenvisualisierung; statistische Inferenz; Regressionsmodelle; grundlegende ML-Algorithmen und Data Mining; ethische Fragestellungen und Datenabhängigkeit; Explainable AI. Unit 2 (Maschinelles Lernen): Einführung ML; symbolische Lernverfahren; Grundlagen neuronaler Netze; probabilistische Lernmodelle; Deep Learning; Entwurf und Implementierung ausgewählter Techniken."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 (Data Science Foundations): Tools; data collection and preprocessing; exploratory data analysis; visualisation; statistical inference; regression models; fundamental ML algorithms and data mining; ethical issues and data dependency; Explainable AI. Unit 2 (Machine Learning): Introduction to ML; symbolic learning; neural network foundations; probabilistic models; deep learning; design and implementation of selected techniques."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "units": {
+        "DS": {
+          "name": "Grundlagen von Data Science",
+          "contact": 30,
+          "selfStudy": 45
+        },
+        "ML": {
+          "name": "Maschinelles Lernen",
+          "contact": 30,
+          "selfStudy": 45
+        }
+      }
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v7.json",
+      "codebook_version": "7.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 18,
+      "type_distribution": {
+        "Fachkompetenz": 5,
+        "Methodenkompetenz": 8,
+        "Personale und Soziale Kompetenz": 3,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 3,
+        "L2": 11,
+        "L3": 2,
+        "L4": 2
+      },
+      "unit_distribution": {
+        "DS": 11,
+        "ML": 7
+      },
+      "competence_domains": [
+        "ALGO",
+        "ANLY",
+        "APPL",
+        "COMM",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG"
+      ],
+      "ai_related_count": 8,
+      "human_skill_self_count": 3,
+      "human_skill_social_count": 2,
+      "standing_policies": [
+        "ANLY-4-01 at L4 in ML unit — students choose and justify architecture for implementation project. L4 evaluation appropriate in Year 2 ML context.",
+        "ETHI-3-01 in Methodenkompetenz — analysis of societal consequences = L3 analytical method. Rescued from Pers S2 compound.",
+        "Überg S2 'Ergebnisse vorstellen' dropped — covered by COMM-2-04 in Pers; adding third Überg entry redundant.",
+        "All three Überg source sentences replaced — S1 too vague, S2 misplaced, S3 → METH-3-01.",
+        "Fach S2 specialisation areas (Data Mining, IoT, Semantic Web) dropped — outdated; ML is now the focus.",
+        "Meth S1 'methodische Kenntnisse' misclassification fixed — knowledge part → Fach; application part → Meth.",
+        "Bishop (2006) dropped — replaced with Raschka et al. (2022) as modern practical ML reference."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 2,
+      "note": "Richest AI layer in the stream (8 AI entries). Unit 1 covers DS foundations + ethics. Unit 2 covers ML stack + evaluation + implementation. ANLY-4-01 at L4 marks the first deep evaluation competence in the stream."
+    }
+  },
+  "resources": [
+    "[Unit_DataScience_Foundations] Géron, A.: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd ed., 2022), O'Reilly",
+    "[Unit_DataScience_Foundations] VanderPlas, J.: Python Data Science Handbook (2022), O'Reilly [also free online: jakevdp.github.io]",
+    "[Unit_DataScience_Foundations] Kelleher, J.D. / Tierney, B.: Data Science (2018), MIT Press",
+    "[Unit_DataScience_Foundations] Mittelstadt, B. et al.: The Ethics of Algorithms, Big Data & Society (2016)",
+    "[Unit_MachineLearning] Goodfellow, I. / Bengio, Y. / Courville, A.: Deep Learning (2016), MIT Press [free online: deeplearningbook.org]",
+    "[Unit_MachineLearning] LeCun, Y. / Bengio, Y. / Hinton, G.: Deep Learning, Nature 521 (2015), pp. 436–444",
+    "[Unit_MachineLearning] Raschka, S. / Liu, Y. / Mirjalili, V.: Machine Learning with PyTorch and Scikit-Learn (2022), Packt"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "f85a3525-f883-5bf4-bda6-8d99a27b39fe",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundlegende Konzepte kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing foundational concepts"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Methoden und Techniken des Themenfelds Data Science."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know fundamental methods and techniques in the field of data science."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a1299930-166d-5fcf-91da-5c2d8982301f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundprinzipien von KI-Systemen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing the foundational principles of AI systems"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Konzepte aktueller ML-Algorithmen — einschließlich überwachter und unüberwachter Lernverfahren — sowie deren Möglichkeiten und Grenzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know fundamental concepts of current ML algorithms — including supervised and unsupervised learning — and their capabilities and limitations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die wesentlichen Schritte der Datenaufbereitung und -analyse: Datenerhebung, Bereinigung, explorative Analyse und Visualisierung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the key steps of data preparation and analysis: data collection, cleaning, exploratory analysis, and visualisation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fb6772e7-d3d7-57c0-bef3-40fb93477a48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Funktionsweise und Grenzen von KI-Modellen erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining how AI models work and where they fail"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können erklären, wie ML-Modelle trainiert werden, wie sie Vorhersagen treffen und unter welchen Bedingungen sie versagen oder fehlerhafte Ausgaben produzieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain how ML models are trained, how they make predictions, and under what conditions they fail or produce erroneous output."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f232aa5f-c3e7-519a-974e-077523a87c44",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Optimierungsverfahren für ML-Training anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying optimisation methods to ML training"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können grundlegende Optimierungsverfahren — einschließlich Gradientenabstieg — auf ML-Trainingsprozesse anwenden und deren Konvergenzverhalten erklären."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply fundamental optimisation methods — including gradient descent — to ML training processes and explain their convergence behaviour."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Datenanalyseproblemstellung geeignete Methoden und Werkzeuge auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate methods and tools for a given data analysis problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a769c664-efb1-5a88-b328-47988a24673d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Werkzeuge nutzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können geeignete Tools und Programmiersprachen für Datenerhebung, -aufbereitung und -analyse einsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use appropriate tools and programming languages for data collection, preprocessing, and analysis."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können statistische Methoden — einschließlich Inferenz und Regressionsmodelle — auf Datensätze anwenden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply statistical methods — including inference and regression models — to datasets."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f1d7f7ff-bec6-55e3-946e-4d2c48218703",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Bias und Fairness erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising AI bias and fairness issues"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden ethische Kriterien an, um Bias, Fairness und Datenabhängigkeit in ML-Modellen zu erkennen und zu benennen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply ethical criteria to recognise and name bias, fairness issues, and data dependency in ML models."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d4c60703-6ed4-5efa-8a19-12059082b954",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Auswirkungen auf Gesellschaft analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI's societal effects"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren gesellschaftliche und wirtschaftliche Folgen des Einsatzes von Data-Science-Methoden und KI-Systemen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the societal and economic consequences of applying data science methods and AI systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können verschiedene ML-Modellarchitekturen hinsichtlich ihrer Möglichkeiten, Grenzen und Eignung für eine gegebene Aufgabenstellung bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate different ML model architectures with respect to their possibilities, limitations, and suitability for a given task."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c46a1786-dcb1-52d4-b883-9fce84dcfafd",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ausgewählte ML-Techniken für eine Anwendungsaufgabe entwerfen und implementieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design and implement selected ML techniques for an application task."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen KI-gestützte Werkzeuge und Bibliotheken zur Entwicklung und Evaluation von ML-Modellen ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI-assisted tools and libraries for the development and evaluation of ML models."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "40a7c774-6aa4-5e1a-a092-b59a0b1ccb3e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Inhalte beschreiben"
+        },
+        {
+          "language": "en-GB",
+          "value": "Describing content"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können zielorientiert mit Fachanwender*innen über Anwendungsfälle, Möglichkeiten und Grenzen von Data Science und KI-Systemen kommunizieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicate in a goal-oriented way with domain users about use cases, possibilities, and limitations of data science and AI systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue Data-Science-Methoden, Bibliotheken und Werkzeuge einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently orient themselves in new data science methods, libraries, and tools."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1a32ac19-a339-5495-8ec1-f3241e7ec202",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Eigenständig über KI-Einsatz entscheiden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Making independent decisions about AI use"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden treffen begründete, eigenständige Entscheidungen darüber, wann und wie KI-gestützte Methoden eingesetzt werden sollen — und wann nicht."
+        },
+        {
+          "language": "en-GB",
+          "value": "Make reasoned, independent decisions about when and how AI-assisted methods should be used — and when not."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Data-Science-Methoden und ML-Verfahren auf reale fachliche Problemstellungen aus verschiedenen Domänen anwenden und transferieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply and transfer data science methods and ML techniques to real-world problems from different domains."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig oder im Team eine ML-Anwendung für eine gegebene Aufgabenstellung konzipieren, implementieren und evaluieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently or as a team, design, implement, and evaluate an ML application for a given task."
+        }
+      ]
+    }
+  ]
+}

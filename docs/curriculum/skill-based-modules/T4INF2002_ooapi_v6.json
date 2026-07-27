@@ -1,0 +1,225 @@
+{
+  "id": "5191abcf-2425-5acb-aa9e-cd452b0be3e5",
+  "code": "T4INF2002",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Theoretische Informatik III — Formale Sprachen und Compilerbau"
+    },
+    {
+      "language": "en-GB",
+      "value": "Theoretical Computer Science III — Formal Languages and Compiler Construction"
+    }
+  ],
+  "abbreviation": "TI3",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Formale Sprachen und Automaten: Grammatiken, Chomsky-Hierarchie (Typ 0-3), reguläre Sprachen und endliche Automaten, kontextfreie Sprachen und Kellerautomaten, Zusammenhang Turingmaschine und Entscheidbarkeit. Compilerbau: Lexikalische Analyse (Scanner), syntaktische Analyse (Parser Top-Down/Bottom-Up), syntaxgesteuerte Übersetzung, semantische Analyse."
+    },
+    {
+      "language": "en-GB",
+      "value": "Formal languages and automata: grammars, Chomsky hierarchy (types 0–3), regular languages and finite automata, context-free languages and pushdown automata, connection between Turing machines and decidability. Compiler construction: lexical analysis (scanner), syntactic analysis (parser top-down/bottom-up), syntax-directed translation, semantic analysis."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 6
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 180
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 180,
+      "contact": 72,
+      "selfStudy": 108
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 4,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 1,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 2,
+        "L3": 1,
+        "L4": 1
+      },
+      "bloom_average": 2.75,
+      "competence_domains": [
+        "ANLY",
+        "ARCH",
+        "METH",
+        "THEO"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 2
+    }
+  },
+  "resources": [
+    "Hopcroft, J. E., Motwani, R., & Ullmann, J. D. (2003). Einführung in die Automatentheorie, Formale Sprachen und Komplexitätstheorie. Pearson.",
+    "Aho, A. V., Lam, M. S., Sethi, R., & Ullmann, J. D. (2006). Compilers: Principles, Techniques, and Tools (2nd ed.). Addison-Wesley.",
+    "Hedtstück, U. (2018). Einführung in die theoretische Informatik. Oldenbourg.",
+    "Levine, J. R., Mason, T., & Brown, D. (1992). lex & yacc. O'Reilly."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "d7572751-7a88-572e-817b-efc5030cdaad",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "THEO-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Formale Sprachen konstruieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Constructing formal languages"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden spezifizieren formale Sprachen mit regulären Ausdrücken, Grammatiken und Automaten (Chomsky-Hierarchie Typ 0–3) und konstruieren korrekte Erkennungsautomaten und Parser für definierte Sprach- und Anwendungsklassen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Specify formal languages using regular expressions, grammars, and automata (Chomsky hierarchy types 0–3), and construct correct recognition automata and parsers for defined language and application classes."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ede8969e-4fd9-58cc-82b0-93d0828f4f88",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sachverhalte modellieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Modelling subject matter"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden modellieren Anwendungen durch formale Sprachbeschreibungen und geeignete Automatenmodelle, ordnen Sprachen in die Chomsky-Hierarchie ein und stellen die Modellierung in geeigneten Diagrammen und Beschreibungsformen dar."
+        },
+        {
+          "language": "en-GB",
+          "value": "Model applications through formal language descriptions and appropriate automata models, classify languages in the Chomsky hierarchy, and represent the modelling in appropriate diagrams and description forms."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden formale Methoden der Compilertechnik an — Lexikalische Analyse, Syntaxanalyse (Top-Down/Bottom-Up), syntaxgesteuerte Übersetzung und semantische Analyse — und konstruieren Compiler-Werkzeuge für einfache Anwendungsfälle."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply formal methods of compiler technology — lexical analysis, syntactic analysis (top-down/bottom-up), syntax-directed translation, and semantic analysis — and construct compiler tools for simple application cases."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren in einer gegebenen Anwendung die formale Sprache, bestimmen deren Chomsky-Typ, erkennen Grenzen der Berechenbarkeit und wählen geeignete formale Methoden für die praktische Umsetzung aus."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the formal language in a given application, determine its Chomsky type, identify limits of computability, and select appropriate formal methods for practical implementation."
+        }
+      ]
+    }
+  ]
+}

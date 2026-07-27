@@ -1,0 +1,193 @@
+{
+  "id": "ee5730ff-7b0a-5353-ac1b-ccaaa1d10719",
+  "code": "T4INF1007",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Mathematik II — Analysis"
+    },
+    {
+      "language": "en-GB",
+      "value": "Mathematics II — Analysis"
+    }
+  ],
+  "abbreviation": "MATH2",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Analysis: Folgen und Reihen; Stetigkeit; Differentialrechnung einer reellen Veränderlichen; Integralrechnung einer reellen Veränderlichen; Anwendungen in Informatik und Ingenieurwissenschaften; erste Umsetzung von Mathematikalgorithmen in Programme."
+    },
+    {
+      "language": "en-GB",
+      "value": "Analysis: sequences and series; continuity; differential calculus of one real variable; integral calculus of one real variable; applications in computer science and engineering; first implementation of mathematical algorithms as programmes."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Mathematical & Theoretical Foundations",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 3,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 3
+      },
+      "bloom_average": 2.0,
+      "competence_domains": [
+        "ANLY",
+        "MATH"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Foundations modules carry fewer LOs than other streams by design. The MATH and THEO codebook entries each represent a large body of content. Minimal LO count is not a sign of reduced importance — it is a sign of high abstraction and transferability.",
+        "Connection to Programme section added to each handbook: a bilingual paragraph showing how this module's content underpins specific competences in other streams. This section is informational for students and instructors — not a teaching prescription.",
+        "No AI-related LOs in MATH I/II and TI I: these modules are pre-AI infrastructure. Their connection to AI is real but indirect — it is made explicit in the bridge paragraph, not in the LO map."
+      ]
+    },
+    "newStudy": {
+      "stream": "Mathematical & Theoretical Foundations",
+      "year": 1
+    }
+  },
+  "resources": [
+    "Forster, O., & Lindemann, F. (2016). Analysis 1. Springer.",
+    "Estep, D. (2004). Angewandte Analysis in einer Unbekannten. Springer.",
+    "Hartmann, P. (2019). Mathematik für Informatiker. Springer.",
+    "Hachenberger, D., & Jungnickel, D. (2018). Mathematik für Informatiker. Pearson.",
+    "Teschl, G., & Teschl, S. (2014). Mathematik für Informatiker: Band 2. Springer."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "638b1bb2-e7e5-5a62-a1fc-9110c294ae2c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mathematische Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying mathematical methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden mathematische Methoden der Analysis an — darunter Folgen und Reihen, Differential- und Integralrechnung einer reellen Veränderlichen — zur Beschreibung technisch-naturwissenschaftlicher Vorgänge aus der Informatik und den Ingenieurwissenschaften."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply mathematical methods of analysis — including sequences and series, differential and integral calculus of one real variable — to describe technical and scientific processes in computer science and engineering."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "57e1a982-4642-58bd-8fdb-ce730a5da792",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "MATH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Formale Methoden beherrschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Mastering formal methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beherrschen formale Methoden der Analysis und nutzen Algorithmen der Mathematik, die sie in lauffähige Programme umsetzen — ein erster Schritt zur Verbindung von mathematischer Theorie und rechnergestützter Umsetzung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Master formal methods of analysis and apply mathematical algorithms which they translate into executable programmes — a first step connecting mathematical theory with computational implementation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "04136f3d-2f8a-5e8d-84e4-a5f5de19b558",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding concepts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen aktuelle mathematische Konzepte der Analysis und übertragen deren Methoden auf naturwissenschaftlich-technische Problemstellungen — insbesondere Differenzial- und Integralrechnung als Werkzeuge der Modellierung und Optimierung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand current mathematical concepts of analysis and transfer their methods to scientific-technical problem statements — particularly differential and integral calculus as tools for modelling and optimisation."
+        }
+      ]
+    }
+  ]
+}

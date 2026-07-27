@@ -1,0 +1,461 @@
+{
+  "id": "32c1e45d-1ca7-594e-ad8c-905a61ec3972",
+  "code": "T4INF1005",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Schlüsselqualifikationen"
+    },
+    {
+      "language": "en-GB",
+      "value": "Key Skills"
+    }
+  ],
+  "abbreviation": "SQ",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 — Betriebswirtschaftslehre: Grundlagen der BWL (Ziele, Planung, Rechtsformen), Bilanzierung und Kostenrechnung, Finanzierung und Investition, ganzheitliches Unternehmensplanspiel. Unit 2 — Wissenschaftliches Arbeiten: Quellenrecherche und -bewertung, inhaltliche und formale Aspekte wissenschaftlichen Arbeitens, technische und wissenschaftliche Dokumenttypen, Erstellung von Kurzberichten (DE/EN), exemplarische Projektdokumentation. Unit 3 — Vortrag, Lern- und Arbeitstechniken: Vortragstechniken und Visualisierung, Lern- und Arbeitstechniken, verantwortungsvoller Umgang mit KI-Werkzeugen in akademischen Arbeiten, Reflexion eigener Lernstrategien, professionelles Selbstverständnis."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 — Business Management: foundations of business management (goals, planning, legal forms), accounting and cost accounting, financing and investment, holistic business simulation. Unit 2 — Academic Writing: literature research and evaluation, substantive and formal aspects of scholarly work, technical and academic document types, producing short reports (DE/EN), exemplary project documentation. Unit 3 — Presentation, Learning and Working Techniques: presentation techniques and visualisation, learning and working techniques, responsible use of AI tools in academic work, reflection on own learning strategies, professional self-concept."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung mit Klausur (unter 50%) (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment with written examination (below 50%) (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Research, Professional & Societal Practice",
+    "x-dhbw-stream-id": "f81739c3-8379-5b3a-8136-7731116861e9",
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 72,
+      "selfStudy": 78,
+      "note": "3 selected units from T4INF1005. Unit 1: BWL (24h contact). Unit 2: Wissenschaftliches Arbeiten (24h contact). Unit 3: Vortrag, Lern- und Arbeitstechniken / Schlüsselqualifikationen (24h contact). Note: Ethik & Recht and Projektmanagement 2 units are not included — these competences are covered in other modules (T4INF4324, T4INF2003)."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 11,
+      "type_distribution": {
+        "Fachkompetenz": 1,
+        "Methodenkompetenz": 5,
+        "Personale und Soziale Kompetenz": 4,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 8,
+        "L4": 2
+      },
+      "bloom_average": 2.27,
+      "competence_domains": [
+        "ANLY",
+        "COMM",
+        "KNOW",
+        "PERS",
+        "RSCH"
+      ],
+      "ai_related_count": 1,
+      "unit_distribution": {
+        "U1": 3,
+        "U2": 3,
+        "U3": 5
+      },
+      "meta_skill_count": 1,
+      "standing_policies": [
+        "Only 3 of 5 T4INF1005 units are included: BWL (U1), Wissenschaftliches Arbeiten (U2), Vortrag/Lern/Arbeitstechniken (U3). Ethik & Recht is covered prominently in T4INF4324 (Recht unit) and T4INF4348 (Integrationsseminar). Projektmanagement 2 is covered in T4INF2003 (SE I).",
+        "RSCH-2-02 (AI in academic work, L2, Pers U3): Year 1 is the first point of contact with academic writing — and with AI tools for essays and reports. Placing AI academic integrity here ensures early formation, not retrofitting.",
+        "PERS-4-14 (meta-skill: adapting learning strategies, L4, Pers U3): 'Lern- und Arbeitstechniken' is the most natural placement in the entire programme — the unit is explicitly about learning how to learn. The transition from Gymnasium to Hochschule is a paradigm shift that demands exactly this metacognitive awareness.",
+        "PERS-4-02 (taking responsibility, L4, Überg U3): Placed as the capstone Übergreifend entry — the module as a whole is about developing professional accountability. L4 is justified because this is a deep personal commitment, not a surface skill.",
+        "Bloom profile: all L2 except two L4 entries (PERS-4-14 meta-skill, PERS-4-02 professional identity). This is appropriate for Year 1 — the L4 entries reflect aspirational anchors for the full programme journey, not immediate mastery."
+      ]
+    },
+    "newStudy": {
+      "stream": "Research, Professional & Societal Practice",
+      "year": 1,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Betriebswirtschaftslehre",
+          "title_en": "Business Management",
+          "contact_h": 24,
+          "self_study_h": 26,
+          "lo_count": 3
+        },
+        {
+          "id": "U2",
+          "title_de": "Wissenschaftliches Arbeiten",
+          "title_en": "Academic Writing & Research",
+          "contact_h": 24,
+          "self_study_h": 26,
+          "lo_count": 3
+        },
+        {
+          "id": "U3",
+          "title_de": "Vortrag, Lern- und Arbeitstechniken",
+          "title_en": "Presentation, Learning & Working Techniques",
+          "contact_h": 24,
+          "self_study_h": 26,
+          "lo_count": 5
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Härdler, J.: Betriebswirtschaftslehre für Ingenieure. Lehr- und Praxisbuch. Hanser.",
+    "Steven, M.: BWL für Ingenieure. Oldenbourg.",
+    "Kornmeier, M. (2018). Wissenschaftlich schreiben leicht gemacht: Für Bachelor, Master und Dissertation. UTB.",
+    "Theissen, M. R. (2021). Wissenschaftliches Arbeiten: Erfolgreich bei Bachelor- und Masterarbeit. Vahlen.",
+    "Fisher, R., Ury, W., & Patton, B. (2011). Getting to Yes. Penguin.",
+    "Hofstede, G.: Cultures and Organizations. McGraw-Hill.",
+    "Gibson, R.: Intercultural Business Communication. Cornelsen/Oxford."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende betriebswirtschaftliche Konzepte — einschließlich Ziele und Planung, Rechtsformen, Bilanzierung, Kostenrechnung sowie Finanzierung und Investition — und verstehen deren Bedeutung für informatiknahe Tätigkeitsbereiche."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know foundational business management concepts — including goals and planning, legal forms, accounting, cost accounting, and financing and investment — and understand their relevance to computer-science-related fields of work."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "04136f3d-2f8a-5e8d-84e4-a5f5de19b558",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding concepts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen aktuelle betriebswirtschaftliche Methoden und Konzepte, erklären Zusammenhänge zwischen Unternehmensbereichen und wenden ihr Verständnis in einem ganzheitlichen Unternehmensplanspiel an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand current business management methods and concepts, explain interdependencies between business areas, and apply their understanding in a holistic business simulation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "68acaf2c-6aa1-518a-9930-95f0c3007a61",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining relationships"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erklären betriebswirtschaftliche Zusammenhänge — darunter Kostenstrukturen, Finanzierungsmodelle und strategische Zielsetzungen — verständlich und kontextgerecht."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain business management interdependencies — including cost structures, financing models, and strategic goals — clearly and in a context-appropriate manner."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "55f51ce6-3aad-5a3c-95ac-d94c117be18a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Literatur recherchieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Researching literature"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden recherchieren aktuelle wissenschaftliche und technische Literatur, bewerten Quellen hinsichtlich ihrer wissenschaftlichen Qualität und Relevanz und nutzen Ergebnisse für ihre eigene Arbeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Research current scientific and technical literature, evaluate sources with respect to their scholarly quality and relevance, and use findings in their own work."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e2527de9-2283-52d1-9f12-855deea2a0a6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachlich kommunizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicating professionally"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kommunizieren auf akademischem Niveau: Sie erstellen englische und deutsche Kurzberichte, verfassen technische Dokumentationen und diskutieren Inhalte sachlich und präzise."
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicate at academic level: produce English and German short reports, write technical documentation, and discuss content factually and precisely."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ca52837b-e6e0-504e-a53b-a2834d8ee52b",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Arbeit dokumentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Documenting work"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden dokumentieren ihre Arbeit vollständig, nachvollziehbar und nach akademischen Standards — einschließlich korrekter Quellenangaben, strukturierter Darstellung und formaler Anforderungen wissenschaftlicher Dokumente."
+        },
+        {
+          "language": "en-GB",
+          "value": "Document their work completely, traceably, and according to academic standards — including correct citation, structured presentation, and formal requirements of scholarly documents."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden präsentieren Inhalte und Ergebnisse mündlich und schriftlich vor einer Gruppe — unter Einsatz geeigneter Vortragstechniken, Visualisierungen und Moderationsmethoden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present content and results orally and in writing to a group — using appropriate presentation techniques, visualisations, and facilitation methods."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "40a7c774-6aa4-5e1a-a092-b59a0b1ccb3e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Inhalte beschreiben"
+        },
+        {
+          "language": "en-GB",
+          "value": "Describing content"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erklären und beschreiben technische Sachverhalte und Zusammenhänge anhand von Beispielen so, dass Inhalte für unterschiedliche Zielgruppen verständlich werden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain and describe technical facts and interdependencies using examples so that content becomes accessible to different target audiences."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "51095acc-f159-5b0e-90b7-514a3dc240e5",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI in der wissenschaftlichen Arbeit verantwortungsvoll einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI responsibly in academic work"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden nutzen KI-Werkzeuge verantwortungsvoll in akademischen Arbeiten — unter Beachtung von Autorenschaft, Transparenzpflichten und wissenschaftlichen Integritätsstandards."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI tools responsibly in academic work — observing standards of authorship, transparency obligations, and scholarly integrity."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "49deb903-88fd-5881-b24e-13d18d78c67e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-14"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lernstrategien reflektieren und anpassen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on and adapting learning strategies"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren ihre eigenen Lernprozesse, identifizieren ineffektive Strategien und passen ihre Lern- und Arbeitsweise an neue Anforderungen und Kontexte an — insbesondere beim Übergang von schulischen zu hochschulischen Lern- und Arbeitsmethoden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on their own learning processes, identify ineffective strategies, and adapt their learning and working approach to new requirements and contexts — particularly at the transition from school to higher-education learning and working methods."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "47979d10-cc79-57fd-a8f0-95b0f58873c8",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Verantwortung übernehmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Taking responsibility"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen Verantwortung für ihre eigene Lern- und Arbeitsergebnisse, handeln mit Verlässlichkeit und Rechenschaftsbewusstsein und entwickeln ein professionelles Selbstverständnis als angehende Informatikerinnen und Informatiker."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take responsibility for their own learning and work results, act with reliability and accountability, and develop a professional sense of identity as future computer scientists."
+        }
+      ]
+    }
+  ]
+}

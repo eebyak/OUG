@@ -1,0 +1,520 @@
+{
+  "id": "a8439514-68b8-5f52-98d9-ac7bc0585d5d",
+  "code": "T4INF3915",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Technologie Seminar Angewandte Künstliche Intelligenz"
+    },
+    {
+      "language": "en-GB",
+      "value": "Technology Seminar Applied Artificial Intelligence"
+    }
+  ],
+  "abbreviation": "AppAI",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Erarbeitung, Präsentation und Diskussion fortgeschrittener Lernverfahren und symbolischer Verfahren der Künstlichen Intelligenz: Lernverfahren und Datenvorbereitung (CNN, Autoencoder, PCA); Ensemble Learning (Random Forest); rekursive Netze und Reinforcement Learning; Machine Learning auf Zeitreihen (RNN, LSTM); Methoden, Bibliotheken und Tools; Trainingsoptimierung und Regularisierung; Transfer Learning; Transformer-Architektur. Eigenständige Literaturrecherche, experimentelle Erprobung und Ausarbeitung einer wissenschaftlichen Hausarbeit."
+    },
+    {
+      "language": "en-GB",
+      "value": "Independent study, presentation, and discussion of advanced learning methods and symbolic AI: learning methods and data preparation (CNN, Autoencoder, PCA); ensemble learning (Random Forest); recurrent networks and reinforcement learning; ML on time series (RNN, LSTM); methods, libraries, and tools; training optimisation and regularisation; transfer learning; transformer architecture. Independent literature review, experimental work, and completion of a scientific written assignment (Hausarbeit)."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Hausarbeit (wissenschaftliche Ausarbeitung, Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written assignment — Hausarbeit (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 15,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 7,
+        "Personale und Soziale Kompetenz": 3,
+        "Übergreifende Handlungskompetenz": 3
+      },
+      "bloom_distribution": {
+        "L2": 4,
+        "L3": 3,
+        "L4": 8
+      },
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "ARCH",
+        "COMM",
+        "KNOW",
+        "METH",
+        "PERS",
+        "RSCH"
+      ],
+      "ai_related_count": 13,
+      "human_skill_self_count": 3,
+      "human_skill_social_count": 1,
+      "standing_policies": [
+        "Methodenkompetenz was entirely absent in source — the most significant gap in the stream. Five entries added: METH-2-01, RSCH-4-01, RSCH-4-02, ANLY-4-03, APPL-2-04. All core to the Hausarbeit process.",
+        "RSCH-4-01 appears twice — distinct objects: (1) Meth: conducting the literature review (component act); (2) Überg: delivering the complete Hausarbeit (integration act). Valid per two-sentence policy.",
+        "Pers S1 and partial Pers S2 reallocated to Meth — research methodology belongs in Methodenkompetenz not Personale.",
+        "10 AI entries — appropriate for the Applied AI Seminar. Every activity in this module is AI-related. Covers technical, evaluation (×4), application, agency, cognitive ai_domain values.",
+        "Bloom distribution L2:4 · L3:1 · L4:7 — intentional for a seminar. L3 subsumed into L4 activities (cannot evaluate without analysing). L2 for tool use; L4 for independent research and reflective deliverables.",
+        "ANLY-4-04 (cognitive AI reflection, L4) in Personale — only achievable after extensive AI research experience. Year 3 seminar is the right context; no earlier module in the stream could support this claim honestly.",
+        "Literature includes Eco (2015) on scientific writing — directly relevant to the Hausarbeit assessment. Unusual for a CS module but pedagogically justified.",
+        "v10 amendment: Three new AI-related entries added. ARCH-3-02 (RAG pipelines, L3, Meth): extends existing KNOW-2-02 embeddings content; RAG is now the dominant architecture for applied LLM systems. ANLY-4-05 (hallucination evaluation, L4, Meth): extends ANLY-4-03 to LLM-specific factual correctness and hallucination detection. METH-3-02 (ML pipeline orchestration, L3, Überg): placed in Übergreifende Handlungskompetenz as a cross-cutting integration act — MLOps is the operational bridge between research experiments (RSCH-4-02) and the Hausarbeit deliverable. AI entry count: 10 → 13."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 3,
+      "note": "Deepest AI literacy layer in the programme. 10 of 12 LOs are AI-related. Covers all Little-AI domains and two Big-AI domains (agency, cognitive). Completes the AI literacy thread that runs through the entire stream."
+    }
+  },
+  "resources": [
+    "Goodfellow, I. / Bengio, Y. / Courville, A.: Deep Learning (2016), MIT Press [free: deeplearningbook.org]",
+    "Vaswani, A. et al.: Attention Is All You Need, NeurIPS (2017) [free online]",
+    "LeCun, Y. / Bengio, Y. / Hinton, G.: Deep Learning, Nature 521 (2015) [free online]",
+    "Hochreiter, S. / Schmidhuber, J.: Long Short-Term Memory, Neural Computation 9(8) (1997)",
+    "Eco, U.: How to Write a Thesis (2015), MIT Press",
+    "APA Publication Manual (7th ed., 2020), American Psychological Association"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "fb6772e7-d3d7-57c0-bef3-40fb93477a48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Funktionsweise und Grenzen von KI-Modellen erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining how AI models work and where they fail"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ausgewählte fortgeschrittene KI-Architekturen — einschließlich tiefer Netze, rekursiver Netze, Transformer und symbolischer Verfahren — erklären und deren Funktionsweise beschreiben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain selected advanced AI architectures — including deep networks, recurrent networks, transformers, and symbolic methods — and describe how they function."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können verschiedene fortgeschrittene KI-Verfahren hinsichtlich ihrer Eignung, Möglichkeiten und Grenzen für eine gegebene Anwendungsaufgabe bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate different advanced AI methods with respect to their suitability, possibilities, and limitations for a given application task."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Forschungsfrage oder Anwendungsaufgabe geeignete KI-Methoden, Bibliotheken und Werkzeuge auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate AI methods, libraries, and tools for a given research question or application task."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8db27732-0bef-5301-9421-99814ddd165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Wissenschaftlich arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working scientifically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eine eigenständige wissenschaftliche Literaturrecherche zu einem fortgeschrittenen KI-Thema durchführen, relevante Quellen kritisch bewerten und die Ergebnisse synthetisieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Conduct an independent scientific literature review on an advanced AI topic, critically evaluate relevant sources, and synthesise findings."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d36354b0-a255-55d0-a5e8-cc84b1b38cd9",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Systeme als Forschungsgegenstand bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI systems as research objects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Experimente oder praktische Erprobungen für ein gewähltes KI-Thema planen, durchführen und die Ergebnisse anhand geeigneter Metriken evaluieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Plan and conduct experiments or practical trials for a chosen AI topic and evaluate results using appropriate metrics."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e92b3be4-b941-54ca-9a00-f307e1fd0892",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Ausgaben bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI output"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können KI-generierte Ergebnisse und Modellausgaben anhand definierter Qualitätskriterien bewerten und mit eigenen Ansätzen oder Baselines vergleichen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate AI-generated results and model outputs against defined quality criteria and compare them with own approaches or baselines."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen KI-Bibliotheken und -Frameworks zur Implementierung und Erprobung ausgewählter Verfahren ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI libraries and frameworks to implement and trial selected methods."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Ergebnisse ihrer KI-Forschungsarbeit vor einem Fachpublikum präsentieren und Fragen kompetent beantworten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present results of their AI research work to a specialist audience and competently answer questions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a1764775-3e89-5f8b-a64d-74a9b137d627",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-09"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Nutzung reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI use"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren kritisch den angemessenen Einsatz von KI-Werkzeugen in ihrer eigenen Forschungs- und Entwicklungsarbeit und leiten Konsequenzen für ihre berufliche Praxis ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on the appropriate use of AI tools in their own research and development work and derive consequences for professional practice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a79d3c22-053d-5a80-ab70-ad1572d72237",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kognitive Veränderungen durch KI im Analyseprozess reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI's cognitive effects in analytical processes"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren, wie der Einsatz von KI-Werkzeugen ihren eigenen Analyseprozess und ihr wissenschaftliches Urteilsvermögen beeinflusst, und entwickeln Strategien zur Wahrung analytischer Unabhängigkeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on how the use of AI tools influences their own analytical process and scientific judgement and develop strategies to preserve analytical independence."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können erworbenes Wissen zu fortgeschrittenen KI-Methoden auf aktuelle Situationen der betrieblichen Praxis und auf neue Anwendungsdomänen übertragen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer acquired knowledge of advanced AI methods to current situations in professional practice and to new application domains."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7d9b13b1-0bd1-5fa5-8c59-99f41a26da61",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Retrieval‑Augmented Generation (RAG) Pipelines entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing Retrieval‑Augmented Generation (RAG) pipelines"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen Retrieval-Augmented Generation (RAG)-Pipelines, die externe Wissensquellen mit Sprachmodellen verbinden, und evaluieren deren Eignung für eine gegebene Anwendungsaufgabe."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design Retrieval-Augmented Generation (RAG) pipelines that connect external knowledge sources with language models, and evaluate their suitability for a given application task."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "36c3b62b-4f54-5b96-b785-f01249edbf2e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Faktische Konsistenz von LLM‑Ausgaben evaluieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating factual consistency of LLM outputs"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren die faktische Korrektheit und Zuverlässigkeit von LLM-Ausgaben systematisch anhand definierter Kriterien und entwickeln Strategien zur Erkennung und Reduktion von Halluzinationen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Systematically evaluate the factual correctness and reliability of LLM outputs against defined criteria and develop strategies for detecting and reducing hallucinations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "69048eb4-e752-5ea8-a8ff-f8397e74a023",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "ML‑Workflows orchestrieren und Experimente verfolgen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Orchestrating ML workflows and tracking experiments"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden orchestrieren ML-Workflows mit geeigneten Frameworks, verfolgen Experimente systematisch und automatisieren Trainings-, Evaluations- und Deployment-Prozesse — und integrieren diese Kompetenz in die eigenständige Ausarbeitung ihrer Hausarbeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Orchestrate ML workflows using appropriate frameworks, track experiments systematically, and automate training, evaluation, and deployment processes — integrating this competence into the independent production of their Hausarbeit."
+        }
+      ]
+    }
+  ]
+}

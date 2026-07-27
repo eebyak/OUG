@@ -1,0 +1,277 @@
+{
+  "id": "6e9685fb-4bdc-5f2a-8619-36ea1632814c",
+  "code": "T4_1000",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Praxisprojekt I — Arbeit integriertes Projekt I"
+    },
+    {
+      "language": "en-GB",
+      "value": "Work Integrated Project I"
+    }
+  ],
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Anfertigung der Projektarbeit I über eine praktische Problemstellung mit deutlichem Bezug zu den studiengangsspezifischen theoretischen Studieninhalten. Vermittlung von praktischen Inhalten unter Orientierung an den relevanten Studieninhalten. Einführung in Leitlinien des wissenschaftlichen Arbeitens, Themenwahl und -findung, Aufbau einer Projektarbeit, Literatursuche und -bewertung."
+    },
+    {
+      "language": "en-GB",
+      "value": "Completion of Project Assignment I on a practical problem with clear reference to programme-specific theoretical study content. Development of practical skills oriented towards relevant course content. Introduction to scholarly writing guidelines, topic selection, structure of a project assignment, literature search and evaluation."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 20
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 600
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 4
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P6M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Projektarbeit (Bestanden/Nicht-Bestanden) + Ablauf- und Reflexionsbericht (Bestanden/Nicht-Bestanden)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Project work (pass/fail) + process and reflection report (pass/fail)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Work Integrated Learning / Praxisprojekte",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 600,
+      "contact": 4,
+      "selfStudy": 596,
+      "note": "Self-study = work-based learning at dual partner enterprise."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 6,
+      "type_distribution": {
+        "Fachkompetenz": 1,
+        "Methodenkompetenz": 2,
+        "Personale und Soziale Kompetenz": 2,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 2,
+        "L3": 1,
+        "L4": 2
+      },
+      "bloom_average": 2.67,
+      "competence_domains": [
+        "ANLY",
+        "KNOW",
+        "PERS",
+        "RSCH"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Praxisprojekte are work-integrated learning modules — the 'teaching' happens at the dual partner enterprise. LOs are therefore competence anchors that describe what graduates can demonstrate after the work phase, not learning activities during a lecture.",
+        "Progressive complexity: T4_1000 (Y1) — supervised, L1/L2 mostly, first professional identity formation. T4_2000 (Y2) — increasing independence, L2/L3, project management competence. T4_3000 (Y3) — near-independent, L3/L4, integration with academic research, preparation for Bachelorarbeit.",
+        "No AI entries by design: the Praxisprojekte are assessment vehicles for the full programme. AI competences are developed in substantive modules and demonstrated in practice."
+      ]
+    },
+    "newStudy": {
+      "stream": "Work Integrated Learning",
+      "year": 1
+    }
+  },
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende industrielle Problemstellungen in ihrem Studiengang-Kontext, beschreiben die relevanten technischen und organisatorischen Prozesse des dualen Partners und erläutern fachbezogene Zusammenhänge."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know fundamental industrial problem statements in their degree programme context, describe relevant technical and organisational processes of the dual partner, and explain subject-specific interdependencies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden lösen praktische Problemstellungen ihres Studiengangs unter Anleitung, wählen angemessene Methoden aus und setzen ihr theoretisches Wissen in berufspraktischen Situationen ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Solve practical problem statements from their degree programme under guidance, select appropriate methods, and apply their theoretical knowledge in professional practice situations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "55f51ce6-3aad-5a3c-95ac-d94c117be18a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Literatur recherchieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Researching literature"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden recherchieren wissenschaftliche Literatur für die Projektarbeit, wählen relevante Quellen aus und dokumentieren ihre Arbeit nach akademischen Standards — einschließlich korrekter Zitierweise und Literaturverzeichnis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Research scientific literature for the project assignment, select relevant sources, and document their work according to academic standards — including correct citation and bibliography."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f6448666-59a9-52ec-a521-3d31c11750e3",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Stärken und Schwächen erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Identifying strengths and weaknesses"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen ihre eigenen Stärken und Schwächen, setzen ihre Stärken bewusst für den reibungslosen Ablauf von industriellen Prozessen ein und lernen aus praktischen Erfahrungen im dualen Unternehmen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise their own strengths and weaknesses, deliberately apply their strengths for the smooth running of industrial processes, and learn from practical experiences in the dual enterprise."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "47979d10-cc79-57fd-a8f0-95b0f58873c8",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Verantwortung übernehmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Taking responsibility"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen erste Verantwortung für die ihnen übertragenen Aufgaben, identifizieren sich mit diesen und integrieren und unterstützen durch ihr Verhalten die gemeinsame Zielerreichung im Team."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take initial responsibility for the tasks assigned to them, identify with these tasks, and through their behaviour integrate and support the shared achievement of team goals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren kritisch, welche Einflussfaktoren zur Lösung einer praktischen Problemstellung beachtet werden müssen, und beurteilen, inwiefern theoretische Modelle aus dem Studium einen Beitrag zur Lösung leisten können."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically analyse which influencing factors must be considered for solving a practical problem statement, and assess to what extent theoretical models from their studies can contribute to the solution."
+        }
+      ]
+    }
+  ]
+}

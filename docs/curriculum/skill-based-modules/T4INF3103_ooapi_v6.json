@@ -1,0 +1,619 @@
+{
+  "id": "0203bf47-17eb-5408-b907-15821ef5232c",
+  "code": "T4INF3103",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Datenbanksysteme II"
+    },
+    {
+      "language": "en-GB",
+      "value": "Database Systems II"
+    }
+  ],
+  "abbreviation": "DBS2",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 (Aktuelle Datenbankarchitekturen und -technologien): Einführung in Data Warehouse und Business Intelligence; DWH-Architektur; multidimensionales Datenmodell; physische Umsetzung; Daten-Integrationsprozess und ETL; DB-Technologie für Data Warehouse; NoSQL-Paradigmen; Anforderungen von KI-Systemen an Dateninfrastrukturen. Unit 2 (Labor Aktuelle Datenbanktechnologien): Praktische Anwendung der Inhalte aus Unit 1 — Datenbankmodellierung, Implementierung einer Data-Warehouse-Lösung, Einbeziehung von Fachexperten, Präsentation und Reflexion der Ergebnisse."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 (Current Database Architectures and Technologies): Introduction to data warehouse and business intelligence; DWH architecture; multidimensional data model; physical implementation; data integration process and ETL; DB technology for data warehouse; NoSQL paradigms; requirements of AI systems on data infrastructure. Unit 2 (Database Technology Lab): Practical application of Unit 1 content — data modelling, implementation of a data warehouse solution, involving domain experts, presentation and reflection of results."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur oder Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written exam or combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "units": {
+        "U1": {
+          "name": "Aktuelle Datenbankarchitekturen und -technologien",
+          "contact": 30,
+          "selfStudy": 45
+        },
+        "U2": {
+          "name": "Labor Aktuelle Datenbanktechnologien",
+          "contact": 30,
+          "selfStudy": 45
+        }
+      }
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 19,
+      "type_distribution": {
+        "Fachkompetenz": 6,
+        "Methodenkompetenz": 6,
+        "Personale und Soziale Kompetenz": 2,
+        "Übergreifende Handlungskompetenz": 5
+      },
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 9,
+        "L3": 5,
+        "L4": 3
+      },
+      "unit_distribution": {
+        "U1": 14,
+        "U2": 5
+      },
+      "competence_domains": [
+        "ANLY",
+        "COMM",
+        "DATA",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG",
+        "TEAM"
+      ],
+      "ai_related_count": 1,
+      "human_skill_self_count": 1,
+      "human_skill_social_count": 3,
+      "standing_policies": [
+        "KNOW-2-01 appears 3 times — three distinct objects: (1) current DB technology landscape + trends; (2) DWH concepts + architecture + multidimensional model; (3) DBMS components + interdependencies. Valid per two-sentence policy (extended to three).",
+        "Unit split logic: U1 = know, understand, evaluate, select (conceptual/analytical). U2 = apply, transfer, involve experts, deliver, collaborate (practical/integration). Corrected from first draft: METH-2-02 (apply), METH-3-01 (transfer), COMM-2-06 (involve experts) moved to U2.",
+        "PERS-4-05 at L4 — Year 3 with 2+ years of DB background. Independent expert judgement well-earned.",
+        "ANLY-3-01 elevated from L2 (abgrenzen) to L3 — Year 3 expectation is analysis + justified recommendation, not just categorisation.",
+        "Übergreifend has 4 entries — U1: COMM-3-01 (stakeholder comms, cross-cutting); U2: METH-3-01 (transfer), PROG-4-01 (deliver), TEAM-2-01 (team). All genuine integration acts.",
+        "Same teacher for U1+U2 — intentional design: theory semester (U1) feeds directly into project semester (U2).",
+        "v10 amendment: Three N3 data engineering entries added. DATA-2-03 (dimensional modelling, L2, Meth U1): core DWH technique with no prior explicit LO. DATA-3-02 (DWH data quality + lineage, L3, Meth U1): distinct from T4INF2004 instance — DWH lineage tracking vs basic dataset quality metrics. Two-sentence policy applies. METH-3-03 (pipeline orchestration, L3, Überg U1): cross-cutting integration act bridging U1 theory to U2 lab; placed in Übergreifende Handlungskompetenz. DATA domain now active in both T4INF2004 and T4INF3103 with complementary coverage."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 3,
+      "note": "Two units with same teacher. U1=theory (DWH+NoSQL+architecture), U2=lab (apply+deliver). Unit split corrected: application and expert-collaboration LOs reassigned to U2 where they are actually enacted."
+    }
+  },
+  "resources": [
+    "Kimball, R. / Ross, M.: The Data Warehouse Toolkit (3rd ed., 2013), Wiley",
+    "Inmon, W.H.: Data Architecture: A Primer for the Data Scientist (2014), Morgan Kaufmann",
+    "Kleppmann, M.: Designing Data-Intensive Applications (2017), O'Reilly",
+    "Sadalage, P. / Fowler, M.: NoSQL Distilled (2012), Addison-Wesley",
+    "Stonebraker, M. / Çetintemel, U.: One Size Fits All: An Idea Whose Time Has Come and Gone (2005), IEEE ICDE [free online]"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "273794b2-fd64-5448-9b8f-4eab1c7e0824",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding interdependencies"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen den aktuellen Stand der Datenbanktechnologien, relevante Entwicklungstendenzen und aktuelle Herausforderungen im Bereich der Datenhaltung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the current state of database technologies, relevant development trends, and current challenges in data management."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen NoSQL-Datenbankparadigmen und deren Abgrenzung gegenüber relationalen Datenbanksystemen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know NoSQL database paradigms and their distinction from relational database systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e27d7211-2ed5-5122-9148-98b0213c4acf",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwareentwicklungsprozess kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing the software development process"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die wesentlichen Schritte des Daten-Integrationsprozesses und ETL-Verfahren im Kontext von Data Warehouses."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the essential steps of the data integration process and ETL procedures in the context of data warehouses."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fb6772e7-d3d7-57c0-bef3-40fb93477a48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Funktionsweise und Grenzen von KI-Modellen erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining how AI models work and where they fail"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können erläutern, welche Anforderungen moderne KI- und Analysesysteme an Data Warehouses und Dateninfrastrukturen stellen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain what requirements modern AI and analytics systems place on data warehouses and data infrastructure."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Anwendungsanforderung eine geeignete Datenbank- oder Data-Warehouse-Architektur auswählen und die Auswahl begründen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select an appropriate database or data warehouse architecture for a given application requirement and justify the selection."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können aktuelle Datenbanktechnologien und -architekturen hinsichtlich ihrer Vor- und Nachteile in Bezug auf konkrete Anwendungsziele bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate current database technologies and architectures with respect to their advantages and disadvantages in relation to concrete application goals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Anwendungsszenarien analysieren und geeignete Datenhaltungslösungen — relationale Datenbanken, Data Warehouses oder Big-Data-Technologien — voneinander abgrenzen und begründet empfehlen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse application scenarios and distinguish between — and make justified recommendations for — relational databases, data warehouses, or big data technologies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Methoden der Datenmodellierung auf die Prinzipien von Data Warehouse und relationalen Datenbanken anwenden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply data modelling methods to the principles of data warehouse and relational databases."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fbb3a82d-bb40-5947-afd9-136d5ffb122b",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Urteilsfähigkeit entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing critical judgement"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können aktuelle Konzepte der Datenbanktechnologie und Datenbankarchitektur auf Basis ihrer Fach- und Entscheidungskompetenz eigenständig einschätzen und bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently assess and evaluate current concepts in database technology and architecture based on their subject matter and decision-making competence."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b776cbb9-1a6d-5d85-87b5-aceeb11ff76d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit Fachvertretungen austauschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchanging views with experts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Expert*innen aus angrenzenden Fachbereichen und Anwendungsdomänen gezielt in Datenbankentscheidungen einbeziehen und Fachdiskussionen führen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Purposefully involve experts from adjacent fields and application domains in database decisions and conduct specialist discussions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8d6326fa-d953-5d75-a890-137e4d48063c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sichtweisen kritisch analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing perspectives critically"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Erfahrungen und Erkenntnisse im Bereich Datenbanktechnologien und Big Data für unterschiedliche Stakeholdergruppen verständlich aufbereiten und kritisch reflektieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Prepare and critically reflect on experiences and insights in database technologies and big data for different stakeholder groups."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können theoretische Konzepte aktueller Datenbankarchitekturen und Data-Warehouse-Lösungen auf praktische Anwendungsszenarien übertragen und umsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer and apply theoretical concepts of current database architectures and data warehouse solutions to practical application scenarios."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig oder im Team eine vollständige Data-Warehouse-Lösung oder ein Datenbankprojekt — von der Konzeption über die Modellierung bis zur Implementierung — planen, umsetzen und evaluieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently or as a team, plan, implement, and evaluate a complete data warehouse solution or database project — from conception through modelling to implementation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können in Teams an komplexen Datenbankprojekten zusammenarbeiten und Aufgaben und Verantwortlichkeiten sinnvoll aufteilen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Collaborate in teams on complex database projects and effectively distribute tasks and responsibilities."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7623c2a1-8b27-57fe-8b4d-c4702d93901b",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "DATA-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Dimensionale Modellierung anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying dimensional modelling"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden dimensionale Modellierungstechniken — einschließlich Sternschema, Schneeflockenschema und langsam verändernder Dimensionen — für den Data-Warehouse-Entwurf an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply dimensional modelling techniques — including star schema, snowflake schema, and slowly changing dimensions — for data warehouse design."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1cf4ead9-a283-5cea-88f4-a683b626b49a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "DATA-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Datenqualitätsmanagement und Data Lineage analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing data quality management and data lineage"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die Datenqualität in Data-Warehouse-Umgebungen, verfolgen Data Lineage zurück zu Quellsystemen und implementieren Validierungsregeln für ETL-Prozesse."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse data quality in data warehouse environments, trace data lineage back to source systems, and implement validation rules for ETL processes."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5f3a47fb-c8b8-5514-81a5-5c428d45c76a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Daten-Workflow-Orchestrierung einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using data workflow orchestration"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden orchestrieren Daten-Workflows für Data-Warehouse-Prozesse, automatisieren ETL/ELT-Schritte und überwachen die Ausführung auf Vollständigkeit und Fehler."
+        },
+        {
+          "language": "en-GB",
+          "value": "Orchestrate data workflows for data warehouse processes, automate ETL/ELT steps, and monitor execution for completeness and errors."
+        }
+      ]
+    }
+  ]
+}

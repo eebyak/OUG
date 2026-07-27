@@ -1,0 +1,593 @@
+{
+  "id": "c3c0a696-61e2-502d-9b27-6808e489593e",
+  "code": "T4INF1602",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Grundlagen Intelligente Systeme"
+    },
+    {
+      "language": "en-GB",
+      "value": "Foundation of Intelligent Systems"
+    }
+  ],
+  "abbreviation": "FoIS",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 (Algorithmen): Grundlegende Begriffe und Algorithmen für Intelligente Systeme; bionische Grundlagen; evolutionäre Algorithmen; Regressor und Klassifikator; Ausblick neuronale Netze. Unit 2 (Ethik & Recht): Grundlagen Ethik in der Informatik; Compliance; DSGVO; Strafrecht; zivilrechtliche Haftung; Urheberrecht; Patentrecht; gesellschaftliche Auswirkungen von KI-Systemen."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 (Algorithms): Fundamental concepts and algorithms for intelligent systems; bionic foundations; evolutionary algorithms; regressor and classifier; introduction to neural networks. Unit 2 (Ethics & Law): Foundations of ethics in CS; compliance; GDPR; criminal law; civil liability; copyright; patent law; societal effects of AI systems."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung (Entwurf + schriftliche Ausarbeitung, Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment — design project + written assignment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 72,
+      "selfStudy": 78,
+      "units": {
+        "Algo": {
+          "name": "Grundlegende Algorithmen und Verfahren",
+          "contact": 36,
+          "selfStudy": 39
+        },
+        "Ethics": {
+          "name": "Grundlagen Ethik und Recht",
+          "contact": 36,
+          "selfStudy": 39
+        }
+      }
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 17,
+      "type_distribution": {
+        "Fachkompetenz": 4,
+        "Methodenkompetenz": 8,
+        "Personale und Soziale Kompetenz": 3,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 4,
+        "L2": 9,
+        "L3": 3,
+        "L4": 1
+      },
+      "unit_distribution": {
+        "Algo": 9,
+        "Ethics": 7
+      },
+      "competence_domains": [
+        "APPL",
+        "ARCH",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG"
+      ],
+      "ai_related_count": 7,
+      "human_skill_self_count": 3,
+      "human_skill_social_count": 2,
+      "standing_policies": [
+        "Two KNOW-1-03 entries in Fachkompetenz — distinct module sentences with different objects (ethics concepts vs legal frameworks). Valid per two-sentence policy.",
+        "ETHI-4-02 placed at L3 for year-1 context (analyse social inequalities → derive initial consequences). More defensible than L4 at foundation level.",
+        "ETHI-3-01 in Methodenkompetenz at L3 — analysis of societal AI effects is a methodological act requiring analytical skill.",
+        "METH-3-01 in Übergreifend for Ethics unit — integrating legal/ethical theory into IS design practice = transfer act (L3).",
+        "Personale und Soziale Kompetenz was entirely absent in source — 3 entries added (PERS-2-04, PERS-2-05, ETHI-4-02).",
+        "GDPR/data-protection application folded into METH-2-02 — kept LO count lean, one cognitive act.",
+        "v10 amendment: APPL-2-05 (prompt engineering, L2) added to Methodenkompetenz. Prompt engineering is a fundamental practical skill for the AI foundations module — previously not explicit despite being a core applied AI competence. ai_domain: application. human_skill_tag: self (students must develop personal judgement about prompt quality and iteration strategy)."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 1,
+      "note": "Foundation module with two equal units. Algorithms unit: technical AI foundations + AI tool use. Ethics unit: ethical/legal framework + societal AI analysis. Entry point for AI literacy across the Data/AI stream."
+    }
+  },
+  "resources": [
+    "[Unit_Algorithms] Russell, S. / Norvig, P.: Artificial Intelligence — A Modern Approach (4th ed., 2020), Pearson",
+    "[Unit_Algorithms] Géron, A.: Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd ed., 2022), O'Reilly",
+    "[Unit_Algorithms] Mitchell, M.: Artificial Intelligence: A Guide for Thinking Humans (2019), Pelican",
+    "[Unit_Ethics_Law] European Parliament and Council: EU AI Act — Regulation (EU) 2024/1689 (2024)",
+    "[Unit_Ethics_Law] Zweig, K.: Ein Algorithmus hat kein Taktgefühl (2019), Heyne",
+    "[Unit_Ethics_Law] Mittelstadt, B. et al.: The Ethics of Algorithms, Big Data & Society (2016)",
+    "[Unit_Ethics_Law] Bundesdatenschutzbeauftragter: DSGVO Kurzpapiere (current), bfdi.bund.de",
+    "[Unit_Ethics_Law] Floridi, L. et al.: An Ethical Framework for a Good AI Society, AI4People (2018)"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "a1299930-166d-5fcf-91da-5c2d8982301f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundprinzipien von KI-Systemen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing the foundational principles of AI systems"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden Prinzipien von KI-Systemen — einschließlich maschinellen Lernens, neuronaler Netze und evolutionärer Algorithmen — sowie deren Möglichkeiten und Grenzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the foundational principles of AI systems — including machine learning, neural networks, and evolutionary algorithms — and their capabilities and limitations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f85a3525-f883-5bf4-bda6-8d99a27b39fe",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundlegende Konzepte kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing foundational concepts"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Konzepte Intelligenter Systeme: Regressor, Klassifikator, evolutionäre Algorithmen und bionische Grundlagen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know fundamental concepts of intelligent systems: regressor, classifier, evolutionary algorithms, and bionic foundations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden Begriffe der Ethik in der Informatik und deren Bedeutung für die Entwicklung und den Einsatz digitaler Systeme."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the foundational concepts of ethics in computer science and their significance for the development and use of digital systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Aufgabenstellung geeignete Algorithmen und Verfahren aus dem Bereich Intelligenter Systeme auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate algorithms and methods from the field of intelligent systems for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ab117158-9be8-519f-894f-487b18d27e9f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können einfache Intelligente Systeme für eine gegebene Aufgabenstellung konzipieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design simple intelligent systems for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c46a1786-dcb1-52d4-b883-9fce84dcfafd",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können einfache Intelligente Systeme nach einem vorgegebenen Entwurf implementieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement simple intelligent systems based on a given design specification."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen KI-gestützte Werkzeuge zur Unterstützung bei der Konzeption und Implementierung Intelligenter Systeme ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI-assisted tools to support the design and implementation of intelligent systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können rechtliche und ethische Anforderungen — insbesondere Datenschutz und Compliance — bei der Entwicklung Intelligenter Systeme angemessen berücksichtigen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Appropriately take into account legal and ethical requirements — in particular data protection and compliance — when developing intelligent systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f1d7f7ff-bec6-55e3-946e-4d2c48218703",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Bias und Fairness erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising AI bias and fairness issues"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden ethische Kriterien an, um Bias, Fairness und Transparenz in KI-Systemen zu erkennen und zu benennen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply ethical criteria to recognise and name bias, fairness issues, and transparency gaps in AI systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d4c60703-6ed4-5efa-8a19-12059082b954",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Auswirkungen auf Gesellschaft analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI's societal effects"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die strukturellen Auswirkungen von KI-Systemen auf Gesellschaft, Arbeitsmärkte und rechtliche Rahmenbedingungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the structural effects of AI systems on society, labour markets, and legal frameworks."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue Konzepte und Werkzeuge aus dem Bereich Intelligenter Systeme einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently orient themselves in new concepts and tools from the field of intelligent systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1a32ac19-a339-5495-8ec1-f3241e7ec202",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Eigenständig über KI-Einsatz entscheiden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Making independent decisions about AI use"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden treffen begründete, eigenständige Entscheidungen darüber, wann und wie sie KI-Werkzeuge einsetzen — und wann menschliches Urteil unverzichtbar bleibt."
+        },
+        {
+          "language": "en-GB",
+          "value": "Make reasoned, independent decisions about when and how to use AI tools — and when human judgement remains indispensable."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "891d9344-13aa-5008-a891-ad62fe2353f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI und soziale Gerechtigkeit reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI and social justice"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren, wie KI-Systeme bestehende soziale Ungleichheiten reproduzieren oder verstärken können, und leiten erste Konsequenzen für ihr professionelles Handeln ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse how AI systems can reproduce or amplify existing social inequalities and derive initial consequences for professional conduct."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig ein einfaches Intelligentes System für eine gegebene Aufgabenstellung konzipieren, implementieren und evaluieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently design, implement, and evaluate a simple intelligent system for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können rechtliche und ethische Anforderungen systematisch in die Konzeption und Bewertung Intelligenter Systeme einbeziehen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Systematically incorporate legal and ethical requirements into the design and evaluation of intelligent systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c7b132d7-64c9-5619-a192-a6fd4c478e3e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Prompts für LLMs strukturieren und optimieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Structuring and optimising prompts for LLMs"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Prompts für KI-Sprachmodelle strukturieren und optimieren, um qualitativ hochwertige und aufgabengerechte Ergebnisse zu erzielen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Structure and optimise prompts for AI language models to produce high-quality, task-appropriate results."
+        }
+      ]
+    }
+  ]
+}

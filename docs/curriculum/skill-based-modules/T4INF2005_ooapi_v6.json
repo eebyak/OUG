@@ -1,0 +1,434 @@
+{
+  "id": "a597aa56-b3fa-5623-9b17-bbfb9274ca65",
+  "code": "T4INF2005",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Technische Informatik II"
+    },
+    {
+      "language": "en-GB",
+      "value": "Computer Engineering II"
+    }
+  ],
+  "abbreviation": "TI2",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 — Rechnerarchitektur: von-Neumann-Architektur, Systemkomponenten, Rechenwerk und ALU, Steuerwerk und Mikroprogrammierung, Pipelining und Leistungsbewertung, Businterface, Halbleiterspeicher, Schnittstellen. Unit 2 — Betriebssysteme: Prozesse und Threads, Interprozess-Synchronisation und -kommunikation, Scheduling, Speicherverwaltung (Paging, Segmentierung, virtueller Speicher), Dateisysteme und Schutzmechanismen. Unit 3 — Systemnahe Programmierung: Programmiermodell für Maschinenprogrammierung, Befehlssatz und Adressierungsarten, Kontrollstrukturen und Unterprogramme via Stack, HW/SW-Interrupts, User/Supervisor-Modus, eigenständige Entwicklung von Assemblerprogrammen."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 — Computer Architecture: von Neumann architecture, system components, arithmetic logic unit, control unit and microprogramming, pipelining and performance evaluation, bus interface, semiconductor memory, interfaces. Unit 2 — Operating Systems: processes and threads, inter-process synchronisation and communication, scheduling, memory management (paging, segmentation, virtual memory), file systems and protection mechanisms. Unit 3 — System-Level Programming: programming model for machine-level programming, instruction set and addressing modes, control structures and subroutines via stack, HW/SW interrupts, user/supervisor mode, independent development of assembly programmes."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 8
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 240
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 96
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P6M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Systems, Platforms & Security",
+    "x-dhbw-stream-id": "2223d636-3c1d-571d-abf8-496b77f33216",
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 240,
+      "contact": 96,
+      "selfStudy": 144,
+      "note": "3 selected units from T4INF2005. U1 Rechnerarchitektur: 36h contact + 54h self-study. U2 Betriebssysteme: 36h contact + 54h self-study. U3 Systemnahe Programmierung: 24h contact + 36h self-study. Total selected: 96h contact + 144h self-study = 240h = 8 ECTS."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 11,
+      "type_distribution": {
+        "Fachkompetenz": 4,
+        "Methodenkompetenz": 6,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 7,
+        "L3": 3
+      },
+      "bloom_average": 2.18,
+      "competence_domains": [
+        "ANLY",
+        "KNOW",
+        "METH",
+        "PROG",
+        "SYST",
+        "THEO"
+      ],
+      "ai_related_count": 0,
+      "unit_distribution": {
+        "U1": 4,
+        "U2": 3,
+        "U3": 4
+      },
+      "standing_policies": [
+        "SYST-2-01 appears in both U1 (Rechnerarchitektur) and U2 (Betriebssysteme) — same competence_id, different unit context. U1 focuses on hardware component configuration; U2 focuses on OS-level system concepts. The JSON stores both with their respective unit tags and distinct module_sentence texts.",
+        "SYST-3-03 (real-time constraints, L3, Meth U1): Bus arbitration, wait states, and interrupt latencies are precisely the real-time constraint topics in the canonical sentence. Natural and precise placement.",
+        "PROG-3-03 (concurrent programming, L3, Meth U2): Threads, synchronisation primitives, and classical concurrency problems (producer-consumer, dining philosophers) are explicit content in the Betriebssysteme unit. First activation of PROG-3-03.",
+        "METH-2-04 (automating build processes, L2, Meth U2): The Betriebssysteme unit includes a practical development environment for OS-adjacent programming. Compiler toolchains and linker scripts are standard OS development practice.",
+        "THEO-2-01 (transferring theoretical CS knowledge, L2, Meth U3): Instruction sets, addressing modes, and processor state models are exactly the theoretical CS constructs transferred to practical assembly programming.",
+        "Bloom progression: U1 avg 2.5 (architecture analysis) → U2 avg 2.33 (OS concepts and concurrency design) → U3 avg 2.0 (hands-on assembly — practical application of formal knowledge). No AI entries — this is foundational systems infrastructure."
+      ]
+    },
+    "newStudy": {
+      "stream": "Systems, Platforms & Security",
+      "year": 2,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Rechnerarchitektur",
+          "title_en": "Computer Architecture",
+          "contact_h": 36,
+          "self_study_h": 54,
+          "lo_count": 4
+        },
+        {
+          "id": "U2",
+          "title_de": "Betriebssysteme",
+          "title_en": "Operating Systems",
+          "contact_h": 36,
+          "self_study_h": 54,
+          "lo_count": 3
+        },
+        {
+          "id": "U3",
+          "title_de": "Systemnahe Programmierung",
+          "title_en": "System-Level Programming",
+          "contact_h": 24,
+          "self_study_h": 36,
+          "lo_count": 4
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Patterson, D. A., & Hennessy, J. L. (2021). Computer Organization and Design: The Hardware/Software Interface. Morgan Kaufmann.",
+    "Tanenbaum, A. S., & Bos, H. (2023). Modern Operating Systems (5th ed.). Pearson.",
+    "Flik, T. (2005). Mikroprozessortechnik und Rechnerstrukturen. Springer.",
+    "Glatz, E. (2015). Betriebssysteme: Grundlagen, Konzepte, Systemprogrammierung. dpunkt.verlag.",
+    "Mandl, P. (2023). Grundkurs Betriebssysteme. Springer Vieweg.",
+    "Dieterich, E.-W.: Assembler: Grundlagen der PC-Programmierung. Oldenbourg.",
+    "Kusswurm, D. (2023). Modern x86 Assembly Language Programming. Apress.",
+    "Hellmann, R.: Einführung in den Aufbau moderner Computer. De Gruyter Oldenbourg."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen Aufgaben, Aufbau und Funktionsweise moderner Rechnersysteme — einschließlich von-Neumann-Architektur, Systemkomponenten, Prozessorinterna, Speicherhierarchie und Businterface."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the tasks, structure, and functioning of modern computer systems — including von Neumann architecture, system components, processor internals, memory hierarchy, and bus interface."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3031a1a6-4ce8-51c9-b8b8-4981f047577f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SYST-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Systeme konfigurieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Configuring systems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden konfigurieren und analysieren Rechnersystemkomponenten — darunter CPU, Hauptspeicher, I/O-Schnittstellen, Interrupt- und DMA-Controller — und bewerten deren Zusammenwirken in konkreten Systemarchitekturen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Configure and analyse computer system components — including CPU, main memory, I/O interfaces, interrupt and DMA controllers — and evaluate their interaction in specific system architectures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die Leistungsfähigkeit von Rechnersystemen — unter Einsatz von Metriken wie MIPS, Zykluszeit und Pipelining-Effizienz — und leiten begründete Empfehlungen für den Einsatz in konkreten Anwendungskontexten ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse the performance of computer systems — using metrics such as MIPS, cycle time, and pipelining efficiency — and derive justified recommendations for deployment in specific application contexts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5bcb1a26-a755-51c5-b744-dce3754c016d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SYST-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Echtzeitanforderungen und eingeschränkte Ressourcen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing real‑time constraints and limited resources"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren Echtzeitanforderungen und Ressourcenbeschränkungen in Rechnersystemen — einschließlich Busarbitrierung, Waitstates und Interrupt-Latenzen — und optimieren Systemkonfigurationen für zeitkritische Anwendungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse real-time requirements and resource constraints in computer systems — including bus arbitration, wait states, and interrupt latencies — and optimise system configurations for time-critical applications."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d1f76a3e-3a06-5313-a7c8-53e749ffdc06",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Nebenläufige Programme entwerfen und synchronisieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing and synchronising concurrent programs"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen und synchronisieren nebenläufige Programme: Sie analysieren Concurrency-Probleme (Race Conditions, Deadlocks), entwerfen threadsichere Datenstrukturen und wenden geeignete Synchronisationsprimitive an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design and synchronise concurrent programmes: analyse concurrency problems (race conditions, deadlocks), design thread-safe data structures, and apply appropriate synchronisation primitives."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1e447257-b6d7-5e71-bcb0-17c732995241",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Abhängigkeiten und Build‑Prozesse automatisieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Automating dependencies and build processes"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden automatisieren Build-Prozesse für systemnahe Entwicklungsumgebungen — einschließlich Compiler-Toolchains, Linker-Skripte und Abhängigkeitsverwaltung — und entwickeln und testen Betriebssystem-nahe Programme reproduzierbar."
+        },
+        {
+          "language": "en-GB",
+          "value": "Automate build processes for system-level development environments — including compiler toolchains, linker scripts, and dependency management — and develop and test operating-system-adjacent programmes reproducibly."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "951546e4-48c5-5c4b-ae29-d5878fb2c485",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SYST-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Systemnah programmieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Programming at system level"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden programmieren auf Systemebene: Sie entwickeln eigenständig Maschinenprogramme in Assembler, implementieren Kontrollstrukturen und Unterprogramme mittels Stack-Operationen und verstehen die Mechanismen von Hardware- und Software-Interrupts."
+        },
+        {
+          "language": "en-GB",
+          "value": "Programme at system level: independently develop machine programmes in assembly language, implement control structures and subroutines using stack operations, and understand the mechanisms of hardware and software interrupts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d22ddbd8-c842-5a81-bc7c-b388eaec8836",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Manuelle Speicherverwaltung und Referenzsemantik sicher anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Safely applying manual memory management and reference semantics"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden manuelle Speicherverwaltung auf Maschinenebene an — einschließlich Pointer-Arithmetik, Stack-Frame-Management und Register-Konventionen — und entwickeln damit strukturierte, fehlerfreie Maschinenprogramme mit zunehmendem Schwierigkeitsgrad."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply manual memory management at machine level — including pointer arithmetic, stack frame management, and register conventions — and use these to develop structured, error-free machine programmes of increasing complexity."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "689d635b-1bfa-577b-87f2-be96dd39c04c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "THEO-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen theoretisches Informatikwissen — insbesondere über Befehlssätze, Adressierungsarten und Prozessorzustände — auf die praktische Entwicklung von Maschinenprogrammen und verstehen den User/Supervisor-Modus-Übergang."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer theoretical computer science knowledge — particularly on instruction sets, addressing modes, and processor states — to the practical development of machine programmes and understand the user/supervisor mode transition."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beurteilen die Leistungsfähigkeit eines Rechnersystems für konkrete Praxisanwendungen, verfolgen Weiterentwicklungen im Bereich Rechnerhardware aktiv nach und erarbeiten sich das dafür notwendige neue Wissen eigenständig."
+        },
+        {
+          "language": "en-GB",
+          "value": "Assess the performance capability of a computer system for specific practical applications, actively track advances in computer hardware, and independently acquire the new knowledge required for this."
+        }
+      ]
+    }
+  ]
+}

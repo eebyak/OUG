@@ -1,0 +1,527 @@
+{
+  "id": "2b1bbf2a-18aa-598b-8343-04e5f3caa955",
+  "code": "T4INF4900",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Gamification"
+    },
+    {
+      "language": "en-GB",
+      "value": "Gamification"
+    }
+  ],
+  "abbreviation": "Gamification",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Analyse bestehender Gamification-Konzepte und Spielmechaniken; Synthese eines eigenen Gamification-Konzepts für einen realen Anwendungsfall (inkl. Integration von Spielmechaniken in Produkte, Dienste oder Gemeinschaften); psychologische Grundlagen der Gamification (intrinsische/extrinsische Motivation, Flow, Selbstbestimmungstheorie); ethische Dimensionen: suchtfördernde Mechaniken, Dark Patterns, ungleiche Nutzererfahrungen; Gamification-Frameworks (Octalysis, MDA); Business Case und Produktstrategie; KI-gestützte Personalisierungsmöglichkeiten; Forschung in Gamification; Präsentation und Verteidigung des Konzepts."
+    },
+    {
+      "language": "en-GB",
+      "value": "Analysis of existing gamification concepts and game mechanics; synthesis of an original gamification concept for a real use case (including integration of game mechanics into products, services, or communities); psychological foundations of gamification (intrinsic/extrinsic motivation, flow, self-determination theory); ethical dimensions: addictive mechanics, dark patterns, unequal user experiences; gamification frameworks (Octalysis, MDA); business case and product strategy; AI-assisted personalisation opportunities; research in gamification; presentation and defence of the concept."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 30
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Projektarbeit und Präsentation (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Project work and presentation (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Human-Centred & Societal Computing",
+    "x-dhbw-stream-id": "4b22baee-6b73-5046-bb28-2a954e6e066a",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 30,
+      "selfStudy": 120,
+      "note": "Unit: Gamification. 30h contact, 120h self-study. High self-study ratio reflects independent project and concept development work."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 14,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 5,
+        "Personale und Soziale Kompetenz": 4,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 6,
+        "L3": 1,
+        "L4": 6
+      },
+      "bloom_average": 2.86,
+      "competence_domains": [
+        "ANLY",
+        "COMM",
+        "CREA",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROJ",
+        "RSCH"
+      ],
+      "ai_related_count": 1,
+      "meta_skill_count": 2,
+      "standing_policies": [
+        "Gamification is a 1-unit, 5-ECTS elective within module T4INF4900 (Selected Topics in Computer Science). The complementary Games and Gaming unit (3 ECTS) belongs to the Programming & Software Construction stream. Assessment: Projektarbeit und Präsentation / Project work and presentation.",
+        "ETHI-2-01 placed at L2: ethical awareness of gamification dark patterns and addictive mechanics is explicitly addressed in the content (suchtfördernde Mechaniken, Dark Patterns). L2 is appropriate — students identify and consider ethical risks, but the primary focus of the module is design, not ethics governance. Distinct from ETHI-3-01 used in T4INF4900 Games (L3 justification).",
+        "PROJ-4-05 (AI product strategy, L4) is the single AI-related entry: gamification increasingly relies on AI-assisted personalisation (adaptive difficulty, recommendation of game elements). The module explicitly addresses 'Anwendung auf reale Nutzungskontexte'. ai_domain: product.",
+        "PROJ-4-06 (business case, L4) and PROJ-4-05 (product strategy, L4): Gamification in professional contexts always requires business justification. Both fit the synthesis phase of the project and are supported by Werbach & Hunter (2012) and Zichermann & Cunningham (2011).",
+        "PERS-4-14 (meta-skill: adapting learning strategies) placed in Pers: the iterative nature of gamification concept development — test, fail, adjust — is a natural environment for metacognitive learning strategy adaptation.",
+        "PROJ-4-07 (meta-skill: negotiating priorities) placed in Pers: students must make scope decisions and negotiate requirements in the project context. Appropriate for Year-3 elective.",
+        "RSCH-4-01 (Überg): the Projektarbeit requires a complete written assignment including literature review, concept, prototype and reflection. This is the primary integration act and assessment anchor.",
+        "No TEAM entries: Gamification is an individual or small-group project with individual assessment. Social competence is covered via PROJ-4-07 (stakeholder negotiation) and COMM-2-01 (presentation)."
+      ]
+    },
+    "newStudy": {
+      "stream": "Human-Centred & Societal Computing",
+      "year": 3,
+      "elective": true,
+      "elective_note": "Unit within module T4INF4900 (Selected Topics in CS). 5 ECTS. Students select this unit as their elective within the HCS stream."
+    }
+  },
+  "resources": [
+    "Chou, Y.-k. (2015). Actionable Gamification: Beyond Points, Badges, and Leaderboards. Octalysis Media.",
+    "McGonigal, J. (2011). Reality Is Broken: Why Games Make Us Better and How They Can Change the World. Penguin Press.",
+    "Werbach, K., & Hunter, D. (2012). For the Win: How Game Thinking Can Revolutionize Your Business. Wharton Digital Press.",
+    "Zichermann, G., & Cunningham, C. (2011). Gamification by Design. O'Reilly.",
+    "Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining gamification. In Proceedings of MindTrek 2011.",
+    "Eyal, N. (2014). Hooked: How to Build Habit-Forming Products. Portfolio/Penguin.",
+    "Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American Psychologist, 55(1), 68–78.",
+    "Hunicke, R., LeBlanc, M., & Zubek, R. (2004). MDA: A formal approach to game design and game research. In Proceedings of AAAI Workshop.",
+    "Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience. Harper & Row.",
+    "Bogost, I. (2011). Persuasive Games: The Expressive Power of Videogames. MIT Press."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen grundlegende Gamification-Konzepte, -Mechaniken und -Frameworks sowie typische Anwendungsszenarien in digitalen und nicht-digitalen Kontexten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know foundational gamification concepts, mechanics, and frameworks as well as typical application scenarios in digital and non-digital contexts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren bestehende Gamification-Ansätze und Spielkonzepte systematisch — hinsichtlich eingesetzter Mechaniken, psychologischer Wirksamkeit und ethischer Implikationen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Systematically analyse existing gamification approaches and game concepts — with respect to employed mechanics, psychological effectiveness, and ethical implications."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8683737f-172a-596c-a1d9-43e521bd84ea",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Innovativ gestalten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Creating innovatively"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eigenständig tragfähige Gamification-Konzepte für einen gewählten Anwendungsfall, integrieren Spielmechaniken, psychologische Prinzipien und Nutzerkontexte und evaluieren ihre Lösung kritisch."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently develop viable gamification concepts for a chosen use case, integrating game mechanics, psychological principles, and user contexts, and critically evaluate their solution."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen geeignete Gamification-Methoden und -Frameworks (z. B. Octalysis, MDA-Framework) für einen gegebenen Anwendungsfall aus und begründen ihre Wahl."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate gamification methods and frameworks (e.g. Octalysis, MDA framework) for a given use case and justify their selection."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden Gamification-Methoden auf reale Nutzungskontexte an — von der Analyse der Nutzerpsychologie bis zur Synthese eines Konzepts mit Punkten, Abzeichen, Ranglisten und weiterführenden Dynamiken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply gamification methods to real-world usage contexts — from analysis of user psychology to synthesis of a concept incorporating points, badges, leaderboards, and advanced dynamics."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "55f51ce6-3aad-5a3c-95ac-d94c117be18a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Literatur recherchieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Researching literature"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden recherchieren aktuelle Gamification-Literatur und -Forschung und bewerten Quellen im Hinblick auf wissenschaftliche Qualität und Anwendungsrelevanz."
+        },
+        {
+          "language": "en-GB",
+          "value": "Research current gamification literature and research findings, and evaluate sources with respect to scientific quality and practical relevance."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "49a701ce-5ca2-5d1b-a992-918c7e54ebc7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑Produktstrategie und Roadmap entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing AI product strategy and roadmap"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eine Gamification-Produktstrategie für ihren Anwendungsfall — einschließlich Zieldefinition, Nutzeranalyse, Engagement-Mechaniken und Erfolgsindikatoren — und berücksichtigen dabei KI-gestützte Personalisierungsmöglichkeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Develop a gamification product strategy for their use case — including goal definition, user analysis, engagement mechanics, and success indicators — taking into account AI-assisted personalisation opportunities."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "17208399-a21c-5d54-bd1d-940506f1c92f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Business Case und ROI für KI‑Projekte bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating business case and ROI for AI projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erstellen einen Business Case für ein Gamification-Projekt, kalkulieren Kosten und erwarteten Nutzen und bewerten die Rentabilität des Vorhabens für den gewählten Anwendungskontext."
+        },
+        {
+          "language": "en-GB",
+          "value": "Create a business case for a gamification project, calculate costs and expected benefits, and assess the profitability of the undertaking for the chosen application context."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "18d28fe2-32a7-52fb-815a-9b5875a848e9",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ethisch handeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Acting ethically"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen und benennen ethische Risiken in Gamification-Designs — insbesondere suchtfördernde Mechaniken, Manipulation durch Dark Patterns und ungleiche Nutzererfahrungen — und berücksichtigen diese bei eigenen Entwurfsentscheidungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Identify and name ethical risks in gamification designs — particularly addictive mechanics, manipulation through dark patterns, and unequal user experiences — and take these into account in their own design decisions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ced37877-e6ce-5434-9254-0860b5370c6f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sich anpassen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Adapting to new situations"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden passen sich an neue Themenfelder und Anwendungskontexte an, arbeiten sich eigenständig in unbekannte Gamification-Szenarien ein und entwickeln daraus produktive Arbeitsstrategien."
+        },
+        {
+          "language": "en-GB",
+          "value": "Adapt to new subject areas and application contexts, independently work into unfamiliar gamification scenarios, and develop productive working strategies from these."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "49deb903-88fd-5881-b24e-13d18d78c67e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-14"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lernstrategien reflektieren und anpassen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on and adapting learning strategies"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren ihre eigenen Lernprozesse im Gamification-Projekt, erkennen ineffektive Strategien und passen ihre Herangehensweise an neue Anforderungen und Feedbackschleifen an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on their own learning processes in the gamification project, identify ineffective strategies, and adapt their approach to new requirements and feedback loops."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bcfe9ff4-c6a3-5c9a-b937-ced36a385802",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-07"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Prioritäten aushandeln und begründet ‚Nein‘ sagen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Negotiating priorities and saying 'no' with justification"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verhandeln im Projektkontext Anforderungen und Prioritäten mit Stakeholdern, begründen konzeptuelle Einschränkungen und sagen zu nicht umsetzbaren Anforderungen konstruktiv und rechtzeitig Nein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Negotiate requirements and priorities with stakeholders in the project context, justify conceptual constraints, and say no constructively and in a timely manner to infeasible requirements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden präsentieren ihr Gamification-Konzept, die zugrundeliegenden Designentscheidungen und die Evaluationsergebnisse mündlich und schriftlich vor einer Gruppe."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present their gamification concept, the underlying design decisions, and the evaluation results orally and in writing to an audience."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8db27732-0bef-5301-9421-99814ddd165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Wissenschaftlich arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working scientifically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden planen und liefern eigenständig eine vollständige wissenschaftliche Ausarbeitung zu einem gewählten Gamification-Thema — einschließlich Literaturrecherche, Konzeptentwicklung, Prototyp und kritischer Reflexion."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently plan and deliver a complete scientific written assignment on a chosen gamification topic — including literature research, concept development, prototype, and critical reflection."
+        }
+      ]
+    }
+  ]
+}

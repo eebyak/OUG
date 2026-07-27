@@ -1,0 +1,655 @@
+{
+  "id": "2caf8752-7e0d-5eaf-ae8a-a73000d4a93e",
+  "code": "T4INF9006",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Design Thinking"
+    },
+    {
+      "language": "en-GB",
+      "value": "Design Thinking"
+    }
+  ],
+  "abbreviation": "DT",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 — Design Thinking I: Design-Thinking-Prozess (Empathize, Define, Ideate, Prototype, Test); User Research und Persona Development; Problem Framing; Rapid Prototyping; User Testing Basics; Teamarbeit in interdisziplinären Gruppen; Reflexion eigener Wissensgrenzen. Unit 2 — Design Thinking II: Advanced User Research; Service Design und Service Blueprinting; Business Model Innovation und Business Model Canvas; Design Sprints; Stakeholder-Management; Innovationsmetriken; Steuerung komplexer Innovationsprojekte; Moderation und Entscheidungsbegleitung."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 — Design Thinking I: Design Thinking process (Empathize, Define, Ideate, Prototype, Test); user research and persona development; problem framing; rapid prototyping; user testing basics; teamwork in interdisciplinary groups; reflection on limits of own knowledge. Unit 2 — Design Thinking II: advanced user research; service design and service blueprinting; business model innovation and business model canvas; design sprints; stakeholder management; innovation metrics; managing complex innovation projects; facilitation and decision support."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur oder Projektarbeit (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination or project work (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Human-Centred & Societal Computing",
+    "x-dhbw-stream-id": "4b22baee-6b73-5046-bb28-2a954e6e066a",
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "2 units × 30h contact + 45h self-study each. Unit 1: Design Thinking I (Semester 3). Unit 2: Design Thinking II (Semester 4)."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 18,
+      "type_distribution": {
+        "Fachkompetenz": 2,
+        "Methodenkompetenz": 9,
+        "Personale und Soziale Kompetenz": 6,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 7,
+        "L3": 1,
+        "L4": 9
+      },
+      "bloom_average": 3.0,
+      "competence_domains": [
+        "ANLY",
+        "CREA",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROJ",
+        "TEAM"
+      ],
+      "ai_related_count": 0,
+      "unit_distribution": {
+        "U1": 9,
+        "U2": 9
+      },
+      "meta_skill_count": 2,
+      "standing_policies": [
+        "Two-unit module: Unit 1 (Design Thinking I, Semester 3) is foundational — Bloom L1–L2, UCD principles, core DT methods. Unit 2 (Design Thinking II, Semester 4) is advanced — Bloom L3–L4, service design, business model innovation, complex project leadership. Bloom progression is deliberate: U1 avg 2.11 → U2 avg 3.89.",
+        "PERS-4-13 (meta-skill: recognising limits of own knowledge) placed in U1: the Empathize phase of Design Thinking is precisely the practice of recognising what you do not know and seeking it from users. Natural and pedagogically central placement.",
+        "PROJ-4-07 (meta-skill: negotiating priorities, constructive no) placed in U2 Methodenkompetenz: Design Sprints and stakeholder management require explicit scope negotiation. L4 appropriate for Semester 4.",
+        "No AI-related LOs: Design Thinking as taught in this module is human-centred and tool-agnostic. CREA-4-02 (human-centred AI systems design) is reserved for T4INF4348 HCI where AI context is explicitly addressed.",
+        "Literature: Brown (2009), Knapp (2016 Sprint), Stickdorn (Service Design), Ries (Lean Startup), Lewrick (DT Playbook), IDEO HCD Guide, Osterwalder (BMC), Liedtka (Designing for Growth). No OUG-specific references."
+      ]
+    },
+    "newStudy": {
+      "stream": "Human-Centred & Societal Computing",
+      "year": 2,
+      "elective": false,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Design Thinking I",
+          "title_en": "Design Thinking I",
+          "semester": 3,
+          "contact_h": 30,
+          "self_study_h": 45,
+          "lo_count": 9
+        },
+        {
+          "id": "U2",
+          "title_de": "Design Thinking II",
+          "title_en": "Design Thinking II",
+          "semester": 4,
+          "contact_h": 30,
+          "self_study_h": 45,
+          "lo_count": 9
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Brown, T. (2009). Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation. HarperCollins.",
+    "Knapp, J., Zeratsky, J., & Kowitz, B. (2016). Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days. Simon & Schuster.",
+    "Stickdorn, M., & Schneider, J. (2011). This Is Service Design Thinking. BIS Publishers.",
+    "Ries, E. (2011). The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.",
+    "Lewrick, M., Link, P., & Leifer, L. (2018). The Design Thinking Playbook. Wiley.",
+    "IDEO / IDEO.org (2015). The Field Guide to Human-Centered Design. IDEO.org.",
+    "Osterwalder, A., & Pigneur, Y. (2010). Business Model Generation. Wiley.",
+    "Liedtka, J., & Ogilvie, T. (2011). Designing for Growth: A Design Thinking Tool Kit for Managers. Columbia Business School Press."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die Grundlagen des Design-Thinking-Prozesses — einschließlich der Phasen Empathize, Define, Ideate, Prototype und Test — und verstehen deren Anwendungslogik."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the foundations of the Design Thinking process — including the phases Empathize, Define, Ideate, Prototype, and Test — and understand their application logic."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d0521d30-8467-5f45-837c-18d4490fc6a4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Nutzerzentriertes Design anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying user-centred design principles"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden nutzerzentrierte Designprinzipien an, um zugängliche und klare Lösungen für reale Problemstellungen zu entwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply user-centred design principles to develop accessible, clear, and usable solutions for real-world problem statements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen geeignete Design-Thinking-Methoden (z. B. User Research, Persona Development, Problem Framing) für eine gegebene Problemstellung aus."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate Design Thinking methods (e.g. user research, persona development, problem framing) for a given problem statement."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden grundlegende Design-Thinking-Methoden an — darunter Rapid Prototyping und User Testing — um iterativ Lösungsideen zu entwickeln und zu testen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply foundational Design Thinking methods — including rapid prototyping and user testing — to iteratively develop and test solution ideas."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8eb715d1-0c45-55d4-9f14-60102c57e49c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Vorgehensmodelle nutzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using process models"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden nutzen geeignete Prozessmodelle für die strukturierte Bearbeitung von Design-Aufgaben und passen diese flexibel an den jeweiligen Projektkontext an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use appropriate process models for the structured completion of design tasks and adapt them flexibly to the respective project context."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "18b71ce8-2a69-5317-9f10-38b1ee56e183",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Informationen klassifizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Classifying information"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden klassifizieren Problemstellungen nach ihrer Komplexität und Art und leiten daraus geeignete Framing- und Lösungsstrategien ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Classify problem statements according to their complexity and nature and derive appropriate framing and solution strategies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3161e17e-eb58-5c1a-942e-5d683cbd39dc",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Probleme lösen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Solving problems"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden lösen praktische Designprobleme durch systematische Anwendung von Empathie-basierter Analyse und nutzerzentrierter Ideenfindung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Solve practical design problems through systematic application of empathy-based analysis and user-centred ideation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "0240682a-6e93-5787-8ef4-be259018b57c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-13"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grenzen des eigenen Wissens erkennen und kommunizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising and communicating the limits of one's own knowledge"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen im Design-Thinking-Prozess die Grenzen ihres eigenen Wissens und ihrer Perspektive, benennen Unsicherheiten und holen gezielt Nutzerfeedback oder Expertenwissen ein, bevor sie Entscheidungen treffen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise the limits of their own knowledge and perspective in the Design Thinking process, articulate uncertainties, and proactively seek user feedback or expert knowledge before making decisions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden tragen konstruktiv zu interdisziplinären Design-Thinking-Teams bei und unterstützen ein kollaboratives und kreatives Arbeitsklima."
+        },
+        {
+          "language": "en-GB",
+          "value": "Contribute constructively to interdisciplinary Design Thinking teams and support a collaborative and creative working atmosphere."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8683737f-172a-596c-a1d9-43e521bd84ea",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Innovativ gestalten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Creating innovatively"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eigenständig komplexe Innovationsprojekte — einschließlich Service Design, Business-Model-Innovation und Design Sprints — und evaluieren ihre Lösungen kritisch anhand definierter Innovationsmetriken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently develop complex innovation projects — including service design, business model innovation, and design sprints — and critically evaluate solutions against defined innovation metrics."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übertragen fortgeschrittene Design-Thinking-Methoden — darunter Design Sprints, Service Blueprinting und Business Model Canvas — auf komplexe reale Anwendungsfälle und passen sie situativ an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Transfer advanced Design Thinking methods — including design sprints, service blueprinting, and business model canvas — to complex real-world use cases and adapt them situationally."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren Lösungsansätze und Prototypen anhand definierter Bewertungskriterien und Innovationsmetriken und leiten daraus fundierte Weiterentwicklungsempfehlungen ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate solution approaches and prototypes against defined assessment criteria and innovation metrics, and derive well-founded development recommendations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bcfe9ff4-c6a3-5c9a-b937-ced36a385802",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-07"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Prioritäten aushandeln und begründet ‚Nein‘ sagen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Negotiating priorities and saying 'no' with justification"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verhandeln Projektziele und Anforderungen mit Stakeholdern, begründen Einschränkungen und sagen zu nicht umsetzbaren Anforderungen rechtzeitig und konstruktiv Nein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Negotiate project goals and requirements with stakeholders, justify constraints, and say no constructively and in a timely manner to infeasible requirements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "0880ad8e-7912-517f-a4bc-852bd53e3bb6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte planen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Planning projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden planen und steuern eigenständig komplexe Designprojekte — einschließlich Stakeholder-Management, Meilensteinplanung und Ressourcenkoordination."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently plan and manage complex design projects — including stakeholder management, milestone planning, and resource coordination."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a72fe9b2-7017-52ff-91fe-6f146901955a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Disziplinen verbinden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Connecting disciplines"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verbinden Perspektiven aus verschiedenen Disziplinen zu kohärenten Lösungsstrategien und wirken als Brücke zwischen technischen und nicht-technischen Stakeholdern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Connect perspectives from different disciplines into coherent solution strategies and act as a bridge between technical and non-technical stakeholders."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b4f5ac88-15ef-58d2-b54f-a9ed935e2bb2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teams aufbauen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Building teams"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden leiten interdisziplinäre Innovationsteams, fördern eine konstruktive Teamdynamik und steuern komplexe Innovationsprozesse durch gezielte Moderation und Entscheidungsbegleitung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Lead interdisciplinary innovation teams, foster constructive team dynamics, and guide complex innovation processes through deliberate facilitation and decision support."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "768226c5-404a-527d-a8f8-6d8618d503a9",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-12"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Umgang mit Unsicherheit reflektieren und persönliche Resilienz entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on uncertainty and developing personal resilience"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren ihren Umgang mit Ambiguität und iterativen Rückschlägen im Innovationsprozess, entwickeln daraus persönliche Resilienz und übertragen diese Erkenntnisse auf zukünftige Projekte."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on how they handle ambiguity and iterative setbacks in the innovation process, develop personal resilience from this, and transfer these insights to future projects."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a401042a-c8b0-5157-a1de-5e2392033b43",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Gemeinsame Projektvision entwickeln und abstimmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Establishing and aligning a shared project vision"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln und kommunizieren eine gemeinsame Projektvision für komplexe Innovationsprojekte, stimmen diese mit allen Stakeholdern ab und nutzen sie als Leitplanke für alle Designentscheidungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Develop and communicate a shared project vision for complex innovation projects, align it with all stakeholders, and use it as a guiding framework for all design decisions."
+        }
+      ]
+    }
+  ]
+}

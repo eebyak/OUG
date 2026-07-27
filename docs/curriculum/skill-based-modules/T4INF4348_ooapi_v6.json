@@ -1,0 +1,718 @@
+{
+  "id": "309de3e7-c96d-5b49-8ff3-02e3b4e8069a",
+  "code": "T4INF4348",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Mensch-Maschine-Interaktion"
+    },
+    {
+      "language": "en-GB",
+      "value": "Human-Machine Interaction"
+    }
+  ],
+  "abbreviation": "HCI",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 — Interaktive Systeme: Geschichte der Mensch-Maschine-Interaktion; Normen und Richtlinien; Grundlagen menschlicher Wahrnehmung; grundlegende Interaktionsformen; Human Centered Design, Usability und User Experience; Software-Ergonomie und Barrierefreiheit; Methoden und Werkzeuge zur Entwicklung interaktiver Systeme; aktuelle technologische Entwicklungen und Ausblicke; Anwendungskontexte interaktiver Systeme. Unit 2 — Integrationsseminar Digitalisierung: aktuelle Themen der digitalen Transformation in Gruppenarbeit und Seminarform; interdisziplinäre Verbindung von Informatik, Gesellschaft, Recht und Ethik; internationale Realprojekte mit authentischen Stakeholdern; Algorithmic Impact Assessments; EU AI Act und regulatorische Rahmenbedingungen; interkulturelle Zusammenarbeit; gesellschaftliche Implikationen digitaler Systeme."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 — Interactive Systems: history of human-machine interaction; standards and guidelines; foundations of human perception; fundamental interaction forms; human-centred design, usability and user experience; software ergonomics and accessibility; methods and tools for developing interactive systems; current technological developments and outlook; application contexts of interactive systems. Unit 2 — Integration Seminar Digitalisation: current topics in digital transformation through group work and seminar formats; interdisciplinary integration of computer science, society, law, and ethics; international real-world projects with authentic stakeholders; algorithmic impact assessments; EU AI Act and regulatory frameworks; intercultural collaboration; societal implications of digital systems."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Human-Centred & Societal Computing",
+    "x-dhbw-stream-id": "4b22baee-6b73-5046-bb28-2a954e6e066a",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "2 units × 30h contact + 45h self-study each. Unit 1: Interaktive Systeme. Unit 2: Integrationsseminar Digitalisierung."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 20,
+      "type_distribution": {
+        "Fachkompetenz": 4,
+        "Methodenkompetenz": 8,
+        "Personale und Soziale Kompetenz": 5,
+        "Übergreifende Handlungskompetenz": 3
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 4,
+        "L3": 4,
+        "L4": 11
+      },
+      "bloom_average": 3.25,
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "COMM",
+        "CREA",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROJ",
+        "QUAL",
+        "RSCH",
+        "TEAM"
+      ],
+      "ai_related_count": 5,
+      "unit_distribution": {
+        "U1": 9,
+        "U2": 11
+      },
+      "standing_policies": [
+        "Two-unit module: Unit 1 (Interaktive Systeme, 30h) and Unit 2 (Integrationsseminar Digitalisierung, 30h) share 5 ECTS and are assessed jointly via Kombinierte Prüfung.",
+        "CREA-4-02 (AI-mediated system design, L4, Pers) placed in U1: HCI is the natural home for human-centred AI interaction design. ai_domain: application, cognitive. The module explicitly addresses AI as an application context in 'aktuelle technologische Entwicklungen'.",
+        "U2 carries four AI-related LOs (COMM-3-03, COMM-4-03, ETHI-3-02, ETHI-4-01) — the Integrationsseminar is explicitly interdisciplinary, addressing AI governance, regulatory frameworks, and societal impact. This makes it the primary home for N1 governance and COMM entries.",
+        "COMM-4-03 (ethical workshop facilitation, L4): the seminar explicitly uses workshop formats for ethical assessment of digitalisation topics. Natural placement.",
+        "ETHI-3-02 (Algorithmic Impact Assessment, L3) + ETHI-4-01 (AI governance frameworks, L4): the seminar references 'ethische Fragestellungen' and integrates Law/Ethics co-teaching. EU AI Act coverage is explicit.",
+        "PROJ-4-02 (Überg) + TEAM-4-01 (Überg): both serve as integration acts for the seminar project outcome — students deliver real-world digitalisation projects as the assessed component.",
+        "Bloom progression: U1 avg 2.78 (applied HCI methods) → U2 avg 3.80 (evaluation, governance, interdisciplinary integration). No L1 in U2 — Year-3 register throughout."
+      ]
+    },
+    "newStudy": {
+      "stream": "Human-Centred & Societal Computing",
+      "year": 3,
+      "elective": false,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Interaktive Systeme",
+          "title_en": "Interactive Systems",
+          "contact_h": 30,
+          "self_study_h": 45,
+          "lo_count": 9
+        },
+        {
+          "id": "U2",
+          "title_de": "Integrationsseminar Digitalisierung",
+          "title_en": "Integration Seminar Digitalisation",
+          "contact_h": 30,
+          "self_study_h": 45,
+          "lo_count": 10
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Cooper, A. (2014). About Face: The Essentials of Interaction Design (4th ed.). Wiley.",
+    "Rogers, Y., Sharp, H., & Preece, J. (2023). Interaction Design: Beyond Human-Computer Interaction (6th ed.). Wiley.",
+    "Shneiderman, B., Plaisant, C., Cohen, M., Jacobs, S., & Elmqvist, N. (2018). Designing the User Interface (6th ed.). Pearson.",
+    "Richter, M., & Flückinger, M. D. (2016). Usability und UX kompakt: Produkte für Menschen. Springer Vieweg.",
+    "Preim, B., & Dachselt, R. (2015). Interaktive Systeme: Band 1 (2nd ed.). Springer.",
+    "Heilbusch, J. E. (2022). Barrierefreiheit verstehen und umsetzen. dpunkt.verlag.",
+    "Norman, D. (2013). The Design of Everyday Things (Revised ed.). Basic Books.",
+    "Fogg, B. J. (2003). Persuasive Technology. Morgan Kaufmann.",
+    "Anderson, S. (2011). Seductive Interaction Design. New Riders.",
+    "Pearl, C. (2016). Designing Voice User Interfaces. O'Reilly.",
+    "Hillmann, C. (2021). UX for XR: User Experience Design and Strategies for Immersive Technologies. Apress."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e8ed3102-a94f-5532-a3f3-b2aca629b0f7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachwissen besitzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Possessing subject knowledge"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen Einsatzgebiete und typische Szenarien interaktiver Systeme — einschließlich Geschichte der Mensch-Maschine-Interaktion, Normen und Richtlinien sowie grundlegender Interaktionsformen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the application domains and typical scenarios of interactive systems — including the history of human-machine interaction, standards and guidelines, and fundamental interaction forms."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bd588121-af0a-5412-a181-a843d6d1d72e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Benutzeroberflächen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing user interfaces"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden implementieren einfache interaktive Systeme und Benutzungsschnittstellen auf Basis grundlegender HCI-Prinzipien und Normen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement simple interactive systems and user interfaces based on foundational HCI principles and standards."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d0521d30-8467-5f45-837c-18d4490fc6a4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Nutzerzentriertes Design anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying user-centred design principles"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden nutzerzentrierte Designprinzipien an — einschließlich Human Centered Design, Usability und User Experience — um zugängliche und intuitive Benutzungsschnittstellen zu gestalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply user-centred design principles — including human-centred design, usability, and user experience — to create accessible and intuitive user interfaces."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen geeignete Methoden und Werkzeuge zur Entwicklung interaktiver Systeme aus und setzen diese an praktischen Beispielen ein."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate methods and tools for developing interactive systems and apply them to practical examples."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren Problemstellungen der realen Welt und ermitteln — gemeinsam mit Fachexpertinnen und -experten — das benötigte Wissen zur Implementierung einer interaktiven Anwendung oder zur Konfiguration eines Lernverfahrens."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse real-world problem statements and — working with domain experts — identify the knowledge required to implement an interactive application or configure a learning system."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "66262610-3c42-525e-9388-189c6678d757",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Barrierefreiheitsrichtlinien anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying accessibility guidelines"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden Barrierefreiheitsrichtlinien und Software-Ergonomie-Prinzipien an, um interaktive Systeme für diverse Nutzergruppen zugänglich zu gestalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply accessibility guidelines and software ergonomics principles to make interactive systems accessible to diverse user groups."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "6e86f9a4-86e3-571a-a292-07d20f41bd58",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Benutzeroberflächen konzipieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing user interfaces"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden konzipieren Benutzungsschnittstellendesigns nach Usability-Kriterien und begründen zentrale Designentscheidungen im Hinblick auf Nutzbarkeit, Effizienz und Barrierefreiheit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Conceptualise user interface designs according to usability criteria and justify key design decisions with respect to usability, efficiency, and accessibility."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "21ce1703-82ab-51a6-a561-a70cf6fd11ae",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Menschenzentrierte Systeme unter KI-Bedingungen gestalten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing human-centred systems in AI-mediated contexts"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen Systeme und Interaktionen, die menschliche Handlungsfähigkeit, Transparenz und Würde in technologisierten Kontexten — einschließlich KI-vermittelter Umgebungen — erhalten und fördern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design systems and interactions that preserve and promote human agency, transparency, and dignity in technologised contexts — including AI-mediated environments."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden führen technologische Möglichkeiten und praktische Problemstellungen zusammen, entwickeln gemeinsam mit Anwenderinnen und Anwendern Lösungskonzepte und diskutieren diese kritisch."
+        },
+        {
+          "language": "en-GB",
+          "value": "Bring together technological possibilities and practical problem statements, develop solution concepts in collaboration with users, and discuss these critically."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren digitale Transformationsszenarien aus technologischer, gesellschaftlicher und organisationaler Perspektive und entwickeln fundierte, kontextsensible Lösungsstrategien."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate digital transformation scenarios from technological, societal, and organisational perspectives and develop well-founded, context-sensitive solution strategies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7f46df29-98d5-58a9-884d-899f22909e86",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Interdisziplinäre Perspektiven integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating cross-disciplinary perspectives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden integrieren unterschiedliche disziplinäre Perspektiven — aus Informatik, Gesellschaft, Recht und Ethik — in kohärente Lösungsstrategien für komplexe Digitalisierungsherausforderungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate diverse disciplinary perspectives — from computer science, society, law, and ethics — into coherent solution strategies for complex digitalisation challenges."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "af902c95-1a1c-5cb0-b8d4-cd1dc87b24af",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit KI‑Unsicherheit in der Stakeholder‑Kommunikation umgehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Handling AI uncertainty in stakeholder communication"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kommunizieren die inhärente Unsicherheit digitaler und KI-gestützter Systeme — einschließlich nicht-deterministischer Ausgaben und Vertrauensgrenzen — verständlich gegenüber verschiedenen Stakeholdergruppen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicate the inherent uncertainty of digital and AI-powered systems — including non-deterministic outputs and confidence limits — clearly to diverse stakeholder groups."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "260cd581-67c6-5633-9e80-327cd287fd92",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ethische Entscheidungsfindung moderieren (Workshops, Protokolle)"
+        },
+        {
+          "language": "en-GB",
+          "value": "Facilitating ethical decision‑making (workshops, protocols)"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden moderieren interdisziplinäre Workshops zur ethischen Bewertung digitaler Systeme, entwickeln geeignete Bewertungsprotokolle und leiten Teams zu strukturierten Entscheidungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Facilitate interdisciplinary workshops for the ethical assessment of digital systems, develop appropriate evaluation protocols, and guide teams towards structured decisions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "18e25137-050a-56ea-b1eb-257e14349b46",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑Folgenabschätzung (Algorithmic Impact Assessment) durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Conducting an algorithmic impact assessment (AIA)"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden führen systematische Wirkungsanalysen (Algorithmic Impact Assessments) für digitale Systeme durch, identifizieren Risiken für Grundrechte und gesellschaftliche Teilhabe und entwickeln Mitigationsmaßnahmen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Conduct systematic algorithmic impact assessments for digital systems, identify risks to fundamental rights and social participation, and develop mitigation measures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e6af539c-0076-54eb-9904-ad92348f6526",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Governance bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI governance frameworks"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren regulatorische Rahmenbedingungen für KI und Digitalisierung — einschließlich EU AI Act und DSGVO — und beurteilen deren Wirkung auf Systementwurf und organisationale Praxis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate regulatory frameworks for AI and digitalisation — including the EU AI Act and GDPR — and assess their effect on system design and organisational practice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "368820ee-d1e2-5834-b57a-c03c4c6a9f3f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-15"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Veränderungen als Chance begreifen und navigieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Embracing and navigating change as an opportunity"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen technologische und gesellschaftliche Paradigmenwechsel als Chance zur Weiterentwicklung, passen ihre Arbeitsweisen aktiv an und helfen ihrem Team, Wandel konstruktiv zu gestalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise technological and societal paradigm shifts as opportunities for growth, actively adapt their working practices, and help their team shape change constructively."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "9cfe5a02-018d-5da7-a2bf-cb4301369f8e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Gesellschaftliche Implikationen der eigenen Arbeit bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating the societal implications of own work"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren die gesellschaftlichen, wirtschaftlichen und ethischen Implikationen ihrer eigenen Forschungs- und Entwicklungsarbeit und reflektieren deren Wirkung auf betroffene Gemeinschaften."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate the societal, economic, and ethical implications of their own research and development work and reflect on its impact on affected communities."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "88379483-df21-589b-8c65-c55c796cbb19",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kulturelle und soziale Dimensionen von KI im Dialog verhandeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Negotiating cultural and social dimensions of AI in professional dialogue"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen und verhandeln kulturelle, sprachliche und gesellschaftliche Unterschiede in internationalen und interdisziplinären Projektkontexten der Digitalisierung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise and negotiate cultural, linguistic, and social differences in international and interdisciplinary digitalisation project contexts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b4f5ac88-15ef-58d2-b54f-a9ed935e2bb2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teams aufbauen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Building teams"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen Verantwortung für die Dynamik interdisziplinärer Projektteams, fördern konstruktive Zusammenarbeit über Fachgrenzen hinweg und liefern gemeinsam prüfungsrelevante Projektergebnisse."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take responsibility for the dynamics of interdisciplinary project teams, foster constructive collaboration across disciplinary boundaries, and jointly deliver assessed project outcomes."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a72fe9b2-7017-52ff-91fe-6f146901955a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Disziplinen verbinden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Connecting disciplines"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verbinden Perspektiven aus Informatik, Gesellschaft, Recht und Ethik zu kohärenten Lösungsstrategien und agieren als Brücke zwischen technischen und nicht-technischen Akteuren in realen Digitalisierungsprojekten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Connect perspectives from computer science, society, law, and ethics into coherent solution strategies and act as a bridge between technical and non-technical actors in real-world digitalisation projects."
+        }
+      ]
+    }
+  ]
+}

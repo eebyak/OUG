@@ -1,0 +1,543 @@
+{
+  "id": "a2b40c20-594a-5659-9198-74c98719b43c",
+  "code": "T4INF1101",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Web Engineering"
+    },
+    {
+      "language": "en-GB",
+      "value": "Web & Application Engineering"
+    }
+  ],
+  "abbreviation": "WEB",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Client-Server-Architekturen und Internetprotokolle; Auszeichnungs- und Gestaltungssprachen für Webinhalte; clientseitige und serverseitige Programmierung; Frameworks und Bibliotheken; Architekturmuster moderner Webanwendungen; nutzerzentriertes Design und Barrierefreiheit; verantwortungsvoller Einsatz KI-gestützter Entwicklungswerkzeuge; Web-Projekte (Einzel- und Gruppenarbeit)."
+    },
+    {
+      "language": "en-GB",
+      "value": "Client-server architectures and internet protocols; markup and styling languages for web content; client-side and server-side programming; frameworks and libraries; architectural patterns for modern web applications; user-centred design and accessibility; responsible use of AI-assisted development tools; web projects (individual and group work)."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur oder Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written exam or combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Programming & Software Construction",
+    "x-dhbw-stream-id": "23e0f61b-cddd-5045-8a58-3e2b3f195088",
+    "x-dhbw-academic-year": 1,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 72,
+      "selfStudy": 78
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v6.json",
+      "codebook_version": "6.1",
+      "processing_date": "2026-04-09",
+      "total_competences": 15,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 6,
+        "Personale und Soziale Kompetenz": 4,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L1": 2,
+        "L2": 12,
+        "L4": 1
+      },
+      "competence_domains": [
+        "APPL",
+        "ARCH",
+        "COMM",
+        "CREA",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROG",
+        "QUAL",
+        "TEAM"
+      ],
+      "ai_related_count": 2,
+      "human_skill_self_count": 2,
+      "human_skill_social_count": 2,
+      "new_codebook_entries": [
+        "CREA-2-01",
+        "QUAL-2-03"
+      ],
+      "standing_policies": [
+        "No technology-specific LOs — all sentences use technology-agnostic language.",
+        "User-centred design → CREA domain (design act requiring empathy), not COMM.",
+        "Accessibility → QUAL-2-03 at L2 'anwenden' (apply guidelines) for year 1.",
+        "Two Übergreifend entries: PROG-4-01 (individual delivery) + TEAM-2-01 (group work).",
+        "Distributed systems knowledge reallocated from Übergreifend → Fachkompetenz (knowledge/understanding, not integration act)."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Programming & Software Construction",
+      "year": 1,
+      "note": "The module where IT meets the user. Distinctive: user-centred design (CREA-2-01) and accessibility (QUAL-2-03) as core competences alongside web implementation."
+    }
+  },
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "f85a3525-f883-5bf4-bda6-8d99a27b39fe",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Grundlegende Konzepte kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing foundational concepts"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden Konzepte der Client-Server-Architektur und der zugrundeliegenden Internetprotokolle."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the fundamental concepts of client-server architecture and the underlying internet protocols."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "5e8cbd40-6cb1-5d4f-9ee8-59c09375642c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Fachbegriffe und Rollen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing terms and roles"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden Auszeichnungs- und Gestaltungsmittel zur Strukturierung und Darstellung von Webinhalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the fundamental markup and styling means for structuring and presenting web content."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "273794b2-fd64-5448-9b8f-4eab1c7e0824",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding interdependencies"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können die Aufgabenverteilung zwischen clientseitiger und serverseitiger Verarbeitung erklären und das Zusammenspiel der eingesetzten Technologien beschreiben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain the division of responsibilities between client-side and server-side processing and describe how the technologies involved interact."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ab117158-9be8-519f-894f-487b18d27e9f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungen entwerfen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing solutions"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eine Web-Anwendung mit klarer Trennung der Verantwortlichkeiten (Präsentation, Logik, Daten) entwerfen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design a web application with clear separation of concerns (presentation, logic, data)."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bd588121-af0a-5412-a181-a843d6d1d72e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Benutzeroberflächen implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing user interfaces"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Benutzeroberflächen für webbasierte Anwendungen mit geeigneten clientseitigen Mitteln implementieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement user interfaces for web-based applications using appropriate client-side means."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bb399a01-1a63-555f-9951-29854e02f529",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Kontexte integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating into contexts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können serverseitige Anwendungslogik unter Verwendung einer geeigneten Programmiersprache und verfügbarer Bibliotheken oder Frameworks umsetzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement server-side application logic using an appropriate programming language and available libraries or frameworks."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Webanforderung eine angemessene Technologie, Methode oder ein Framework auswählen und die Wahl begründen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select an appropriate technology, method, or framework for a given web requirement and justify the choice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "66262610-3c42-525e-9388-189c6678d757",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Barrierefreiheitsrichtlinien anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying accessibility guidelines"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden grundlegende Barrierefreiheitsrichtlinien an, um Webangebote für alle Nutzerinnen und Nutzer zugänglich zu gestalten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply foundational accessibility guidelines to make web products usable for all users."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "cbb24dec-09cc-562e-ab5f-b5ed080ac2f4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Werkzeuge einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen KI-gestützte Werkzeuge in der Webentwicklung ein, etwa zur Unterstützung bei der Implementierung, Fehlersuche oder Gestaltung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI-assisted tools in web development to support implementation, debugging, or design tasks."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "d0521d30-8467-5f45-837c-18d4490fc6a4",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "CREA-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Nutzerzentriertes Design anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying user-centred design principles"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden nutzerzentrierte Gestaltungsprinzipien an, um Weboberflächen zu entwickeln, die für alle Nutzerinnen und Nutzer verständlich und zugänglich sind."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply user-centred design principles to develop web interfaces that are clear and accessible for all users."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ddf201cd-9152-5020-94c7-a0a8d4d28075",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Ergebnisse präsentieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Presenting results"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ihren Web-Anwendungsentwurf im Team vorstellen und gemeinsam weiterentwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Present their web application design within a team and collaboratively develop it further."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue Web-Technologien, Frameworks und Browser-Funktionen einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently orient themselves in new web technologies, frameworks, and browser capabilities."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1a32ac19-a339-5495-8ec1-f3241e7ec202",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Eigenständig über KI-Einsatz entscheiden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Making independent decisions about AI use"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden treffen eigenständige, begründete Entscheidungen über den Einsatz von KI-Werkzeugen in der Webentwicklung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Make reasoned, independent decisions about when and how to use AI tools in web development."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "82bc1bf0-33b6-5974-9f06-95904834a506",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Software entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing software"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eigenständig eine vollständige Web-Anwendung für eine gegebene Aufgabenstellung konzipieren, implementieren und als lauffähiges Produkt liefern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently conceive, implement, and deliver a complete web application for a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können als Teil eines Teams bei der Entwicklung einer Web-Anwendung effektiv mitwirken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Effectively contribute to the development of a web application as part of a team."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,717 @@
+{
+  "id": "9fd21a65-edbc-506f-bb83-99571d3892fc",
+  "code": "T4INF3102",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Software Engineering II"
+    },
+    {
+      "language": "en-GB",
+      "value": "Advanced Software Engineering"
+    }
+  ],
+  "abbreviation": "SE2",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unified Process; Visionen und Anwendungsfälle; Entwurfsmuster; Refactoring; Design-Heuristiken; Methoden der Softwarequalitätssicherung; Requirements Engineering; Usability und SW-Ergonomie; SW Management; Machbarkeitsstudien und Technologieentscheidungen; DevOps und Automatisierung; KI in Softwareentwicklungsprozessen; aktuelle Themen und Trends des Software Engineerings."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unified Process; visions and use cases; design patterns; refactoring; design heuristics; software quality assurance methods; requirements engineering; usability and SW ergonomics; SW management; feasibility studies and technology decisions; DevOps and automation; AI in software development processes; current topics and trends in software engineering."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Entwurf (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Design project (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Programming & Software Construction",
+    "x-dhbw-stream-id": "23e0f61b-cddd-5045-8a58-3e2b3f195088",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 21,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 11,
+        "Personale und Soziale Kompetenz": 5,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L2": 5,
+        "L3": 6,
+        "L4": 10
+      },
+      "competence_domains": [
+        "ALGO",
+        "ANLY",
+        "ARCH",
+        "COMM",
+        "METH",
+        "PERS",
+        "PROG",
+        "PROJ",
+        "QUAL",
+        "TEAM"
+      ],
+      "ai_related_count": 3,
+      "human_skill_self_count": 4,
+      "human_skill_social_count": 1,
+      "new_codebook_entries_pending": [
+        "METH-3-01"
+      ],
+      "standing_policies": [
+        "ANLY-3-01 appears in both T4INF1004 and T4INF3102 with distinct module sentences (code analysis vs complex problem analysis). Valid by two-sentence policy.",
+        "ANLY-4-03 appears in both T4INF2003 (SE I) and T4INF3102 (SE II) with distinct module sentences. Valid: same cognitive act, increasing complexity and autonomy across years.",
+        "Übergreifend block reduced from 4 bundled sentences to 2 clean entries: TEAM-2-01 (integration) + PROJ-4-02 (integration act). PERS entries rescued from Überg block.",
+        "METH-3-01 is a new codebook entry pending formal addition at stream-end codebook update.",
+        "v10 amendment: Three meta-skill entries added to Methodenkompetenz (all N2 meta-skills). ALGO-4-02 (L4): pattern abstraction — fits the refactoring unit where students identify design patterns in existing codebases. QUAL-4-01 (L4): systematic failure analysis — fits the CI/CD and testing units; post-mortem analysis is a professional standard. COMM-4-04 (L3): Architecture Decision Records — professional documentation standard for architectural decisions in refactoring projects. SE II receives these instead of SE I to avoid overloading SE I (37 LOs) and because the Year 3 context (advanced architecture, CI/CD, deployment) is a better fit for L4 meta-skills."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Programming & Software Construction",
+      "year": 3,
+      "note": "Capstone module of the Programming & Software Construction stream. Deepest AI literacy layer: PROG-3-01 (technical+evaluation L3), ANLY-4-03 (evaluation L4), ANLY-4-04 (cognitive/self L4)."
+    }
+  },
+  "resources": [
+    "Fowler, M.: Refactoring: Improving the Design of Existing Code, Addison-Wesley",
+    "Gamma, E. et al.: Design Patterns, Addison-Wesley",
+    "Liggesmeyer, P.: Software-Qualität, Spektrum akademischer Verlag",
+    "Nielsen, J.: Usability Engineering, Morgan Kaufmann",
+    "Pohl/Rupp: Basiswissen Requirements Engineering, dpunkt.verlag"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "18b71ce8-2a69-5317-9f10-38b1ee56e183",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Informationen klassifizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Classifying information"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Problemstellung die lösungsrelevanten Informationen klassifizieren und strukturieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Classify and structure information relevant to solving a given problem."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7ba27c4e-49af-5aa5-9194-66fd5317460e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwarearchitekturen konstruieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Constructing software architectures"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für komplexe Problemstellungen eine geeignete Softwarearchitektur unter Einsatz relevanter Techniken konstruieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Construct a suitable software architecture for complex problems using relevant techniques."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a7a8a769-dd61-578f-a12c-07cca38d38b1",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Codequalität bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating code quality"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Software nach aktuellen Qualitätsverfahren bewerten und zertifizierungsreife Qualitätsnachweise erstellen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate software according to current quality methods and produce certification-ready quality evidence."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden sind in der Lage, komplexe Problemstellungen aus der Praxis zu analysieren und die relevanten Anforderungen zu erschließen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse complex real-world problems and identify their relevant requirements."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für komplexe Praxisanwendungen eine angemessene Methode auswählen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select an appropriate method for complex real-world applications."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ausgewählte Methoden auf komplexe Praxisanwendungen anwenden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply selected methods to complex real-world applications."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8bd89225-081e-5ec8-af89-716c77426d78",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Theoretisches Wissen auf komplexe Praxiskontexte übertragen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Transferring theoretical knowledge to complex real-world contexts"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können theoretisches Wissen und Methoden analysieren, hinsichtlich ihrer Anwendbarkeit in komplexen Projektkontexten einschätzen und angemessen in die Praxis übertragen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse theoretical knowledge and methods, assess their applicability in complex project contexts, and transfer them into practice appropriately."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können die Möglichkeiten, Praktikabilität und Grenzen einer eingesetzten Methode einschätzen und bewerten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate the possibilities, practicability, and limitations of a chosen method."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "34dd4371-5636-5f9d-8b3e-537a0b2ab986",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Handlungsalternativen abwägen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Weighing alternatives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Handlungsalternativen aufzeigen und diese technisch sowie wirtschaftlich gegeneinander abwägen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Identify alternative approaches and systematically weigh them against each other technically and economically."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "da29e6b9-34df-51d6-aa7b-19ac4acdfc41",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Reviews und Tests durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Conducting reviews and testing"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Methoden der Softwarequalitätssicherung anwenden — einschließlich Code-Reviews, Testing und Refactoring."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply software quality assurance methods including code reviews, testing, and refactoring."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "529a48da-6172-58a0-a9c1-195fdb4ceaf5",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROG-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-gestützte Softwareentwicklungsprozesse analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI-assisted software development processes"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren, wie KI-gestützte Werkzeuge Softwareentwicklungsprozesse — einschließlich Testing, Code-Review, Dokumentation und DevOps — verändern und bewerten deren Vor- und Nachteile."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse how AI tools are changing software development processes — including testing, code review, documentation, and DevOps — and evaluate their advantages and limitations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e92b3be4-b941-54ca-9a00-f307e1fd0892",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Ausgaben bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating AI output"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können KI-generierte Entwürfe und Lösungsvorschläge anhand definierter Qualitätskriterien bewerten und mit eigenen Ansätzen vergleichen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate AI-generated designs and solution proposals against defined quality criteria and compare them with own approaches."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ced37877-e6ce-5434-9254-0860b5370c6f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sich anpassen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Adapting to new situations"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich schnell in neuen Aufgabenbereichen, Projektkontexten und Teams zurechtfinden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Quickly orientate themselves in new task areas, project contexts, and teams."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fbb3a82d-bb40-5947-afd9-136d5ffb122b",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Urteilsfähigkeit entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing critical judgement"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verfügen über ein fundiertes kritisches Urteilsvermögen und können professionelle Entscheidungen eigenständig begründen und verantworten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Develop sound critical judgement and independently assess and justify professional decisions."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ebc23c5f-1339-512b-8ba3-a1069bc8bd13",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kritisch reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting critically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Lösungsvorschläge und eigene Arbeitsergebnisse kritisch reflektieren und kontinuierlich verbessern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Critically reflect on solution proposals and own work and continuously improve them."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a79d3c22-053d-5a80-ab70-ad1572d72237",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kognitive Veränderungen durch KI im Analyseprozess reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI's cognitive effects in analytical processes"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren, wie der Einsatz von KI-Werkzeugen im Analyse- und Entwurfsprozess ihr eigenes analytisches Urteilsvermögen beeinflusst, und entwickeln Strategien zur Wahrung analytischer Unabhängigkeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on how the use of AI tools in analytical and design processes affects their own analytical judgement and develop strategies to preserve analytical independence."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich in neue Teams integrieren und effektiv zu komplexen Projekten beitragen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate into new teams and effectively contribute to complex projects."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a72fe9b2-7017-52ff-91fe-6f146901955a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Disziplinen verbinden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Connecting disciplines"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden lösen komplexe berufliche Problemstellungen methodensicher und zielgerichtet und verbinden dabei den Softwareentwicklungsprozess mit Projektmanagementtechniken."
+        },
+        {
+          "language": "en-GB",
+          "value": "Solve complex professional problems methodically and purposefully, connecting the software development process with project management techniques."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ecbd518b-8b3d-5051-b9ae-303182f10748",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ALGO-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Muster erkennen und abstrahieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising and abstracting patterns"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen wiederkehrende Muster in verschiedenen Problemkontexten, abstrahieren diese zu generischen Lösungen und übertragen sie auf neue Domänen — einschließlich der Identifikation bekannter Entwurfsmuster in bestehenden Codebasen und der Bewertung ihrer Eignung für Refactoring."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise recurring patterns across different problem contexts, abstract them into generic solutions, and transfer them to new domains — including identification of known design patterns in existing codebases and evaluation of their suitability for refactoring."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "af1ddb0a-39e1-5ede-8009-d175f5a8fc0e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "QUAL-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Systematische Fehleranalyse durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Conducting systematic failure analysis"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren systematisch Fehler und Ausfälle in Softwaresystemen, identifizieren Grundursachen mittels geeigneter Methoden (z. B. 5-Whys, Fehlerbaumanalyse) und leiten präventive Maßnahmen für Architektur, Tests oder Deployment-Prozesse ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Systematically analyse errors and failures in software systems, identify root causes using appropriate methods (e.g. 5-Whys, fault tree analysis), and derive preventive measures for architecture, testing, or deployment processes."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "55775751-03c6-584c-89f8-c36311816d12",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Entscheidungen dokumentieren (Architecture Decision Records)"
+        },
+        {
+          "language": "en-GB",
+          "value": "Documenting decisions (Architecture Decision Records)"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden dokumentieren wichtige technische und architektonische Entscheidungen in strukturierter Form (Architecture Decision Records) — einschließlich Kontext, verworfener Alternativen, Begründung und Konsequenzen — und pflegen diese als nachvollziehbares Projektgedächtnis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Document important technical and architectural decisions in a structured format (Architecture Decision Records) — including context, discarded alternatives, rationale, and consequences — and maintain them as a traceable project memory."
+        }
+      ]
+    }
+  ]
+}

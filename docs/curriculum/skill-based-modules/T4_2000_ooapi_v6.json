@@ -1,0 +1,277 @@
+{
+  "id": "41827d33-b151-5045-8173-0b6ce7f158f5",
+  "code": "T4_2000",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Praxisprojekt II — Arbeit integriertes Projekt II"
+    },
+    {
+      "language": "en-GB",
+      "value": "Work Integrated Project II"
+    }
+  ],
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Erfassen industrieller Problemstellungen in angemessenem Kontext und angemessener Komplexität. Anwendung betrieblicher Methoden, Techniken und Fertigkeiten. Umsetzung von Aufgaben durch durchdachte Konzepte, fundierte Planung und Projektmanagement. Anfertigung der Projektarbeit II."
+    },
+    {
+      "language": "en-GB",
+      "value": "Capture of industrial problem statements in appropriate context and complexity. Application of operational methods, techniques, and skills. Implementation of tasks through well-conceived concepts, sound planning, and project management. Completion of Project Assignment II."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 20
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 600
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 5
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P6M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Projektarbeit (benotet) + Ablauf- und Reflexionsbericht (Bestanden/Nicht-Bestanden) + Kombinierte Prüfung: Referat (30%) und Mündliche Prüfung (70%) (benotet)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Project work (graded) + process and reflection report (pass/fail) + combined assessment: presentation (30%) and oral examination (70%) (graded)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Work Integrated Learning / Praxisprojekte",
+    "x-dhbw-stream-id": null,
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 600,
+      "contact": 5,
+      "selfStudy": 595,
+      "note": "Self-study = work-based learning at dual partner enterprise."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 6,
+      "type_distribution": {
+        "Fachkompetenz": 1,
+        "Methodenkompetenz": 2,
+        "Personale und Soziale Kompetenz": 2,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L2": 3,
+        "L3": 1,
+        "L4": 2
+      },
+      "bloom_average": 2.83,
+      "competence_domains": [
+        "ANLY",
+        "METH",
+        "PERS",
+        "PROJ",
+        "TEAM"
+      ],
+      "ai_related_count": 0,
+      "standing_policies": [
+        "Praxisprojekte are work-integrated learning modules — the 'teaching' happens at the dual partner enterprise. LOs are therefore competence anchors that describe what graduates can demonstrate after the work phase, not learning activities during a lecture.",
+        "Progressive complexity: T4_1000 (Y1) — supervised, L1/L2 mostly, first professional identity formation. T4_2000 (Y2) — increasing independence, L2/L3, project management competence. T4_3000 (Y3) — near-independent, L3/L4, integration with academic research, preparation for Bachelorarbeit.",
+        "No AI entries by design: the Praxisprojekte are assessment vehicles for the full programme. AI competences are developed in substantive modules and demonstrated in practice."
+      ]
+    },
+    "newStudy": {
+      "stream": "Work Integrated Learning",
+      "year": 2
+    }
+  },
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erfassen industrielle Problemstellungen in angemessenem Kontext und Komplexität, kennen die technischen und organisatorischen Prozesse des dualen Partners und erläutern deren Funktion und Wirkungszusammenhänge fundiert."
+        },
+        {
+          "language": "en-GB",
+          "value": "Capture industrial problem statements in appropriate context and complexity, know the technical and organisational processes of the dual partner, and provide well-founded explanations of their functions and interdependencies."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen betriebliche Methoden, Techniken und Fertigkeiten sachangemessen und situationsgerecht aus, schätzen dabei Stärken und Schwächen der Methoden ein und setzen die ihnen übertragenen Aufgaben durch durchdachte Konzepte und fundierte Planung um."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select operational methods, techniques, and skills appropriately and situationally, assess the strengths and weaknesses of these methods, and implement assigned tasks through well-conceived concepts and sound planning."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "6f1d34a7-30dc-565b-8f48-6fc1af9c9a0c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte durchführen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Executing projects"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden führen betriebliche Projekte unter Anleitung durch, planen Arbeitspakete, koordinieren Beiträge im Team und dokumentieren Ergebnisse nach akademischen und betrieblichen Standards."
+        },
+        {
+          "language": "en-GB",
+          "value": "Carry out operational projects under guidance, plan work packages, coordinate contributions within the team, and document results according to academic and operational standards."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "af7ec807-9ca0-5312-b77f-049ae64d6ede",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-07"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Sich gezielt verbessern"
+        },
+        {
+          "language": "en-GB",
+          "value": "Improving purposefully"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden arbeiten zielgerichtet an ihrer Persönlichkeitsentwicklung, verbessern sich auf Basis von Erfahrungen und Feedback und übernehmen selbstständig Verantwortung für die ihnen übertragenen Aufgaben."
+        },
+        {
+          "language": "en-GB",
+          "value": "Work purposefully on their personal development, improve based on experience and feedback, and independently take responsibility for the tasks assigned to them."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "c40c4339-be04-55cd-906a-5703d2139912",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "In Teams mitwirken"
+        },
+        {
+          "language": "en-GB",
+          "value": "Contributing to teams"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen aktive Rollen in betrieblichen Arbeitsteams, fördern die gemeinsame Zielerreichung und integrieren sich konstruktiv in die Unternehmenskultur des dualen Partners."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take active roles in operational work teams, promote shared achievement of goals, and integrate constructively into the corporate culture of the dual partner."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beurteilen, inwiefern theoretische Modelle aus dem Studium zur Lösung industrieller Problemstellungen beitragen können, entwickeln erste eigene Ideen für Lösungsansätze und evaluieren alternative Vorgehensweisen auf Basis ihrer wachsenden Praxiserfahrung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Assess to what extent theoretical models from their studies can contribute to solving industrial problem statements, develop initial own solution ideas, and evaluate alternative approaches based on their growing practical experience."
+        }
+      ]
+    }
+  ]
+}

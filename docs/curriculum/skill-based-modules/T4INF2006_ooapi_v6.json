@@ -1,0 +1,412 @@
+{
+  "id": "a6413c86-8575-5080-8d7b-d41dc82903bf",
+  "code": "T4INF2006",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "IT-Sicherheit"
+    },
+    {
+      "language": "en-GB",
+      "value": "IT Security"
+    }
+  ],
+  "abbreviation": "SECU",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Grundlegende Begriffe und Sicherheitsprobleme; Bedrohungsanalyse und Sicherheitskonzepte; Basismechanismen: Verschlüsselung, Hash-Funktionen, Authentication Codes, Signaturalgorithmen, Public-Key-Verfahren und kryptographische Grundlagen; Sicherheitsmodelle; Netzwerksicherheit und Sicherheitsprotokolle (X.509, OAuth); Sicherheit webbasierter Anwendungen (XSS, SQL Injection, Microservices); sichere Programmierung (OWASP Top Ten); Datenschutz und DSGVO; Embedded Security; KI-spezifische Angriffsvektoren (Adversarial Examples, Model Inversion, Poisoning); Risikoframeworks für KI-Systeme (EU AI Act, ISO/IEC); ethische Dimensionen des IT-Einsatzes."
+    },
+    {
+      "language": "en-GB",
+      "value": "Fundamental security concepts and problems; threat analysis and security concepts; base mechanisms: encryption, hash functions, authentication codes, signature algorithms, public-key procedures, and cryptographic foundations; security models; network security and protocols (X.509, OAuth); security of web-based applications (XSS, SQL injection, microservices); secure programming (OWASP Top Ten); data protection and GDPR; embedded security; AI-specific attack vectors (adversarial examples, model inversion, poisoning); risk frameworks for AI systems (EU AI Act, ISO/IEC); ethical dimensions of IT deployment."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Systems, Platforms & Security",
+    "x-dhbw-stream-id": "2223d636-3c1d-571d-abf8-496b77f33216",
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "1 unit: IT-Sicherheit."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 10,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 4,
+        "Personale und Soziale Kompetenz": 1,
+        "Übergreifende Handlungskompetenz": 2
+      },
+      "bloom_distribution": {
+        "L2": 6,
+        "L3": 3,
+        "L4": 1
+      },
+      "bloom_average": 2.5,
+      "competence_domains": [
+        "ANLY",
+        "ETHI",
+        "METH",
+        "NETW",
+        "SECU",
+        "SYST"
+      ],
+      "ai_related_count": 3,
+      "standing_policies": [
+        "All 5 SECU entries are placed here for the first time — T4INF2006 is the only SECU-domain module in the programme. SECU-2-01/2-02 (L2) cover baseline security practice. SECU-3-01/3-02 (L3 AI-related) add the AI security layer. SECU-3-03 (L3) covers low-level vulnerabilities.",
+        "SECU-3-01 (AI attack vectors, L3) and SECU-3-02 (AI risk frameworks, L3): 'Aktuelle Themen' and 'Embedded Security' in the module content explicitly create space for these entries. AI security is a current topic in every security curriculum. Both are ai_related with ai_domain: security.",
+        "ETHI-2-02 (AI bias and fairness, L2, Pers): The module's personale Kompetenz explicitly states sensitisation to ethical questions including Datenschutz and consequences for affected individuals. ETHI-2-02 extends this to the AI context — recognising bias in algorithmic systems is both a security and ethics competence.",
+        "ANLY-4-02 (weighing alternatives, L4, Überg): The Fachkompetenz states students 'can weigh strengths and weaknesses of possible measures against each other in concrete situations' — exactly ANLY-4-02. L4 is the only L4 entry in this module, representing the integration competence.",
+        "NETW-2-01 (network fundamentals, L2): First and only activation of NETW domain. Network security requires understanding network fundamentals — this is the most natural placement."
+      ]
+    },
+    "newStudy": {
+      "stream": "Systems, Platforms & Security",
+      "year": 2,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "IT-Sicherheit",
+          "title_en": "IT Security",
+          "contact_h": 60,
+          "self_study_h": 90,
+          "lo_count": 10
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Anderson, R. (2020). Security Engineering: A Guide to Building Dependable Distributed Systems (3rd ed.). Wiley.",
+    "Eckert, C. (2023). IT-Sicherheit: Konzepte — Verfahren — Protokolle (11th ed.). De Gruyter Oldenbourg.",
+    "OWASP Foundation (2021). OWASP Top Ten. https://owasp.org/Top10/",
+    "European Commission (2024). EU Artificial Intelligence Act (Regulation EU 2024/1689).",
+    "ISO/IEC 27001:2022. Information security, cybersecurity and privacy protection.",
+    "Goodfellow, I., Shlens, J., & Szegedy, C. (2015). Explaining and harnessing adversarial examples. ICLR 2015.",
+    "Stallings, W. (2022). Cryptography and Network Security: Principles and Practice (8th ed.). Pearson."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "af1194f4-2893-5a97-88f2-70c22a9fd9e6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SECU-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "IT-Sicherheit gewährleisten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Ensuring IT security"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden gewährleisten IT-Sicherheit durch geeignete Maßnahmen im Rahmen eines Sicherheitskonzepts: Sie identifizieren nach einer Bedrohungsanalyse einzelne Schwachstellen und wählen kryptographische und architekturelle Gegenmaßnahmen aus."
+        },
+        {
+          "language": "en-GB",
+          "value": "Ensure IT security through appropriate measures within a security concept: identify individual vulnerabilities following a threat analysis and select cryptographic and architectural countermeasures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "ec522e46-51e9-521c-8da8-5280f96e8ada",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SECU-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Datenschutz umsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Implementing data protection"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden implementieren Datenschutzanforderungen in digitalen Systemen — unter Berücksichtigung der DSGVO — und entwickeln ein Bewusstsein für die Konsequenzen des IT-Einsatzes für betroffene Personen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement data protection requirements in digital systems — taking GDPR into account — and develop awareness of the consequences of IT deployment for affected individuals."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7b939466-eca3-5fa8-9c1e-3eb2a82039f1",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SECU-3-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Low‑Level Sicherheitsmechanismen analysieren und anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing and applying low‑level security mechanisms"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren systemnahe Sicherheitslücken — darunter Buffer Overflows, Injection-Angriffe und Embedded-Security-Schwachstellen — und wenden Gegenmaßnahmen der sicheren Programmierung (z. B. OWASP Top Ten) gezielt an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse low-level security vulnerabilities — including buffer overflows, injection attacks, and embedded security weaknesses — and apply targeted countermeasures from secure programming practice (e.g. OWASP Top Ten)."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wählen geeignete Methoden der IT-Sicherheitsanalyse — darunter Bedrohungsmodellierung, Risikoanalyse und Schwachstellenbewertung — für konkrete Systemarchitekturen aus und begründen ihre Wahl."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select appropriate methods of IT security analysis — including threat modelling, risk analysis, and vulnerability assessment — for specific system architectures and justify their selection."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3f1583fc-cd05-53e2-8057-d11ad5644e25",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "NETW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Netzwerke verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding networks"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen Grundlagen der Netzwerk- und Anwendungssicherheit — einschließlich Sicherheitsprotokolle (X.509, OAuth), Web-Schwachstellen (XSS, SQL Injection) und Microservices-Sicherheit — und wenden Schutzmaßnahmen in konkreten Architekturen an."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand fundamentals of network and application security — including security protocols (X.509, OAuth), web vulnerabilities (XSS, SQL injection), and microservices security — and apply protective measures in specific architectures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2170bd67-ce62-5ba9-9005-9de3d0590b42",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SECU-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-spezifische Sicherheitsrisiken analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI-specific security risks"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren KI-spezifische Angriffsvektoren — darunter Adversarial Examples, Model Inversion und Poisoning-Angriffe — und beurteilen deren Auswirkungen auf die Sicherheit KI-gestützter Systeme."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse AI-specific attack vectors — including adversarial examples, model inversion, and poisoning attacks — and assess their impact on the security of AI-powered systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "966a1cf1-b3af-5e61-ac0c-91876b8165f0",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SECU-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Risikorahmen für KI-Systeme anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying risk frameworks to AI systems"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden einschlägige Risikoframeworks und regulatorische Anforderungen auf KI-Systeme an — darunter den EU AI Act (Hochrisiko-Klassifizierung) und einschlägige ISO/IEC-Normen — und leiten daraus Sicherheitsarchitekturentscheidungen ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply relevant risk frameworks and regulatory requirements to AI systems — including the EU AI Act (high-risk classification) and relevant ISO/IEC standards — and derive security architecture decisions from these."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "f1d7f7ff-bec6-55e3-946e-4d2c48218703",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Bias und Fairness erkennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognising AI bias and fairness issues"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erkennen KI-Bias und Fairness-Probleme in IT-Systemen, sind für ethische Fragen wie Datenschutz und Diskriminierung durch algorithmische Entscheidungen sensibilisiert und berücksichtigen diese bei der Entwicklung und dem Betrieb digitaler Systeme."
+        },
+        {
+          "language": "en-GB",
+          "value": "Recognise AI bias and fairness issues in IT systems, are sensitised to ethical questions such as data privacy and discrimination through algorithmic decisions, and take these into account when developing and operating digital systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "34dd4371-5636-5f9d-8b3e-537a0b2ab986",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Handlungsalternativen abwägen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Weighing alternatives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wägen Stärken und Schwächen unterschiedlicher Sicherheitsmaßnahmen für IT-Architekturen systematisch ab, treffen begründete Entscheidungen im Spannungsfeld zwischen Sicherheit, Funktionalität und Aufwand und kommunizieren diese in Fachdebatten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Systematically weigh the strengths and weaknesses of different security measures for IT architectures, make justified decisions in the tension between security, functionality, and effort, and communicate these in professional debates."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8523561c-e677-5e78-bcd1-a850bad27009",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "SYST-2-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Webanwendungen automatisiert deployen und betreiben"
+        },
+        {
+          "language": "en-GB",
+          "value": "Automated deployment and operation of web applications"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln und betreiben webbasierte Anwendungen und Dienste mit Blick auf sichere Deployment-Praktiken — einschließlich Authentifizierung, sichere Konfiguration und Sicherheitspatching — und berücksichtigen IT-Sicherheit als integralen Bestandteil des Entwicklungsprozesses."
+        },
+        {
+          "language": "en-GB",
+          "value": "Develop and operate web-based applications and services with attention to secure deployment practices — including authentication, secure configuration, and security patching — and treat IT security as an integral part of the development process."
+        }
+      ]
+    }
+  ]
+}

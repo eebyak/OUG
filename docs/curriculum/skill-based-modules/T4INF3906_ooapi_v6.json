@@ -1,0 +1,414 @@
+{
+  "id": "db2730d3-fa4f-5bff-b8b4-e6b0433d1702",
+  "code": "T4INF3906",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Angewandte Informatik-Forschung"
+    },
+    {
+      "language": "en-GB",
+      "value": "Applied Computer Science Research"
+    }
+  ],
+  "abbreviation": "AIF",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Neue Forschungsthemen aus dem Gebiet der Informatik und angrenzender Gebiete werden in Gruppenarbeit und Seminarform erarbeitet. Im Mittelpunkt stehen: die eigenständige Erschließung eines aktuellen Forschungsfeldes, systematische Literaturrecherche und -bewertung, kritische Analyse von KI-Einflüssen auf Wissensproduktion und wissenschaftliche Praxis, Reflexion menschlicher Handlungsfähigkeit in KI-vermittelten Forschungsprozessen, verantwortungsvoller und transparenter Umgang mit KI-Werkzeugen in der wissenschaftlichen Arbeit sowie die schriftliche und mündliche Präsentation der Ergebnisse als Referat."
+    },
+    {
+      "language": "en-GB",
+      "value": "New research topics from computer science and adjacent fields are explored in group work and seminar format. Core activities include: independently engaging with a current research field, systematic literature research and evaluation, critical analysis of AI influences on knowledge production and scholarly practice, reflection on human agency in AI-mediated research processes, responsible and transparent use of AI tools in scholarly work, and written and oral presentation of results as a seminar paper and talk."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Referat (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Seminar paper and oral presentation (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Research, Professional & Societal Practice",
+    "x-dhbw-stream-id": "f81739c3-8379-5b3a-8136-7731116861e9",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "1 unit: Angewandte Informatik-Forschung. 60h contact (seminar, group work, presentations). 90h self-study (literature research, written assignment, preparation of oral presentation)."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 10,
+      "type_distribution": {
+        "Fachkompetenz": 3,
+        "Methodenkompetenz": 3,
+        "Personale und Soziale Kompetenz": 3,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 5,
+        "L3": 1,
+        "L4": 3
+      },
+      "bloom_average": 2.6,
+      "competence_domains": [
+        "ANLY",
+        "COMM",
+        "PERS",
+        "RSCH",
+        "TEAM"
+      ],
+      "ai_related_count": 4,
+      "standing_policies": [
+        "T4INF3906 is the designated home for AI-critical reflection in the programme. The source document is intentionally thin ('neue Forschungsthemen in Gruppenarbeit erarbeitet') — this gives deliberate latitude to shape the module as the place where students ask: what does AI do to knowledge, to research, and to me as a thinker?",
+        "PERS-4-10 (human agency, L4, Pers): The research seminar is the one module where students engage with CS as a discipline and with the question of what computers can and cannot replace in human reasoning. Year 3, after three years of technical immersion, is exactly the right moment. ai_domain: cognitive, societal.",
+        "PERS-4-11 (cognitive effects of AI, L4, Pers): Paired with PERS-4-10 as the reflective core of the module. Students who have spent three years using AI tools for coding, data analysis, and writing are now asked to examine what that has done to their own cognition. ai_domain: cognitive.",
+        "RSCH-3-01 (AI effects on research/knowledge production, L3, Fach): Analytically supports PERS-4-10/11 — this is the scholarly/structural angle (what does AI do to research as a social practice?) versus the personal angle (what does AI do to me?). ai_domain: cognitive, research.",
+        "RSCH-2-02 (responsible AI in academic work, L2, Pers): Placed here as the operational anchor — students are actively doing research in this module. The question of how to use AI tools in literature search, drafting, and analysis is immediately practical. Complements RSCH-2-02 in T4INF1005 which addresses the same competence at Year 1 entry level.",
+        "RSCH-4-01 (scientific writing, L4, Meth): The Referat is a complete scientific assignment — literature review, analysis, oral presentation. This is the primary assessment anchor and the highest-level research competence in the programme.",
+        "TEAM-2-02 (team-oriented action, L2, Überg): Groups work together on research topics; peer feedback on presentations is an explicit element. Social, not individual."
+      ]
+    },
+    "newStudy": {
+      "stream": "Research, Professional & Societal Practice",
+      "year": 3,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Angewandte Informatik-Forschung",
+          "title_en": "Applied Computer Science Research",
+          "contact_h": 60,
+          "self_study_h": 90,
+          "lo_count": 10
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Kornmeier, M. (2018). Wissenschaftlich schreiben leicht gemacht. UTB.",
+    "Theissen, M. R. (2021). Wissenschaftliches Arbeiten: Erfolgreich bei Bachelor- und Masterarbeit. Vahlen.",
+    "Crawford, K., et al. (2023). Generative AI and the future of scientific research. Nature.",
+    "Floridi, L., et al. (2020). An ethical framework for a good AI society. Minds and Machines, 28(4), 689-707.",
+    "Weizenbaum, J. (1978). Die Macht der Computer und die Ohnmacht der Vernunft. Suhrkamp.",
+    "Bryson, J. J., & Winfield, A. (2017). Standardizing ethical design for AI. IEEE Computer, 50(5).",
+    "IEEE (2019). Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems. IEEE."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "58af11eb-1d64-5812-8a4b-834b06da6a50",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-1-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Entwicklungen kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing current developments"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen aktuelle Entwicklungen in der angewandten Informatikforschung und in angrenzenden Gebieten und können deren Bedeutung für ihr Fachgebiet einordnen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know current developments in applied computer science research and adjacent fields and can assess their significance for their own discipline."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "04136f3d-2f8a-5e8d-84e4-a5f5de19b558",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-2-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Konzepte verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding concepts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen aktuelle Konzepte, Methoden und Verfahren eines gewählten Informatik-Forschungsthemas und erklären deren wissenschaftlichen Kontext sowie Anwendungspotenziale."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand current concepts, methods, and procedures in a chosen computer science research topic and explain their scientific context and application potential."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "17f1be1a-6888-5caf-9306-c79723d88d7c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI-Auswirkungen auf Forschung und Wissen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing AI's effects on research and knowledge production"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren, wie KI-gestützte Forschungsmethoden die Wissensproduktion, Publikationspraxis und wissenschaftliche Integrität in der Informatik verändern, und reflektieren die Implikationen für ihre eigene Forschungspraxis."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse how AI-assisted research methods are changing knowledge production, publication practices, and scholarly integrity in computer science, and reflect on the implications for their own research practice."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "55f51ce6-3aad-5a3c-95ac-d94c117be18a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Literatur recherchieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Researching literature"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden recherchieren aktuelle wissenschaftliche Literatur zu ihrem Forschungsthema, bewerten Quellen systematisch nach Relevanz und Qualität und integrieren Ergebnisse in eine kohärente Darstellung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Research current scientific literature on their research topic, systematically evaluate sources by relevance and quality, and integrate findings into a coherent presentation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "40a7c774-6aa4-5e1a-a092-b59a0b1ccb3e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Inhalte beschreiben"
+        },
+        {
+          "language": "en-GB",
+          "value": "Describing content"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erklären und beschreiben neue Informatikkonzepte und Forschungsergebnisse anhand von Beispielen verständlich — sowohl für ein Fachpublikum im Referat als auch in der schriftlichen Ausarbeitung."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain and describe new computer science concepts and research findings using examples accessibly — both for a specialist audience in the oral presentation and in the written assignment."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "8db27732-0bef-5301-9421-99814ddd165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Wissenschaftlich arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working scientifically"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden planen und liefern eigenständig eine vollständige wissenschaftliche Ausarbeitung zu einem gewählten Informatik-Forschungsthema — einschließlich Literaturrecherche, thematischer Einordnung, kritischer Analyse und Reflexion der Ergebnisse."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently plan and deliver a complete scientific assignment on a chosen computer science research topic — including literature research, thematic contextualisation, critical analysis, and reflection on findings."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3e839589-6821-52d7-ad55-f58eb2a873d0",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-10"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Menschliche Handlungsfähigkeit im KI-Kontext behaupten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Asserting human agency in AI-mediated contexts"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren im Kontext ihres Forschungsthemas, welche Aufgaben und Entscheidungen zwingend menschliches Urteilsvermögen erfordern, und begründen, warum Delegation an KI-Systeme in diesen Bereichen unangemessen ist."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate, in the context of their research topic, which tasks and decisions necessarily require human judgement, and justify why delegation to AI systems is inappropriate in these areas."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b789f89f-316c-582f-80ec-ba707e8c1feb",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-11"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Kognitive Auswirkungen von KI reflektieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflecting on AI's cognitive effects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden reflektieren, wie die Nutzung von KI-Werkzeugen im Forschungsprozess ihr eigenes Denken, Analysieren und Schreiben verändert, und entwickeln bewusste Strategien zur Erhaltung kognitiver Eigenständigkeit."
+        },
+        {
+          "language": "en-GB",
+          "value": "Reflect on how the use of AI tools in the research process changes their own thinking, analysis, and writing, and develop conscious strategies for maintaining cognitive independence."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "51095acc-f159-5b0e-90b7-514a3dc240e5",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "RSCH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI in der wissenschaftlichen Arbeit verantwortungsvoll einsetzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using AI responsibly in academic work"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden nutzen KI-Werkzeuge in ihrer wissenschaftlichen Arbeit — Literaturrecherche, Textentwurf, Auswertung — verantwortungsvoll und transparent, unter Einhaltung der Standards wissenschaftlicher Integrität und korrekter Autorenschaft."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use AI tools in their scholarly work — literature research, drafting, analysis — responsibly and transparently, observing standards of scholarly integrity and correct attribution of authorship."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "3be3446c-d572-520e-92c5-02f231b5165c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "TEAM-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Teamorientiert handeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Acting team-orientedly"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden arbeiten teamorientiert in Gruppen an Forschungsthemen, koordinieren Beiträge, geben konstruktives Feedback auf Referate anderer und tragen zu einem kollaborativen wissenschaftlichen Diskurs bei."
+        },
+        {
+          "language": "en-GB",
+          "value": "Work in a team-oriented manner in groups on research topics, coordinate contributions, give constructive feedback on others' presentations, and contribute to collaborative scholarly discourse."
+        }
+      ]
+    }
+  ]
+}

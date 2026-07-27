@@ -1,0 +1,450 @@
+{
+  "id": "bd8a5564-76cf-5b47-a075-ea3c1db2d974",
+  "code": "T4INF4324",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Consulting, technischer Vertrieb und Recht"
+    },
+    {
+      "language": "en-GB",
+      "value": "Consulting, Technical Sales and Law"
+    }
+  ],
+  "abbreviation": "CTR",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Unit 1 — Recht: Systematik des deutschen Rechts; Zivilrecht und Vertragsrecht; Rechtssubjekte, Vertragsbegründung, AGB, Stellvertretung; Leistungsstörungen und Mängelhaftung; Urheberrecht, Markenrecht, Patente; Datenschutzrecht (DSGVO); E-Contracting; Wettbewerbsrecht; rechtliche Anforderungen für KI-Systeme (EU AI Act). Unit 2 — Consulting und technischer Vertrieb: externes und internes Consulting; Vorgehensweise und Kommunikation im Consulting; technischer Vertrieb und industrieller Kaufprozess; Akquisitionsplanung und Account Management; Kosten- und Erlösrechnung; strategische Planung und Verkaufen im Top-Management; Verhandlungsführung (Harvard-Konzept); Konfliktmanagement; Vortragstechnik und Moderation; Führung."
+    },
+    {
+      "language": "en-GB",
+      "value": "Unit 1 — Law: structure of German law; civil and contract law; legal persons, contract formation, general terms and conditions, agency; breach of contract and liability for defects; copyright, trademark, patents; data protection law (GDPR); e-contracting; competition law; legal requirements for AI systems (EU AI Act). Unit 2 — Consulting and Technical Sales: external and internal consulting; consulting methods and communication; technical sales and industrial buying process; acquisition planning and account management; cost and revenue accounting; strategic planning and selling to top management; negotiation techniques (Harvard concept); conflict management; presentation and moderation; leadership."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 5
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 150
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 60
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Klausur oder Kombinierte Prüfung (Standardnoten)"
+    },
+    {
+      "language": "en-GB",
+      "value": "Written examination or combined assessment (standard grading)"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Research, Professional & Societal Practice",
+    "x-dhbw-stream-id": "f81739c3-8379-5b3a-8136-7731116861e9",
+    "x-dhbw-academic-year": 3,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 150,
+      "contact": 60,
+      "selfStudy": 90,
+      "note": "Unit 1: Recht (20h contact, 30h self-study). Unit 2: Consulting und technischer Vertrieb (40h contact, 60h self-study)."
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-16",
+      "total_competences": 11,
+      "type_distribution": {
+        "Fachkompetenz": 5,
+        "Übergreifende Handlungskompetenz": 2,
+        "Methodenkompetenz": 2,
+        "Personale und Soziale Kompetenz": 2
+      },
+      "bloom_distribution": {
+        "L2": 2,
+        "L3": 1,
+        "L4": 8
+      },
+      "bloom_average": 3.55,
+      "competence_domains": [
+        "ANLY",
+        "COMM",
+        "ETHI",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROJ"
+      ],
+      "ai_related_count": 4,
+      "standing_policies": [
+        "ETHI-4-03 (EU AI Act compliance, L4, Überg U1) and ETHI-4-04 (AI governance structures, L4, Überg U1): T4INF4348 Integrationsseminar covers ETHI-3-02 (AIA) and ETHI-4-01 (evaluating governance frameworks). T4INF4324 Recht is the natural home for the legal compliance angle (EU AI Act as positive law, GDPR obligations) and the institutional design angle (designing ethics boards and accountability frameworks). These are professional consultant tasks — teaching them here gives them immediate occupational grounding.",
+        "COMM-3-02 (AI for non-technical audiences, L3, Meth U2): A consultant must explain AI systems to decision-makers who are not engineers. This is the primary professional context in which this communication competence is exercised. More grounded here than in any technical module.",
+        "PROJ-4-05 (AI product strategy, L4) and PROJ-4-06 (business case/ROI, L4): Both placed in Fachkompetenz U2 — consulting and technical sales explicitly require product strategy and ROI calculation. Werbach & Hunter framing extended to the consulting context.",
+        "ANLY-4-02 (weighing alternatives, L4, Pers U2): The Harvard negotiation concept teaches exactly systematic alternative-weighing (BATNA, interests vs. positions). Natural and precise placement.",
+        "Bloom progression: U1 avg 3.0 (law as applied analysis and governance) → U2 avg 3.86 (evaluation, strategy, communication, negotiation). Both units operate at Year-3 register."
+      ]
+    },
+    "newStudy": {
+      "stream": "Research, Professional & Societal Practice",
+      "year": 3,
+      "units": [
+        {
+          "id": "U1",
+          "title_de": "Recht",
+          "title_en": "Law",
+          "contact_h": 20,
+          "self_study_h": 30,
+          "lo_count": 4
+        },
+        {
+          "id": "U2",
+          "title_de": "Consulting und technischer Vertrieb",
+          "title_en": "Consulting and Technical Sales",
+          "contact_h": 40,
+          "self_study_h": 60,
+          "lo_count": 7
+        }
+      ]
+    }
+  },
+  "resources": [
+    "Kienle, A., & Kunau, G.: Informatik und Gesellschaft: Eine sozio-technische Perspektive. De Gruyter Oldenbourg.",
+    "Gless, S., & Seelmann, K. (Hrsg.): Intelligente Agenten und das Recht. Nomos.",
+    "Müller-Hengstenberg, C., & Kirn, S.: Rechtliche Risiken autonomer und vernetzter Systeme. De Gruyter.",
+    "Hauck, R., Hofmann, F., & Zech, H.: Verkehrsfähigkeit digitaler Güter. Zeitschrift für Geistiges Eigentum.",
+    "Fisher, R., Ury, W., & Patton, B. (2011). Getting to Yes. Penguin.",
+    "Kohlert, H.: Marketing für Ingenieure. Oldenbourg.",
+    "European Commission (2024). EU Artificial Intelligence Act (Regulation EU 2024/1689).",
+    "European Parliament (2016). General Data Protection Regulation (GDPR / DSGVO)."
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "273794b2-fd64-5448-9b8f-4eab1c7e0824",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding interdependencies"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden verstehen die Systematik des deutschen Rechts — einschließlich Zivilrecht, Vertragsrecht, Datenschutzrecht (DSGVO), Urheberrecht und gewerblichem Rechtsschutz — und erkennen rechtliche Zusammenhänge, die bei der Entwicklung und dem Betrieb digitaler Systeme relevant sind."
+        },
+        {
+          "language": "en-GB",
+          "value": "Understand the structure of German law — including civil law, contract law, data protection law (GDPR), copyright, and intellectual property protection — and identify legal interdependencies relevant to the development and operation of digital systems."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wenden grundlegende Rechtsnormen auf Fallbeispiele aus der Informatik an — darunter Vertragsgestaltung, E-Contracting, Mängelhaftung und Datenschutzkonflikte — und leiten daraus praxisrelevante Handlungsempfehlungen ab."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply foundational legal norms to case studies from computer science — including contract design, e-contracting, liability for defects, and data protection conflicts — and derive practically relevant recommendations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1cae894b-97a8-5ecf-a54f-266aeaab25e7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-4-03"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Rechtliche Anforderungen an KI‑Systeme bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Assessing legal requirements for AI systems"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden beurteilen rechtliche Anforderungen für KI-Systeme — insbesondere den EU AI Act und die DSGVO — hinsichtlich ihrer Konformitätspflichten und ihrer Auswirkungen auf Systementwurf, Dokumentation und Betrieb."
+        },
+        {
+          "language": "en-GB",
+          "value": "Assess legal requirements for AI systems — in particular the EU AI Act and GDPR — with respect to their compliance obligations and their effects on system design, documentation, and operation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1b8ac82d-6d58-5005-b07c-978946ef4c9d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ETHI-4-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑Governance‑Strukturen und Richtlinien gestalten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing AI governance structures and policies"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen interne KI-Governance-Strukturen — einschließlich Ethics Boards, Accountability-Frameworks und Auditprozessen — und begründen deren Notwendigkeit gegenüber Unternehmensführung und Kunden."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design internal AI governance structures — including ethics boards, accountability frameworks, and audit processes — and justify their necessity to management and clients."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden evaluieren Problemlagen und Lösungsansätze in Kundensituationen — unter Einsatz von Consulting-Methoden wie strukturierter Problemanalyse, Stakeholder-Interviews und Lösungsdesign — und entwickeln fundierte Empfehlungen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate problem situations and solution approaches in client contexts — using consulting methods such as structured problem analysis, stakeholder interviews, and solution design — and develop well-founded recommendations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "49a701ce-5ca2-5d1b-a992-918c7e54ebc7",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-05"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "KI‑Produktstrategie und Roadmap entwickeln"
+        },
+        {
+          "language": "en-GB",
+          "value": "Developing AI product strategy and roadmap"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwickeln eine Produktstrategie und Roadmap für KI-Projekte im Vertriebskontext — inklusive Feature-Priorisierung, Ressourcenplanung und Kommunikation des Mehrwerts gegenüber technischen und nicht-technischen Stakeholdern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Develop a product strategy and roadmap for AI projects in a sales context — including feature prioritisation, resource planning, and communicating value to technical and non-technical stakeholders."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "17208399-a21c-5d54-bd1d-940506f1c92f",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Business Case und ROI für KI‑Projekte bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating business case and ROI for AI projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden erstellen einen Business Case für IT- und KI-Projekte, kalkulieren Kosten- und Erlösstrukturen, bewerten den Return on Investment und präsentieren das Vorhaben überzeugend vor dem Top-Management."
+        },
+        {
+          "language": "en-GB",
+          "value": "Create a business case for IT and AI projects, calculate cost and revenue structures, assess return on investment, and present the undertaking persuasively to top management."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "dcd1d281-b875-5252-a88c-b3e285c38c79",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Über KI mit nicht-technischen Zielgruppen kommunizieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicating about AI with non-technical audiences"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kommunizieren Funktionsweise, Möglichkeiten und Grenzen von KI-Systemen klar und verständlich gegenüber nicht-technischen Zielgruppen — insbesondere in Vertriebs- und Beratungssituationen mit Entscheidungsträgerinnen und -trägern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Communicate the functioning, capabilities, and limitations of AI systems clearly and accessibly to non-technical audiences — particularly in sales and consulting situations with decision-makers."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7f46df29-98d5-58a9-884d-899f22909e86",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Interdisziplinäre Perspektiven integrieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrating cross-disciplinary perspectives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden integrieren unterschiedliche Perspektiven — technische, wirtschaftliche, rechtliche und ethische — in kohärente Beratungsstrategien und Lösungsvorschläge für komplexe Kundensituationen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Integrate diverse perspectives — technical, economic, legal, and ethical — into coherent consulting strategies and solution proposals for complex client situations."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "47979d10-cc79-57fd-a8f0-95b0f58873c8",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Verantwortung übernehmen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Taking responsibility"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden übernehmen als Consultants Verantwortung für die Qualität ihrer Empfehlungen, handeln mit professioneller Verlässlichkeit und reflektieren die Auswirkungen ihrer Beratungsleistungen auf Kunden und Gesellschaft."
+        },
+        {
+          "language": "en-GB",
+          "value": "Take responsibility as consultants for the quality of their recommendations, act with professional reliability, and reflect on the impact of their consulting services on clients and society."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "34dd4371-5636-5f9d-8b3e-537a0b2ab986",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Handlungsalternativen abwägen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Weighing alternatives"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden wägen in Verhandlungssituationen — etwa beim Einsatz des Harvard-Konzepts — verschiedene Handlungsalternativen systematisch ab und treffen begründete Entscheidungen unter Berücksichtigung von Interessen, Optionen und Fairnesskriterien."
+        },
+        {
+          "language": "en-GB",
+          "value": "Weigh different courses of action systematically in negotiation situations — such as when applying the Harvard negotiation concept — and make reasoned decisions taking into account interests, options, and fairness criteria."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "id": "5284e27e-b76e-50a8-882a-495fc1c6012f",
+  "code": "T4INF2004",
+  "name": [
+    {
+      "language": "de-DE",
+      "value": "Datenbanksysteme"
+    },
+    {
+      "language": "en-GB",
+      "value": "Database Systems"
+    }
+  ],
+  "abbreviation": "DBS",
+  "description": [
+    {
+      "language": "de-DE",
+      "value": "Grundkonzepte und Datenmodellierung (Entity Relationship Modell); aktuelle und historische Datenbankmodelle; relationales Datenmodell; Normalformen; relationaler Datenbankentwurf; Mehrbenutzerbetrieb und Transaktionskonzepte; Architekturen von Datenbanksystemen; Einführung in SQL (Praxisprojekt)."
+    },
+    {
+      "language": "en-GB",
+      "value": "Fundamental concepts and data modelling (Entity Relationship model); current and historical database models; relational data model; normal forms; relational database design; multi-user operation and transaction concepts; database system architectures; introduction to SQL (practical project)."
+    }
+  ],
+  "studyLoad": [
+    {
+      "studyLoadUnit": "ects",
+      "value": 6
+    },
+    {
+      "studyLoadUnit": "sbu",
+      "value": 180
+    },
+    {
+      "studyLoadUnit": "contact_time",
+      "value": 72
+    }
+  ],
+  "level": "bachelor",
+  "modesOfDelivery": [
+    "online"
+  ],
+  "duration": "P3M",
+  "languages": [
+    "eng",
+    "ger"
+  ],
+  "assessment": [
+    {
+      "language": "de-DE",
+      "value": "Kombinierte Prüfung: Klausur (40%) und Entwurf (60%), Standardnoten"
+    },
+    {
+      "language": "en-GB",
+      "value": "Combined assessment: written exam (40%) and design project (60%), standard grading"
+    }
+  ],
+  "organization": "82f4e6f8-3a5b-4e7c-9d1f-5a2b3c4d5e6f",
+  "ext": {
+    "x-dhbw-stream": "Data, AI & Intelligent Systems",
+    "x-dhbw-stream-id": "69f47672-6fe5-5fda-bff9-cc166894ce7c",
+    "x-dhbw-academic-year": 2,
+    "x-dhbw-program-id": "0ecc8d65-055a-5f71-b911-7239104ca964",
+    "x-dhbw-eqf-level": "6",
+    "x-dhbw-quality-assurance": "DHBW internal QA (system accredited)",
+    "x-dhbw-workload": {
+      "total": 180,
+      "contact": 72,
+      "selfStudy": 108
+    },
+    "qualitylink": {
+      "codebook_reference": "competence_codebook_v10.json",
+      "codebook_version": "10.0",
+      "processing_date": "2026-04-10",
+      "total_competences": 17,
+      "type_distribution": {
+        "Fachkompetenz": 6,
+        "Methodenkompetenz": 8,
+        "Personale und Soziale Kompetenz": 2,
+        "Übergreifende Handlungskompetenz": 1
+      },
+      "bloom_distribution": {
+        "L1": 1,
+        "L2": 10,
+        "L3": 2,
+        "L4": 4
+      },
+      "competence_domains": [
+        "ANLY",
+        "APPL",
+        "ARCH",
+        "COMM",
+        "DATA",
+        "KNOW",
+        "METH",
+        "PERS",
+        "PROJ"
+      ],
+      "ai_related_count": 1,
+      "human_skill_self_count": 1,
+      "human_skill_social_count": 1,
+      "standing_policies": [
+        "KNOW-2-01 appears twice — distinct module sentences with distinct objects: (1) historical/current DB model families; (2) architectural principles and transaction management. Valid per two-sentence policy.",
+        "ANLY-4-01 appears twice — distinct objects: (1) Fach: evaluate a concrete DB design artefact; (2) Meth: evaluate the design methods themselves. Very different cognitive objects. Valid per two-sentence policy.",
+        "ANLY-3-01 added as L3 bridge between METH-2-02 (apply normalisation rules, L2) and ARCH-4-01 (design full DB, L4). Fills the L3 gap in a 6 ECTS module.",
+        "SQL named explicitly in APPL-2-02 — SQL is the domain language of relational databases, not a product. Analogous to 'English' in a language module. Technology-agnostic principle does not apply to domain languages.",
+        "Übergreifend was entirely absent — PROJ-4-01 added as integration act matching 60% Entwurf assessment.",
+        "Literature: all pre-2015 references (Elmasri/Navathe, Ramakrishnan, Date) replaced. Silberschatz (2019) as core textbook; Kleppmann (2017) for modern data infrastructure context; Sadalage/Fowler bridges to T4INF3103.",
+        "v10 amendment: Three Methodenkompetenz entries added (N1 + N3). APPL-2-06 (ORM, L2): dominant professional DB access pattern; fits SQL/implementation unit and Entwurf (60%) assessment directly. DATA-2-02 (ETL/ELT, L2): N3 data engineering; ETL implicit in DWH coverage but lacked explicit LO. DATA-3-02 (data quality, L3): N3 data engineering; quality metrics implicit in normalisation content. Two-sentence policy: distinct object from T4INF3103 instance (basic DB dataset quality vs DWH data lineage tracking)."
+      ]
+    },
+    "newStudy": {
+      "hub": "New Study CS Programme",
+      "stream": "Data, AI & Intelligent Systems",
+      "year": 2,
+      "note": "6 ECTS — only module in stream with this load. Single unit. Light AI touch (one KNOW-2-02 entry). L3 normalisation analysis entry fills the gap between applying rules (L2) and full design (L4). Bridges to T4INF3103 (advanced DB) via NoSQL literature."
+    }
+  },
+  "resources": [
+    "Silberschatz, A. / Korth, H. / Sudarshan, S.: Database System Concepts (7th ed., 2019), McGraw-Hill",
+    "Kleppmann, M.: Designing Data-Intensive Applications (2017), O'Reilly",
+    "Beaulieu, A.: Learning SQL (3rd ed., 2020), O'Reilly",
+    "Sadalage, P. / Fowler, M.: NoSQL Distilled (2012), Addison-Wesley",
+    "Hellerstein, J.M. et al.: Architecture of a Database System (2021 update), Foundations and Trends in Databases [free online]"
+  ],
+  "learningOutcomes": [
+    {
+      "learningOutcomeId": "e27d7211-2ed5-5122-9148-98b0213c4acf",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-1-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwareentwicklungsprozess kennen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Knowing the software development process"
+        }
+      ],
+      "complexityLevel": "remember",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden kennen die grundlegenden Theorien und Konzepte von Datenbanksystemen — einschließlich des relationalen Modells, Normalformen und Transaktionskonzepten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Know the foundational theories and concepts of database systems — including the relational model, normal forms, and transaction concepts."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "273794b2-fd64-5448-9b8f-4eab1c7e0824",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Zusammenhänge verstehen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Understanding interdependencies"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können wesentliche historische und aktuelle Datenbankmodelle benennen, beschreiben und gegenüber dem relationalen Modell abgrenzen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Name, describe, and distinguish key historical and current database models from the relational model."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "7ba27c4e-49af-5aa5-9194-66fd5317460e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ARCH-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Softwarearchitekturen konstruieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Constructing software architectures"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können eine praktisch einsatzfähige, normalisierte relationale Datenbank für eine gegebene Anforderung strukturiert entwerfen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design a practically deployable, normalised relational database for a given requirement in a structured way."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "df743b49-6a02-5a87-aa7f-956079b1871c",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Lösungsansätze bewerten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluating solution approaches"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Datenbankentwürfe anhand fachlicher Anforderungen bewerten und Verbesserungspotenziale identifizieren."
+        },
+        {
+          "language": "en-GB",
+          "value": "Evaluate database designs against domain requirements and identify areas for improvement."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "fb6772e7-d3d7-57c0-bef3-40fb93477a48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "KNOW-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Funktionsweise und Grenzen von KI-Modellen erklären"
+        },
+        {
+          "language": "en-GB",
+          "value": "Explaining how AI models work and where they fail"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können erläutern, welche Anforderungen moderne KI- und Analysesysteme an die zugrunde liegende Dateninfrastruktur stellen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Explain what requirements modern AI and analytics systems place on the underlying data infrastructure."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2237234b-c6f0-56d4-83c5-772f63efea54",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden auswählen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Selecting methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine gegebene Anwendungsanforderung ein geeignetes Datenbankmodell auswählen und die Auswahl begründen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Select an appropriate database model for a given application requirement and justify the selection."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "25b6cdf1-0e84-5b85-9fb0-96891fc4ec48",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "METH-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Methoden anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying methods"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Normalisierungsregeln auf ein gegebenes Datenbankschema anwenden und Normalformen überprüfen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Apply normalisation rules to a given database schema and verify normal forms."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "2b00a621-f05c-5f43-bcea-13b33bf7564e",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "ANLY-3-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Problemstellungen analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing problem statements"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können ein gegebenes Datenbankschema auf Normalisierungsverletzungen und Entwurfsschwächen analysieren und Optimierungsmaßnahmen ableiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse a given database schema for normalisation violations and design weaknesses and derive optimisation measures."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "a769c664-efb1-5a88-b328-47988a24673d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Werkzeuge nutzen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Using tools"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Datenbankschemata mit Hilfe von SQL implementieren und grundlegende Abfragen, Einfügungen und Änderungen durchführen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Implement database schemas using SQL and perform basic queries, insertions, and modifications."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "b776cbb9-1a6d-5d85-87b5-aceeb11ff76d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "COMM-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Mit Fachvertretungen austauschen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Exchanging views with experts"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können Datenbankentwürfe mit Fachexpert*innen aus dem jeweiligen Anwendungsgebiet diskutieren und gemeinsam weiterentwickeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Discuss database designs with domain experts and collaboratively develop them further."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "e5a04240-6295-5966-9220-9e60dfe5f4b2",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PERS-2-04"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Selbstständig arbeiten"
+        },
+        {
+          "language": "en-GB",
+          "value": "Working independently"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können sich selbstständig in neue Datenbankwerkzeuge, -technologien und SQL-Varianten einarbeiten."
+        },
+        {
+          "language": "en-GB",
+          "value": "Independently orient themselves in new database tools, technologies, and SQL variants."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "0880ad8e-7912-517f-a4bc-852bd53e3bb6",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "PROJ-4-01"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Projekte planen"
+        },
+        {
+          "language": "en-GB",
+          "value": "Planning projects"
+        }
+      ],
+      "complexityLevel": "evaluate",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden können für eine reale Anwendungsanforderung eine vollständige, normalisierte Datenbanklösung — von der Anforderungsanalyse über den Entwurf bis zur SQL-Implementierung — eigenständig planen und liefern."
+        },
+        {
+          "language": "en-GB",
+          "value": "For a real application requirement, independently plan and deliver a complete normalised database solution — from requirements analysis through design to SQL implementation."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1ee05e60-5bb9-500c-8938-342f6d07f672",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "APPL-2-06"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Objekt‑relationale Abbildung und Datenbankzugriffsmuster anwenden"
+        },
+        {
+          "language": "en-GB",
+          "value": "Applying object‑relational mapping and database access patterns"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden setzen Object-Relational-Mapping-Frameworks ein, um datenbankgestützte Anwendungen zu entwickeln, und verstehen den Unterschied zwischen ORM-basierten und direkten SQL-Zugriffsmustern."
+        },
+        {
+          "language": "en-GB",
+          "value": "Use object-relational mapping frameworks to develop database-backed applications and understand the difference between ORM-based and direct SQL access patterns."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "bb25ec8c-807f-54ba-988d-5636d605109d",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "DATA-2-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "ETL/ELT-Prozesse entwerfen und implementieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Designing and implementing ETL/ELT processes"
+        }
+      ],
+      "complexityLevel": "understand",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden entwerfen und implementieren einfache Datenintegrationsprozesse (ETL/ELT), um Daten aus verschiedenen Quellen in ein Zielschema zu überführen."
+        },
+        {
+          "language": "en-GB",
+          "value": "Design and implement simple data integration processes (ETL/ELT) to move data from various sources into a target schema."
+        }
+      ]
+    },
+    {
+      "learningOutcomeId": "1cf4ead9-a283-5cea-88f4-a683b626b49a",
+      "primaryCode": {
+        "codeType": "x-dhbw-competence-id",
+        "code": "DATA-3-02"
+      },
+      "name": [
+        {
+          "language": "de-DE",
+          "value": "Datenqualitätsmanagement und Data Lineage analysieren"
+        },
+        {
+          "language": "en-GB",
+          "value": "Analysing data quality management and data lineage"
+        }
+      ],
+      "complexityLevel": "analyze",
+      "description": [
+        {
+          "language": "de-DE",
+          "value": "Die Studierenden analysieren die Qualität von Datensätzen anhand definierter Qualitätsmetriken — einschließlich Vollständigkeit, Konsistenz und Eindeutigkeit — und implementieren Validierungsregeln."
+        },
+        {
+          "language": "en-GB",
+          "value": "Analyse dataset quality using defined quality metrics — including completeness, consistency, and uniqueness — and implement validation rules."
+        }
+      ]
+    }
+  ]
+}
