@@ -1,0 +1,21 @@
+# Conversion Notes
+
+Observations that surface while migrating documents from Drive to this repository — inconsistencies between documents, numbers that don't quite line up, claims worth double-checking against the source of truth. These aren't gaps in the architecture (see [known-gaps.md](known-gaps.md) for that) — they're small factual snags found *while converting*, kept here so they don't get lost and can be resolved in a dedicated pass later rather than silently ignored or silently "fixed" by guessing.
+
+**How to use this:** add an entry whenever a conversion turns up something that looks off. Resolve by checking against source data (e.g. the actual Modulhandbuch once it exists) and marking closed rather than deleting, so there's a record of what was checked and when.
+
+---
+
+## Open
+
+- [ ] **Module learning-outcome completion count.** Two independently-written documents both cite the same figure for how many of the 37 B.Sc. CS modules have complete learning-outcome specifications — the [Didactic Framework](curriculum/didactic-framework-bsc-cs.md) and [Equity by Design](curriculum/equity-by-design.md) working paper. The [Platform](curriculum/platform-living-learning-system.md) document's consolidated table also states "4 of 37 modules fully specified." All three agree numerically (4 complete / 33 incomplete), which is either good corroboration across independently-written documents, or the same stale figure copied forward by whoever drafted each one. Worth checking against the actual Modulhandbuch once it's migrated, to confirm the number still holds rather than assuming three citations makes it three independent confirmations.
+
+- [ ] **Module numbering scheme doesn't match between two documents describing the same programme.** The [Didactic Framework](curriculum/didactic-framework-bsc-cs.md)'s Module Architecture Table (Section V) and the [New Study Programme Document](curriculum/new-study-programme-document.md)'s module list (Section V) both describe the B.Sc. Computer Science curriculum, using the same stream names (MAF, SPS, PSC, DAI, HSC, RPS) — but assign different `T4INF####` codes to what appear to be the same modules. Example: "Programming Foundations" is `T4INF1004` in the Didactic Framework's table but `T4INF3001` in the New Study Programme Document. This could mean the two documents are describing genuinely different versions of the curriculum (e.g. before/after a renumbering), or one of them has a transcription error, or the codes were never actually meant to be identical between DHBW's internal numbering and OUG's. Needs checking against whatever the canonical module code source is (the Modulhandbuch, once migrated, or the OOAPI v5 feed referenced by both documents) before these two documents are treated as describing the same course catalogue.
+
+- [ ] **Internal module-count inconsistency within the New Study Programme Document itself.** Section V's prose says the document "provides the module-level description for each of the 37 taught modules in the programme, plus the Capstone and Thesis" (implying 39 total), but the Section IV summary table sums stream module counts (6+6+5+7+4+4) plus the 2-item Capstone/Thesis row to a stated **total of 34**. The two figures — 37 taught modules mentioned in prose vs. a table that totals 34 — don't reconcile within the same document. Worth resolving which number is correct (and whether "37" is a copy-paste artifact from the other curriculum documents that consistently use that figure) before citing either number elsewhere.
+
+---
+
+## Resolved
+
+*(none yet)*
