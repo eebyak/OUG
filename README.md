@@ -1,5 +1,7 @@
 # OUG — Open University of Germany
 
+<img src="docs/images/Book-Cover.png" alt="Book cover: Designing a University from First Principles" width="220">
+
 **A prospective, presently fictive public university designed from first principles.**
 
 This repository is the working documentation suite for the Open University of Germany (OUG) — the governance, legal, academic, financial, and implementation architecture described in the book *Designing a University from First Principles*.
