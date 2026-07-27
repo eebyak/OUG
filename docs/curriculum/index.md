@@ -24,6 +24,10 @@ Documents are currently sitting as their original `.docx` source files while the
 
 This folder isn't one of the nine documents chapter 17 described for this domain — it's new: structured, per-module JSON rather than narrative prose. Worth deciding at some point whether it belongs here as machine-readable module data feeding the eventual [Platform](platform-living-learning-system.md), or whether it should be documented separately as its own thing. Not resolving that now — just flagging it so it doesn't quietly get treated as if it was always part of the plan.
 
+### `OOAPI_V6/`
+
+Machine-readable module data — one OOAPI v6 JSON file per module, plus the competency codebook. See [`OOAPI_V6/index.md`](OOAPI_V6/index.md) for the full inventory and how it's generated. This data is also the source of real evidence on the module-numbering discrepancy tracked in [conversion-notes.md](../conversion-notes.md).
+
 ---
 
 *This page is a snapshot, not a source of truth — the [main index](../index.md) is the canonical list of what this domain is meant to eventually contain. Update the table above as each document is added and converted.*
