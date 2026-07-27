@@ -1,3 +1,4 @@
+<picture> <source media="(prefers-color-scheme: dark)" srcset="images/logo1.png"> <img src="images/Logo2.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380"> </picture>
 # Open University of Germany
 
 ## Designing a University from First Principles
@@ -9,12 +10,10 @@ The Open University of Germany (OUG) is a fictive public university federated mo
 
 The OUG is not conceived as a replacement for existing universities. It is designed as a federated, open, and publicly anchored institution that connects them. Its purpose is to make high-quality higher education more accessible, more flexible, and more responsive to learners whose lives do not fit the assumptions of the traditional degree.
 
-This repository contains the evolving institutional architecture of the OUG. 
+This repository contains the evolving institutional architecture of the OUG.
 
-To understand **why** each element exists, please refer to the book. 
+To understand **why** each element exists, please refer to the book.
 **Designing a University from First Principles**
-
-<img src="images/Book-Cover.png" alt="Book Cover" width="300">
 
 ---
 
@@ -47,26 +46,27 @@ This work distinguishes between:
 - **OUG Founding Commitments** — the personal and moral commitments from which the OUG was originally born;
   - every person is a student;
   - every person has the right to learn;
-  - a democractic society has a responsibility to enable learning for all.
- 
+  - a democratic society has a responsibility to enable learning for all.
+
 - **Bologna Founding Principles** — principles visible in the architecture of the earliest university:
   - learning is the goal;
   - the learner directs the learning relationship, while the institution holds the accountability;
   - what is available to learn is determined by learner need.
-  
+
 - **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners.
-  - 42 principles were derived based on open dialogues
-  - the interlocuters agreed to the principles that were documented as emerging from the dialogue
-  
-- **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legel realities. 
-  
+  - 42 principles were derived based on open dialogues;
+  - the interlocutors agreed to the principles that were documented as emerging from the dialogue.
+
+- **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
+
 - **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
-  - in the spirit of Software Engineering, Design Patterns are a way to design software around best practices. They can also be expressed in terms of anti-patterns. Spagetthi code is one such anti-pattern. Patterns support communication at a meta-level about situations because one word (the pattern name) is easier to use than complex descriptions.
-    
+  - in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level about situations, because one word (the pattern name) is easier to use than a complex description.
+
 - **Architectural Decisions** — the specific choices made for the OUG;
-  - OUG follows as archtiecture that is a specific implementation. It will adhere to some patterns but not all. Therefore it can have a signature, that describes how well these patterns are implemented. Like software architectures, not all patterns are used all the time. They are carefully chosed for a purpose and composed.
-    
-- **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection that can be very extensive. The main reasoning behind the architectural design can be found in the book. 
+  - the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature that describes how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
+  - *Architectural Decisions are documented and reasoned through in the book. This repository documents their result — the Implementing Documents below — not the decision process itself.*
+
+- **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be very extensive. The main reasoning behind the architectural design can be found in the book.
 
 ---
 
@@ -108,7 +108,7 @@ This work distinguishes between:
 - [Curriculum Architecture](04-academic/curriculum-architecture.md)
 - [Module Handbook](04-academic/module-handbook/README.md)
 
-### Finance, Accreditation, and Implementation
+### Finance, Recognition, and Implementation
 
 - [Financial Model](05-finance/financial-model.md)
 - [Financial Assumptions and Scenarios](05-finance/assumptions-and-scenarios.md)
@@ -176,12 +176,13 @@ Substantive changes should be linked to the relevant principle, pattern, archite
 
 ## The Standard Against Which the OUG Must Be Judged
 
-The OUG should not be judged by whether the institution remains accountable to learners when resources are scarce, leadership changes, political attention moves elsewhere, and the founding generation is gone.
+The OUG should be judged by whether the institution remains accountable to learners when resources are scarce, leadership changes, political attention moves elsewhere, and the founding generation is gone.
 
 That is the purpose of the architecture documented here.
 
 ---
 
-**Open University of Germany**  
-*A prospective for now ficitive public university designed from first principles.*
+**Open University of Germany**
+*A prospective, presently fictive public university designed from first principles.*
 
+*Last updated: 2026-07-27 · index.md v0.2*
