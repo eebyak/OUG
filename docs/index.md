@@ -1,4 +1,8 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="images/logo1.png"> <img src="images/Logo2.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380"> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/logo1.png">
+  <img src="images/Logo2.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380">
+</picture>
+
 # Open University of Germany
 
 ## Designing a University from First Principles
@@ -64,7 +68,7 @@ This work distinguishes between:
 
 - **Architectural Decisions** — the specific choices made for the OUG;
   - the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature that describes how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
-  - *Architectural Decisions are documented and reasoned through in the book. This repository documents their result — the Implementing Documents below — not the decision process itself.*
+  - *Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are all documented and reasoned through in the book. This repository documents their result — the Implementing Documents below, organised into the seven domains chapter 17 describes — not the derivation or decision process itself.*
 
 - **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be very extensive. The main reasoning behind the architectural design can be found in the book.
 
@@ -72,57 +76,72 @@ This work distinguishes between:
 
 ## Start Here
 
-### Foundations
+The repository is organised into seven domains, exactly as described in Chapter 17 of the book. Each domain folder will fill in as documents are migrated from source; a link below that 404s simply hasn't been added yet.
 
-- [First Principles](00-foundations/first-principles.md)
-- [Design Method](00-foundations/design-method.md)
-- [Dialogue-Derived Principles](00-foundations/dialogue-derived-principles.md)
-- [Institutional Design Principles](00-foundations/institutional-design-principles.md)
-- [Pattern Catalogue](00-foundations/pattern-catalogue.md)
-- [Terminology](00-foundations/terminology.md)
+### Curriculum & Pedagogy
 
-### Strategy and Purpose
+- [Modulhandbuch](curriculum/modulhandbuch.md)
+- [OUG Curriculum (working paper)](curriculum/oug-curriculum-architecture.md)
+- [Curriculum Mapping](curriculum/curriculum-mapping.xlsx)
+- [Didactic Framework, B.Sc. Computer Science](curriculum/didactic-framework-bsc-cs.md)
+- [Equity by Design Principles](curriculum/equity-by-design.md)
+- [Platform: From Static Curriculum to Living Learning System](curriculum/platform-living-learning-system.md)
+- [The OUG Presence Architecture](curriculum/presence-architecture.md)
+- [Research & Doctoral Framework](curriculum/research-doctoral-framework.md)
+- [New Study — B.Sc. Computer Science, Programme Document](curriculum/new-study-programme-document.md)
 
-- [Strategy Constitution](01-strategy/strategy-constitution.md)
-- [Strategy Framework: Objectives and KPIs](01-strategy/objectives-and-kpis.md)
-- [Strategic Decision Protocol](01-strategy/decision-protocol.md)
+### Governance
 
-### Governance and Leadership
+- [Allgemeinwohl Verfassung (Public-Benefit Constitution)](governance/allgemeinwohl-verfassung.md)
+- [Federated Legal Model](governance/federated-legal-model.md)
+- [Rechtliche Implementierungsvoraussetzungen (Legal Implementation Requirements)](governance/legal-implementation-requirements.md)
+- [Governance Artikel v2](governance/governance-article-v2.md)
+- [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
+- [Committee Information Architecture](governance/committee-information-architecture.md)
+- [Code of Collegial Conduct](governance/code-of-collegial-conduct.md)
+- [Inter-Layer Feedback Protocol](governance/interlayer-feedback-protocol.md)
+- [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
 
-- [Governance and Decision Framework](02-governance/governance-architecture.md)
-- [Portfolio Governance](02-governance/portfolio-governance.md)
-- [Leadership and Stewardship Profiles](02-governance/leadership-stewardship-profiles.md)
-- [Participation Architecture](02-governance/participation-architecture.md)
+### Leadership & People
 
-### Legal and Federated Structure
+- [Leadership Development & Induction Framework](leadership/leadership-development-induction-framework.md)
+- [Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)](leadership/amendment-transformation-mandate.md)
+- [Amendment: Capability Measurement and Governance Career Recognition (SP-6, SP-7)](leadership/amendment-capability-measurement.md)
+- [Academic Community & Collegial Life Charter](leadership/academic-community-charter.md)
+- [Founding Council Letters](leadership/founding-council-letters.md)
+- [Founding Member Profile — Prof. Kay Berkling](leadership/founding-member-profile.md)
 
-- [Grundordnung](03-legal/grundordnung.md)
-- [Federated Legal Model](03-legal/federated-legal-model.md)
-- [Federation and Membership Framework](03-legal/federation-membership-framework.md)
-- [Legal Questions and Open Issues](03-legal/legal-open-questions.md)
+### Partnership & Federation
 
-### Academic Architecture
+- [Partner Membership Framework](partnership/partner-membership-framework.md)
+- [Federated Participation & Incentive Framework](partnership/federated-participation-incentive-framework.md)
+- [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](partnership/amendment-lehrpersonalmodell.md)
 
-- [Quality Assurance and Academic Governance](04-academic/quality-assurance.md)
-- [Examination Regulations](04-academic/examination-regulations.md)
-- [Curriculum Architecture](04-academic/curriculum-architecture.md)
-- [Module Handbook](04-academic/module-handbook/README.md)
+### Quality Assurance
 
-### Finance, Recognition, and Implementation
+- [Quality Assurance & Academic Governance](quality/quality-assurance-academic-governance.md)
+- [Amendment: Longitudinal Outcome Tracking (GP-3)](quality/amendment-longitudinal-outcome-tracking.md)
+- [Developmental Audit Framework](quality/developmental-audit-framework.md)
+- [Reader's Guide for the Accreditation Committee](quality/readers-guide-accreditation.md)
+- [Prüfungsordnung](quality/pruefungsordnung.md)
 
-- [Financial Model](05-finance/financial-model.md)
-- [Financial Assumptions and Scenarios](05-finance/assumptions-and-scenarios.md)
-- [Accreditation Requirements Map](06-accreditation/requirements-map.md)
-- [Evidence Register](06-accreditation/evidence-register.md)
-- [Founding Roadmap](07-implementation/founding-roadmap.md)
-- [Risk Register](07-implementation/risk-register.md)
-- [Institutional Readiness Assessment](07-implementation/readiness-assessment.md)
+### Strategy & Finance
 
+- [Strategic Constitution](strategy/strategic-constitution.md)
+- [The OUG Role Statement](strategy/role-statement.md)
+- [Strategy Formation Protocol](strategy/strategy-formation-protocol.md)
+- [OKR Framework & Governance Dashboard](strategy/okr-framework-dashboard.md)
+- [Five-Year Finance Plan 2026–2030](strategy/five-year-finance-plan.md) · [Finanzmodell v3](strategy/finanzmodell-v3.xlsx)
+- [Ministeriumsmemorandum v2](strategy/ministeriumsmemorandum-v2.md)
 
+### Presentation & Communication
 
-The documents are designed to be read independently, but they form one architecture. Each document therefore states its purpose, authority, relationship to other documents, and current status.
-
----
+- [The OUG Communication Architecture](communications/communication-architecture.md)
+- [OUG Market Study](communications/market-study.md)
+- [Ein gewöhnlicher Dienstag (A Perfectly Ordinary Tuesday)](communications/ein-gewoehnlicher-dienstag.md)
+- [Menschlicher Fall (The Human Case)](communications/menschlicher-fall.pptx)
+- [Partner and Ministry Decks](communications/partner-and-ministry-decks/) — DHBW, Die Fehlende Schicht, Ministerium, Erklärung
+- [OUG Report 2025–26](communications/annual-report-2025-26.md)
 
 ## Document Status
 
