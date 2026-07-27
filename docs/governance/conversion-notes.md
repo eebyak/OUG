@@ -1,35 +1,17 @@
-# Governance
+# Conversion Notes — Governance
 
-[← Back to main index](../index.md)
+[← Back to Governance](index.md)
 
-This is the constitutional layer: the documents that establish what the OUG legally is, who decides what, and how decisions travel between the people closest to the work and the people accountable for the institution's mission. Two things distinguish this domain from a conventional university's statutes. First, the legal foundation is written explicitly as a public-benefit institution — not a discount version of a commercial one — because that status is what makes its funding model lawful under European state-aid law. Second, the governance architecture treats feedback as a structural obligation, not a cultural aspiration: there are documents whose only job is to specify how information gets from the people running a programme to the people who can change the strategy around it.
+Observations that surface while migrating governance documents from Drive to this repository — inconsistencies between documents, numbers that don't quite line up, claims worth double-checking against the source of truth. These aren't gaps in the architecture (see [known-gaps.md](../known-gaps.md) for that) — they're small factual snags found *while converting*, kept here so they don't get lost and can be resolved in a dedicated pass later rather than silently ignored or silently "fixed" by guessing.
 
----
-
-## What's Here
-
-Documents are currently sitting as their original `.docx` source files while the migration to Markdown is worked through one at a time.
-
-| Document | Status | Target filename |
-|---|---|---|
-| OUG Allgemeinwohl Verfassung.docx | ✅ Added (docx) | `allgemeinwohl-verfassung.md` |
-| OUG Code of Collegial Conduct.docx | ✅ Added (docx) | `code-of-collegial-conduct.md` |
-| OUG Committee Information Architecture.docx | ✅ Added (docx) | `committee-information-architecture.md` |
-| OUG Governance Artikel v2.docx | ✅ Added (docx) | `governance-article-v2.md` |
-| OUG Governance Gap Closure v2.docx | ✅ Added (docx) | `governance-gap-closure-v2.md` |
-| OUG Grundordnung.docx | ✅ Added (docx) | `grundordnung.md` |
-| OUG InterLayer Feedback Protocol.docx | ✅ Added (docx) | `interlayer-feedback-protocol.md` |
-| OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Added (docx) | `legal-implementation-requirements.md` |
-| OUG Strategic Clarity Statement.docx | ✅ Added (docx) | `strategic-clarity-statement.md` |
-
-### A note on "Federated Legal Model"
-
-The main index originally listed a document called *Federated Legal Model* for this domain, per chapter 17's inventory. No file under that name exists in this folder. By decision, **Grundordnung** is now treated as the match — it's the actual founding statute governing the federated legal structure, even though the name doesn't match chapter 17's description exactly. See [conversion-notes.md](../conversion-notes.md) for the full reasoning.
-
-### Not yet in scope
-
-The real Drive folder for this domain contains **18 files**, not the 9 listed above — 9 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Portfolio Governance, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](../conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
+**How to use this:** add an entry whenever a conversion turns up something that looks off. Resolve by checking against source data and marking closed rather than deleting, so there's a record of what was checked and when.
 
 ---
 
-*This page is a snapshot, not a source of truth — the [main index](../index.md) is the canonical list of what this domain is meant to eventually contain. Update the table above as each document is added and converted.*
+## Open
+
+- [ ] **Governance folder is 2x the size of what's currently in scope.** The `governance/` folder on Drive contains 18 files; only 9 (matching an earlier screenshot) are currently reflected in `governance/index.md` and the main index's document list. The other 9 — Strategic Positioning ("The Missing Layer"), Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding (the 42-principle scorecard), Governance Principles Assessment, Portfolio Governance, and Governance Architecture — exist on Drive but are deliberately deferred for now. Two of the deferred ones (Portfolio Governance, Governance Architecture) are native Google Docs rather than `.docx`, as is Grundordnung despite that one being in scope. Revisit when ready to expand governance scope — don't assume 9 is the complete domain.
+
+## Resolved
+
+- [x] **"Federated Legal Model" resolved.** Chapter 17's inventory named a document called *Federated Legal Model* for the Governance domain; no file under that name exists anywhere in the Drive folder. **Decision:** treat **Grundordnung** as the match — the main index and this domain page now link `Grundordnung` where `Federated Legal Model` used to be. This is a naming decision, not a confirmed fact — Grundordnung is the founding statute and does cover federated legal structure, but it wasn't literally the document chapter 17 described. Kept here with its reasoning rather than deleted, so the substitution stays visible.
