@@ -1,6 +1,6 @@
 # OUG — Open University of Germany
 
-<img src="docs/images/Book-Cover.png" alt="Book cover: Designing a University from First Principles" width="220">
+<img src="docs/images/Book-Cover.300.FINAL.png" alt="Book cover: Designing a University from First Principles" width="220">
 
 **A prospective, presently fictive public university designed from first principles.**
 
