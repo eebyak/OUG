@@ -12,12 +12,12 @@ Documents are currently sitting as their original `.docx` source files while the
 
 | Document | Status | Target filename |
 |---|---|---|
-| OUG_Didactic_Framework_BSc_CS.docx | ✅ Added (docx) | `didactic-framework-bsc-cs.md` |
-| OUG Equity by Design Principles.docx | ✅ Added (docx) | `equity-by-design.md` |
-| OUG Platform Living Learning System.docx | ✅ Added (docx) | `platform-living-learning-system.md` |
-| OUG_Presence_Architecture.docx | ✅ Added (docx) | `presence-architecture.md` |
-| OUG Research Doctoral Framework.docx | ✅ Added (docx) | `research-doctoral-framework.md` |
-| OUG_BSc_CS_New_Study_Programme_Document.docx | ✅ Added (docx) | `new-study-programme-document.md` |
+| OUG_Didactic_Framework_BSc_CS.docx | ✅ Converted → [`didactic-framework-bsc-cs.md`](didactic-framework-bsc-cs.md) | — |
+| OUG Equity by Design Principles.docx | ✅ Converted → [`equity-by-design.md`](equity-by-design.md) | — |
+| OUG Platform Living Learning System.docx | ✅ Converted → [`platform-living-learning-system.md`](platform-living-learning-system.md) | — |
+| OUG_Presence_Architecture.docx | ✅ Converted → [`presence-architecture.md`](presence-architecture.md) | — |
+| OUG Research Doctoral Framework.docx | ✅ Converted → [`research-doctoral-framework.md`](research-doctoral-framework.md) | — |
+| OUG_BSc_CS_New_Study_Programme_Document.docx | ✅ Converted → [`new-study-programme-document.md`](new-study-programme-document.md) | — |
 | `skill-based-modules/` (per-module JSON) | ✅ Added | see note below |
 
 ### A note on `skill-based-modules/`
