@@ -80,9 +80,8 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Curriculum & Pedagogy
 
-- [Modulhandbuch](curriculum/modulhandbuch.md)
-- [OUG Curriculum (working paper)](curriculum/oug-curriculum-architecture.md)
-- [Curriculum Mapping](curriculum/curriculum-mapping.xlsx)
+- [Curriculum](curriculum)
+- [Modules](curriculum/skill-based-modules)
 - [Didactic Framework, B.Sc. Computer Science](curriculum/didactic-framework-bsc-cs.md)
 - [Equity by Design Principles](curriculum/equity-by-design.md)
 - [Platform: From Static Curriculum to Living Learning System](curriculum/platform-living-learning-system.md)
