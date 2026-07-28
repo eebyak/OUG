@@ -8,6 +8,29 @@ title: Leadership & People
 
 This domain governs the people who run the institution, not the institution's structure itself — the distinction matters, because the OUG's design treats leadership as a bounded, learnable, temporary role rather than a status that accrues to whoever has held a position longest. Every document here works to make that principle operational: how someone is inducted into a leadership role, how their capability is actually assessed rather than assumed, how long they hold the role, and how they step back out of it without the transition reading as a demotion.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#leadership-map">
+    <img
+      src="{{ '/leadership/images/OUG-Leadership-Map.png' | relative_url }}"
+      alt="OUG Governance Document Map">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="leadership-map" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/leadership/images/OUG-Leadership-Map.png' | relative_url }}"
+      alt="Enlarged OUG Leadership Map">
+  </div>
+</div>
+
+
+
 ## What's Here
 
 - **[Leadership Development & Induction Framework](leadership-development-induction-framework.md)** — the base document for how OUG leadership works across every governance layer, from the Rector down to Mission Hub leads. Structured induction periods, defined terms, and a designed return pathway back into academic life at the end of a term.
