@@ -93,21 +93,26 @@ The repository is organised into seven domains, exactly as described in Chapter 
 ### Governance
 
 - [Overview](governance/index.md)
-- [Allgemeinwohl Verfassung (Public-Benefit Constitution)](governance/allgemeinwohl-verfassung.md)
 - [Grundordnung](governance/grundordnung.md)
 - [Federated Legal Model](governance/federated-legal-model.md)
 - [Anlagen (Anlage 1 + Anlage 2)](governance/anlagen.md)
-- [Portfolio Governance](governance/portfolio-governance.md)
-- [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
-- [Mission Hub Permeability Architecture](governance/mission-hub-permeability-architecture.md)
-- [Governance Review Calendar](governance/governance-review-calendar.md)
+- [Allgemeinwohl Verfassung (Public-Benefit Constitution)](governance/allgemeinwohl-verfassung.md)
 - [Rechtliche Implementierungsvoraussetzungen (Legal Implementation Requirements)](governance/legal-implementation-requirements.md)
-- [Governance Artikel v2](governance/governance-article-v2.md)
-- [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
+- [Governance & Decision Framework](governance/governance-architecture.md)
 - [Committee Information Architecture](governance/committee-information-architecture.md)
-- [Code of Collegial Conduct](governance/code-of-collegial-conduct.md)
 - [Inter-Layer Feedback Protocol](governance/interlayer-feedback-protocol.md)
+- [Portfolio Governance](governance/portfolio-governance.md)
+- [Design Authority Constitution](governance/design-authority-constitution.md)
+- [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
+- [Code of Collegial Conduct](governance/code-of-collegial-conduct.md)
+- [Governance Review Calendar](governance/governance-review-calendar.md)
+- [Incentive Conversion Statement](governance/incentive-conversion-statement.md)
+- [Mission Hub Permeability Architecture](governance/mission-hub-permeability-architecture.md)
+- [Governance Artikel v2](governance/governance-article-v2.md)
+- [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
 - [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
+- [Governance Principles Assessment](governance/governance-principles-assessment.md)
+- [Design Signature Founding](governance/design-signature-founding.md)
 
 ### Leadership & People
 
@@ -147,7 +152,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Presentation & Communication
 
-- [Overview](communication/index.md)
+- [Overview](communications/index.md)
 - [The OUG Communication Architecture](communications/communication-architecture.md)
 - [OUG Market Study](communications/market-study.md)
 - [Ein gewöhnlicher Dienstag (A Perfectly Ordinary Tuesday)](communications/ein-gewoehnlicher-dienstag.md)
@@ -216,4 +221,4 @@ That is the purpose of the architecture documented here.
 **Open University of Germany**
 *A prospective, presently fictive public university designed from first principles.*
 
-*Last updated: 2026-07-27 · index.md v0.2*
+*Last updated: 2026-07-28 · index.md v0.3*
