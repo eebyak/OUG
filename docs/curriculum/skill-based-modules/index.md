@@ -1,3 +1,8 @@
+---
+layout: page
+title: OOAPI v6 — Machine-Readable Module Data
+---
+
 # OOAPI v6 — Machine-Readable Module Data
 
 [← Back to Curriculum & Pedagogy](../index.md)
