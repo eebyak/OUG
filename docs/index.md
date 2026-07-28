@@ -80,6 +80,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Curriculum & Pedagogy
 
+- [Overview](curriculum/index.md)
 - [Curriculum](curriculum)
 - [Modules](curriculum/skill-based-modules)
 - [Didactic Framework, B.Sc. Computer Science](curriculum/didactic-framework-bsc-cs.md)
@@ -91,11 +92,15 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Governance
 
+- [Overview](governance/index.md)
 - [Allgemeinwohl Verfassung (Public-Benefit Constitution)](governance/allgemeinwohl-verfassung.md)
 - [Grundordnung](governance/grundordnung.md)
 - [Federated Legal Model](governance/federated-legal-model.md)
 - [Anlagen (Anlage 1 + Anlage 2)](governance/anlagen.md)
 - [Portfolio Governance](governance/portfolio-governance.md)
+- [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
+- [Mission Hub Permeability Architecture](governance/mission-hub-permeability-architecture.md)
+- [Governance Review Calendar](governance/governance-review-calendar.md)
 - [Rechtliche Implementierungsvoraussetzungen (Legal Implementation Requirements)](governance/legal-implementation-requirements.md)
 - [Governance Artikel v2](governance/governance-article-v2.md)
 - [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
@@ -106,6 +111,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Leadership & People
 
+- [Overview](leadership/index.md)
 - [Leadership Development & Induction Framework](leadership/leadership-development-induction-framework.md)
 - [Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)](leadership/amendment-transformation-mandate.md)
 - [Amendment: Capability Measurement and Governance Career Recognition (SP-6, SP-7)](leadership/amendment-capability-measurement.md)
@@ -115,12 +121,14 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Partnership & Federation
 
+- [Overview](partnership/index.md)
 - [Partner Membership Framework](partnership/partner-membership-framework.md)
 - [Federated Participation & Incentive Framework](partnership/federated-participation-incentive-framework.md)
 - [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](partnership/amendment-lehrpersonalmodell.md)
 
 ### Quality Assurance
 
+- [Overview](quality/index.md)
 - [Quality Assurance & Academic Governance](quality/quality-assurance-academic-governance.md)
 - [Amendment: Longitudinal Outcome Tracking (GP-3)](quality/amendment-longitudinal-outcome-tracking.md)
 - [Developmental Audit Framework](quality/developmental-audit-framework.md)
@@ -129,6 +137,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Strategy & Finance
 
+- [Overview](strategy/index.md)
 - [Strategic Constitution](strategy/strategic-constitution.md)
 - [The OUG Role Statement](strategy/role-statement.md)
 - [Strategy Formation Protocol](strategy/strategy-formation-protocol.md)
@@ -138,6 +147,7 @@ The repository is organised into seven domains, exactly as described in Chapter 
 
 ### Presentation & Communication
 
+- [Overview](communication/index.md)
 - [The OUG Communication Architecture](communications/communication-architecture.md)
 - [OUG Market Study](communications/market-study.md)
 - [Ein gewöhnlicher Dienstag (A Perfectly Ordinary Tuesday)](communications/ein-gewoehnlicher-dienstag.md)
