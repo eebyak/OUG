@@ -1,9 +1,7 @@
-
 ---
 layout: page
 title: Leadership & People
 ---
-
 
 
 [← Back to main index](../index.md)
