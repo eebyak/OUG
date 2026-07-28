@@ -11,6 +11,31 @@ The curriculum layer answers the question a prospective student, a partner unive
 
 ---
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#curriculum">
+    <img
+      src="{{ '/curriculum/images/Curriculum.png' | relative_url }}"
+      alt="OUG Curriculum Map">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="curriculum" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/curriculum/images/Curriculum.png' | relative_url }}"
+      alt="Enlarged OUG Curriculum Map">
+  </div>
+</div>
+
+
+---
+
 ## What's Here
 
 Documents are currently sitting as their original `.docx` source files while the migration to Markdown is worked through one at a time.
