@@ -1,4 +1,3 @@
-
 # Governance
 
 [← Back to main index](../index.md)
@@ -13,11 +12,11 @@ Documents are currently sitting as their original `.docx` source files while the
 
 | Document | Status | Target filename |
 |---|---|---|
-| OUG Allgemeinwohl Verfassung.docx | ✅ Added (docx) | `allgemeinwohl-verfassung.md` |
-| OUG Code of Collegial Conduct.docx | ✅ Added (docx) | `code-of-collegial-conduct.md` |
-| OUG Committee Information Architecture.docx | ✅ Added (docx) | `committee-information-architecture.md` |
-| OUG Governance Artikel v2.docx | ✅ Added (docx) | `governance-article-v2.md` |
-| OUG Governance Gap Closure v2.docx | ✅ Added (docx) | `governance-gap-closure-v2.md` |
+| OUG Allgemeinwohl Verfassung.docx | ✅ Converted → [`allgemeinwohl-verfassung.md`](allgemeinwohl-verfassung.md) | — |
+| OUG Code of Collegial Conduct.docx | ✅ Converted → [`code-of-collegial-conduct.md`](code-of-collegial-conduct.md) | — |
+| OUG Committee Information Architecture.docx | ✅ Converted → [`committee-information-architecture.md`](committee-information-architecture.md) | — |
+| OUG Governance Artikel v2.docx | ✅ Converted → [`governance-article-v2.md`](governance-article-v2.md) | — |
+| OUG Governance Gap Closure v2.docx | ✅ Converted → [`governance-gap-closure-v2.md`](governance-gap-closure-v2.md) | — |
 | OUG Grundordnung.docx | ✅ Added (docx) | `grundordnung.md` |
 | OUG InterLayer Feedback Protocol.docx | ✅ Added (docx) | `interlayer-feedback-protocol.md` |
 | OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Added (docx) | `legal-implementation-requirements.md` |
@@ -25,11 +24,11 @@ Documents are currently sitting as their original `.docx` source files while the
 
 ### A note on "Federated Legal Model"
 
-The main index originally listed a document called *Federated Legal Model* for this domain, per chapter 17's inventory. No file under that name exists in this folder. By decision, **Grundordnung** is now treated as the match — it's the actual founding statute governing the federated legal structure, even though the name doesn't match chapter 17's description exactly. See [conversion-notes.md](../conversion-notes.md) for the full reasoning.
+The main index originally listed a document called *Federated Legal Model* for this domain, per chapter 17's inventory. No file under that name exists in this folder. By decision, **Grundordnung** is now treated as the match — it's the actual founding statute governing the federated legal structure, even though the name doesn't match chapter 17's description exactly. See [conversion-notes.md](conversion-notes.md) for the full reasoning.
 
 ### Not yet in scope
 
-The real Drive folder for this domain contains **18 files**, not the 9 listed above — 9 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Portfolio Governance, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](../conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
+The real Drive folder for this domain contains **18 files**, not the 9 listed above — 9 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Portfolio Governance, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
 
 ---
 
