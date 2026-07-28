@@ -1,34 +1,22 @@
 title: Open University of Germany
-description: >-
-  A prospective, presently fictive public university designed from first
-  principles — governance, curriculum, legal structure, and institutional
-  architecture, kept under version control.
 
-# Jekyll's built-in default theme — this was already in effect implicitly;
-# made explicit here so the color override in assets/css/style.scss works.
+description: >-
+  A prospective public university designed from first principles —
+  governance, curriculum, legal structure, and institutional architecture,
+  kept under version control.
+
 theme: minima
 
-# The site title "Open University of Germany" (linking home) is ALWAYS
-# shown by minima regardless of anything below — that part of the theme
-# is unconditional, not configurable, and was never actually at risk.
-#
-# What IS configurable is the nav bar next to it. minima does NOT use a
-# top-level `header_pages` key (an earlier version of this file guessed
-# wrong, verified against minima's actual source this time) — the real
-# key is nested under `minima:` below, called `nav_pages`. It also does
-# NOT accept an empty list to mean "show nothing" — Liquid's `default`
-# filter treats `[]` the same as unset, which re-triggers minima's
-# fallback of listing EVERY page on the site (the bug we were chasing).
-# The fix is a genuinely non-empty, curated list instead:
-minima:
-  nav_pages:
-    - curriculum/index.md
-    - governance/index.md
-    - leadership/index.md
-    - partnership/index.md
-    - quality/index.md
-    - strategy/index.md
-    - communications/index.md
+header_pages:
+  - curriculum/index.md
+  - governance/index.md
+  - leadership/index.md
+  - partnership/index.md
+  - quality/index.md
+  - strategy/index.md
+  - communications/index.md
+
+  
 
 # Alternative option: swap the line above for one of GitHub's supported
 # Pages themes instead, and commit — no HTML changes needed anywhere:
