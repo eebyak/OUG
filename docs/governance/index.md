@@ -1,3 +1,8 @@
+---
+layout: page
+title: Governance
+---
+
 # Governance
 
 [← Back to main index](../index.md)
@@ -14,6 +19,7 @@ Suggested path once ready: governance/images/governance-document-map.png
 > 🖼 **[Governance Document Map — diagram pending]**
 > *A relationship map showing the six clusters below and how they connect. See `governance-diagram-prompt.txt` for the brief to generate it — drop the image at `governance/images/governance-document-map.png` and replace this callout with `![Governance Document Map](images/governance-document-map.png)` once it exists.*
 
+![Governance Document Map](images/governance-document-map.png)
 ---
 
 ## How to Read This Folder
