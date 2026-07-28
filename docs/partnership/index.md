@@ -10,6 +10,29 @@ title: Partnership & Federation
 
 The OUG does not teach. It certifies. Every hour of instruction a student receives comes from a partner university's own academic staff, delivered under the partner's own pedagogical traditions, inside the boundary that [Governance Gap Closure v2](../governance/governance-gap-closure-v2.md) draws at the credential record. This domain is where that arrangement is made concrete and durable: what a partner gets, what a partner owes, and — a detail easy to overlook and expensive to get wrong — how an individual teaching member of a partner's staff is legally engaged when their teaching now serves two institutions at once.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#leadership-map">
+    <img
+      src="{{ '/partnership/images/OUG-Partnership-Map.png' | relative_url }}"
+      alt="OUG Partnership Map">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="partnership-map" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/partnership/images/OUG-Partnership-Map.png' | relative_url }}"
+      alt="Enlarged OUG Partnership Map">
+  </div>
+</div>
+
+
+
 ## What's Here
 
 - **[Partner Membership Framework](partner-membership-framework.md)** — the required annex to every OUG partnership agreement, and the document that turns the abstract federation idea into an operational interface. Named roles, three substantive partner rights, four minimal partner duties, the full Task Architecture (who owns what task, OUG/Partner/Joint), a three-phase onboarding process, and exit provisions.
