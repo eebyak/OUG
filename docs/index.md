@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Open University of Germany
+
 ---
 
 <picture>
