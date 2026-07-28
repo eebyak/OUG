@@ -83,20 +83,20 @@ This work distinguishes between:
 <div class="diagram-block">
   <a class="diagram-preview" href="#OUG-Architecture">
     <img
-      src="{{ '/images/docs/images/OUG-Architecture.png' | relative_url }}"
+      src="{{ '/images/OUG-Architecture.png' | relative_url }}"
       alt="OUG Architecture">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
 </div>
 
-<div id="docs/images/OUG-Architecture" class="lightbox">
+<div id="/images/OUG-Architecture" class="lightbox">
   <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
 
   <div class="lightbox-panel">
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '/images/docs/images/OUG-Architecture.png' | relative_url }}"
+      src="{{ '/images/OUG-Architecture.png' | relative_url }}"
       alt="Enlarged OUG Architecture">
   </div>
 </div>
