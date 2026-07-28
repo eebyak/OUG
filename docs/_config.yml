@@ -8,6 +8,17 @@ description: >-
 # made explicit here so the color override in assets/css/style.scss works.
 theme: minima
 
+# Without this, minima's header auto-lists EVERY page on the site as top
+# navigation (since every converted document has an H1, and GitHub Pages'
+# bundled jekyll-titles-from-headings plugin gives every one of them a
+# title even without front matter) — that's the giant wall of links
+# appearing above real content on every page. Empty list = no auto-nav.
+# To hand-pick a few links instead, replace [] with a real list, e.g.:
+#   header_pages:
+#     - curriculum/index.md
+#     - governance/index.md
+header_pages: []
+
 # Alternative option: swap the line above for one of GitHub's supported
 # Pages themes instead, and commit — no HTML changes needed anywhere:
 #   jekyll-theme-cayman, jekyll-theme-minimal, jekyll-theme-slate,
