@@ -12,7 +12,7 @@ This domain governs the people who run the institution, not the institution's st
   <a class="diagram-preview" href="#leadership-map">
     <img
       src="{{ '/leadership/images/OUG-Leadership-Map.png' | relative_url }}"
-      alt="OUG Governance Document Map">
+      alt="OUG Leadership Map">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
 </div>
