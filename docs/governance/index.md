@@ -11,10 +11,6 @@ This is the constitutional layer: the documents that establish what the OUG lega
 
 Nineteen documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like 19 separate things is really six clusters, each answering a different question.
 
-<!--
-PLACEHOLDER: swap this for the real diagram once generated.
-Prompt for generating it: governance-diagram-prompt.txt (delivered alongside this file).
-Suggested path once ready: governance/images/governance-document-map.png
 
 ![Governance Document Map](images/governance-document-map.png)
 
