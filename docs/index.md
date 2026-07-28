@@ -79,6 +79,31 @@ This work distinguishes between:
 
 ---
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#OUG-Architecture">
+    <img
+      src="{{ '/images/docs/images/OUG-Architecture.png' | relative_url }}"
+      alt="OUG Architecture">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="docs/images/OUG-Architecture" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/docs/images/OUG-Architecture.png' | relative_url }}"
+      alt="Enlarged OUG Architecture">
+  </div>
+</div>
+
+
+---
+
 ## Start Here
 
 The repository is organised into seven domains, exactly as described in Chapter 17 of the book. Each domain folder will fill in as documents are migrated from source; a link below that 404s simply hasn't been added yet.
