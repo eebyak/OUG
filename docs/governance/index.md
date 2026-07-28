@@ -17,14 +17,15 @@ Documents are currently sitting as their original `.docx` source files while the
 | OUG Committee Information Architecture.docx | ✅ Converted → [`committee-information-architecture.md`](committee-information-architecture.md) | — |
 | OUG Governance Artikel v2.docx | ✅ Converted → [`governance-article-v2.md`](governance-article-v2.md) | — |
 | OUG Governance Gap Closure v2.docx | ✅ Converted → [`governance-gap-closure-v2.md`](governance-gap-closure-v2.md) | — |
-| OUG Grundordnung.docx | ✅ Added (docx) | `grundordnung.md` |
+| OUG Grundordnung.docx | ✅ Converted → [`grundordnung.md`](grundordnung.md) — § 7, § 10 and Anlagen-adoption completed, not just migrated | — |
+| *(new)* Federated Legal Model | ✅ Converted → [`federated-legal-model.md`](federated-legal-model.md) | — |
 | OUG InterLayer Feedback Protocol.docx | ✅ Added (docx) | `interlayer-feedback-protocol.md` |
 | OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Added (docx) | `legal-implementation-requirements.md` |
 | OUG Strategic Clarity Statement.docx | ✅ Added (docx) | `strategic-clarity-statement.md` |
 
 ### A note on "Federated Legal Model"
 
-The main index originally listed a document called *Federated Legal Model* for this domain, per chapter 17's inventory. No file under that name exists in this folder. By decision, **Grundordnung** is now treated as the match — it's the actual founding statute governing the federated legal structure, even though the name doesn't match chapter 17's description exactly. See [conversion-notes.md](conversion-notes.md) for the full reasoning.
+The main index originally listed a document called *Federated Legal Model* for this domain, per chapter 17's inventory, and no file under that name could be found in this folder — so Grundordnung was temporarily treated as the closest match. The real document has since turned up (uploaded separately, not from this Drive folder) and is now converted as [`federated-legal-model.md`](federated-legal-model.md). Both it and Grundordnung are now separate entries above. See [conversion-notes.md](conversion-notes.md) for the full history.
 
 ### Not yet in scope
 
