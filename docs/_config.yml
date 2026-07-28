@@ -4,12 +4,16 @@ description: >-
   principles — governance, curriculum, legal structure, and institutional
   architecture, kept under version control.
 
-# If you ever want a different built-in look without writing custom CSS,
-# swap the theme below for one of GitHub's supported Pages themes and
-# commit — no HTML changes needed anywhere in the repo:
+# Jekyll's built-in default theme — this was already in effect implicitly;
+# made explicit here so the color override in assets/css/style.scss works.
+theme: minima
+
+# Alternative option: swap the line above for one of GitHub's supported
+# Pages themes instead, and commit — no HTML changes needed anywhere:
 #   jekyll-theme-cayman, jekyll-theme-minimal, jekyll-theme-slate,
 #   jekyll-theme-architect, jekyll-theme-primer, jekyll-theme-tactile,
 #   jekyll-theme-dinky, jekyll-theme-hacker, jekyll-theme-leap-day,
 #   jekyll-theme-merlot, jekyll-theme-midnight, jekyll-theme-modernist,
 #   jekyll-theme-time-machine
-# theme: jekyll-theme-primer
+# (if you do this, the color override below will need different
+# selectors — ask me and I'll update it for the specific theme.)
