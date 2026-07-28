@@ -19,6 +19,8 @@ Documents are currently sitting as their original `.docx` source files while the
 | OUG Governance Gap Closure v2.docx | ✅ Converted → [`governance-gap-closure-v2.md`](governance-gap-closure-v2.md) | — |
 | OUG Grundordnung.docx | ✅ Converted → [`grundordnung.md`](grundordnung.md) — § 7, § 10 and Anlagen-adoption completed, not just migrated | — |
 | *(new)* Federated Legal Model | ✅ Converted → [`federated-legal-model.md`](federated-legal-model.md) | — |
+| *(new)* Anlagen (Anlage 1 + Anlage 2, one document) | ✅ Built as a link-out index → [`anlagen.md`](anlagen.md) — Anlage 1 defers to the book by decision; Anlage 2 essentially complete | — |
+| *(new)* Portfolio Governance | ✅ Converted → [`portfolio-governance.md`](portfolio-governance.md) — reprioritised out of the deferred set once Anlagen depended on it | — |
 | OUG InterLayer Feedback Protocol.docx | ✅ Added (docx) | `interlayer-feedback-protocol.md` |
 | OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Added (docx) | `legal-implementation-requirements.md` |
 | OUG Strategic Clarity Statement.docx | ✅ Added (docx) | `strategic-clarity-statement.md` |
@@ -29,7 +31,7 @@ The main index originally listed a document called *Federated Legal Model* for t
 
 ### Not yet in scope
 
-The real Drive folder for this domain contains **18 files**, not the 9 listed above — 9 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Portfolio Governance, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
+The real Drive folder for this domain contains **18 files**. Beyond the documents listed above, 8 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
 
 ---
 
