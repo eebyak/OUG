@@ -9,7 +9,7 @@ title: Partnership & Federation
 The OUG does not teach. It certifies. Every hour of instruction a student receives comes from a partner university's own academic staff, delivered under the partner's own pedagogical traditions, inside the boundary that [Governance Gap Closure v2](../governance/governance-gap-closure-v2.md) draws at the credential record. This domain is where that arrangement is made concrete and durable: what a partner gets, what a partner owes, and — a detail easy to overlook and expensive to get wrong — how an individual teaching member of a partner's staff is legally engaged when their teaching now serves two institutions at once.
 
 <div class="diagram-block">
-  <a class="diagram-preview" href="#leadership-map">
+  <a class="diagram-preview" href="#partnership-map">
     <img
       src="{{ '/partnership/images/OUG-Partnership-Map.png' | relative_url }}"
       alt="OUG Partnership Map">
