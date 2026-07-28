@@ -21,9 +21,12 @@ Documents are currently sitting as their original `.docx` source files while the
 | *(new)* Federated Legal Model | ✅ Converted → [`federated-legal-model.md`](federated-legal-model.md) | — |
 | *(new)* Anlagen (Anlage 1 + Anlage 2, one document) | ✅ Built as a link-out index → [`anlagen.md`](anlagen.md) — Anlage 1 defers to the book by decision; Anlage 2 essentially complete | — |
 | *(new)* Portfolio Governance | ✅ Converted → [`portfolio-governance.md`](portfolio-governance.md) — reprioritised out of the deferred set once Anlagen depended on it | — |
-| OUG InterLayer Feedback Protocol.docx | ✅ Added (docx) | `interlayer-feedback-protocol.md` |
-| OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Added (docx) | `legal-implementation-requirements.md` |
-| OUG Strategic Clarity Statement.docx | ✅ Added (docx) | `strategic-clarity-statement.md` |
+| OUG InterLayer Feedback Protocol.docx | ✅ Converted → [`interlayer-feedback-protocol.md`](interlayer-feedback-protocol.md) | — |
+| OUG Rechtliche Implementierungsvoraussetzungen.docx | ✅ Converted → [`legal-implementation-requirements.md`](legal-implementation-requirements.md) | — |
+| OUG Strategic Clarity Statement.docx | ✅ Converted → [`strategic-clarity-statement.md`](strategic-clarity-statement.md) | — |
+| *(new)* Strategic Positioning — The Missing Layer | ✅ Converted → [`strategic-positioning-missing-layer.md`](strategic-positioning-missing-layer.md) | — |
+| *(new)* Mission Hub Permeability Architecture | ✅ Converted → [`mission-hub-permeability-architecture.md`](mission-hub-permeability-architecture.md) | — |
+| *(new)* Governance Review Calendar | ✅ Converted → [`governance-review-calendar.md`](governance-review-calendar.md) | — |
 
 ### A note on "Federated Legal Model"
 
@@ -31,7 +34,9 @@ The main index originally listed a document called *Federated Legal Model* for t
 
 ### Not yet in scope
 
-The real Drive folder for this domain contains **18 files**. Beyond the documents listed above, 8 more exist (Strategic Positioning, Incentive Conversion Statement, Design Authority Constitution, Mission Hub Permeability Architecture, Governance Review Calendar, Design Signature Founding, Governance Principles Assessment, Governance Architecture). These are deliberately out of scope for now — tracked in [conversion-notes.md](conversion-notes.md) — and not part of the main index's document list until a decision is made on whether/how to include them.
+The real Drive folder for this domain contains **18 files**. All but 5 are now converted. Still deferred: Incentive Conversion Statement, Design Authority Constitution, Governance Principles Assessment, Governance Architecture — tracked in [conversion-notes.md](conversion-notes.md), not part of the main index's document list yet.
+
+**Design Signature Founding** is a special case: it was uploaded and read, but deliberately **not** converted into this directory — see [conversion-notes.md](conversion-notes.md) for why (it's the 42-principle maturity scorecard, and belongs with the book's own Part 4/5 argument, not with governance statutes). Awaiting a decision on where it should actually live.
 
 ---
 
