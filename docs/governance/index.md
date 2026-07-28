@@ -15,12 +15,9 @@ Nineteen documents live in this folder. Read individually, several of them are d
 PLACEHOLDER: swap this for the real diagram once generated.
 Prompt for generating it: governance-diagram-prompt.txt (delivered alongside this file).
 Suggested path once ready: governance/images/governance-document-map.png
--->
-> 🖼 **[Governance Document Map — diagram pending]**
-> *A relationship map showing the six clusters below and how they connect. See `governance-diagram-prompt.txt` for the brief to generate it — drop the image at `governance/images/governance-document-map.png` and replace this callout with `![Governance Document Map](images/governance-document-map.png)` once it exists.*
 
 ![Governance Document Map](images/governance-document-map.png)
----
+
 
 ## How to Read This Folder
 
