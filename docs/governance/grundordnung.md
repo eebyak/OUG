@@ -6,8 +6,8 @@
 > **Source:** consolidated from `OUG Grundordnung.docx` (original, with placeholder § 7 / § 10) plus `Abschlussbericht zur Vervollständigung der OUG-Grundordnung.docx` (completion report drafting the missing sections against Baden-Württemberg comparator statutes — Freiburg, Tübingen, Ulm, Heidelberg, Mannheim).
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
 > **Language note:** dieses Dokument ist auf Deutsch verfasst und wird im Original belassen — als founding statute (Grundordnung) ist es ein Rechtsdokument, das in seiner deutschen Fassung maßgeblich ist.
-> **Note on scope:** § 7 (Kanzler/Kanzlerin) and § 10 (Gleichstellung, Diversität, Chancengerechtigkeit) were placeholder text in the original document. Both are now fully drafted below, and § 16 has been revised to explicitly adopt Anlage 1 and Anlage 2 by reference rather than leaving them as unattached "separate documents." See [conversion-notes.md](conversion-notes.md) for what changed and why — this is a substantive completion, not just a formatting migration.
-> **Open question this does *not* resolve:** whether this document should still stand in for chapter 17's "Federated Legal Model" entry. A document that looks like a strong candidate for the real thing has since surfaced — see [conversion-notes.md](conversion-notes.md).
+> **Note on scope:** § 7 (Kanzler/Kanzlerin) and § 10 (Gleichstellung, Diversität, Chancengerechtigkeit) were placeholder text in the original document. Both are now fully drafted below, and § 16 has been revised to explicitly adopt the Anlagen by reference rather than leaving them as unattached "separate documents." Both Anlagen now exist as one consolidated, linked document — **[Anlagen](anlagen.md)** — built as a link-out index to already-converted repository documents rather than one giant merged file. Anlage 1's First Principles / Design Principles content is deliberately deferred to the book rather than duplicated here — see [Anlagen](anlagen.md) and [conversion-notes.md](conversion-notes.md) for the reasoning.
+> **Resolved:** the earlier open question about whether this document should stand in for chapter 17's "Federated Legal Model" entry has been resolved — the real document surfaced and is now converted separately as [`federated-legal-model.md`](federated-legal-model.md). Both documents exist independently now.
 
 ## Grundordnung der Open University of Germany (OUG)
 
@@ -267,8 +267,5 @@ Die Gremienwahlen werden gemäß der Wahlordnung der Hochschule durchgeführt.
 
 ## Anlagen
 
-**Anlage 1:** Strategisches Rahmenwerk – First Principles and Derived Institutional Capabilities
-*(gesondert bekannt gemacht; Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3 — noch nicht als eigenes Dokument in diesem Repository migriert)*
-
-**Anlage 2:** Strategic Decision Protocol
-*(gesondert bekannt gemacht; Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3 — noch nicht als eigenes Dokument in diesem Repository migriert)*
+Beide Anlagen — **Anlage 1** (Strategisches Rahmenwerk) und **Anlage 2** (Strategic Decision Protocol) — sind gemeinsam als ein Dokument geführt: **[Anlagen](anlagen.md)**.
+*(Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3. Anlage 1 verweist bewusst auf das Buch für First Principles und Design Principles, statt diese hier zu duplizieren — siehe dort. Anlage 2 ist weitgehend vollständig.)*
