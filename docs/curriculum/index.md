@@ -3,7 +3,7 @@ layout: page
 title: Curriculum & Pedagogy
 ---
 
-# Curriculum & Pedagogy
+
 
 [← Back to main index](../index.md)
 
