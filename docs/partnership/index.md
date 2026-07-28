@@ -1,9 +1,7 @@
-
 ---
 layout: page
 title: Partnership & Federation
 ---
-
 
 
 [← Back to main index](../index.md)
