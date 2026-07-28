@@ -10,6 +10,28 @@ title: Quality Assurance
 
 Quality is the domain where a federated, modular, campus-free institution has to work hardest to be believed, because every intuition built for a conventional university — one faculty, one campus, one exam board — points the wrong way. The documents here answer the scepticism directly: quality is defined at three nested levels (module, skill profile, qualification), it is governed by a body constitutionally insulated from financial pressure, and — the part most institutions skip — it is checked not only at the moment a credential is issued but months afterward, to see whether the learning actually held up.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#quality-architecture">
+    <img
+      src="{{ '/quality/images/OUG-Quality.png' | relative_url }}"
+      alt="OUG Quality Architecture">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="quality-architecture" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/quality/images/OUG-Quality.png' | relative_url }}"
+      alt="Enlarged OUG Quality Architecture">
+  </div>
+</div>
+
+
 ## What's Here
 
 - **[Quality Assurance & Academic Governance](quality-assurance-academic-governance.md)** — the base framework. Academic quality defined as integrity of demonstrated competence, not adherence to fixed curricula. The Quality Commission, the annual Stichprobe (independent 5% examination sample), the dual improvement loops, and the constitutional insulation of G3 from financial pressure.
