@@ -89,7 +89,7 @@ This work distinguishes between:
   <p class="diagram-caption">Click the diagram to enlarge.</p>
 </div>
 
-<div id="/images/OUG-Architecture" class="lightbox">
+<div id="OUG-Architecture" class="lightbox">
   <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
 
   <div class="lightbox-panel">
