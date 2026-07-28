@@ -3,7 +3,6 @@ layout: page
 title: Quality Assurance
 ---
 
-# Quality Assurance
 
 [← Back to main index](../index.md)
 
