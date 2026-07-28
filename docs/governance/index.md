@@ -3,7 +3,7 @@ layout: page
 title: Governance
 ---
 
-# Governance
+
 
 [← Back to main index](../index.md)
 
@@ -12,7 +12,31 @@ This is the constitutional layer: the documents that establish what the OUG lega
 Nineteen documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like 19 separate things is really six clusters, each answering a different question.
 
 
-![Governance Document Map](images/governance-document-map.png)
+
+
+
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#governance-document-map">
+    <img
+      src="{{ '/governance/images/governance-document-map.png' | relative_url }}"
+      alt="OUG Governance Document Map">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="governance-document-map" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/governance/images/governance-document-map.png' | relative_url }}"
+      alt="Enlarged OUG Governance Document Map">
+  </div>
+</div>
+
 
 
 ## How to Read This Folder
