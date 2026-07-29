@@ -1,0 +1,65 @@
+---
+pair_number: 5
+ap_id: AP-5
+dp_id: DP-5
+ap_name: "The Proximity Task"
+dp_name: "The Designed Task"
+pair_title: "Task Assignment and Role Accumulation"
+domain: "Task assignment"
+block: "HEI Observations"
+derived_from: "HEI-2: Three faculty managers with the same title holding three entirely different role profiles — including maintenance of laboratory equipment and management of regulatory waste streams — determined by historical proximity rather than designed scope"
+layout: page
+title: "AP-5 / DP-5 · The Proximity Task → The Designed Task"
+---
+
+# Pattern Pair 5: Task Assignment and Role Accumulation
+
+**The Proximity Task → The Designed Task**
+
+*Derived from: HEI-2 — Three faculty managers with the same title holding three entirely different role profiles — including maintenance of laboratory equipment and management of regulatory waste streams — determined by historical proximity rather than designed scope.*
+
+[← Back to the pattern catalogue](index.md)
+
+---
+
+## AP-5 · Antipattern: The Proximity Task
+
+**Context — where this appears**
+Any organisation in which roles are defined by title and convention rather than by explicit task assignment frameworks, and in which tasks that need doing arrive continuously without a designed home. Particularly prevalent in operational roles adjacent to academic leadership, where the boundary between academic and administrative responsibility is structurally unclear.
+
+**Symptom — what it looks like from inside**
+Nominally equivalent roles have substantially different task profiles in practice. Some role-holders are deeply embedded in strategic processes; others manage maintenance, compliance, and facilities tasks. The difference is not seniority or capability — it is proximity. Role-holders who are physically or organisationally close to decision-makers accumulate influence tasks; role-holders who are close to operational needs accumulate maintenance tasks. Neither accumulation was designed.
+
+**Mechanism — the structural logic that produces it**
+In the absence of explicit role boundaries and task assignment frameworks, tasks accumulate by proximity: whoever is nearest, most available, or least able to refuse becomes the default assignee. This is not malicious — it is rational. A task that needs doing, assigned to the person who is at hand, is a task completed. Over time, these individual rational decisions produce role profiles that are historically contingent and strategically irrational. The roles reflect where people were standing during critical moments of institutional history, not what the institution needs them to do.
+
+**Consequence — what it costs the institution**
+Role profiles diverge arbitrarily across nominally equivalent positions. Institutional knowledge accumulates in individuals rather than in designed roles — when role-holders leave, their knowledge leaves with them because there was no designed role to transfer, only a personal accumulation. The institution cannot redistribute tasks rationally because they have become identified with individuals. Performance management is impossible because equivalent roles are not actually equivalent. Strategic planning is undermined because the institution does not know what its operational roles actually do.
+
+**Counter-design — what prevents this structurally**
+Every task must have a designed home before it is assigned. When a task arrives that has no explicit home in any role's defined scope, the task assignment decision is a governance decision — not a proximity decision. Task assignment frameworks define not only who does what but on what basis new tasks are assigned. Role profiles are reviewed against actual task accumulation annually. When divergence between equivalent roles exceeds a defined threshold, the divergence is treated as a governance problem, not a management problem.
+
+---
+
+## DP-5 · Design Pattern: The Designed Task
+
+*Structural inverse of: The Proximity Task*
+
+**Context — where this applies**
+Any institution with operational roles that interact with both academic and administrative functions and which needs role profiles to reflect strategic design rather than historical accumulation.
+
+**Intent — what this pattern achieves**
+To ensure that every task in the institution has a designed home based on function and capacity rather than proximity, and that task accumulation is a visible, governed process rather than an invisible, structural one.
+
+**Structure — what must be built**
+The institution maintains a Task Architecture: a mapping of all recurring tasks to designed role categories, with explicit assignment rationale for each. The Task Architecture is not a job description database — it is a governance document reviewed by the same body that reviews role scope. New tasks are classified before assignment: Strategic (requires governance-level decision for assignment), Operational (assigned within defined operational scope), Administrative (assigned within defined administrative scope), or Unclassified (requires Task Architecture review before assignment). Unclassified tasks are not assigned by proximity — they are held pending classification.
+
+**Implementation — what this looks like in practice**
+When equivalent roles diverge in practice, the divergence is visible in the Task Architecture review. The institution can distinguish between designed divergence (different roles have different task profiles because the institution designed them that way) and accumulated divergence (roles have drifted apart through proximity accumulation). Role-holder transitions include a Task Architecture handoff: the departing role-holder documents their actual task profile against the designed profile, and divergences are resolved before the role is handed over.
+
+**Result — what the institution gains**
+Role profiles reflect institutional design rather than institutional history. Knowledge accumulated in roles is transferable because it is documented in designed role profiles rather than embedded in individual practice. The institution can redistribute tasks in response to strategic change because tasks are assigned by function rather than by person. Equivalent roles are actually equivalent — performance management, development, and succession planning become meaningful.
+
+---
+
+*Open University of Germany · Design Pattern Catalogue · Pair 5 of 42 · Block: HEI Observations*
