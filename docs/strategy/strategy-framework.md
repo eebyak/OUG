@@ -1,14 +1,11 @@
-**Status:** Drafted
-
 # Strategy Framework: Objectives & KPIs
 
 *Open University of Germany · Strategy & Finance*
 *2030 Horizon*
 
 > **Source:** migrated from `Strategy Framework (Objectives & KPIs).docx`
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
+> **Status:** Drafted
 > **Cross-reference:** this is the document referred to as "the Strategy Framework / SEP" in [Leadership & Stewardship Profiles](../leadership/leadership-stewardship-profiles.md) — previously only referenced, not located. It translates the [Strategic Constitution](strategic-constitution.md) into a time-bound, measurable steering instrument, and functions as the OUG's *Struktur- und Entwicklungsplan* (SEP) equivalent under Baden-Württemberg practice.
-> **Note:** this document refers internally to "Document A" (the [Governance & Decision Framework](../governance/governance-architecture.md)) and "Document B" (the [Quality Assurance & Academic Governance Concept](../quality/quality-assurance-academic-governance.md)) by their letter designations rather than by name — consistent with the lettering scheme flagged as unreconciled elsewhere in this repository (see [Portfolio Governance](../governance/portfolio-governance.md) conversion notes).
 
 ## 0. Purpose, Status, and Time Horizon
 
@@ -16,7 +13,7 @@
 
 This Strategy Framework translates the Strategy Constitution of the Open University of Germany (OUG) into a time-bound steering instrument for institutional development up to 2030. It defines a limited set of strategic objectives and associated strategic indicators and learning signals that enable the institution to prioritise, observe progress, surface unintended effects, and adapt course over time.
 
-The framework is designed to steer what matters — academic quality, access, learner development, coherence, and institutional learning — while preserving academic autonomy, participatory governance, and evidence-based judgement as defined in the Governance & Decision Framework (Document A) and the Quality Assurance & Academic Governance Concept (Document B).
+The framework is designed to steer what matters — academic quality, access, learner development, coherence, and institutional learning — while preserving academic autonomy, participatory governance, and evidence-based judgement as defined in the [Governance & Decision Framework](../governance/governance-architecture.md) and the [Quality Assurance & Academic Governance Concept](../quality/quality-assurance-academic-governance.md).
 
 ### 0.2 Status as SEP-Equivalent
 
@@ -28,7 +25,7 @@ This separation preserves institutional agency, supports accreditation traceabil
 
 All objectives and indicators in this framework are derived from and constrained by the Strategy Constitution. In particular, the framework respects the constitutional precedence of: academic quality and integrity over short-term optimisation; accessibility without dilution of standards; participatory governance with clear accountability; and evidence-informed learning and adaptability.
 
-Where trade-offs arise, interpretation and adjustment follow the constitutional decision logic and escalation pathways defined in Document A.
+Where trade-offs arise, interpretation and adjustment follow the constitutional decision logic and escalation pathways defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 ### 0.4 Time Horizon and Review Logic
 
@@ -45,7 +42,7 @@ Strategic objectives are stable across the cycle; indicators and learning signal
 
 Measurability in this framework serves learning and steering, not control. Indicators are selected to make progress visible across diverse learning pathways and institutional functions, including quality at scale in modular, stackable provision; learner progression and agency development; coherence of skill profiles and qualification equivalence; and institutional learning and governance effectiveness.
 
-No single indicator determines success. Interpretation remains a governed process involving Strategic Steering (G2) and Academic Governance (G3), with participatory sense-making inputs as defined in Document A.
+No single indicator determines success. Interpretation remains a governed process involving Strategic Steering (G2) and Academic Governance (G3), with participatory sense-making inputs as defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 ---
 
@@ -53,7 +50,7 @@ No single indicator determines success. Interpretation remains a governed proces
 
 The strategic objectives defined below translate the Strategy Constitution into a limited set of institution-wide priorities for the period up to 2030. They are designed to be stable across disciplines and delivery formats, applicable to modular and non-linear learning pathways, and steerable through clearly defined strategic indicators and learning signals (Section 2).
 
-Each objective is constitutionally anchored, mutually reinforcing, and subject to periodic review under the governance logic defined in Document A.
+Each objective is constitutionally anchored, mutually reinforcing, and subject to periodic review under the governance logic defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 ### SO1 — Academic Quality and Integrity at Scale
 
@@ -105,7 +102,7 @@ This objective balances relevance with autonomy.
 
 ### Status of Strategic Objectives
 
-Together, these objectives define the strategic development corridor of the OUG to 2030. They are intentionally non-operational and are realised through governed decision-making, quality assurance, and participatory processes as defined in Documents A and B. Progress toward these objectives is observed and interpreted through strategic indicators and learning signals (Section 2).
+Together, these objectives define the strategic development corridor of the OUG to 2030. They are intentionally non-operational and are realised through governed decision-making, quality assurance, and participatory processes as defined in the [Governance & Decision Framework](../governance/governance-architecture.md) and the [Quality Assurance & Academic Governance Concept](../quality/quality-assurance-academic-governance.md). Progress toward these objectives is observed and interpreted through strategic indicators and learning signals (Section 2).
 
 ---
 
@@ -113,7 +110,7 @@ Together, these objectives define the strategic development corridor of the OUG 
 
 Strategic indicators and learning signals translate the strategic objectives into observable patterns of development up to 2030. Their purpose is to support reflection, prioritisation, and adaptive steering, not to function as targets, rankings, or automatic decision triggers.
 
-Indicators are selected to be meaningful across disciplines and learning pathways, compatible with modular and lifelong learning, and interpretable through academic and strategic governance as defined in Document A.
+Indicators are selected to be meaningful across disciplines and learning pathways, compatible with modular and lifelong learning, and interpretable through academic and strategic governance as defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 ### 2.1 Principles for Indicator Design and Use
 
@@ -179,7 +176,7 @@ This rhythm balances strategic stability with adaptability.
 
 ### 3.2 Governance Responsibilities
 
-Strategic review and adjustment are governed through the decision architecture defined in Document A.
+Strategic review and adjustment are governed through the decision architecture defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 **Strategic Steering (G2)** holds responsibility for: reviewing strategic indicators and learning signals; identifying strategic tensions and priority shifts; proposing adjustments to objectives or indicators within constitutional boundaries.
 
@@ -191,7 +188,7 @@ Strategic review and adjustment are governed through the decision architecture d
 
 Strategic decisions derived from the review process follow the constitutional decision logic: trade-offs are made explicit; justifications are documented; and deviations from participatory recommendations require explanation.
 
-Where disagreements arise regarding competence, constitutional alignment, or quality impact, escalation follows the pathways defined in Document A.
+Where disagreements arise regarding competence, constitutional alignment, or quality impact, escalation follows the pathways defined in the [Governance & Decision Framework](../governance/governance-architecture.md).
 
 ### 3.4 Outputs of the Strategic Review
 
