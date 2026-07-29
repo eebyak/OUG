@@ -1,6 +1,6 @@
 ---
 layout: home
-
+title: Open University of Germany
 ---
 
 <picture>
@@ -8,7 +8,7 @@ layout: home
   <img src="images/Logo2-small.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380">
 </picture>
 
-
+# Open University of Germany
 
 ## Designing a University from First Principles
 
@@ -76,31 +76,6 @@ This work distinguishes between:
   - *Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are all documented and reasoned through in the book. This repository documents their result — the Implementing Documents below, organised into the seven domains chapter 17 describes — not the derivation or decision process itself.*
 
 - **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be very extensive. The main reasoning behind the architectural design can be found in the book.
-
----
-
-
-<div class="diagram-block">
-  <a class="diagram-preview" href="#OUG-Architecture">
-    <img
-      src="{{ '/images/OUG-Architecture.png' | relative_url }}"
-      alt="OUG Architecture">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="OUG-Architecture" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '/images/OUG-Architecture.png' | relative_url }}"
-      alt="Enlarged OUG Architecture">
-  </div>
-</div>
-
 
 ---
 
@@ -186,8 +161,8 @@ The repository is organised into seven domains, exactly as described in Chapter 
 - [The OUG Communication Architecture](communications/communication-architecture.md)
 - [OUG Market Study](communications/market-study.md)
 - [Ein gewöhnlicher Dienstag (A Perfectly Ordinary Tuesday)](communications/ein-gewoehnlicher-dienstag.md)
-- [Menschlicher Fall (The Human Case)](communications/menschlicher-fall.pptx)
-- [Partner and Ministry Decks](communications/partner-and-ministry-decks/) — DHBW, Die Fehlende Schicht, Ministerium, Erklärung
+- Menschlicher Fall (The Human Case) — *not converted, still on Drive as `.pptx`; see [conversion-notes.md](communications/conversion-notes.md)*
+- Partner and Ministry Decks (DHBW, Die Fehlende Schicht, Ministerium, Erklärung) — *not converted, still on Drive as `.pptx`; see [conversion-notes.md](communications/conversion-notes.md)*
 - [OUG Report 2025–26](communications/annual-report-2025-26.md)
 
 ## Document Status
