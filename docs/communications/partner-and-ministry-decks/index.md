@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Partner & Ministry Decks
-----
+title: "Partner & Ministry Decks"
+---
 
 
 [← Back to Presentation & Communication](../index.md)
@@ -15,6 +15,26 @@ The presentations in this directory are therefore not five competing description
 They should be read as communication instruments rather than as sources of institutional authority. Where a presentation simplifies, condenses, or interprets the OUG architecture, the underlying statutes, frameworks, financial plans, and governance documents remain authoritative.
 
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#decks">
+    <img
+      src="{{ '/communications/partner-and-ministry-decks/images/Decks.png' | relative_url }}"
+      alt="OUG Decks">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="decks" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/communications/partner-and-ministry-decks/images/Decks.png' | relative_url }}"
+      alt="Enlarged OUG Decks">
+  </div>
+</div>
 
 
 
