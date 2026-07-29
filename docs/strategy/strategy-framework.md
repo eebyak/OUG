@@ -1,3 +1,5 @@
+**Status:** Drafted
+
 # Strategy Framework: Objectives & KPIs
 
 *Open University of Germany · Strategy & Finance*
