@@ -67,7 +67,7 @@ This work distinguishes between:
 - **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
 
 - **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
-  - in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level because one pattern name is easier to use than a complex description. [Design Patterns](../DesignPatterns/index.md)
+  - in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level because one pattern name is easier to use than a complex description. [Design Patterns](design-patterns.md)
 
 - **Architectural Decisions** — the specific choices made for the OUG;
   - the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature describing how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
