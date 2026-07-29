@@ -8,7 +8,6 @@ title: Open University of Germany
   <img src="images/Logo2-small.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380">
 </picture>
 
-# Open University of Germany
 
 ## Designing a University from First Principles
 
