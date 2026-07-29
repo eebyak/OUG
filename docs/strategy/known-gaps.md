@@ -14,10 +14,6 @@ Some items may require a missing document to be added. Others require existing d
 
 ---
 
-## Strategy Architecture
-
-* [ ] **Strategy Framework / SEP** — the source document `Strategy Framework (Objectives & KPIs).docx` exists but has not yet been converted into the Strategy directory. It provides the missing connection between the Strategic Constitution and the operational OKR framework by defining strategic objectives, indicators, responsibilities, and the annual strategic review process.
-
 ## Founding and Legal Model
 
 * [ ] **Legal form and founding pathway** — the [Five-Year Finance Plan](five-year-finance-plan.md) describes the OUG as beginning as a non-profit company (`gGmbH`) and later becoming a privately operated, state-recognised distance university. The [Grundordnung](../governance/grundordnung.md) defines the OUG as a university of the State of Baden-Württemberg. These models must be reconciled or clearly presented as alternative founding pathways.
