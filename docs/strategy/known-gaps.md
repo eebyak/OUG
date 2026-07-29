@@ -36,8 +36,6 @@ Some items may require a missing document to be added. Others require existing d
 
 ## Strategy Framework and Review
 
-- [ ] **Legacy document designations** — the [Strategy Framework / SEP](strategy-framework.md) refers throughout to “Document A” and “Document B.” These references should be replaced or supplemented with the current document titles and links: the [Governance & Decision Framework](../governance/governance-architecture.md) and the [Quality Assurance & Academic Governance Framework](../quality/quality-assurance-academic-governance.md).
-
 - [ ] **Operationalisation of strategic indicators** — the Strategy Framework defines six strategic objectives and corresponding indicator families, but deliberately leaves the selection of specific indicators to implementation. Before the annual strategic-review cycle can operate, the institution must define the actual indicators, baselines where appropriate, evidence sources, responsible bodies,, evidence sources, responsible bodies, review timetable, and format of the Strategic Reflection Statement.
 
 ---
