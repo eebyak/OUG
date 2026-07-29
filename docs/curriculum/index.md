@@ -82,3 +82,5 @@ The **Research and Doctoral Framework** extends the academic architecture beyond
 * **[Leadership](../leadership/index.md)** defines the responsibilities of the academic leaders and Mission Hub Stewards who oversee programme development, delivery, and renewal.
 
 Together, these documents describe a curriculum not as a fixed sequence of courses, but as an academic architecture connecting modules, competencies, pathways, people, evidence, and qualifications.
+
+Unresolved questions, inconsistencies, and matters requiring further development are maintained separately in the **[known gaps](known-gaps)** register.
