@@ -1,5 +1,4 @@
 ---
-
 layout: home
 title: "Open University of Germany"
 ---
@@ -19,7 +18,7 @@ The OUG is not conceived as a replacement for existing universities. It is desig
 
 This repository contains the evolving institutional architecture of the OUG.
 
-© 2026 Kay Berkling. This work is licensed under CC BY-ND 4.0. You may share this material in any medium or format, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not distribute modified material. For attribution: Kay Berkling, "OUG: Designing a University from First Principles" (2026), https://eebyak.github.io/OUG/. For consulting inquiries: [kay.berkling@dhbw.de](mailto:kay.berkling@dhbw.de) | Prof. Dr. Kay Berkling, DHBW Baden-Württemberg, Germany.
+© 2026 Kay Berkling. This work is licensed under CC BY-ND 4.0. You may share this material in any medium or format, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not distribute modified material. For attribution: Kay Berkling, "OUG: Designing a University from First Principles" (2026), https://eebyak.github.io/OUG/. For consulting inquiries: kay.berkling@dhbw.de | Prof. Dr. Kay Berkling, DHBW Baden-Württemberg, Germany.
 
 To understand **why** each element exists, please refer to the book.
 
@@ -51,35 +50,30 @@ The resulting principles were then compared across perspectives and used to stre
 
 This work distinguishes between:
 
-* **OUG Founding Commitments** — the personal and moral commitments from which the OUG was originally born;
+- **OUG Founding Commitments** — the personal and moral commitments from which the OUG was originally born;
+  - every person is a student;
+  - every person has the right to learn;
+  - a democratic society has a responsibility to enable learning for all.
 
-  * every person is a student;
-  * every person has the right to learn;
-  * a democratic society has a responsibility to enable learning for all.
+- **Bologna Founding Principles** — principles visible in the architecture of the earliest university:
+  - learning is the goal;
+  - the learner directs the learning relationship, while the institution holds the accountability;
+  - what is available to learn is determined by learner need.
 
-* **Bologna Founding Principles** — principles visible in the architecture of the earliest university:
+- **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners;
+  - 42 principles were derived based on open dialogues;
+  - the interlocutors agreed to the principles documented as emerging from those dialogues.
 
-  * learning is the goal;
-  * the learner directs the learning relationship, while the institution holds the accountability;
-  * what is available to learn is determined by learner need.
+- **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
 
-* **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners;
+- **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
+  - in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level because one pattern name is easier to use than a complex description.
 
-  * 42 principles were derived based on open dialogues;
-  * the interlocutors agreed to the principles that were documented as emerging from the dialogue.
+- **Architectural Decisions** — the specific choices made for the OUG;
+  - the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature describing how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
+  - *Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are documented and reasoned through in the book. This repository documents their institutional result through the implementing documents organised into the seven domains below.*
 
-* **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
-
-* **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
-
-  * in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level about situations, because one word, the pattern name, is easier to use than a complex description.
-
-* **Architectural Decisions** — the specific choices made for the OUG;
-
-  * the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature that describes how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
-  * *Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are documented and reasoned through in the book. This repository documents their institutional result through the implementing documents organised into the seven domains below.*
-
-* **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be very extensive. The main reasoning behind the architectural design can be found in the book.
+- **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be extensive. The main reasoning behind the architectural design can be found in the book.
 
 ---
 
@@ -87,87 +81,92 @@ This work distinguishes between:
 
 The repository is organised into seven connected domains. Each domain overview explains the role of its documents and provides direct access to the current material.
 
+Unresolved matters across the complete architecture are summarised in the **[repository-wide Known Gaps register](known-gaps.md)**.
+
 ### Curriculum & Pedagogy
 
-* [Overview](curriculum/index.md)
-* [Live New Study Module Catalogue](https://newstudy.campuscircle.de/)
-* [Machine-Readable Modules](curriculum/skill-based-modules/index.md)
-* [Didactic Framework, B.Sc. Computer Science](curriculum/didactic-framework-bsc-cs.md)
-* [Equity by Design Principles](curriculum/equity-by-design.md)
-* [Platform: From Static Curriculum to Living Learning System](curriculum/platform-living-learning-system.md)
-* [The OUG Presence Architecture](curriculum/presence-architecture.md)
-* [Research & Doctoral Framework](curriculum/research-doctoral-framework.md)
-* [New Study — B.Sc. Computer Science, Programme Document](curriculum/new-study-programme-document.md)
+- [Overview](curriculum/index.md)
+- [New Study — B.Sc. Computer Science Programme Document](curriculum/new-study-programme-document.md)
+- [Modulhandbuch — Bachelor of Computer Science](curriculum/modulhandbuch.md)
+- [Didactic Framework, B.Sc. Computer Science](curriculum/didactic-framework-bsc-cs.md)
+- [Equity by Design](curriculum/equity-by-design.md)
+- [The OUG Presence Architecture](curriculum/presence-architecture.md)
+- [Platform: From Static Curriculum to Living Learning System](curriculum/platform-living-learning-system.md)
+- [Research & Doctoral Framework](curriculum/research-doctoral-framework.md)
+- [Machine-Readable Module Data](curriculum/skill-based-modules/index.md)
+- [Live New Study Module Catalogue](https://newstudy.campuscircle.de/)
 
 ### Governance
 
-* [Overview](governance/index.md)
-* [Grundordnung](governance/grundordnung.md)
-* [Federated Legal Model](governance/federated-legal-model.md)
-* [Anlagen: Anlage 1 and Anlage 2](governance/anlagen.md)
-* [Allgemeinwohl Verfassung: Public-Benefit Constitution](governance/allgemeinwohl-verfassung.md)
-* [Rechtliche Implementierungsvoraussetzungen: Legal Implementation Requirements](governance/legal-implementation-requirements.md)
-* [Governance & Decision Framework](governance/governance-architecture.md)
-* [Committee Information Architecture](governance/committee-information-architecture.md)
-* [Inter-Layer Feedback Protocol](governance/interlayer-feedback-protocol.md)
-* [Portfolio Governance](governance/portfolio-governance.md)
-* [Design Authority Constitution](governance/design-authority-constitution.md)
-* [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
-* [Code of Collegial Conduct](governance/code-of-collegial-conduct.md)
-* [Governance Review Calendar](governance/governance-review-calendar.md)
-* [Incentive Conversion Statement](governance/incentive-conversion-statement.md)
-* [Mission Hub Permeability Architecture](governance/mission-hub-permeability-architecture.md)
-* [Governance Artikel v2](governance/governance-article-v2.md)
-* [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
-* [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
-* [Governance Principles Assessment](governance/governance-principles-assessment.md)
-* [Design Signature Founding](governance/design-signature-founding.md)
+- [Overview](governance/index.md)
+- [Grundordnung](governance/grundordnung.md)
+- [Federated Legal Model](governance/federated-legal-model.md)
+- [Anlagen: Anlage 1 and Anlage 2](governance/anlagen.md)
+- [Allgemeinwohl Verfassung: Public-Benefit Constitution](governance/allgemeinwohl-verfassung.md)
+- [Rechtliche Implementierungsvoraussetzungen: Legal Implementation Requirements](governance/legal-implementation-requirements.md)
+- [Governance & Decision Framework](governance/governance-architecture.md)
+- [Committee Information Architecture](governance/committee-information-architecture.md)
+- [Inter-Layer Feedback Protocol](governance/interlayer-feedback-protocol.md)
+- [Portfolio Governance](governance/portfolio-governance.md)
+- [Design Authority Constitution](governance/design-authority-constitution.md)
+- [Governance Gap Closure v2](governance/governance-gap-closure-v2.md)
+- [Code of Collegial Conduct](governance/code-of-collegial-conduct.md)
+- [Governance Review Calendar](governance/governance-review-calendar.md)
+- [Incentive Conversion Statement](governance/incentive-conversion-statement.md)
+- [Mission Hub Permeability Architecture](governance/mission-hub-permeability-architecture.md)
+- [Governance Artikel v2](governance/governance-article-v2.md)
+- [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
+- [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
+- [Governance Principles Assessment](governance/governance-principles-assessment.md)
+- [Design Signature Founding](governance/design-signature-founding.md)
 
 ### Leadership & People
 
-* [Overview](leadership/index.md)
-* [Leadership Development & Induction Framework](leadership/leadership-development-induction-framework.md)
-* [Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)](leadership/amendment-transformation-mandate.md)
-* [Amendment: Capability Measurement and Governance Career Recognition (SP-6, SP-7)](leadership/amendment-capability-measurement.md)
-* [Academic Community & Collegial Life Charter](leadership/academic-community-charter.md)
-* [Founding Council Letters](leadership/founding-council-letters.md)
-* [Founding Member Profile — Prof. Kay Berkling](leadership/founding-member-profile.md)
+- [Overview](leadership/index.md)
+- [Leadership & Stewardship Profiles](leadership/leadership-stewardship-profiles.md)
+- [Leadership Development & Induction Framework](leadership/leadership-development-induction-framework.md)
+- [Amendment: The Rector's Transformation Mandate and Incentive Conversion](leadership/amendment-transformation-mandate.md)
+- [Amendment: Capability Measurement and Governance Career Recognition](leadership/amendment-capability-measurement.md)
+- [Academic Community & Collegial Life Charter](leadership/academic-community-charter.md)
+- [Founding Council Letters](leadership/founding-council-letters.md)
+- [Founding Member Profile — Prof. Kay Berkling](leadership/founding-member-profile.md)
 
 ### Partnership & Federation
 
-* [Overview](partnership/index.md)
-* [Partner Membership Framework](partnership/partner-membership-framework.md)
-* [Federated Participation & Incentive Framework](partnership/federated-participation-incentive-framework.md)
-* [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](partnership/amendment-lehrpersonalmodell.md)
+- [Overview](partnership/index.md)
+- [Partner Membership Framework](partnership/partner-membership-framework.md)
+- [Federated Participation & Incentive Framework](partnership/federated-participation-incentive-framework.md)
+- [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](partnership/amendment-lehrpersonalmodell.md)
+- [Federation & Membership Framework](partnership/federation-membership-framework.md)
 
 ### Quality Assurance
 
-* [Overview](quality/index.md)
-* [Quality Assurance & Academic Governance](quality/quality-assurance-academic-governance.md)
-* [Amendment: Longitudinal Outcome Tracking (GP-3)](quality/amendment-longitudinal-outcome-tracking.md)
-* [Developmental Audit Framework](quality/developmental-audit-framework.md)
-* [Reader's Guide for the Accreditation Committee](quality/readers-guide-accreditation.md)
-* [Prüfungsordnung](quality/pruefungsordnung.md)
+- [Overview](quality/index.md)
+- [Quality Assurance & Academic Governance](quality/quality-assurance-academic-governance.md)
+- [Amendment: Longitudinal Outcome Tracking](quality/amendment-longitudinal-outcome-tracking.md)
+- [Developmental Audit Framework](quality/developmental-audit-framework.md)
+- [Reader's Guide for the Accreditation Committee](quality/readers-guide-accreditation.md)
+- [Prüfungsordnung](quality/pruefungsordnung.md)
 
 ### Strategy & Finance
 
-* [Overview](strategy/index.md)
-* [Strategic Constitution](strategy/strategic-constitution.md)
-* [The OUG Role Statement](strategy/role-statement.md)
-* [Strategy Formation Protocol](strategy/strategy-formation-protocol.md)
-* [OKR Framework & Governance Dashboard](strategy/okr-framework-dashboard.md)
-* [Five-Year Finance Plan 2026–2030](strategy/five-year-finance-plan.md)
-* [OUG Finanzmodell v3](strategy/OUG%20Finanzmodell%20v3.xlsx)
-* [Ministeriumsmemorandum v2](strategy/ministeriumsmemorandum-v2.md)
+- [Overview](strategy/index.md)
+- [Strategic Constitution](strategy/strategic-constitution.md)
+- [The OUG Role Statement](strategy/role-statement.md)
+- [Strategy Formation Protocol](strategy/strategy-formation-protocol.md)
+- [OKR Framework & Governance Dashboard](strategy/okr-framework-dashboard.md)
+- [Five-Year Finance Plan 2026–2030](strategy/five-year-finance-plan.md)
+- [OUG Finanzmodell v3](strategy/OUG%20Finanzmodell%20v3.xlsx)
+- [Ministeriumsmemorandum v2](strategy/ministeriumsmemorandum-v2.md)
 
 ### Presentation & Communication
 
-* [Overview](communications/index.md)
-* [The OUG Communication Architecture](communications/communication-architecture.md)
-* [OUG Market Study](communications/market-study.md)
-* [Ein gewöhnlicher Dienstag: A Perfectly Ordinary Tuesday](communications/ein-gewoehnlicher-dienstag.md)
-* [Partner & Ministry Decks](communications/partner-and-ministry-decks/index.md)
-* [OUG Report 2025–26](communications/annual-report-2025-26.md)
+- [Overview](communications/index.md)
+- [The OUG Communication Architecture](communications/communication-architecture.md)
+- [OUG Market Study](communications/market-study.md)
+- [Ein gewöhnlicher Dienstag: A Perfectly Ordinary Tuesday](communications/ein-gewoehnlicher-dienstag.md)
+- [Partner & Ministry Decks](communications/partner-and-ministry-decks/index.md)
+- [OUG Report 2025–26](communications/annual-report-2025-26.md)
 
 ## Document Status
 
@@ -175,15 +174,15 @@ The OUG is a prospective institutional design and evolving founding prototype.
 
 Documents in this repository may have different levels of maturity:
 
-| Status                   | Meaning                                                          |
-| ------------------------ | ---------------------------------------------------------------- |
-| **Conceptual**           | A proposed design that has not yet undergone formal review       |
-| **Drafted**              | A complete working draft exists                                  |
+| Status | Meaning |
+|---|---|
+| **Conceptual** | A proposed design that has not yet undergone formal review |
+| **Drafted** | A complete working draft exists |
 | **Internally validated** | Tested for coherence against the OUG principles and architecture |
-| **Externally reviewed**  | Reviewed by relevant external experts                            |
-| **Legally reviewed**     | Reviewed by specialist legal counsel                             |
-| **Adopted**              | Formally adopted by a competent body                             |
-| **Operational**          | Implemented and tested in practice                               |
+| **Externally reviewed** | Reviewed by relevant external experts |
+| **Legally reviewed** | Reviewed by specialist legal counsel |
+| **Adopted** | Formally adopted by a competent body |
+| **Operational** | Implemented and tested in practice |
 
 Each document should identify its current status and version.
 
@@ -205,13 +204,13 @@ The OUG is being developed as an open institutional architecture.
 
 Constructive critique is welcome, particularly from:
 
-* learners and student representatives;
-* universities and academic staff;
-* governance and quality-assurance practitioners;
-* accreditation and legal experts;
-* ministries and public-sector institutions;
-* lifelong-learning and recognition specialists;
-* digital-learning and interoperability communities.
+- learners and student representatives;
+- universities and academic staff;
+- governance and quality-assurance practitioners;
+- accreditation and legal experts;
+- ministries and public-sector institutions;
+- lifelong-learning and recognition specialists;
+- digital-learning and interoperability communities.
 
 Please use the [GitHub Issues page](https://github.com/eebyak/OUG/issues) to raise questions, identify contradictions, propose improvements, or document risks.
 
@@ -227,7 +226,7 @@ That is the purpose of the architecture documented here.
 
 ---
 
-**Open University of Germany**
+**Open University of Germany**  
 *A prospective, presently fictive public university designed from first principles.*
 
 *Last updated: 2026-07-29 · index.md v0.4*
