@@ -1,33 +1,78 @@
 ---
 layout: page
-title: Leadership & People
+title: "Leadership & People"
 ---
-
-# Leadership & People
 
 [← Back to main index](../index.md)
 
-This domain governs the people who run the institution, not the institution's structure itself — the distinction matters, because the OUG's design treats leadership as a bounded, learnable, temporary role rather than a status that accrues to whoever has held a position longest. Every document here works to make that principle operational: how someone is inducted into a leadership role, how their capability is actually assessed rather than assumed, how long they hold the role, and how they step back out of it without the transition reading as a demotion.
+This domain governs the people who run the institution, not the institution's structure itself — the distinction matters, because the OUG's design treats leadership as a bounded, learnable, temporary role rather than a status that accrues to whoever has held a position longest.
+
+Every document here works to make that principle operational: how someone is selected and inducted into a leadership role, how authority is bounded, how capability is assessed rather than assumed, how long a person holds the role, and how they step back out of it without the transition reading as a demotion.
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#leadership-map">
+    <img
+      src="{{ '/leadership/images/OUG-Leadership-Map.png' | relative_url }}"
+      alt="OUG Leadership Architecture">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="leadership-map" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/leadership/images/OUG-Leadership-Map.png' | relative_url }}"
+      alt="Enlarged OUG Leadership Architecture">
+  </div>
+</div>
 
 ## What's Here
 
-- **[Leadership Development & Induction Framework](leadership-development-induction-framework.md)** — the base document for how OUG leadership works across every governance layer, from the Rector down to Mission Hub leads. Structured induction periods, defined terms, and a designed return pathway back into academic life at the end of a term.
-- **[Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)](amendment-transformation-mandate.md)** — closes two risks: that structural transformation gets crowded out by operational pressure (the Transformation Reserve, Transformation OKRs, and an annual accountability report), and that external funding produces reorganisation dressed up as change (the Incentive Conversion Statement — see the note below on where the fuller version of this instrument lives).
-- **[Amendment: Capability Measurement and Governance Career Recognition (SP-6, SP-7)](amendment-capability-measurement.md)** — closes the gap between "completed the training" and "actually developed the capability." Adds concrete indicators for the "scientist's heart" and "manager's mind," plus a Governance Career Recognition Record so governance experience becomes a portable, legible professional qualification.
-- **[Academic Community & Collegial Life Charter](academic-community-charter.md)** — how genuine intellectual community forms in an institution with no campus. Five dimensions of collegial life, each with binding institutional commitments, reviewed annually as part of the quality architecture.
-- **[Founding Council Letters](founding-council-letters.md)** — 🔍 candidate search in progress. Templates for four founding council roles the OUG is seeking to fill. Originally drafted with specific real people named as recipients; those names have been removed and replaced with role placeholders, since no one has actually been approached yet. Update with a real name only once someone is identified and has agreed to be named.
-- **[Founding Member Profile — Prof. Kay Berkling](founding-member-profile.md)** — the founding council profile of the OUG's originating academic lead, and the direct link between her research record and the OUG's pedagogical design.
-- **[Leadership & Stewardship Profiles](leadership-stewardship-profiles.md)** — the long-sought answer to what "leadership" actually means role by role: a "PRECEPTA" normative framework, plus full profiles (purpose, responsibilities, explicit limits of authority, failure modes, and appointment criteria) for the Rector, Chancellor, all three Vice Rectors, and the Dean. This is the document the Reader's Guide, the QA Framework, and the Design Authority Constitution have all been citing without anyone having located it — found via a user-supplied file, not Drive.
+- **[Leadership Development & Induction Framework](leadership-development-induction-framework.md)** — the base document for how OUG leadership works across every governance layer, from the Rector to Mission Hub leadership. It defines structured induction periods, leadership-development expectations, the Governance Mentor Pool, fixed terms, review processes, and a designed return pathway into academic or professional life at the end of a term.
 
-All six documents from the Drive `LEADERSHIP and PEOPLE` folder are converted — this matches the main index's planned list exactly, no surprises this round. Leadership & Stewardship Profiles is a seventh document, found later and outside that original set.
+- **[Leadership & Stewardship Profiles](leadership-stewardship-profiles.md)** — defines what leadership means role by role. It introduces PRECEPTA as the normative framework for exercising authority and provides detailed profiles for the Rector, Chancellor, Vice Rectors, and Dean or Mission Hub Steward, including purpose, responsibilities, explicit limits of authority, relationships with other roles, failure modes, and appointment and evaluation criteria.
 
-## Cross-References Worth Knowing
+- **[Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)](amendment-transformation-mandate.md)** — addresses two risks: that structural transformation is crowded out by operational pressure, and that external funding produces reorganisation without genuine institutional change. It introduces the Transformation Reserve, Transformation OKRs, and an annual accountability report, while linking incentive conversion to the corresponding governance instrument.
 
-- **The long-tracked "Leadership & Stewardship Profiles" gap is now resolved** — see above. [known-gaps.md](../known-gaps.md) updated.
-- **The "Governance Mentor System" gap is resolved.** [known-gaps.md](../known-gaps.md) tracked this as a mechanism referenced elsewhere but never located as its own document. It isn't a separate document — it's the **Governance Mentor Pool** section (Section V) of the Leadership Development & Induction Framework. Updated in known-gaps.md accordingly.
-- **The Incentive Conversion Statement now exists in exactly one place.** It briefly existed as two divergent copies — one embedded in [Amendment: Transformation Mandate](amendment-transformation-mandate.md), one in the governance domain. Consolidated: the governance version, [`governance/incentive-conversion-statement.md`](../governance/incentive-conversion-statement.md), is now canonical. The leadership amendment points to it rather than repeating it.
+- **[Amendment: Capability Measurement and Governance Career Recognition (SP-6, SP-7)](amendment-capability-measurement.md)** — closes the gap between completing leadership development and demonstrating leadership capability. It adds observable capability indicators and a Governance Career Recognition Record so that governance experience becomes a portable and legible professional qualification.
 
-See [conversion-notes.md](conversion-notes.md) for the full log.
+- **[Academic Community & Collegial Life Charter](academic-community-charter.md)** — defines how genuine intellectual community can form in an institution without a conventional campus. It identifies five dimensions of collegial life, each supported by institutional commitments and reviewed as part of the quality architecture.
+
+- **[Founding Council Letters](founding-council-letters.md)** — provides invitation templates for the four proposed Founding Council roles. The letters explain the purpose of each role, the contribution being sought, and the relationship between individual expertise and the wider founding process.
+
+- **[Founding Member Profile — Prof. Kay Berkling](founding-member-profile.md)** — presents the profile of the OUG's originating academic lead and connects her academic, pedagogical, governance, and institutional-development experience to the design of the university.
+
+## How the Documents Work Together
+
+The **Leadership & Stewardship Profiles** define how authority should be exercised within each major leadership role.
+
+The **Leadership Development & Induction Framework** explains how people are prepared, supported, reviewed, and returned from those roles.
+
+The two **amendments** add specific safeguards for transformation work, capability assessment, and recognition of governance experience.
+
+The **Academic Community & Collegial Life Charter** addresses the wider institutional conditions in which leadership and collegial academic work take place.
+
+The **Founding Council Letters** and **Founding Member Profile** translate the leadership architecture into the practical work of assembling the founding community.
+
+Together, these documents treat leadership not as personal status or unrestricted executive discretion, but as temporary stewardship exercised within explicit constitutional, academic, and participatory boundaries.
+
+## Connections to Other Domains
+
+- **[Governance](../governance/index.md)** defines the bodies, decision layers, authority domains, escalation routes, and constitutional boundaries within which leadership roles operate.
+
+- **[Strategy](../strategy/index.md)** establishes the principles, strategic direction, and transformation commitments that leadership is responsible for stewarding rather than defining unilaterally.
+
+- **[Quality](../quality/index.md)** defines the academic standards and evidence processes that leadership must protect from financial, administrative, or political override.
+
+- **[Curriculum](../curriculum/index.md)** provides the programme and academic architecture overseen by Vice Rectors, Mission Hub Stewards, and other academic leaders.
+
+- **[Partnership](../partnership/index.md)** defines the federated relationships that leadership roles must coordinate without collapsing partner autonomy or OUG accountability.
+
+Unresolved questions and matters requiring further reconciliation are maintained separately in the **[known gaps register](known-gaps.md)**.
 
 ---
 
