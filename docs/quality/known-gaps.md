@@ -1,62 +1,53 @@
 # Known Gaps
 
-Chapter 17 built its inventory from what actually exists in the repository — every document opened and read, not assumed. A separate, earlier index of the same institutional design named a number of documents that inventory did not turn up as standalone files.
+This page records documents or mechanisms that have not yet been confirmed as complete, consolidated, or available as standalone files in the repository.
 
-This page exists so that gap stays visible instead of quietly disappearing. Some of the items below are very likely sections embedded inside a document already listed in [index.md](index.md), filed under a different name than the earlier index used. Others may genuinely not exist yet. This page doesn't guess which — it names each one, keeps the name the index gave it, and leaves the check against Drive to whoever does it next.
+Some items may already be partly covered inside documents listed in [index.md](index.md), or filed under a different name. Others may genuinely not exist yet.
 
-This matters for more than tidiness. Several of the items below describe exactly the kind of mechanism that *closes* a governance gap rather than merely describing one — a mentor system, a conflict-escalation path, a liability matrix. If one is found unfiled somewhere on Drive, it should be filed properly under the domain below. If it isn't found, it's an honest gap, not something to assume is covered by something else.
-
-**How to use this list:** for each item, check whether it exists as a section inside an already-migrated document. If yes, note where and cross it off here. If no, either it needs to be written, or it's a real, named gap in the architecture — which is itself useful information, not a failure.
+**How to use this list:** for each item, check whether it already exists within the current document architecture. If it does, remove it from this list. If it does not, determine whether it requires a standalone document or remains an intentional gap.
 
 ---
 
 ## Governance
 
-- [ ] **Academic Freedom Guarantees** — academic autonomy is asserted throughout the governance documents, but doesn't appear to have a dedicated, citable guarantee document. *Likely home: `governance/`*
-- [ ] **Safeguards Against Power Concentration** — the index treats this as distinct from the leadership term-limit provisions in `leadership/leadership-development-induction-framework.md`. Worth checking whether it's meant to be governance-wide rather than leadership-specific. *Likely home: `governance/`*
-- [ ] **Bug Protocol** — a structured response to institutional failure, sitting alongside the OKR Framework and Governance Dashboard. Nothing under this name or an obvious equivalent was found. *Likely home: `strategy/` (alongside `okr-framework-dashboard.md`)*
-- [ ] **Conflict Escalation Framework** — marked "in development" in the earlier index itself — worth checking whether it's since been drafted. *Likely home: `governance/`*
-- [ ] **Legal Responsibility Matrix** — also marked "in development" — a liability-mapping document (who is responsible for what, across OUG and its partners) not yet found as a standalone file. *Likely home: `governance/` or `partnership/`*
-- [ ] **Amendment Procedures** — referenced as a standalone cross-cutting document. A constitutional amendment procedure is mentioned in passing inside the Strategy Formation Protocol, but a dedicated document wasn't located. *Likely home: `governance/`*
+* [ ] **Bug Protocol** — a structured response to institutional failure, sitting alongside the OKR Framework and Governance Dashboard. No standalone document under this name or an obvious equivalent has yet been identified. *Likely home: `strategy/` (alongside `okr-framework-dashboard.md`)*
 
 ## Leadership & Community
 
-- [ ] **Leadership & Stewardship Profiles** — cited repeatedly across multiple converted documents (the Reader's Guide for the Accreditation Committee, the Quality Assurance & Academic Governance Framework, the Design Authority Constitution) as the authoritative source defining governance role competency requirements and mandate boundaries. No standalone document under this name has been located. May be embedded in the Leadership Development & Induction Framework, or may be a genuine unfiled gap. *Found while converting the Quality Assurance domain; likely home: `leadership/`*
+* [ ] **Leadership & Stewardship Profiles** — the source document has been located and is currently being converted. Keep this item open until the Markdown version is published and the relevant cross-references have been updated. *Likely home: `leadership/`*
 
-- [x] ~~**Governance Mentor System**~~ — **Resolved.** This is Section V ("The Governance Mentor Pool") of [`leadership/leadership-development-induction-framework.md`](leadership/leadership-development-induction-framework.md), not a separate document. Found while converting the Leadership & People domain.
-- [ ] **Mission Hub Structure** — referenced constantly across other documents (Committee Information Architecture, Quality Assurance, the Academic Community Charter) but never located as its own structural document defining what a Mission Hub actually is, how one is formed, or how it is governed. *Likely home: `governance/` or `leadership/`*
-- [ ] **Student Governance Structures** — distinct from the Academic Community Charter; specifically how students hold seats and voting rights in Senate and committee structures. *Likely home: `leadership/` or `governance/`*
+* [ ] **Mission Hub Structure** — Mission Hubs are defined and assigned responsibilities across several documents, but no consolidated structural document has been located defining how a Mission Hub is formed, constituted, governed, reviewed, or dissolved. *Likely home: `governance/` or `leadership/`*
 
-## Partnership & Federation
-
-- [ ] **Partnership Types A–D** — a formal, lettered typology of partnership levels, implied but not made explicit in the Partner Membership Framework as currently written. *Likely home: `partnership/`*
-- [ ] **Partner Protection Mechanisms** — exit rights and autonomy guarantees for partner institutions. Not found as a distinct document — arguably the single most important thing a nervous prospective partner would want to read before signing. *Likely home: `partnership/`*
+* [ ] **Student Governance Structures** — student participation appears in several governance bodies, but no consolidated account has been confirmed covering student seats, voting rights, election procedures, terms, and representation across the governance architecture. *Likely home: `leadership/` or `governance/`*
 
 ## Research & Doctoral Education
 
-- [ ] **Research Clusters Model** — Research Clusters are named and described inside the Research & Doctoral Framework, but a dedicated structural document may be intended rather than a section of a broader one. *Likely home: `curriculum/`*
-- [ ] **Doctoral Programme Structure** — admission, supervision, and examination procedures for doctoral candidates, referenced but not located as standalone. *Likely home: `curriculum/`*
-- [ ] **Research Ethics & Integrity** — a Research Ethics Committee is described in the Committee Information Architecture, but a dedicated ethics and integrity policy document wasn't located. *Likely home: `quality/` or `curriculum/`*
+* [ ] **Research Ethics & Integrity** — Section V of the [Research & Doctoral Framework](../curriculum/research-doctoral-framework.md) defines research ethics review, the Research Ethics Committee, research-integrity responsibilities, misconduct processes, and principles for AI use. It nevertheless refers to further OUG research ethics policies, and no separate detailed implementing policy has been located. *Likely home: `quality/` or `curriculum/`*
 
 ## Quality & Academic Standards
 
-- [ ] **Academic Integrity Policies** — distinct from the Code of Collegial Conduct, which governs behaviour among governance participants rather than academic misconduct among students and staff generally. *Likely home: `quality/`*
-- [ ] **Examination Regulation Annex** — marked "in development" separately from the Prüfungsordnung — worth checking whether it's since been folded into that document or still stands apart. *Likely home: `quality/`*
+* [ ] **Academic Integrity Policies** — academic integrity and AI use are already addressed in the [Quality Assurance & Academic Governance Framework](quality-assurance-academic-governance.md), the [Prüfungsordnung](pruefungsordnung.md), and the Central Examination Regulation Annex. No consolidated institution-wide policy covering prevention, investigation, evidentiary standards, sanctions, records, and appeals has been located. *Likely home: `quality/`*
+
+* [ ] **GP-3 section numbering** — the [Longitudinal Outcome Tracking amendment](amendment-longitudinal-outcome-tracking.md) refers to the Stichprobe as Section 3.5 and proposes a new Section 3.6. In the current [Quality Assurance & Academic Governance Framework](quality-assurance-academic-governance.md), Section 3.6 is already assigned to assessment validity, reliability, and transparency, while the Stichprobe appears in Section 3.7. The numbering must be reconciled.
+
+* [ ] **Accreditation Reader’s Guide reconciliation** — the [Reader’s Guide for the Accreditation Committee](readers-guide-accreditation.md) should be checked against the current repository before formal external use. Document names, links, status descriptions, terminology, and quantitative claims should point to the current authoritative versions.
 
 ## Financial Model
 
-- [ ] **ECTS Revenue Logic** — very likely embedded within the Five-Year Finance Plan and `finanzmodell-v3.xlsx`, but not found as a separately citable document under this name. *Likely home: `strategy/`*
-- [ ] **Three-Pillar Funding Model** — public funding, tuition, and partnerships as three explicit pillars — a framing not found stated this way in the Finance Plan, which describes the same funding sources without this specific structure. *Likely home: `strategy/`*
+* [ ] **Three-Pillar Funding Model** — public funding, tuition, and partnerships as three explicit pillars — a framing not found stated this way in the Finance Plan, which describes the same funding sources without this specific structure. Confirm whether this framing remains intended. *Likely home: `strategy/`*
 
 ## Operational Layer — No Clear Domain Home
 
 These four don't fit cleanly into any of the seven existing domains. That may mean the repository doesn't yet organise operational infrastructure as its own category — in which case an eighth domain, **Operations & Implementation**, may eventually belong alongside Curriculum, Governance, Leadership, Partnership, Quality, Strategy, and Communications. Not creating that folder yet — flagging it here until there's enough material to justify it.
 
-- [ ] **Partnership Office Model** — the operational unit that manages day-to-day partner relationships, as distinct from the Partner Membership Framework's specification of rights and duties.
-- [ ] **Digital Infrastructure Concept** — may substantially overlap with `curriculum/platform-living-learning-system.md`, but may be intended as an operational concern separate from the pedagogical platform.
-- [ ] **Student Support Structures** — advising, onboarding, and retention support. Not found as a standalone document anywhere. Given the OUG's target population, this may be the most consequential single gap on this list.
-- [ ] **Programme Delivery Model** — the operational execution of teaching across a federated network, as distinct from the academic design captured in the Curriculum domain.
+* [ ] **Partnership Office Model** — the operational unit that manages day-to-day partner relationships, as distinct from the Partner Membership Framework's specification of rights and duties.
+
+* [ ] **Digital Infrastructure Concept** — may substantially overlap with `curriculum/platform-living-learning-system.md`, but may be intended as an operational concern separate from the pedagogical platform.
+
+* [ ] **Student Support Structures** — advising, onboarding, and retention support. Not found as a standalone document anywhere. Given the OUG's target population, this may be the most consequential single gap on this list.
+
+* [ ] **Programme Delivery Model** — the operational execution of teaching across a federated network, as distinct from the academic design captured in the Curriculum domain.
 
 ---
 
-*This list is drawn from Chapter 17 of the book. As items are confirmed found (and filed) or confirmed genuinely absent, update this page rather than deleting entries — the history of what was missing and when it was closed is itself part of the institution's governance record.*
+*Update this page only when a gap is confirmed, resolved, consolidated into another document, or deliberately left open.*
