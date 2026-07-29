@@ -9,6 +9,31 @@ title: Strategy & Finance
 
 This domain answers two separate questions that most institutional strategy documents blur together: what does the OUG believe, unconditionally, that no amount of operational pressure should be allowed to change — and what does the OUG need financially to survive long enough for those beliefs to matter? The Strategic Constitution answers the first question with genuine rigor (explicit trade-off precedence rules, not just aspirational principles). The Five-Year Finance Plan answers the second with uncomfortable honesty — including a phased pilot design that names, in advance, what happens if the federated model doesn't work.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#strategy-map">
+    <img
+      src="{{ '/leadership/images/OUG-Strategy-Map.png' | relative_url }}"
+      alt="OUG Strategy Map">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="strategy-map" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/leadership/images/OUG-Strategy-Map.png' | relative_url }}"
+      alt="Enlarged OUG Strategy Map">
+  </div>
+</div>
+
+
+
+
+
 ## What's Here
 
 - **[Strategic Constitution](strategic-constitution.md)** — the "meta-strategy": five First Principles, five derived capability domains, five Strategic Pillars, and — the part that makes this more than a values statement — explicit precedence rules for when they conflict. Includes a formal A/B Strategic Decision Protocol for testing real decisions against the constitution.
