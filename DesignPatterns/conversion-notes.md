@@ -24,16 +24,18 @@ The book uses British spelling conventions dominantly elsewhere (e.g. "Programme
 | Block | Pairs | Status |
 |---|---|---|
 | 1 · HEI Observations | 1–6 | ✅ Complete (6 of 6) |
-| 2 · Learn8 | 7–12 | ⬜ Not started |
+| 2 · Learn8 | 7–12 | ✅ Complete (6 of 6) |
 | 3 · Curr4 | 13–18 | ⬜ Not started |
 | 4 · 7org | 19–24 | ⬜ Not started |
 | 5 · 6gov | 25–30 | ⬜ Not started |
 | 6 · Person 1 | 31–36 | ⬜ Not started — retrospectively derived, see index note |
 | 7 · Person 2 | 37–42 | ⬜ Not started — retrospectively derived, see index note |
 
-## Cross-References Found While Converting
+## Cross-References Found While Converting (continued)
 
-- **AP-6 (The Fault Line) explicitly names AP-5 (The Proximity Task)** in its own Consequence section — "The Fault Line also produces the Proximity Task." Linked inline rather than added as a separate "Related Patterns" section, since the book itself doesn't use that as a formal per-entry field (see the earlier structural check: every AP/DP entry has exactly 5 content rows, no 6th "related" row). Inline cross-references like this one will be linked wherever the source text names another pair by name.
+- **AP-8 (The Loose Thread) and AP-10 (The Passive Consumer)** both invoke "the figure Person Learn8 explicitly warns against" — the same underlying learner archetype approached from two different structural angles (navigation vs. participation). Linked bidirectionally.
+- **AP-12 (The Compliance Ceiling) explicitly names AP-1 (The Permission Illusion)** as its structural "twin" — same underlying law/convention confusion, opposite direction (one mistakes tradition for law, the other mistakes law for the limit of ambition). Linked.
+- **DP-12 references "HP-1 of the HEI Observation Principles"** and the same "Governance Compliance Map" concept used in DP-1 — worth checking whether "HEI Observation Principles" is a separate document that should eventually be tracked in known-gaps.md if it isn't already converted somewhere in this repository.
 
 ## Site Navigation
 
