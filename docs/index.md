@@ -152,6 +152,7 @@ Unresolved matters across the complete architecture are summarised in the **[rep
 
 - [Overview](strategy/index.md)
 - [Strategic Constitution](strategy/strategic-constitution.md)
+- [Strategy Framework / SEP](strategy/strategy-framework.md)
 - [The OUG Role Statement](strategy/role-statement.md)
 - [Strategy Formation Protocol](strategy/strategy-formation-protocol.md)
 - [OKR Framework & Governance Dashboard](strategy/okr-framework-dashboard.md)
