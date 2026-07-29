@@ -33,6 +33,8 @@ This domain answers two separate questions that most institutional strategy docu
 
 * **[Strategic Constitution](strategic-constitution.md)** — the "meta-strategy": five First Principles, five derived capability domains, five Strategic Pillars, and — the part that makes this more than a values statement — explicit precedence rules for when they conflict. Includes a formal A/B Strategic Decision Protocol for testing real decisions against the constitution.
 
+* **[Strategy Framework / SEP](strategy-framework.md)** — translates the Strategy Constitution into a time-bound institutional steering framework through 2030. It defines six strategic objectives, indicator families and learning signals, annual review cycles, responsibilities across strategic and academic governance, and safeguards that prevent indicators from becoming automatic performance or funding controls.
+
 * **[The OUG Role Statement](role-statement.md)** — not a mission statement. A falsifiable claim about what gap the OUG fills that no other institution fills, reviewed every three years specifically to check whether it is still true. Makes the constitutional argument, not just the market argument, for why the state has an obligation here.
 
 * **[Five-Year Finance Plan 2026–2030](five-year-finance-plan.md)** — full P&L, cash flow, and IT cost breakdown, plus the Phased Founding and Decision Gate Framework: a three-partner pilot with named OKR thresholds and a Year 2 Gate Review that can produce four outcomes, including an honest "Wind Down" path with a learner-protection protocol.
