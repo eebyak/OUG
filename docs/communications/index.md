@@ -8,6 +8,29 @@ title: Presentation & Communication
 
 This domain answers a question none of the others do: having built all this — the governance, the curriculum, the legal case, the finance model — how do you actually say it out loud, to six different audiences who each need to hear something different first? These documents range from the most rigorous (a full competitive market study, with real names and real numbers) to the most human (a fictional day in the life of the institution once it exists) — deliberately, because different audiences are moved by different kinds of evidence.
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#communication">
+    <img
+      src="{{ '/communications/images/OUG-Communication.png' | relative_url }}"
+      alt="OUG Communication">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="communication" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/communications/images/OUG-Communication.png' | relative_url }}"
+      alt="Enlarged OUG Communication">
+  </div>
+</div>
+
+
 ## What's Here
 
 - **[The OUG Communication Architecture](communication-architecture.md)** — the governance document underneath all the others in this domain: four expression levels (30 seconds through full narrative) and six audience-specific adaptations, each naming what that audience needs to hear and what they're afraid of. Everything else here is downstream of this document's logic.
