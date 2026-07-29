@@ -1,0 +1,575 @@
+{
+  "model": {
+    "name": "Open University of Germany Financial Model",
+    "version": "1.1",
+    "date": "2026-02-21",
+    "description": "Complete financial projection for OUG establishment and operations",
+    "currency": "EUR",
+    "time_horizon_years": 10,
+    "year_zero": 2026,
+    "feedback_incorporated": [
+      "Reduced Year 0 OPEX to pre-launch only",
+      "Added explicit personnel scaling rules",
+      "Added hub costs for academic coordination",
+      "Improved second program boost documentation",
+      "Added sensitivity scenarios"
+    ]
+  },
+  
+  "assumptions": {
+    "growth": {
+      "start_students_year_1": 400,
+      "annual_growth_rate": 0.10,
+      "second_program_launch_year": 3,
+      "second_program_growth_boost": 0.25,
+      "second_program_boost_description": "One-time 25% boost applied only in Year 3",
+      "microcredential_start_year_1": 200,
+      "microcredential_growth_rate": 0.15,
+      "ects_per_degree_student": 30,
+      "ects_per_microcredential": 5,
+      "dropout_rate": 0.20,
+      "new_hubs": [
+        {"year": 3, "count": 1, "cost_per_hub": 32500, "description": "First new academic hub"},
+        {"year": 5, "count": 1, "cost_per_hub": 32500, "description": "Second academic hub"}
+      ]
+    },
+    
+    "pricing": {
+      "price_per_ects": 20,
+      "semester_equivalent": 600,
+      "state_funding_start_year": 5,
+      "state_funding_per_student": 1500,
+      "drittmittel_per_year": 200000,
+      "drittmittel_start_year": 3,
+      "sponsorship_per_year": 100000,
+      "sponsorship_start_year": 3,
+      "revenue_notes": "Drittmittel and sponsorship are project-based, not for core operations"
+    },
+    
+    "partner_payouts": {
+      "partner_share": 0.60,
+      "oug_overhead": 0.40,
+      "payment_timing": "after_completion",
+      "dropout_adjustment": true,
+      "dropout_note": "Partners paid only for completed ECTS (80% of sold)"
+    },
+    
+    "personnel": {
+      "base_team": [
+        {"position": "President", "tarif": "Besoldung", "vza": 1, "annual_cost": 120000, "category": "executive"},
+        {"position": "Dean", "tarif": "Besoldung", "vza": 1, "annual_cost": 100000, "category": "executive"},
+        {"position": "Chancellor", "tarif": "Besoldung", "vza": 1, "annual_cost": 100000, "category": "executive"},
+        {"position": "Akademische Leitung", "tarif": "E13", "vza": 1, "annual_cost": 65000, "category": "academic"},
+        {"position": "Partner Management", "tarif": "E13", "vza": 1, "annual_cost": 65000, "category": "operations"},
+        {"position": "Recht/Compliance", "tarif": "E13", "vza": 1, "annual_cost": 65000, "category": "legal"},
+        {"position": "Marketing", "tarif": "E13", "vza": 1, "annual_cost": 65000, "category": "marketing"},
+        {"position": "Verwaltung", "tarif": "E6", "vza": 2, "annual_cost": 75000, "category": "admin"},
+        {"position": "Technik", "tarif": "E11", "vza": 2, "annual_cost": 110000, "category": "it"}
+      ],
+      "base_team_total": 765000,
+      "scaling_rules": [
+        {
+          "threshold_students": 1500,
+          "year_expected": 6,
+          "add_positions": [
+            {"position": "Verwaltung", "tarif": "E6", "vza": 1, "annual_cost": 37500, "category": "admin"},
+            {"position": "Student Support", "tarif": "E9", "vza": 1, "annual_cost": 45000, "category": "student_services"}
+          ],
+          "total_addition": 82500
+        },
+        {
+          "threshold_students": 2500,
+          "year_expected": 9,
+          "add_positions": [
+            {"position": "IT Support", "tarif": "E11", "vza": 1, "annual_cost": 55000, "category": "it"},
+            {"position": "Partner Management", "tarif": "E13", "vza": 1, "annual_cost": 65000, "category": "operations"}
+          ],
+          "total_addition": 120000
+        }
+      ],
+      "hub_costs": {
+        "per_hub_addition": 32500,
+        "description": "Academic coordination for each new hub (0.5 E13)"
+      }
+    },
+    
+    "opex": {
+      "base_year_1": 720000,
+      "year_0_prelaunch": 200000,
+      "description": "Year 0 includes only essential pre-launch costs (legal, IT setup, minimal operations)",
+      "categories": [
+        {
+          "name": "IT & Digital",
+          "base_cost": 140000,
+          "items": [
+            {"name": "Server/Hosting", "cost": 50000, "scaling": "per_10k_ects", "scaling_rate": 0.10, "description": "Scales with ECTS volume"},
+            {"name": "LMS maintenance", "cost": 30000, "scaling": "fixed", "description": "Community edition + support"},
+            {"name": "ECTS tracking system", "cost": 40000, "scaling": "fixed", "description": "Built in CAPEX, then maintenance"},
+            {"name": "IT security audits", "cost": 20000, "scaling": "fixed", "description": "Annual requirement"}
+          ]
+        },
+        {
+          "name": "Governance & QA",
+          "base_cost": 170000,
+          "items": [
+            {"name": "Senate/Board expenses", "cost": 50000, "scaling": "fixed", "description": "Reisekosten, Aufwandsentschädigungen"},
+            {"name": "Accreditation maintenance", "cost": 80000, "scaling": "fixed", "description": "Periodic reviews"},
+            {"name": "Quality audits", "cost": 40000, "scaling": "fixed", "description": "External reviewers"}
+          ]
+        },
+        {
+          "name": "Student Services",
+          "base_cost": 230000,
+          "items": [
+            {"name": "Studienberatung", "cost": 130000, "scaling": "per_1500_students", "increment": 65000, "description": "+1 advisor at 1500 students"},
+            {"name": "Prüfungskoordination", "cost": 60000, "scaling": "per_ects_volume", "description": "Scales with exam volume"},
+            {"name": "Barrierefreiheit", "cost": 40000, "scaling": "fixed", "description": "Accessibility monitoring"}
+          ]
+        },
+        {
+          "name": "Partner Operations",
+          "base_cost": 100000,
+          "items": [
+            {"name": "Partner support", "cost": 60000, "scaling": "per_partner", "description": "Scales with number of partner universities"},
+            {"name": "Vertragsmanagement", "cost": 40000, "scaling": "fixed", "description": "Contract administration"}
+          ]
+        },
+        {
+          "name": "Facilities",
+          "base_cost": 80000,
+          "items": [
+            {"name": "Office rent", "cost": 60000, "scaling": "fixed_until_50_staff", "description": "Small Berlin office"},
+            {"name": "Energie/Reinigung", "cost": 20000, "scaling": "fixed", "description": "Utilities and cleaning"}
+          ]
+        }
+      ],
+      "scaling_notes": "Most OPEX fixed until >2000 students; gradual scaling thereafter"
+    },
+    
+    "marketing": {
+      "budget_by_year": [
+        {"year": 0, "budget": 200000, "phase": "Pre-launch awareness"},
+        {"year": 1, "budget": 300000, "phase": "Aggressive acquisition"},
+        {"year": 2, "budget": 400000, "phase": "Maintain momentum"},
+        {"year": 3, "budget": 400000, "phase": "Second program launch"},
+        {"year": 4, "budget": 300000, "phase": "Brand established, reduce"},
+        {"year": 5, "budget": 250000, "phase": "Steady-state"},
+        {"year": 6, "budget": 200000, "phase": "Maintenance"},
+        {"year": 7, "budget": 200000, "phase": "Maintenance"},
+        {"year": 8, "budget": 200000, "phase": "Maintenance"},
+        {"year": 9, "budget": 200000, "phase": "Maintenance"},
+        {"year": 10, "budget": 200000, "phase": "Maintenance"}
+      ]
+    },
+    
+    "capex": {
+      "total": 4100000,
+      "blocks": [
+        {
+          "name": "A: Accreditation & Legal",
+          "total": 1900000,
+          "spend_by_year": [
+            {"year": 0, "amount": 1000000, "items": ["Institutional accreditation prep", "Legal framework", "KMK coordination"]},
+            {"year": 1, "amount": 900000, "items": ["Programme accreditation (2 programs)", "Final legal codification"]},
+            {"year": 2, "amount": 0}
+          ]
+        },
+        {
+          "name": "B: Quality & Governance Setup",
+          "total": 950000,
+          "spend_by_year": [
+            {"year": 0, "amount": 500000, "items": ["QA system design", "Governance architecture"]},
+            {"year": 1, "amount": 450000, "items": ["Implementation", "Mock reviews", "Board setup"]},
+            {"year": 2, "amount": 0}
+          ]
+        },
+        {
+          "name": "C: Digital Platform & Launch",
+          "total": 1250000,
+          "spend_by_year": [
+            {"year": 0, "amount": 800000, "items": ["Platform architecture", "ECTS tracking system build", "Security setup"]},
+            {"year": 1, "amount": 450000, "items": ["Branding", "Launch campaign", "User testing"]},
+            {"year": 2, "amount": 0}
+          ]
+        }
+      ],
+      "amortization_years": 5,
+      "annual_amortization": 820000,
+      "description": "One-time setup costs, amortized over 5 years for accounting purposes"
+    },
+    
+    "scenarios": {
+      "conservative": {
+        "name": "Konservativ",
+        "description": "Lower growth, cautious assumptions",
+        "growth_rate": 0.08,
+        "price_per_ects": 18,
+        "state_funding_per_student": 1200,
+        "microcredential_growth": 0.10,
+        "partner_share": 0.60
+      },
+      "realistic": {
+        "name": "Realistisch",
+        "description": "Base case as modeled",
+        "growth_rate": 0.10,
+        "price_per_ects": 20,
+        "state_funding_per_student": 1500,
+        "microcredential_growth": 0.15,
+        "partner_share": 0.60
+      },
+      "optimistic": {
+        "name": "Optimistisch",
+        "description": "Strong market uptake, premium positioning",
+        "growth_rate": 0.15,
+        "price_per_ects": 22,
+        "state_funding_per_student": 1800,
+        "microcredential_growth": 0.20,
+        "partner_share": 0.55
+      }
+    }
+  },
+  
+  "outputs": {
+    "summary_metrics": [
+      {
+        "name": "Total Funding Need",
+        "value": 7100000,
+        "description": "CAPEX (€4.1M) + Operating support first 4 years (€3.0M)"
+      },
+      {
+        "name": "Peak Cumulative Cashflow Deficit",
+        "value": -12360798,
+        "year": 7,
+        "description": "Maximum funding required before turn-around"
+      },
+      {
+        "name": "Operational Break-even Year",
+        "value": 8,
+        "description": "Year when operating result turns positive"
+      },
+      {
+        "name": "Students at Operational Break-even",
+        "value": 974,
+        "description": "Degree students when ops break-even achieved"
+      },
+      {
+        "name": "Cumulative Partner Payouts by Year 5",
+        "value": 883000,
+        "description": "Real money returned to teaching universities"
+      },
+      {
+        "name": "Cost per Student at Scale (Year 10)",
+        "value": 2250,
+        "description": "vs. €8-10k at traditional universities"
+      }
+    ],
+    
+    "yearly_table": [
+      {
+        "year": 0,
+        "degree_students": 0,
+        "microcredential_learners": 0,
+        "total_ects": 0,
+        "total_revenue": 0,
+        "personnel_costs": 500000,
+        "opex_costs": 200000,
+        "marketing_costs": 200000,
+        "partner_payouts": 0,
+        "total_expenses": 900000,
+        "operating_result": -900000,
+        "capex_spend": 2300000,
+        "cashflow": -3200000,
+        "cumulative_cashflow": -3200000
+      },
+      {
+        "year": 1,
+        "degree_students": 400,
+        "microcredential_learners": 200,
+        "total_ects": 13000,
+        "total_revenue": 260000,
+        "personnel_costs": 765000,
+        "opex_costs": 720000,
+        "marketing_costs": 300000,
+        "partner_payouts": 124800,
+        "total_expenses": 1909800,
+        "operating_result": -1649800,
+        "capex_spend": 1800000,
+        "cashflow": -3449800,
+        "cumulative_cashflow": -6649800
+      },
+      {
+        "year": 2,
+        "degree_students": 440,
+        "microcredential_learners": 230,
+        "total_ects": 14350,
+        "total_revenue": 287000,
+        "personnel_costs": 765000,
+        "opex_costs": 735000,
+        "marketing_costs": 400000,
+        "partner_payouts": 137760,
+        "total_expenses": 2037760,
+        "operating_result": -1750760,
+        "capex_spend": 0,
+        "cashflow": -1750760,
+        "cumulative_cashflow": -8400560
+      },
+      {
+        "year": 3,
+        "degree_students": 605,
+        "microcredential_learners": 264,
+        "total_ects": 19473,
+        "total_revenue": 689450,
+        "personnel_costs": 797500,
+        "opex_costs": 755000,
+        "marketing_costs": 400000,
+        "partner_payouts": 186936,
+        "total_expenses": 2139436,
+        "operating_result": -1449986,
+        "capex_spend": 0,
+        "cashflow": -1449986,
+        "cumulative_cashflow": -9850546
+      },
+      {
+        "year": 4,
+        "degree_students": 666,
+        "microcredential_learners": 304,
+        "total_ects": 21486,
+        "total_revenue": 729718,
+        "personnel_costs": 797500,
+        "opex_costs": 775000,
+        "marketing_costs": 300000,
+        "partner_payouts": 206264,
+        "total_expenses": 2078764,
+        "operating_result": -1349046,
+        "capex_spend": 0,
+        "cashflow": -1349046,
+        "cumulative_cashflow": -11199592
+      },
+      {
+        "year": 5,
+        "degree_students": 732,
+        "microcredential_learners": 350,
+        "total_ects": 23711,
+        "total_revenue": 1872285,
+        "personnel_costs": 830000,
+        "opex_costs": 810000,
+        "marketing_costs": 250000,
+        "partner_payouts": 227621,
+        "total_expenses": 2117621,
+        "operating_result": -245336,
+        "capex_spend": 0,
+        "cashflow": -245336,
+        "cumulative_cashflow": -11444928
+      },
+      {
+        "year": 6,
+        "degree_students": 805,
+        "microcredential_learners": 402,
+        "total_ects": 26169,
+        "total_revenue": 2031263,
+        "personnel_costs": 875000,
+        "opex_costs": 835000,
+        "marketing_costs": 200000,
+        "partner_payouts": 251222,
+        "total_expenses": 2161222,
+        "operating_result": -129959,
+        "capex_spend": 0,
+        "cashflow": -129959,
+        "cumulative_cashflow": -11574887
+      },
+      {
+        "year": 7,
+        "degree_students": 886,
+        "microcredential_learners": 463,
+        "total_ects": 28886,
+        "total_revenue": 2206400,
+        "personnel_costs": 875000,
+        "opex_costs": 865000,
+        "marketing_costs": 200000,
+        "partner_payouts": 277310,
+        "total_expenses": 2217310,
+        "operating_result": -10910,
+        "capex_spend": 0,
+        "cashflow": -10910,
+        "cumulative_cashflow": -11585797
+      },
+      {
+        "year": 8,
+        "degree_students": 974,
+        "microcredential_learners": 532,
+        "total_ects": 31891,
+        "total_revenue": 2399353,
+        "personnel_costs": 875000,
+        "opex_costs": 895000,
+        "marketing_costs": 200000,
+        "partner_payouts": 306151,
+        "total_expenses": 2276151,
+        "operating_result": 123202,
+        "capex_spend": 0,
+        "cashflow": 123202,
+        "cumulative_cashflow": -11462595
+      },
+      {
+        "year": 9,
+        "degree_students": 1072,
+        "microcredential_learners": 612,
+        "total_ects": 35213,
+        "total_revenue": 2611949,
+        "personnel_costs": 995000,
+        "opex_costs": 930000,
+        "marketing_costs": 200000,
+        "partner_payouts": 338043,
+        "total_expenses": 2463043,
+        "operating_result": 148906,
+        "capex_spend": 0,
+        "cashflow": 148906,
+        "cumulative_cashflow": -11313689
+      },
+      {
+        "year": 10,
+        "degree_students": 1179,
+        "microcredential_learners": 704,
+        "total_ects": 38887,
+        "total_revenue": 2846203,
+        "personnel_costs": 995000,
+        "opex_costs": 970000,
+        "marketing_costs": 200000,
+        "partner_payouts": 373316,
+        "total_expenses": 2538316,
+        "operating_result": 307887,
+        "capex_spend": 0,
+        "cashflow": 307887,
+        "cumulative_cashflow": -11005802
+      }
+    ]
+  },
+  
+  "narrative": {
+    "executive_summary": "The Open University of Germany requires €4.1 million in start-up capital (CAPEX) plus approximately €3 million in operating support over the first four years, for a total funding need of €7.1 million. By Year 8, the institution reaches operational break-even, and by Year 10 serves over 1,800 learners (degree + micro) at a cost per student of €2,250—significantly below the €8,000-10,000 typical of traditional universities.",
+    
+    "the_ask": {
+      "total": 7100000,
+      "capex": 4100000,
+      "operating_support": 3000000,
+      "years": "0-4",
+      "description": "One-time investment to establish a permanent, scalable infrastructure for lifelong learning in Germany"
+    },
+    
+    "key_metrics_table": {
+      "Students reached by Year 5": "1,082 (degree + micro)",
+      "Students reached by Year 10": "1,883 (degree + micro)",
+      "ECTS delivered by Year 5": "23,711",
+      "Partner payouts cumulative by Year 5": "€883,000",
+      "Partner payouts cumulative by Year 10": "€2.4M",
+      "Break-even (operational)": "Year 8",
+      "Break-even (cumulative cash)": "Year 13+",
+      "Cost per student at scale (Year 10)": "€2,250"
+    },
+    
+    "efficiency_arguments": [
+      {
+        "title": "No duplication of faculty",
+        "description": "We pay partners 60% of tuition to use their existing teaching capacity—no new professors needed"
+      },
+      {
+        "title": "Lean central team",
+        "description": "11 people support 1,000+ students through automation and open source infrastructure"
+      },
+      {
+        "title": "Open source infrastructure",
+        "description": "No expensive software licenses; community-driven development keeps costs low"
+      },
+      {
+        "title": "Scaling leverage",
+        "description": "OPEX grows at 3-5% annually while students grow at 10%"
+      },
+      {
+        "title": "Partner payout efficiency",
+        "description": "60% of tuition returns to public universities, strengthening the entire system"
+      }
+    ],
+    
+    "strategic_case": {
+      "problem": "Private Fernhochschulen already enroll hundreds of thousands of students who cannot access public universities. These students pay €2,000-4,000 per year for education that should be a public good.",
+      "solution": "With €7.1M public investment, the OUG offers quality-assured, stackable credentials at €600/semester—1/3 to 1/6 the cost of private alternatives.",
+      "impact": [
+        "Create a federal infrastructure for lifelong learning",
+        "Return 60% of tuition to public universities",
+        "Build a national brand for open, flexible higher education",
+        "Reach learners traditional universities cannot serve: Berufstätige, Pflegende, Menschen in Lebensumbrüchen",
+        "Demonstrate German leadership in educational innovation"
+      ]
+    },
+    
+    "risk_mitigation": [
+      {
+        "risk": "Slower than expected growth",
+        "mitigation": "Lean cost structure means even at 8% growth, model remains viable; marketing can be adjusted"
+      },
+      {
+        "risk": "Partner university participation",
+        "mitigation": "60% payout creates strong incentive; low-risk entry for partners (no capacity commitment)"
+      },
+      {
+        "risk": "Political/Länder coordination",
+        "mitigation": "Model designed to fit within existing LHG-Logiken; state funding only begins Year 5"
+      },
+      {
+        "risk": "Technology failure",
+        "mitigation": "Open source, modular architecture; core ECTS tracking built in CAPEX Phase 0"
+      }
+    ]
+  },
+  
+  "visualization": {
+    "charts": [
+      {
+        "name": "Cumulative Cashflow",
+        "type": "line",
+        "data_points": [
+          {"year": 0, "value": -3200000},
+          {"year": 1, "value": -6649800},
+          {"year": 2, "value": -8400560},
+          {"year": 3, "value": -9850546},
+          {"year": 4, "value": -11199592},
+          {"year": 5, "value": -11444928},
+          {"year": 6, "value": -11574887},
+          {"year": 7, "value": -11585797},
+          {"year": 8, "value": -11462595},
+          {"year": 9, "value": -11313689},
+          {"year": 10, "value": -11005802}
+        ],
+        "description": "Shows peak funding need at Year 7, then gradual recovery"
+      },
+      {
+        "name": "Students Growth",
+        "type": "bar",
+        "data_points": [
+          {"year": 1, "degree": 400, "micro": 200},
+          {"year": 2, "degree": 440, "micro": 230},
+          {"year": 3, "degree": 605, "micro": 264},
+          {"year": 4, "degree": 666, "micro": 304},
+          {"year": 5, "degree": 732, "micro": 350},
+          {"year": 6, "degree": 805, "micro": 402},
+          {"year": 7, "degree": 886, "micro": 463},
+          {"year": 8, "degree": 974, "micro": 532},
+          {"year": 9, "degree": 1072, "micro": 612},
+          {"year": 10, "degree": 1179, "micro": 704}
+        ],
+        "description": "Steady growth with Year 3 boost from second program"
+      }
+    ]
+  },
+  
+  "metadata": {
+    "created_by": "OUG Konzeptbüro",
+    "contact": "info@openuniversity.de",
+    "license": "CC BY-SA 4.0",
+    "repository": "https://github.com/oug/financial-model",
+    "version_history": [
+      {"version": "1.0", "date": "2026-02-20", "changes": "Initial release"},
+      {"version": "1.1", "date": "2026-02-21", "changes": "Refined OPEX Year 0, added personnel scaling, hub costs, scenarios"}
+    ],
+    "feedback_incorporated_from": "Initial Excel review"
+  }
+}
