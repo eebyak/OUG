@@ -14,20 +14,22 @@ This matters for more than tidiness. Several of the items below describe exactly
 
 - [ ] **Academic Freedom Guarantees** — academic autonomy is asserted throughout the governance documents, but doesn't appear to have a dedicated, citable guarantee document. *Likely home: `governance/`*
 - [ ] **Safeguards Against Power Concentration** — the index treats this as distinct from the leadership term-limit provisions in `leadership/leadership-development-induction-framework.md`. Worth checking whether it's meant to be governance-wide rather than leadership-specific. *Likely home: `governance/`*
-- [ ] **Bug Protocol** — a structured response to institutional failure, sitting alongside the OKR Framework and Governance Dashboard. Nothing under this name or an obvious equivalent was found. *Likely home: `strategy/` (alongside `okr-framework-dashboard.md`)*
+- [x] ~~**Bug Protocol**~~ — **Resolved.** Fully specified in [`strategy/okr-framework-dashboard.md`](strategy/okr-framework-dashboard.md) § IV — a five-step process (Flag → Diagnose → Classify → Act → Learn) triggered when a Key Result scores below 0.4. Found while converting the Strategy & Finance domain.
 - [ ] **Conflict Escalation Framework** — marked "in development" in the earlier index itself — worth checking whether it's since been drafted. *Likely home: `governance/`*
 - [ ] **Legal Responsibility Matrix** — also marked "in development" — a liability-mapping document (who is responsible for what, across OUG and its partners) not yet found as a standalone file. *Likely home: `governance/` or `partnership/`*
 - [ ] **Amendment Procedures** — referenced as a standalone cross-cutting document. A constitutional amendment procedure is mentioned in passing inside the Strategy Formation Protocol, but a dedicated document wasn't located. *Likely home: `governance/`*
 
 ## Leadership & Community
 
-- [ ] **Governance Mentor System** — supports continuous development of governance role-holders, distinct from the induction and capability-assessment mechanisms already filed. *Likely home: `leadership/`*
-- [ ] **Mission Hub Structure** — referenced constantly across other documents (Committee Information Architecture, Quality Assurance, the Academic Community Charter) but never located as its own structural document defining what a Mission Hub actually is, how one is formed, or how it is governed. *Likely home: `governance/` or `leadership/`*
+- [x] ~~**Leadership & Stewardship Profiles**~~ — **Resolved.** Found and converted: [`leadership/leadership-stewardship-profiles.md`](leadership/leadership-stewardship-profiles.md). Defines the "PRECEPTA" normative framework and full role profiles for Rector, Chancellor, all three Vice Rectors, and Dean — exactly the source repeatedly cited by the Reader's Guide, the QA Framework, and the Design Authority Constitution.
+
+- [x] ~~**Governance Mentor System**~~ — **Resolved.** This is Section V ("The Governance Mentor Pool") of [`leadership/leadership-development-induction-framework.md`](leadership/leadership-development-induction-framework.md), not a separate document. Found while converting the Leadership & People domain.
+- [~] **Mission Hub Structure** — **Partially resolved.** [`partnership/federation-membership-framework.md`](partnership/federation-membership-framework.md) § Statute on Organs, §4.3–4.4, now defines what Mission Hubs are, how Deans are elected to steward them, and how Research Groups form within them — closing much of this gap. Not fully closed: no single document yet walks through the formation process for a *new* Mission Hub end to end (proposal, approval, resourcing). *Likely home for the remainder: `governance/` or `leadership/`*
 - [ ] **Student Governance Structures** — distinct from the Academic Community Charter; specifically how students hold seats and voting rights in Senate and committee structures. *Likely home: `leadership/` or `governance/`*
 
 ## Partnership & Federation
 
-- [ ] **Partnership Types A–D** — a formal, lettered typology of partnership levels, implied but not made explicit in the Partner Membership Framework as currently written. *Likely home: `partnership/`*
+- [ ] **Partnership Types A–D** — a formal, lettered typology of partnership levels, implied but not made explicit in the Partner Membership Framework as currently written. *Note: [`partnership/federation-membership-framework.md`](partnership/federation-membership-framework.md) defines two membership categories (Full Member Institutions, Associate Member Institutions) — related but not the same as a four-tier A–D typology. Gap not fully closed. Likely home: `partnership/`*
 - [ ] **Partner Protection Mechanisms** — exit rights and autonomy guarantees for partner institutions. Not found as a distinct document — arguably the single most important thing a nervous prospective partner would want to read before signing. *Likely home: `partnership/`*
 
 ## Research & Doctoral Education
