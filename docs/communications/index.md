@@ -38,9 +38,8 @@ This domain answers a question none of the others do: having built all this — 
 - **[Ein gewöhnlicher Dienstag](ein-gewoehnlicher-dienstag.md)** *(A Perfectly Ordinary Tuesday)* — a fictional narrative following one day, three years after founding, across six people and six cities. Not marketing copy — the most concrete answer available to "what does this institution actually feel like once it's running?"
 - **[OUG Report 2025–26](annual-report-2025-26.md)** — an earlier-stage strategic report documenting the funding-initiative portfolio (OPEN STUDY, OPEN PATHWAY, VIRTUAL STUDY, DIGITAL STUDY) that preceded the OUG's later, fuller institutional design. Useful as historical context for how the thinking evolved, not as a description of the current architecture.
 
-## Not Converted — and Why
-
-Five files exist on Drive as PowerPoint decks: **Die Fehlende Schicht** ("The Missing Layer," German), **OUG_Menschlicher_Fall** ("The Human Case"), **OUG_Hochschulpartner_DHBW** (the partner-recruitment deck), **OUG_Ministerium** (the ministry funding pitch), and **OUG_Erklaerung** (the general explainer deck). None of these are converted here. After a real attempt to fetch and rebuild `Finanzmodell v3.xlsx` as a binary file resulted in a corrupted, unopenable file despite the byte count matching exactly, converting five much larger `.pptx` files the same way carries the same risk multiplied five times over — and a silently-broken deck is worse than no deck at all. **Recommendation:** pull these directly from Drive rather than through this channel.
+## Presentations 
+PowerPoint decks: **OUG_Die Fehlende Schicht** ("The Missing Layer," German), **OUG_Menschlicher_Fall** ("The Human Case"), **OUG_Hochschulpartner_DHBW** (the partner-recruitment deck), **OUG_Ministerium** (the ministry funding pitch), and **OUG_Erklaerung** (the general explainer deck) can be found [here](partner-and-ministry-decks/index.md).
 
 Their content is substantially covered in prose form by [Communication Architecture](communication-architecture.md) (which several of these decks appear to be built from) and the [Ministeriumsmemorandum](../strategy/ministeriumsmemorandum-v2.md) in the Strategy domain, if a text version is useful in the meantime.
 
