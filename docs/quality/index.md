@@ -38,13 +38,33 @@ Quality is the domain where a federated, modular, campus-free institution has to
 - **[Reader's Guide for the Accreditation Committee](readers-guide-accreditation.md)** — the single entry point into the entire document stack, written so a reviewer needs to verify specific claims, not read everything. States plainly what the OUG is and isn't, pre-empts the five questions any reviewer will ask, and maps every claim to the document that substantiates it.
 - **[Prüfungsordnung](pruefungsordnung.md)** — the formal examination regulation, in German, with an unusual feature: an extensive running commentary explaining *why* each paragraph is written the way it is, including direct comparisons to DHBW, UOC/Open Universiteit NL, and certificate-based models. The commentary is explicitly not part of the statute itself — see the note at the top of that document.
 
-All five documents from the Drive `QUALITY ASSURANCE` folder are converted — matches the plan exactly.
+All five documents from the Drive `QUALITY ASSURANCE` folder are converted.
 
-## Cross-References Worth Knowing
+## Connections to Other Domains
 
-- **The Reader's Guide cites several documents that don't exist here yet**, or were deliberately dropped from scope. Strategic Constitution, Strategy Formation Protocol, OKR Framework, Financial Model, Gebührenordnung, and the Hochschulfinanzierungsvertrag Plan all belong to the `strategy/` domain and aren't converted yet. Curriculum Framework and Modulhandbuch are cited as if live documents, but were specifically excluded from the curriculum domain's scope earlier (their content lives in the New Study Programme Document instead). None of this was silently fixed — the Reader's Guide conversion notes each one inline.
-- **"Leadership & Stewardship Profiles"** is cited repeatedly — by this Reader's Guide, by the QA framework, and by the Design Authority Constitution in the governance domain — as the authoritative source defining role competencies and mandate boundaries. No standalone document under that name has been found anywhere in this repository. It may be embedded in the Leadership Development & Induction Framework, or it may be a genuine unfiled gap. Added to [known-gaps.md](../known-gaps.md).
-- **A section-numbering mismatch** between the QA framework and its own GP-3 amendment — noted inline in both documents rather than silently reconciled. See [conversion-notes.md](conversion-notes.md).
+The quality architecture is closely connected to the other parts of the OUG institutional design:
+
+* **[Governance](../governance/index.md)** defines the G1–G4 governance layers, assigns academic and quality authority to G3, and protects academic standards from executive or financial override.
+
+* **[Curriculum](../curriculum/index.md)** makes the academic architecture concrete through qualification goals, competency streams, learning outcomes, prerequisites, assessment formats, and module-level specifications.
+
+* **[Leadership](../leadership/index.md)** defines the responsibilities and mandate boundaries of the Rector, Vice Rectors, Chancellor, and Mission Hub Stewards whose roles affect academic quality and institutional learning.
+
+* **[Partnership](../partnership/index.md)** allocates responsibility between the OUG and participating institutions while preserving central OUG authority for academic standards, assessment integrity, quality assurance, and degree awarding.
+
+* **[Strategy](../strategy/index.md)** establishes institutional objectives, indicators, and review processes while preserving the authority of academic governance to interpret evidence and determine academic quality.
+
+Together, these domains ensure that quality is not treated as a separate compliance function. It is embedded in governance, curriculum design, leadership, partnership arrangements, strategic review, and institutional learning.
+
+## Current Status
+
+The documents in this directory form the core of the prospective OUG quality architecture. They define the intended standards, responsibilities, evidence processes, review mechanisms, and safeguards through which academic quality would be governed.
+
+They do not yet constitute evidence that these mechanisms have been formally adopted, implemented, or tested in operation.
+
+Unresolved questions, inconsistencies, and matters requiring further development are maintained separately in the **[known gaps](known-gaps)** register.
+
+
 
 ---
 
