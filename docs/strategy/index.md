@@ -3,7 +3,6 @@ layout: page
 title: Strategy & Finance
 ---
 
-# Strategy & Finance
 
 [← Back to main index](../index.md)
 
@@ -12,7 +11,7 @@ This domain answers two separate questions that most institutional strategy docu
 <div class="diagram-block">
   <a class="diagram-preview" href="#strategy-map">
     <img
-      src="{{ '/leadership/images/OUG-Strategy-Map.png' | relative_url }}"
+      src="{{ '/strategy/images/OUG-Strategy-Map.png' | relative_url }}"
       alt="OUG Strategy Map">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -25,7 +24,7 @@ This domain answers two separate questions that most institutional strategy docu
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '/leadership/images/OUG-Strategy-Map.png' | relative_url }}"
+      src="{{ '/strategy/images/OUG-Strategy-Map.png' | relative_url }}"
       alt="Enlarged OUG Strategy Map">
   </div>
 </div>
