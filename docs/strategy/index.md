@@ -59,7 +59,7 @@ This domain answers two separate questions that most institutional strategy docu
 
 Together, these documents connect constitutional commitments to strategic choices, measurable development, financial viability, and a defined founding pathway.
 
-Unresolved questions and matters requiring further reconciliation are maintained separately in the **[known gaps register](../strategy/known-gaps)**.
+Unresolved questions and matters requiring further reconciliation are maintained separately in the **[known gaps register](known-gaps.md)**.
 
 
 ---
