@@ -3,7 +3,6 @@ layout: page
 title: Presentation & Communication
 ---
 
-# Presentation & Communication
 
 [← Back to main index](../index.md)
 
