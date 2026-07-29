@@ -1,60 +1,42 @@
-# Known Gaps
+---
+layout: page
+title: "Known Gaps"
+---
 
-Chapter 17 built its inventory from what actually exists in the repository — every document opened and read, not assumed. A separate, earlier index of the same institutional design named a number of documents that inventory did not turn up as standalone files.
+[← Back to Leadership & People](index.md)
 
-This page exists so that gap stays visible instead of quietly disappearing. Some of the items below are very likely sections embedded inside a document already listed in [index.md](index.md), filed under a different name than the earlier index used. Others may genuinely not exist yet. This page doesn't guess which — it names each one, keeps the name the index gave it, and leaves the check against Drive to whoever does it next.
+This page records documents, inconsistencies, or unresolved decisions that affect the Leadership and People domain.
 
-This matters for more than tidiness. Several of the items below describe exactly the kind of mechanism that *closes* a governance gap rather than merely describing one — a mentor system, a conflict-escalation path, a liability matrix. If one is found unfiled somewhere on Drive, it should be filed properly under the domain below. If it isn't found, it's an honest gap, not something to assume is covered by something else.
+Some items require the leadership documents to be reconciled with the Grundordnung and Governance architecture. Others concern terminology or implementing mechanisms that are referenced but not yet fully defined.
 
-**How to use this list:** for each item, check whether it exists as a section inside an already-migrated document. If yes, note where and cross it off here. If no, either it needs to be written, or it's a real, named gap in the architecture — which is itself useful information, not a failure.
+**How to use this list:** for each item, determine whether it can be resolved by correcting an existing document, clarifying the relationship between constitutional and leadership roles, or adding the required implementing provision.
 
 ---
 
-## Governance
+## Rectorate Structure
 
-- [ ] **Academic Freedom Guarantees** — academic autonomy is asserted throughout the governance documents, but doesn't appear to have a dedicated, citable guarantee document. *Likely home: `governance/`*
-- [ ] **Safeguards Against Power Concentration** — the index treats this as distinct from the leadership term-limit provisions in `leadership/leadership-development-induction-framework.md`. Worth checking whether it's meant to be governance-wide rather than leadership-specific. *Likely home: `governance/`*
-- [ ] **Bug Protocol** — a structured response to institutional failure, sitting alongside the OKR Framework and Governance Dashboard. Nothing under this name or an obvious equivalent was found. *Likely home: `strategy/` (alongside `okr-framework-dashboard.md`)*
-- [ ] **Conflict Escalation Framework** — marked "in development" in the earlier index itself — worth checking whether it's since been drafted. *Likely home: `governance/`*
-- [ ] **Legal Responsibility Matrix** — also marked "in development" — a liability-mapping document (who is responsible for what, across OUG and its partners) not yet found as a standalone file. *Likely home: `governance/` or `partnership/`*
-- [ ] **Amendment Procedures** — referenced as a standalone cross-cutting document. A constitutional amendment procedure is mentioned in passing inside the Strategy Formation Protocol, but a dedicated document wasn't located. *Likely home: `governance/`*
+- [ ] **Number and portfolios of Vice Rectors** — the [Leadership & Stewardship Profiles](leadership-stewardship-profiles.md) define three Vice Rector roles: Academic Quality and Curriculum Architecture, Learner Development and Access, and Institutional Learning and Innovation. The [Grundordnung](../governance/grundordnung.md) provides for two part-time Vice Rectors. The intended number of roles and the allocation of portfolios must be reconciled.
 
-## Leadership & Community
+- [ ] **Rector term and renewal** — the [Amendment on the Rector's Transformation Mandate](amendment-transformation-mandate.md) specifies a four-year term renewable once. The [Grundordnung](../governance/grundordnung.md) provides for a term of six to eight years for full-time Rectorate members. One rule must be selected and used consistently across the leadership and constitutional documents.
 
-- [x] ~~**Governance Mentor System**~~ — **Resolved.** This is Section V ("The Governance Mentor Pool") of [`leadership/leadership-development-induction-framework.md`](leadership/leadership-development-induction-framework.md), not a separate document. Found while converting the Leadership & People domain.
-- [ ] **Mission Hub Structure** — referenced constantly across other documents (Committee Information Architecture, Quality Assurance, the Academic Community Charter) but never located as its own structural document defining what a Mission Hub actually is, how one is formed, or how it is governed. *Likely home: `governance/` or `leadership/`*
-- [ ] **Student Governance Structures** — distinct from the Academic Community Charter; specifically how students hold seats and voting rights in Senate and committee structures. *Likely home: `leadership/` or `governance/`*
+- [ ] **Rector's constitutional role** — the Leadership & Stewardship Profiles describe the Rector as the “Constitutional and Strategic Steward.” The [Governance & Decision Framework](../governance/governance-architecture.md) assigns final authority for constitutional interpretation, conflict resolution, and revision to G1, while the Rectorate operates at G2. The profile should state unambiguously that the Rector safeguards and escalates constitutional questions but does not replace the final authority assigned to G1.
 
-## Partnership & Federation
+## Leadership Frameworks and Measures
 
-- [ ] **Partnership Types A–D** — a formal, lettered typology of partnership levels, implied but not made explicit in the Partner Membership Framework as currently written. *Likely home: `partnership/`*
-- [ ] **Partner Protection Mechanisms** — exit rights and autonomy guarantees for partner institutions. Not found as a distinct document — arguably the single most important thing a nervous prospective partner would want to read before signing. *Likely home: `partnership/`*
+- [ ] **Transformation Reserve source** — the Transformation Mandate states that the Rector's “Proactive Capacity allocation” is specified in the Leadership & Stewardship Profiles and reserves at least 20% of it for transformation. The current profile document contains no Proactive Capacity provision or percentage allocation. The reference must be corrected, or the underlying provision must be added to the appropriate leadership document.
 
-## Research & Doctoral Education
+- [ ] **PRECEPTA, DYNAMOS.v2, and PERSONA** — the Leadership & Stewardship Profiles establish PRECEPTA as a binding normative framework but refer to DYNAMOS.v2 and PERSONA only by name. Their relationship to the Leadership Development and Induction Framework, their authority, and whether they require separate definitions should be clarified. Terms that are not intended to become part of the institutional architecture should be removed rather than left as unexplained frameworks.
 
-- [ ] **Research Clusters Model** — Research Clusters are named and described inside the Research & Doctoral Framework, but a dedicated structural document may be intended rather than a section of a broader one. *Likely home: `curriculum/`*
-- [ ] **Doctoral Programme Structure** — admission, supervision, and examination procedures for doctoral candidates, referenced but not located as standalone. *Likely home: `curriculum/`*
-- [ ] **Research Ethics & Integrity** — a Research Ethics Committee is described in the Committee Information Architecture, but a dedicated ethics and integrity policy document wasn't located. *Likely home: `quality/` or `curriculum/`*
+## Mission Hub Leadership
 
-## Quality & Academic Standards
+- [ ] **Dean and Steward of Missions terminology** — the Leadership & Stewardship Profiles use “Dean” and “Mission Hub Steward,” while the Grundordnung uses “Steward of Missions.” The documents should adopt one consistent role name or state clearly that these are the legal and constitutional names of the same office.
 
-- [ ] **Academic Integrity Policies** — distinct from the Code of Collegial Conduct, which governs behaviour among governance participants rather than academic misconduct among students and staff generally. *Likely home: `quality/`*
-- [ ] **Examination Regulation Annex** — marked "in development" separately from the Prüfungsordnung — worth checking whether it's since been folded into that document or still stands apart. *Likely home: `quality/`*
+- [ ] **Mission Hub leadership eligibility** — the Grundordnung restricts election as Steward of Missions or deputy to professors employed full-time by the OUG. The leadership profile describes an elected peer steward but does not address how this requirement operates in a federation that relies substantially on partner-employed and affiliated academics. The eligibility rule and the intended federated staffing model must be reconciled.
 
-## Financial Model
+## Document Status
 
-- [ ] **ECTS Revenue Logic** — very likely embedded within the Five-Year Finance Plan and `finanzmodell-v3.xlsx`, but not found as a separately citable document under this name. *Likely home: `strategy/`*
-- [ ] **Three-Pillar Funding Model** — public funding, tuition, and partnerships as three explicit pillars — a framing not found stated this way in the Finance Plan, which describes the same funding sources without this specific structure. *Likely home: `strategy/`*
-
-## Operational Layer — No Clear Domain Home
-
-These four don't fit cleanly into any of the seven existing domains. That may mean the repository doesn't yet organise operational infrastructure as its own category — in which case an eighth domain, **Operations & Implementation**, may eventually belong alongside Curriculum, Governance, Leadership, Partnership, Quality, Strategy, and Communications. Not creating that folder yet — flagging it here until there's enough material to justify it.
-
-- [ ] **Partnership Office Model** — the operational unit that manages day-to-day partner relationships, as distinct from the Partner Membership Framework's specification of rights and duties.
-- [ ] **Digital Infrastructure Concept** — may substantially overlap with `curriculum/platform-living-learning-system.md`, but may be intended as an operational concern separate from the pedagogical platform.
-- [ ] **Student Support Structures** — advising, onboarding, and retention support. Not found as a standalone document anywhere. Given the OUG's target population, this may be the most consequential single gap on this list.
-- [ ] **Programme Delivery Model** — the operational execution of teaching across a federated network, as distinct from the academic design captured in the Curriculum domain.
+- [ ] **Status and provisional closing section** — the Leadership & Stewardship Profiles currently presents PRECEPTA and the role profiles as binding interpretive references, while the document status itself remains unset. Its closing section on “Speed 1” and “Speed 2” is explicitly retained as a provisional working note. The document should distinguish clearly between normative provisions, explanatory material, and provisional design ideas before formal use.
 
 ---
 
-*This list is drawn from Chapter 17 of the book. As items are confirmed found (and filed) or confirmed genuinely absent, update this page rather than deleting entries — the history of what was missing and when it was closed is itself part of the institution's governance record.*
+*Update this page only when a gap is confirmed, resolved, consolidated into another document, or deliberately left open.*
