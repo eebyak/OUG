@@ -22,30 +22,29 @@ The curriculum layer answers the question a prospective student, a partner unive
   <div class="lightbox-panel">
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
-```
-<img
-  src="{{ '/curriculum/images/Curriculum.png' | relative_url }}"
-  alt="Enlarged OUG Curriculum Map">
-```
-
+    <img
+      src="{{ '/curriculum/images/Curriculum.png' | relative_url }}"
+      alt="Enlarged OUG Curriculum Map">
   </div>
 </div>
 
 ## What's Here
 
-* **[New Study — B.Sc. Computer Science Programme Document](new-study-programme-document.md)** — the programme-level description of the OUG's first proposed degree. It defines the 180-ECTS stacking model, the six competency streams, module-level microcredentials, the Capstone and Bachelor Thesis, and the relationship between the OUG and the existing DHBW New Study programme.
+- **[New Study — B.Sc. Computer Science Programme Document](new-study-programme-document.md)** — the programme-level description of the OUG's first proposed degree. It defines the 180-ECTS stacking model, the six competency streams, module-level microcredentials, the Capstone and Bachelor Thesis, and the relationship between the OUG and the existing DHBW New Study programme.
 
-* **[Didactic Framework, B.Sc. Computer Science](didactic-framework-bsc-cs.md)** — the pedagogical architecture of the programme. It organises learning around authentic tasks, seven durable Thinking Principles, a five-phase Didactic Unit structure, progressive cognitive development across the three study years, and assessment through demonstrated capability rather than content recall alone.
+- **[Modulhandbuch — Bachelor of Computer Science](modulhandbuch.md)** — defines the academic rationale, qualification goals, six competency streams, recommended six-semester progression, open-pathway logic, assessment principles, and canonical structure for module descriptions. The current document establishes the curriculum architecture and includes one worked module example, but does not yet contain a completed catalogue of all individual modules.
 
-* **[Equity by Design](equity-by-design.md)** — examines how governance, institutional language, pedagogy, platform design, and credential architecture can reproduce or reduce educational inequality. It derives twenty design principles and assesses where the current OUG architecture addresses them strongly, partially, or not yet adequately.
+- **[Didactic Framework, B.Sc. Computer Science](didactic-framework-bsc-cs.md)** — the pedagogical architecture of the programme. It organises learning around authentic tasks, seven durable Thinking Principles, a five-phase Didactic Unit structure, progressive cognitive development across the three study years, and assessment through demonstrated capability rather than content recall alone.
 
-* **[The OUG Presence Architecture](presence-architecture.md)** — defines how an asynchronous-first institution can deliberately create cohort formation, intellectual community, sustained engagement, and meaningful synchronous encounters without making physical or simultaneous attendance a condition of participation.
+- **[Equity by Design](equity-by-design.md)** — examines how governance, institutional language, pedagogy, platform design, and credential architecture can reproduce or reduce educational inequality. It derives twenty design principles and assesses where the current OUG architecture addresses them strongly, partially, or not yet adequately.
 
-* **[Platform: From Static Curriculum to Living Learning System](platform-living-learning-system.md)** — describes the transformation of the conventional module handbook into a searchable, skill-based, machine-readable, and increasingly adaptive learning environment. Its eight milestones connect curriculum data, learner navigation, competency transparency, personalisation, interoperability, and credential issuance.
+- **[The OUG Presence Architecture](presence-architecture.md)** — defines how an asynchronous-first institution can deliberately create cohort formation, intellectual community, sustained engagement, and meaningful synchronous encounters without making physical or simultaneous attendance a condition of participation.
 
-* **[Research & Doctoral Framework](research-doctoral-framework.md)** — defines the research identity of a distributed and federated university. It covers Research Clusters, collaboration with partner institutions, the Research Office, doctoral admission and supervision, research ethics and integrity, and the integration of research with teaching.
+- **[Platform: From Static Curriculum to Living Learning System](platform-living-learning-system.md)** — describes the transformation of the conventional module handbook into a searchable, skill-based, machine-readable, and increasingly adaptive learning environment. Its eight milestones connect curriculum data, learner navigation, competency transparency, personalisation, interoperability, and credential issuance.
 
-* **[OOAPI v6 Machine-Readable Module Data](skill-based-modules/index.md)** — the structured data layer beneath the narrative curriculum documents. The directory contains module specifications and competency codebooks in machine-readable form so that modules, learning outcomes, skills, workload, and relationships can be used by the platform and other digital services.
+- **[Research & Doctoral Framework](research-doctoral-framework.md)** — defines the research identity of a distributed and federated university. It covers Research Clusters, collaboration with partner institutions, the Research Office, doctoral admission and supervision, research ethics and integrity, and the integration of research with teaching.
+
+- **[Machine-Readable Module Data](skill-based-modules/index.md)** — the structured data layer beneath the narrative curriculum documents. The directory contains module specifications and competency codebooks in machine-readable form so that modules, learning outcomes, skills, workload, and relationships can be used by the platform and other digital services.
 
 ## Explore the Curriculum
 
@@ -59,6 +58,8 @@ The catalogue demonstrates the practical difference between a static module hand
 
 The **Programme Document** defines what the degree contains and how its components accumulate toward a qualification.
 
+The **Modulhandbuch** defines the programme's academic rationale, curriculum structure, progression logic, and standard form for module specifications.
+
 The **Didactic Framework** defines how learning and assessment are designed within those components.
 
 **Equity by Design** tests whether the resulting architecture works fairly for learners entering from different educational, professional, and personal circumstances.
@@ -71,16 +72,20 @@ The **Research and Doctoral Framework** extends the academic architecture beyond
 
 ## Connections to Other Domains
 
-* **[Quality](../quality/index.md)** defines the standards, assessment safeguards, evidence processes, and review mechanisms through which curriculum quality is maintained.
+- **[Quality](../quality/index.md)** defines the standards, assessment safeguards, evidence processes, and review mechanisms through which curriculum quality is maintained.
 
-* **[Governance](../governance/index.md)** assigns authority for programme approval, curriculum change, academic standards, and institutional decision-making.
+- **[Governance](../governance/index.md)** assigns authority for programme approval, curriculum change, academic standards, and institutional decision-making.
 
-* **[Partnership](../partnership/index.md)** defines how participating institutions contribute teaching while the OUG retains responsibility for programme coherence, quality assurance, academic records, and degree awarding.
+- **[Partnership](../partnership/index.md)** defines how participating institutions contribute teaching while the OUG retains responsibility for programme coherence, quality assurance, academic records, and degree awarding.
 
-* **[Strategy](../strategy/index.md)** establishes the institutional commitments to openness, adaptability, learner agency, and public responsibility that the curriculum is designed to implement.
+- **[Strategy](../strategy/index.md)** establishes the institutional commitments to openness, adaptability, learner agency, and public responsibility that the curriculum is designed to implement.
 
-* **[Leadership](../leadership/index.md)** defines the responsibilities of the academic leaders and Mission Hub Stewards who oversee programme development, delivery, and renewal.
+- **[Leadership](../leadership/index.md)** defines the responsibilities of the academic leaders and Mission Hub Stewards who oversee programme development, delivery, and renewal.
 
 Together, these documents describe a curriculum not as a fixed sequence of courses, but as an academic architecture connecting modules, competencies, pathways, people, evidence, and qualifications.
 
-Unresolved questions, inconsistencies, and matters requiring further development are maintained separately in the **[known gaps](known-gaps)** register.
+Unresolved questions and matters requiring further reconciliation are maintained separately in the **[known gaps register](known-gaps.md)**.
+
+---
+
+*This page is a snapshot, not a source of truth — the [main index](../index.md) is the canonical list of what this domain is meant to eventually contain.*
