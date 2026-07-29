@@ -20,6 +20,8 @@ The OUG is not conceived as a replacement for existing universities. It is desig
 
 This repository contains the evolving institutional architecture of the OUG.
 
+© 2026 Kay Berkling. This work is licensed under CC BY-ND 4.0. You may share this material in any medium or format, provided you give appropriate credit, provide a link to the license, and indicate if changes were made. You may not distribute modified material. For attribution: Kay Berkling, "OUG: Designing a University from First Principles" (2026), https://eebyak.github.io/OUG/. For consulting inquiries: kay.berkling@dhbw.de | Prof. Dr. Kay Berkling, DHBW Baden-Württemberg, Germany.
+
 To understand **why** each element exists, please refer to the book.
 **Designing a University from First Principles**
 
