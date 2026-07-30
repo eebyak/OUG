@@ -1,4 +1,7 @@
-# The OUG Presence Architecture
+---
+layout: page
+title: "The OUG Presence Architecture"
+--- 
 
 *Open University of Germany · Academic Community*
 *Presence Architecture · GP-2 Gap Closure · 2026*
