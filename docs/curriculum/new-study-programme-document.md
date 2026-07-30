@@ -85,7 +85,7 @@ This provision is critical to the OUG's mission. A software engineer with five y
 <div class="diagram-block">
   <a class="diagram-preview" href="#sequencing">
     <img
-      src="{{ '/curriculum/images/sequencing.png' | relative_url }}"
+      src="{{ '/curriculum/images/OUG_sequencing.png' | relative_url }}"
       alt="OUG Prerequisites">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -98,7 +98,7 @@ This provision is critical to the OUG's mission. A software engineer with five y
 
 ```
 <img
-  src="{{ '/curriculum/images/sequencing.png' | relative_url }}"
+  src="{{ '/curriculum/images/OUG_sequencing.png' | relative_url }}"
   alt="Enlarged OUG Prerequisites">
 ```
 
