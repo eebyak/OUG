@@ -1,4 +1,8 @@
-# Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)
+---
+layout: page
+title: "Amendment: The Rector's Transformation Mandate and Incentive Conversion (GP-5, GP-6)"
+---  
+
 
 *Open University of Germany · Amendment Notice*
 *To: [Leadership Development & Induction Framework](leadership-development-induction-framework.md) · 2026*
