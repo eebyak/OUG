@@ -1,4 +1,8 @@
-# Allgemeinwohl Verfassung (Public-Benefit Constitution)
+---
+layout: page
+title: "Allgemeinwohl Verfassung (Public-Benefit Constitution)"
+--- 
+
 
 *Open University of Germany · Gründungsdokument*
 *Rechtliche Grundlage und institutionelle Verfassung · 2026*
