@@ -1,4 +1,7 @@
-# OKR Framework & Governance Dashboard
+---
+layout: page
+title: "OKR Framework & Governance Dashboard"
+--- 
 
 *Open University of Germany · Institutional Governance · 2026*
 *Operational Governance Document*
