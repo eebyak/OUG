@@ -9,6 +9,7 @@ title: "Reader's Guide for the Accreditation Committee"
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
 > **Note on the document reference table (Section IV):** this Guide uses its own document coding scheme (G-01, O-01, A-01, F-01, FIN-01, etc.) to map claims to source documents. Several of the documents it references either don't exist yet in this repository under that name, or were deliberately excluded from scope elsewhere: "Curriculum Framework," "Modulhandbuch," "Partnership Agreement Template" (F-02), "Financial Model v3 (Excel)," "Gebührenordnung," and "Hochschulfinanzierungsvertrag Plan" are all cited as if live documents but aren't yet converted — and Modulhandbuch/Curriculum Framework were specifically dropped from the curriculum domain's scope earlier by decision (their content is in the New Study Programme Document instead). "Leadership & Stewardship Profiles" (G-06) is cited repeatedly here and in other converted documents as an authoritative source of role competency requirements, but no standalone document under that name has been found — it may be embedded in the Leadership Development & Induction Framework, or it may be a genuine gap. See [conversion-notes.md](conversion-notes.md).
 
+
 ## A New Kind of University
 
 *What the OUG is, why it is needed, what it has built, and how to navigate the institutional document stack*
@@ -16,6 +17,30 @@ title: "Reader's Guide for the Accreditation Committee"
 > **To the Accreditation Committee.** The Open University of Germany has produced a substantial institutional document stack. This Reader's Guide is the entry point to that stack. It is the only document you need to read in full. Everything else exists to provide additional depth on demand.
 >
 > This Guide gives you a complete picture of what the OUG is, how it works, and why its design is sound. Where greater detail is available in a specific institutional document, you will find a clear reference. But you will not need to read those documents to understand the institution — only to verify particular claims or to satisfy specialist review requirements.
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#living">
+    <img
+      src="{{ '/quality/images/OUG-living.png' | relative_url }}"
+      alt="OUG Life">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="living" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-living.png' | relative_url }}"
+  alt="Enlarged OUG Life">
+```
+
+  </div>
+</div>
+
 
 ---
 
@@ -35,11 +60,33 @@ The OUG solves the access problem through a federated architecture. Instead of b
 
 This is not a platform, a marketplace, or a consortium. The OUG is a university — with the legal standing, governance architecture, quality assurance infrastructure, and academic culture that university status requires. What distinguishes it is that it was designed, from the beginning, for a different kind of student, a different kind of learning, and a different financial architecture. Not adapted from an existing model. Built from first principles.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#different">
+    <img
+      src="{{ '/quality/images/OUG-different.png' | relative_url }}"
+      alt="OUG What makes us different">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="different" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-different.png' | relative_url }}"
+  alt="Enlarged OUG What makes us different">
+```
+
+  </div>
+</div>
+
+
 ---
 
 ## II. Five Questions You Will Ask
-
-*And the honest answers*
 
 Accreditation of a new institutional form raises legitimate questions that established universities do not face. The OUG's design anticipated these questions.
 
@@ -119,6 +166,30 @@ The following table maps every institutional document in the OUG's document stac
 | G-05 | [Portfolio Governance Framework](../governance/portfolio-governance.md) | Classifies institutional changes (A–D) and routes them through appropriate governance levels | How does the OUG manage institutional change without destabilising governance? |
 | G-06 | Leadership & Stewardship Profiles *(referenced throughout this repository but not found as a standalone document — see note at top of this page)* | Defines competency requirements, decision rights, and mandate boundaries for all governance roles | Who is responsible for what, and with what authority? |
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#governance">
+    <img
+      src="{{ '/quality/images/OUG-governance-layers.png' | relative_url }}"
+      alt="OUG Governance">
+  </a>
+  <p class="governance">Click the diagram to enlarge.</p>
+</div>
+
+<div id="living" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-governance-layers.png' | relative_url }}"
+  alt="Enlarged OUG Governance">
+```
+
+  </div>
+</div>
+
+
 ### Operational Governance Layer
 
 | # | Document | Primary Function | Accreditation Question Answered |
@@ -155,9 +226,31 @@ The following table maps every institutional document in the OUG's document stac
 
 ---
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#overview">
+    <img
+      src="{{ '/quality/images/OUG-overview.png' | relative_url }}"
+      alt="OUG Overview">
+  </a>
+  <p class="governance">Click the diagram to enlarge.</p>
+</div>
+
+<div id="living" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-overview.png' | relative_url }}"
+  alt="Enlarged OUG Overview">
+```
+
+  </div>
+</div>
 ## V. What Has Been Built
 
-*An honest account of strengths, partial progress, and remaining work*
+*An account of strengths, partial progress, and remaining work*
 
 Institutional accreditation requires honesty about what exists and what does not. The OUG's document stack was subjected to a systematic assessment against twelve governance principles derived from expert dialogues on high-functioning university governance. The results are summarised here — with equal weight given to what is strong and what requires continued development.
 
