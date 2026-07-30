@@ -66,18 +66,16 @@ This work distinguishes between:
   - the learner directs the learning relationship, while the institution holds the accountability;
   - what is available to learn is determined by learner need.
 
-- **Dialogue-Derived Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners;
-  - 42 principles were derived based on open dialogues;
-  - the interlocutors agreed to the principles documented as emerging from those dialogues.
-
-- **Institutional Design Principles** — portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
+- **Dialogue-Derived and Institutional Design Principles** — first principles independently articulated across the blank-slate dialogues and verified with the dialogue partners;
+  - Design principles were derived based on open dialogues with experts;
+  - portable structural rules synthesised from OUG commitments, the Bologna principles, the dialogue-derived principles, research, and legal realities.
 
 - **Antipatterns and Design Patterns** — named recurring failures and reusable counter-designs;
   - in the spirit of software engineering, design patterns are a way to design systems around best practices. They can also be expressed as antipatterns — spaghetti code is one such antipattern. Patterns support communication at a meta-level because one pattern name is easier to use than a complex description. [Design Patterns](design-patterns.md)
 
 - **Architectural Decisions** — the specific choices made for the OUG;
   - the OUG follows an architecture that is a specific implementation. It will adhere to some patterns but not all. It therefore has a signature describing how well these patterns are implemented — like software architectures, not all patterns are used all the time. They are carefully chosen for a purpose and composed.
-  - *Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are documented and reasoned through in the book. This repository documents their institutional result through the implementing documents organised into the seven domains below.*
+  - Founding Commitments, Bologna Principles, Dialogue-Derived Principles, the Pattern Catalogue, and Architectural Decisions are documented and reasoned through in the book. This repository documents their institutional result through the implementing documents organised into the seven domains below.
 
 - **Implementing Documents** — the statutes, frameworks, regulations, and operating models that make those choices concrete. This repository is designated for their collection, which can be extensive. The main reasoning behind the architectural design can be found in the book.
 
@@ -85,7 +83,7 @@ This work distinguishes between:
 
 ## Start Here
 
-The repository is organised into seven connected domains. Each domain overview explains the role of its documents and provides direct access to the current material.
+The repository is organised into eight connected domains. Each domain overview explains the role of its documents and provides direct access to the current material.
 
 Unresolved matters across the complete architecture are summarised in the **[repository-wide Known Gaps register](known-gaps.md)**.
 
@@ -175,6 +173,15 @@ Unresolved matters across the complete architecture are summarised in the **[rep
 - [Partner & Ministry Decks](communications/partner-and-ministry-decks/index.md)
 - [OUG Report 2025–26](communications/annual-report-2025-26.md)
 
+### Digital Infrastructure
+
+- [Overview](digital-infrastructure/index.md)
+- [European HEI Digital Alliance Manifesto](digital-infrastructure/manifesto.md)
+- [Architecture Reference Model](digital-infrastructure/architecture-reference-model.md)
+- [Functional Domain Specifications](digital-infrastructure/functional-domain-specifications.md)
+- [HEI IT Architecture Evaluation Framework](digital-infrastructure/hei-evaluation-framework.md)
+- [Live New Study Module Catalogue](https://newstudy.campuscircle.de/)
+
 ## Document Status
 
 The OUG is a prospective institutional design and evolving founding prototype.
@@ -236,4 +243,4 @@ That is the purpose of the architecture documented here.
 **Open University of Germany**  
 *A prospective, presently fictive public university designed from first principles.*
 
-*Last updated: 2026-07-29 · index.md v0.4*
+*Last updated: 2026-07-30 · index.md v0.5*
