@@ -129,6 +129,30 @@ The industry dimension adds a third source of institutional investment: companie
 
 *→ [Federated Participation & Incentive Framework](../partnership/federated-participation-incentive-framework.md) — governs partner rights, compensation, protections, and the four participation types.*
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#federation">
+    <img
+      src="{{ '/quality/images/OUG-partner-system.png' | relative_url }}"
+      alt="OUG Federation">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="federation" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-partner-system.png' | relative_url }}"
+  alt="Enlarged OUG Federation">
+```
+
+  </div>
+</div>
+
+
 ### Academic Logic: Research Informs Teaching, Community Sustains Both
 
 The OUG is research-active. This is not a claim appended for classification purposes — it is a design requirement. A university that does not produce original knowledge cannot credibly award degrees, cannot maintain the academic judgement that quality assurance requires, and cannot contribute to the intellectual conversations it claims to serve. Research Clusters organise research across the federated network. Doctoral education is governed to the same standards as any German research university.
@@ -172,10 +196,10 @@ The following table maps every institutional document in the OUG's document stac
       src="{{ '/quality/images/OUG-governance-layers.png' | relative_url }}"
       alt="OUG Governance">
   </a>
-  <p class="governance">Click the diagram to enlarge.</p>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
 </div>
 
-<div id="living" class="lightbox">
+<div id="governance" class="lightbox">
   <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
   <div class="lightbox-panel">
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
@@ -232,10 +256,10 @@ The following table maps every institutional document in the OUG's document stac
       src="{{ '/quality/images/OUG-overview.png' | relative_url }}"
       alt="OUG Overview">
   </a>
-  <p class="governance">Click the diagram to enlarge.</p>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
 </div>
 
-<div id="living" class="lightbox">
+<div id="overview" class="lightbox">
   <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
   <div class="lightbox-panel">
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
@@ -301,6 +325,30 @@ New institutional forms appear at specific historical moments. The conditions th
 *Where to find what you need*
 
 Different accreditation processes emphasise different dimensions of institutional quality. The following guide maps common accreditation review focuses to the specific documents in the OUG's stack, enabling targeted reading rather than sequential review of the entire collection.
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#reading">
+    <img
+      src="{{ '/quality/images/OUG-accreditation-parts.png' | relative_url }}"
+      alt="OUG Reading Guide">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="reading" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ 'quality/images/OUG-accreditation-parts.png' | relative_url }}"
+  alt="Enlarged OUG Reading Guide">
+```
+
+  </div>
+</div>
+
 
 | If your review focuses on... | Start with these documents |
 |---|---|
