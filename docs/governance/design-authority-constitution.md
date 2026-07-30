@@ -1,4 +1,8 @@
-# The OUG Design Authority
+---
+layout: page
+title: "The OUG Design Authority"
+---  
+
 
 *Open University of Germany · Academic Governance*
 *Design Authority · Constitution · First Edition · 2026*
