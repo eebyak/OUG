@@ -1,4 +1,8 @@
-# Portfolio Governance
+---
+layout: page
+title: "Portfolio Governance"
+--- 
+
 
 *Open University of Germany · Governance Framework*
 
