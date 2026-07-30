@@ -1,4 +1,8 @@
-# Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit
+---
+layout: page
+title: "Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit"
+---   
+
 
 *Open University of Germany · Amendment Notice*
 *To: [Partner Membership Framework](partner-membership-framework.md) · 2026*
