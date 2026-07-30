@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Governance Artikel v2"
+title: "Governance Artikel"
 --- 
 
 
