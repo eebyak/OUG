@@ -1,4 +1,7 @@
-# Platform: From Static Curriculum to Living Learning System
+---
+layout: page
+title: "Platform: From Static Curriculum to Living Learning System"
+--- 
 
 *Open University of Germany · Digital Platform Architecture · 2026*
 
