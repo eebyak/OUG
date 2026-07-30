@@ -1,4 +1,8 @@
-# Governance Artikel v2
+---
+layout: page
+title: "Governance Artikel v2"
+--- 
+
 
 *Open University of Germany · Hochschulgovernance · Institutionelle Innovation*
 *Arbeitspapier zur Konzeptentwicklung · 2026*
