@@ -88,6 +88,29 @@ This provision is critical to the OUG's mission. A software engineer with five y
 
 The B.Sc. Computer Science programme is organised into six streams, each covering a coherent domain of computer science knowledge and practice. Together the streams produce a graduate who is theoretically grounded, practically skilled, and professionally aware.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#pathways">
+    <img
+      src="{{ '/curriculum/images/OUT-pathways.png' | relative_url }}"
+      alt="OUG Pathways">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="pathways" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ '/curriculum/images/OUT-pathways.png' | relative_url }}"
+  alt="Enlarged OUG Pathways">
+```
+
+  </div>
+</div>
+
 | Code | Stream | Modules | ECTS | Hours |
 |---|---|---|---|---|
 | MAF | Mathematical & Algorithmic Foundations | 6 | 30 | 900 |
