@@ -1,4 +1,7 @@
-# Strategic Positioning: The Missing Layer
+---
+layout: page
+title: "Strategic Positioning: The Missing Layer"
+---  
 
 *Open University of Germany · Strategic Positioning Document · 2026*
 
