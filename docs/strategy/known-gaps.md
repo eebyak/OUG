@@ -32,7 +32,7 @@ Some items may require a missing document to be added. Others require existing d
 
 ## Referenced Foundations
 
-* [ ] **European HEI Digital Alliance Framework Documents 1–6** — the Five-Year Finance Plan repeatedly identifies these documents as the academic and technical foundation of the model, but they are not currently represented in the repository. The references should either be mapped to existing OUG documents, supported by the original source documents, or removed.
+* [x] ~~**European HEI Digital Alliance Framework Documents 1–6**~~ — **Resolved (to the extent the framework exists).** Documents 1 (Manifesto), 2 (Architecture Reference Model), 3 (Functional Domain Specifications), and 4 (HEI IT Architecture Evaluation Framework) are all located and fully converted into the [Digital Infrastructure domain](../digital-infrastructure/index.md). The Manifesto's own "Companion Documents" section named only these four as existing — no Document 5 or 6 is referenced anywhere across all four. Working conclusion: the "1–6" figure in this Finance Plan (and in the OUG Report 2025–26) overstates what was ever fully specified; the framework is complete at four documents. See [digital-infrastructure/known-gaps.md](../digital-infrastructure/known-gaps.md).
 
 ## Strategy Framework and Review
 
