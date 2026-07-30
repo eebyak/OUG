@@ -22,41 +22,43 @@ Assembled: 2026-07-30
 | AI-related skills | 38 |
 | Human-tagged skills | 57 |
 
+<a id="module-index"></a>
+
 ## Module index
 
 | Code | Module | Stream | Year | Semester | ECTS | Skills |
 | --- | --- | --- | --- | --- | --- | --- |
-| T4INF1601 | [Scientific Programming & Experimentation](#t4inf1601-scientific-programming-experimentation) | Data, AI & Intelligent Systems | 1 | — | 5 | 15 |
-| T4INF1602 | [Foundation of Intelligent Systems](#t4inf1602-foundation-of-intelligent-systems) | Data, AI & Intelligent Systems | 1 | — | 5 | 16 |
-| T4INF1001 | [Mathematics I — Linear Algebra](#t4inf1001-mathematics-i-linear-algebra) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
-| T4INF1002 | [Theoretical Computer Science I — Logic and Formal Foundations](#t4inf1002-theoretical-computer-science-i-logic-and-formal-foundations) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
-| T4INF1003 | [Theoretical Computer Science II — Algorithms and Complexity](#t4inf1003-theoretical-computer-science-ii-algorithms-and-complexity) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
-| T4INF1007 | [Mathematics II — Analysis](#t4inf1007-mathematics-ii-analysis) | Mathematical & Theoretical Foundations | 1 | — | 5 | 3 |
-| T4INF1004 | [Programming](#t4inf1004-programming) | Programming & Software Construction | 1 | — | 5 | 17 |
-| T4INF1101 | [Web & Application Engineering](#t4inf1101-web-application-engineering) | Programming & Software Construction | 1 | — | 5 | 15 |
-| T4INF1005 | [Key Skills](#t4inf1005-key-skills) | Research, Professional & Societal Practice | 1 | — | 5 | 11 |
-| T4INF1006 | [Computer Engineering I — Digital Technology](#t4inf1006-computer-engineering-i-digital-technology) | Systems, Platforms & Security | 1 | — | 5 | 8 |
-| T4INF2003 | [Software Engineering Fundamentals](#t4inf2003-software-engineering-fundamentals) | Unknown | 1 | — | 5 | 37 |
-| T4_1000 | [Work Integrated Project I](#t4-1000-work-integrated-project-i) | Work Integrated Learning / Praxisprojekte | 1 | — | 20 | 6 |
-| T4INF2004 | [Database Systems](#t4inf2004-database-systems) | Data, AI & Intelligent Systems | 2 | — | 6 | 15 |
-| T4INF2601 | [Data Science](#t4inf2601-data-science) | Data, AI & Intelligent Systems | 2 | — | 5 | 18 |
-| T4INF9006 | [Design Thinking](#t4inf9006-design-thinking) | Human-Centred & Societal Computing | 2 | — | 5 | 18 |
-| T4INF2001 | [Mathematics III — Applied Mathematics and Statistics](#t4inf2001-mathematics-iii-applied-mathematics-and-statistics) | Mathematical & Theoretical Foundations | 2 | — | 6 | 4 |
-| T4INF2002 | [Theoretical Computer Science III — Formal Languages and Compiler Construction](#t4inf2002-theoretical-computer-science-iii-formal-languages-and-compiler-construction) | Mathematical & Theoretical Foundations | 2 | — | 6 | 4 |
-| T4INF2005 | [Computer Engineering II](#t4inf2005-computer-engineering-ii) | Systems, Platforms & Security | 2 | — | 8 | 10 |
-| T4INF2006 | [IT Security](#t4inf2006-it-security) | Systems, Platforms & Security | 2 | — | 5 | 10 |
-| T4_2000 | [Work Integrated Project II](#t4-2000-work-integrated-project-ii) | Work Integrated Learning / Praxisprojekte | 2 | — | 20 | 6 |
-| T4INF3103 | [Database Systems II](#t4inf3103-database-systems-ii) | Data, AI & Intelligent Systems | 3 | — | 5 | 17 |
-| T4INF3915 | [Technology Seminar Applied Artificial Intelligence](#t4inf3915-technology-seminar-applied-artificial-intelligence) | Data, AI & Intelligent Systems | 3 | — | 5 | 14 |
-| T4INF4902.1 | [Selected Topics in Computer Science — Natural Language Processing](#t4inf4902-1-selected-topics-in-computer-science-natural-language-processing) | Data, AI & Intelligent Systems | 3 | — | 5 | 13 |
-| T4INF4348 | [Human-Machine Interaction](#t4inf4348-human-machine-interaction) | Human-Centred & Societal Computing | 3 | — | 5 | 20 |
-| T4INF4900 | [Gamification](#t4inf4900-gamification) | Human-Centred & Societal Computing | 3 | — | 5 | 14 |
-| T4INF3102 | [Advanced Software Engineering](#t4inf3102-advanced-software-engineering) | Programming & Software Construction | 3 | — | 5 | 21 |
-| T4INF4900.1 | [Games and Gaming](#t4inf4900-1-games-and-gaming) | Programming & Software Construction | 3 | — | 3 | 17 |
-| T4INF3906 | [Applied Computer Science Research](#t4inf3906-applied-computer-science-research) | Research, Professional & Societal Practice | 3 | — | 5 | 10 |
-| T4INF4324 | [Consulting, Technical Sales and Law](#t4inf4324-consulting-technical-sales-and-law) | Research, Professional & Societal Practice | 3 | — | 5 | 11 |
-| T4INF4902 | [Quantum Computing](#t4inf4902-quantum-computing) | Systems, Platforms & Security | 3 | — | 5 | 8 |
-| T4_3000 | [Work Integrated Project III](#t4-3000-work-integrated-project-iii) | Work Integrated Learning / Praxisprojekte | 3 | — | 8 | 5 |
+| T4INF1601 | [Scientific Programming & Experimentation](#module-t4inf1601) | Data, AI & Intelligent Systems | 1 | — | 5 | 15 |
+| T4INF1602 | [Foundation of Intelligent Systems](#module-t4inf1602) | Data, AI & Intelligent Systems | 1 | — | 5 | 16 |
+| T4INF1001 | [Mathematics I — Linear Algebra](#module-t4inf1001) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
+| T4INF1002 | [Theoretical Computer Science I — Logic and Formal Foundations](#module-t4inf1002) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
+| T4INF1003 | [Theoretical Computer Science II — Algorithms and Complexity](#module-t4inf1003) | Mathematical & Theoretical Foundations | 1 | — | 5 | 4 |
+| T4INF1007 | [Mathematics II — Analysis](#module-t4inf1007) | Mathematical & Theoretical Foundations | 1 | — | 5 | 3 |
+| T4INF1004 | [Programming](#module-t4inf1004) | Programming & Software Construction | 1 | — | 5 | 17 |
+| T4INF1101 | [Web & Application Engineering](#module-t4inf1101) | Programming & Software Construction | 1 | — | 5 | 15 |
+| T4INF1005 | [Key Skills](#module-t4inf1005) | Research, Professional & Societal Practice | 1 | — | 5 | 11 |
+| T4INF1006 | [Computer Engineering I — Digital Technology](#module-t4inf1006) | Systems, Platforms & Security | 1 | — | 5 | 8 |
+| T4INF2003 | [Software Engineering Fundamentals](#module-t4inf2003) | Unknown | 1 | — | 5 | 37 |
+| T4_1000 | [Work Integrated Project I](#module-t4_1000) | Work Integrated Learning / Praxisprojekte | 1 | — | 20 | 6 |
+| T4INF2004 | [Database Systems](#module-t4inf2004) | Data, AI & Intelligent Systems | 2 | — | 6 | 15 |
+| T4INF2601 | [Data Science](#module-t4inf2601) | Data, AI & Intelligent Systems | 2 | — | 5 | 18 |
+| T4INF9006 | [Design Thinking](#module-t4inf9006) | Human-Centred & Societal Computing | 2 | — | 5 | 18 |
+| T4INF2001 | [Mathematics III — Applied Mathematics and Statistics](#module-t4inf2001) | Mathematical & Theoretical Foundations | 2 | — | 6 | 4 |
+| T4INF2002 | [Theoretical Computer Science III — Formal Languages and Compiler Construction](#module-t4inf2002) | Mathematical & Theoretical Foundations | 2 | — | 6 | 4 |
+| T4INF2005 | [Computer Engineering II](#module-t4inf2005) | Systems, Platforms & Security | 2 | — | 8 | 10 |
+| T4INF2006 | [IT Security](#module-t4inf2006) | Systems, Platforms & Security | 2 | — | 5 | 10 |
+| T4_2000 | [Work Integrated Project II](#module-t4_2000) | Work Integrated Learning / Praxisprojekte | 2 | — | 20 | 6 |
+| T4INF3103 | [Database Systems II](#module-t4inf3103) | Data, AI & Intelligent Systems | 3 | — | 5 | 17 |
+| T4INF3915 | [Technology Seminar Applied Artificial Intelligence](#module-t4inf3915) | Data, AI & Intelligent Systems | 3 | — | 5 | 14 |
+| T4INF4902.1 | [Selected Topics in Computer Science — Natural Language Processing](#module-t4inf4902-1) | Data, AI & Intelligent Systems | 3 | — | 5 | 13 |
+| T4INF4348 | [Human-Machine Interaction](#module-t4inf4348) | Human-Centred & Societal Computing | 3 | — | 5 | 20 |
+| T4INF4900 | [Gamification](#module-t4inf4900) | Human-Centred & Societal Computing | 3 | — | 5 | 14 |
+| T4INF3102 | [Advanced Software Engineering](#module-t4inf3102) | Programming & Software Construction | 3 | — | 5 | 21 |
+| T4INF4900.1 | [Games and Gaming](#module-t4inf4900-1) | Programming & Software Construction | 3 | — | 3 | 17 |
+| T4INF3906 | [Applied Computer Science Research](#module-t4inf3906) | Research, Professional & Societal Practice | 3 | — | 5 | 10 |
+| T4INF4324 | [Consulting, Technical Sales and Law](#module-t4inf4324) | Research, Professional & Societal Practice | 3 | — | 5 | 11 |
+| T4INF4902 | [Quantum Computing](#module-t4inf4902) | Systems, Platforms & Security | 3 | — | 5 | 8 |
+| T4_3000 | [Work Integrated Project III](#module-t4_3000) | Work Integrated Learning / Praxisprojekte | 3 | — | 8 | 5 |
 
 ## Executive skill profile
 
@@ -315,6 +317,8 @@ Assembled: 2026-07-30
 
 ## Module skill profiles
 
+<a id="module-t4inf1601"></a>
+
 ### T4INF1601 · Scientific Programming & Experimentation
 
 **Stream:** Data, AI & Intelligent Systems  
@@ -344,6 +348,8 @@ Programming language concepts; programming in an appropriate language (variables
 | TEAM-2-01 | Contributing to teams | TEAM | Understand / apply | — | social |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf1602"></a>
 
 ### T4INF1602 · Foundation of Intelligent Systems
 
@@ -376,6 +382,8 @@ Unit 1 (Algorithms): Fundamental concepts and algorithms for intelligent systems
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1001"></a>
+
 ### T4INF1001 · Mathematics I — Linear Algebra
 
 **Stream:** Mathematical & Theoretical Foundations  
@@ -394,6 +402,8 @@ Foundations of discrete mathematics; fundamental algebraic structures; vector sp
 | MATH-2-02 | Mastering formal methods | MATH | Understand / apply | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf1002"></a>
 
 ### T4INF1002 · Theoretical Computer Science I — Logic and Formal Foundations
 
@@ -414,6 +424,8 @@ Algebraic structures: relations, orderings, mappings; formal logic: propositiona
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1003"></a>
+
 ### T4INF1003 · Theoretical Computer Science II — Algorithms and Complexity
 
 **Stream:** Mathematical & Theoretical Foundations  
@@ -433,6 +445,8 @@ Introduction to algorithms; complexity theory: O-notation, complexity classes (P
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1007"></a>
+
 ### T4INF1007 · Mathematics II — Analysis
 
 **Stream:** Mathematical & Theoretical Foundations  
@@ -450,6 +464,8 @@ Analysis: sequences and series; continuity; differential calculus of one real va
 | MATH-2-02 | Mastering formal methods | MATH | Understand / apply | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf1004"></a>
 
 ### T4INF1004 · Programming
 
@@ -483,6 +499,8 @@ Procedural programming: algorithm description, data types, I/O, control structur
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1101"></a>
+
 ### T4INF1101 · Web & Application Engineering
 
 **Stream:** Programming & Software Construction  
@@ -513,6 +531,8 @@ Client-server architectures and internet protocols; markup and styling languages
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1005"></a>
+
 ### T4INF1005 · Key Skills
 
 **Stream:** Research, Professional & Societal Practice  
@@ -539,6 +559,8 @@ Unit 1 — Business Management: foundations of business management (goals, plann
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf1006"></a>
+
 ### T4INF1006 · Computer Engineering I — Digital Technology
 
 **Stream:** Systems, Platforms & Security  
@@ -561,6 +583,8 @@ Number systems and codes; logical operations and their representation; switching
 | SYST-2-02 | Programming at system level | SYST | Understand / apply | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf2003"></a>
 
 ### T4INF2003 · Software Engineering Fundamentals
 
@@ -614,6 +638,8 @@ Software process models; phases of software engineering and their relationships;
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4_1000"></a>
+
 ### T4_1000 · Work Integrated Project I
 
 **Stream:** Work Integrated Learning / Praxisprojekte  
@@ -634,6 +660,8 @@ Completion of Project Assignment I on a practical problem with clear reference t
 | RSCH-2-01 | Researching literature | RSCH | Understand / apply | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf2004"></a>
 
 ### T4INF2004 · Database Systems
 
@@ -664,6 +692,8 @@ Fundamental concepts and data modelling (Entity Relationship model); current and
 | PROJ-4-01 | Planning projects | PROJ | Evaluate / create | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf2601"></a>
 
 ### T4INF2601 · Data Science
 
@@ -698,6 +728,8 @@ Unit 1 (Data Science Foundations): Tools; data collection and preprocessing; exp
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf9006"></a>
+
 ### T4INF9006 · Design Thinking
 
 **Stream:** Human-Centred & Societal Computing  
@@ -731,6 +763,8 @@ Unit 1 — Design Thinking I: Design Thinking process (Empathize, Define, Ideate
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf2001"></a>
+
 ### T4INF2001 · Mathematics III — Applied Mathematics and Statistics
 
 **Stream:** Mathematical & Theoretical Foundations  
@@ -750,6 +784,8 @@ Applied Mathematics: foundations of multidimensional differential and integral c
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf2002"></a>
+
 ### T4INF2002 · Theoretical Computer Science III — Formal Languages and Compiler Construction
 
 **Stream:** Mathematical & Theoretical Foundations  
@@ -768,6 +804,8 @@ Formal languages and automata: grammars, Chomsky hierarchy (types 0–3), regula
 | THEO-4-01 | Constructing formal languages | THEO | Evaluate / create | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf2005"></a>
 
 ### T4INF2005 · Computer Engineering II
 
@@ -794,6 +832,8 @@ Unit 1 — Computer Architecture: von Neumann architecture, system components, a
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf2006"></a>
+
 ### T4INF2006 · IT Security
 
 **Stream:** Systems, Platforms & Security  
@@ -819,6 +859,8 @@ Fundamental security concepts and problems; threat analysis and security concept
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4_2000"></a>
+
 ### T4_2000 · Work Integrated Project II
 
 **Stream:** Work Integrated Learning / Praxisprojekte  
@@ -839,6 +881,8 @@ Capture of industrial problem statements in appropriate context and complexity. 
 | TEAM-2-01 | Contributing to teams | TEAM | Understand / apply | — | social |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf3103"></a>
 
 ### T4INF3103 · Database Systems II
 
@@ -872,6 +916,8 @@ Unit 1 (Current Database Architectures and Technologies): Introduction to data w
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf3915"></a>
+
 ### T4INF3915 · Technology Seminar Applied Artificial Intelligence
 
 **Stream:** Data, AI & Intelligent Systems  
@@ -901,6 +947,8 @@ Independent study, presentation, and discussion of advanced learning methods and
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf4902-1"></a>
+
 ### T4INF4902.1 · Selected Topics in Computer Science — Natural Language Processing
 
 **Stream:** Data, AI & Intelligent Systems  
@@ -928,6 +976,8 @@ Unit: Natural Language Processing (1 of 2 semesters of umbrella module T4INF4902
 | PROG-4-01 | Developing software | PROG | Evaluate / create | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf4348"></a>
 
 ### T4INF4348 · Human-Machine Interaction
 
@@ -964,6 +1014,8 @@ Unit 1 — Interactive Systems: history of human-machine interaction; standards 
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf4900"></a>
+
 ### T4INF4900 · Gamification
 
 **Stream:** Human-Centred & Societal Computing  
@@ -992,6 +1044,8 @@ Analysis of existing gamification concepts and game mechanics; synthesis of an o
 | RSCH-4-01 | Working scientifically | RSCH | Evaluate / create | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf3102"></a>
 
 ### T4INF3102 · Advanced Software Engineering
 
@@ -1029,6 +1083,8 @@ Unified Process; visions and use cases; design patterns; refactoring; design heu
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf4900-1"></a>
+
 ### T4INF4900.1 · Games and Gaming
 
 **Stream:** Programming & Software Construction  
@@ -1061,6 +1117,8 @@ Game architecture and design patterns for game projects (Game-State-Pattern, com
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf3906"></a>
+
 ### T4INF3906 · Applied Computer Science Research
 
 **Stream:** Research, Professional & Societal Practice  
@@ -1085,6 +1143,8 @@ New research topics from computer science and adjacent fields are explored in gr
 | TEAM-2-02 | Acting team-orientedly | TEAM | Understand / apply | — | social |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4inf4324"></a>
 
 ### T4INF4324 · Consulting, Technical Sales and Law
 
@@ -1112,6 +1172,8 @@ Unit 1 — Law: structure of German law; civil and contract law; legal persons, 
 
 [↑ Back to module index](#module-index)
 
+<a id="module-t4inf4902"></a>
+
 ### T4INF4902 · Quantum Computing
 
 **Stream:** Systems, Platforms & Security  
@@ -1134,6 +1196,8 @@ Foundations of quantum mechanics for information processing: qubits, quantum sta
 | THEO-2-01 | Transferring theoretical knowledge | THEO | Understand / apply | — | — |
 
 [↑ Back to module index](#module-index)
+
+<a id="module-t4_3000"></a>
 
 ### T4_3000 · Work Integrated Project III
 
