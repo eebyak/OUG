@@ -1,4 +1,7 @@
-# Governance Gap Closure v2
+---
+layout: page
+title: "Governance Gap Closure"
+--- 
 
 *Open University of Germany · Governance Design*
 *Gap Closure Decisions · 2026*
