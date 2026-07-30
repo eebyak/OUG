@@ -1,4 +1,7 @@
-# Conversion Notes — Quality Assurance
+---
+layout: page
+title: "Conversion Notes — Quality Assurance"
+---   
 
 [← Back to Quality Assurance](index.md)
 
