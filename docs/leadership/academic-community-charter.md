@@ -1,4 +1,8 @@
-# Academic Community & Collegial Life Charter
+---
+layout: page
+title: "Academic Community & Collegial Life Charter"
+---  
+ 
 
 *Open University of Germany · Institutional Document · Academic Community Layer*
 *Version 1.0 · 2026*
