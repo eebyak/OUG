@@ -1,4 +1,8 @@
-# Strategic Constitution
+---
+layout: page
+title: "Strategic Constitution"
+---
+
 
 *Open University of Germany · Strategy & Finance*
 
