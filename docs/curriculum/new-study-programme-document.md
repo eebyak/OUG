@@ -91,7 +91,7 @@ The B.Sc. Computer Science programme is organised into six streams, each coverin
 <div class="diagram-block">
   <a class="diagram-preview" href="#pathways">
     <img
-      src="{{ '/curriculum/images/OUT-pathways.png' | relative_url }}"
+      src="{{ '/curriculum/images/OUG-pathways.png' | relative_url }}"
       alt="OUG Pathways">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -104,7 +104,7 @@ The B.Sc. Computer Science programme is organised into six streams, each coverin
 
 ```
 <img
-  src="{{ '/curriculum/images/OUT-pathways.png' | relative_url }}"
+  src="{{ '/curriculum/images/OUG-pathways.png' | relative_url }}"
   alt="Enlarged OUG Pathways">
 ```
 
