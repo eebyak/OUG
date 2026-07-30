@@ -1,4 +1,8 @@
-# Mission Hub Permeability Architecture
+---
+layout: page
+title: "Mission Hub Permeability Architecture"
+--- 
+ 
 
 *Open University of Germany · Academic Community · 2026*
 
