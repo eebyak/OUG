@@ -1,4 +1,7 @@
-# Ministeriumsmemorandum
+---
+layout: page
+title: "Ministeriumsmemorandum"
+--- 
 
 *Open University of Germany · Konzeptbüro · 2026*
 
