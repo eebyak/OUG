@@ -1,4 +1,4 @@
-# New Study — B.Sc. Computer Science, Programme Document
+# B.Sc. Digital Health Hub  
 
 *Open University of Germany · Digital Health Hub*
 *Programme Accreditation Document · 2026*
@@ -7,7 +7,7 @@
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
 > **Note:** per the [book's own document index](../curriculum/index.md) (chapter 17 inventory), this document names New Study and DHBW explicitly and was flagged as sitting outside the neutral book text for that reason. It's included here in full since this repository documents the actual institutional paperwork, not the book's neutral retelling of it.
 
-## NEW STUDY: B.Sc. Computer Science, Digital Health Hub
+## New Study — B.Sc. Computer Science, Programme Document
 
 *A stackable, modular Bachelor's programme in Computer Science — each module a micro-credential, each stack a pathway, the full stack a degree.*
 
