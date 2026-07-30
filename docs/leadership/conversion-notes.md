@@ -1,4 +1,7 @@
-# Conversion Notes — Leadership & People
+---
+layout: page
+title: "Conversion Notes — Leadership & People"
+---   
 
 [← Back to Leadership & People](index.md)
 
