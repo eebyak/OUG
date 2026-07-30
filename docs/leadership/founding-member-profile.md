@@ -1,4 +1,7 @@
-# Founding Member Profile — Prof. Kay Berkling (example)
+---
+layout: page
+title: "Founding Member Profile — (example)"
+---  
 
 *Open University of Germany · Founding Council · Member Profile*
 
