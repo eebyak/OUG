@@ -106,7 +106,7 @@ Blocks 6 and 7 (pairs 31–42) were not identified inside a dialogue the way pai
 
 ## Status
 
-⬜ **Not yet converted.** This index is built and linked; the 42 individual pattern pages are being converted one batch at a time. Links above will go live as each pair is added — check back or see [conversion-notes.md](conversion-notes.md) for progress.
+✅ **All 42 pairs converted.** Every link above is live. See [conversion-notes.md](conversion-notes.md) for the full log of naming discrepancies resolved, cross-references found, and — the more interesting discovery — the extensive correspondence between this catalogue and the OUG's own working governance documents, several of which turned out to be direct, named implementations of specific patterns rather than loosely inspired by them.
 
 ---
 
