@@ -22,9 +22,15 @@ Both the [Five-Year Finance Plan](../strategy/five-year-finance-plan.md) and [OU
 | Document | Status |
 |---|---|
 | D1 — Manifesto | ✅ Converted → [`manifesto.md`](manifesto.md) |
-| D2 — Architecture Reference Model | ⬜ Not yet converted (~1,620 lines in source) |
+| D2 — Architecture Reference Model | ✅ Converted → [`architecture-reference-model.md`](architecture-reference-model.md) |
 | D3 — Functional Domain Specifications | ⬜ Not yet converted (~1,760 lines in source) |
 | D4 — HEI IT Architecture Evaluation Framework | ⬜ Not yet converted (~1,540 lines in source) |
+
+## D2 Findings
+
+- **The live New Study platform's tooling is directly named as recommended architecture, not merely compatible with it.** D2's Layer 5 (Experience and Engagement) recommends "Element/Matrix (messaging)" by name — exactly the Matrix/Element rooms with video calls and whiteboarding you described as already running. Annex A confirms this in more detail: Element (Matrix protocol), UK-origin, open-source (Apache), federated protocol. This is corroborating evidence, not just a plausible connection — worth citing directly when the platform is eventually scored against Document 4's maturity ladder.
+- **D2's Annex B compliance checklist has empty "Status" and "Target" columns in the source** — it's a template for institutional self-assessment, not a completed assessment. Reproduced as evidence requirements only; filling it in for the OUG's actual live implementation is exactly the maturity-scoring work flagged for after D1–D4 are all converted.
+- D2 references "Domain Specification 3e" (Administration Systems) by name when discussing AI-augmented administrative workflows — confirms Document 3 has at least five lettered sub-specifications (3a–3e likely), matching the "five domains" named in D1's companion documents list and this domain's own index.
 
 ## Cross-References Found While Converting
 
