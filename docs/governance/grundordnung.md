@@ -1,4 +1,8 @@
-# Grundordnung
+---
+layout: page
+title: "Grundordnung"
+--- 
+
 
 *Open University of Germany*
 *Konsolidierte Fassung · 2026*
