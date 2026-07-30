@@ -1,4 +1,7 @@
-# Does the OUG Design Pass the Test?
+---
+layout: page
+title: "Does the OUG Design Pass the Test?"
+--- 
 
 *Open University of Germany · Governance Assessment · 2026*
 
