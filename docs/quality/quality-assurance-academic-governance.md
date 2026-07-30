@@ -1,4 +1,8 @@
-# Quality Assurance and Academic Governance
+---
+layout: page
+title: "Quality Assurance and Academic Governance"
+---
+
 
 *Open University of Germany · Institutional Document · Academic Governance Layer · 2026*
 
