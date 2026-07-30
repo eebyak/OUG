@@ -3,7 +3,7 @@ layout: page
 title: "OUG Skill Profile Atlas"
 ---
 
-# OUG Skill Profile Atlas
+
 
 **Open University of Germany (OUG)**  
 Bachelor of Computer Science (B.Sc.)  
