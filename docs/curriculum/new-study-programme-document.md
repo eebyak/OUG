@@ -82,6 +82,29 @@ The modular, threshold-based structure of New Study is explicitly designed to ac
 
 This provision is critical to the OUG's mission. A software engineer with five years of professional experience who has never studied computer science formally may already hold substantial competency across several streams. Recognition allows them to enter the programme at the level their competence warrants, rather than repeating material they already know.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#sequencing">
+    <img
+      src="{{ '/curriculum/images/sequencing.png' | relative_url }}"
+      alt="OUG Prerequisites">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="sequencing" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+  src="{{ '/curriculum/images/sequencing.png' | relative_url }}"
+  alt="Enlarged OUG Prerequisites">
+```
+
+  </div>
+</div>
+
 ---
 
 ## IV. Curriculum Structure: Six Streams
