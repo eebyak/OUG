@@ -1,4 +1,8 @@
-# Federated Participation & Incentive Framework
+---
+layout: page
+title: "Federated Participation & Incentive Framework"
+---
+
 
 *Open University of Germany · Institutional Document · Incentive Layer*
 *Version 1.0 · 2026*
