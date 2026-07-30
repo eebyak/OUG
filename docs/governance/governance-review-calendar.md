@@ -1,4 +1,7 @@
-# Governance Review Calendar
+---
+layout: page
+title: "Governance Review Calendar"
+--- 
 
 *Open University of Germany · Governance Architecture · 2026*
 
