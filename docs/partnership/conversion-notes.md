@@ -1,4 +1,8 @@
-# Conversion Notes — Partnership & Federation
+---
+layout: page
+title: "Conversion Notes — Partnership & Federation"
+---   
+
 
 [← Back to Partnership & Federation](index.md)
 
