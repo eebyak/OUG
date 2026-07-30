@@ -1,4 +1,7 @@
-# Partner Membership Framework
+---
+layout: page
+title: "Partner Membership Framework"
+--- 
 
 *Open University of Germany · Partnership Framework*
 *Annex to the Partnership Agreement · 2026*
