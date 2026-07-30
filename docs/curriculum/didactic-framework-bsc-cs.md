@@ -1,4 +1,7 @@
-# Didactic Framework, B.Sc. Computer Science
+---
+layout: page
+title: "Didactic Framework, B.Sc. Computer Science"
+---
 
 *Open University of Germany · B.Sc. Computer Science · Digital Health Hub*
 *Didactic Framework for Accreditation · 2026*
