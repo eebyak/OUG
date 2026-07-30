@@ -1,4 +1,8 @@
-# The Incentive Conversion Statement
+---
+layout: page
+title: "The Incentive Conversion Statement"
+--- 
+
 
 *Open University of Germany · Governance Instrument*
 *Incentive Conversion Statement · GP-6 Gap Closure · 2026*
