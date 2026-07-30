@@ -1,4 +1,7 @@
-# Modulhandbuch — Bachelor of Computer Science (B.Sc.)
+---
+layout: page
+title: "Modulhandbuch — Bachelor of Computer Science (B.Sc.)"
+--- 
 
 *Open University of Germany (OUG)*
 
