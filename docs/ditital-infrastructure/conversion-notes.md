@@ -1,0 +1,36 @@
+---
+layout: page
+title: "Conversion Notes"
+---
+
+[← Back to Digital Infrastructure](index.md)
+
+Observations that surface while migrating the European HEI Digital Alliance Framework documents from uploaded `.docx` files into this repository.
+
+---
+
+## Source Quality
+
+D1 (Manifesto) converted cleanly — well-structured, no leaked drafting commentary, consistent formatting throughout. Its "Adoption and Signature" section contains a blank institution/alliance signature form (name, title, date fields) not relevant to a reference document; omitted from the converted page with a note rather than reproduced as dead form fields.
+
+## The "Documents 1–6" Discrepancy
+
+Both the [Five-Year Finance Plan](../strategy/five-year-finance-plan.md) and [OUG Report 2025–26](../communications/annual-report-2025-26.md) cite "Documents 1–6" of this framework. The Manifesto's own "Companion Documents" section (its closing pages) names only Document 2 (Architecture Reference Model), Document 3 (Functional Domain Specifications), and Document 4 (HEI IT Architecture Evaluation Framework) as existing alongside itself — four documents total. No Document 5 or 6 is named anywhere in D1's own text. Given D2, D3, and D4 all uploaded together with D1 and all cross-reference each other consistently as a complete set, the working assumption is that **the framework was only ever fully specified as four documents**, and the "1–6" figure elsewhere in the repository is either a planning aspiration that was never realized or an imprecision in those other documents. Logged as an open item in [known-gaps.md](known-gaps.md) rather than silently resolved either way.
+
+## Batch Progress
+
+| Document | Status |
+|---|---|
+| D1 — Manifesto | ✅ Converted → [`manifesto.md`](manifesto.md) |
+| D2 — Architecture Reference Model | ⬜ Not yet converted (~1,620 lines in source) |
+| D3 — Functional Domain Specifications | ⬜ Not yet converted (~1,760 lines in source) |
+| D4 — HEI IT Architecture Evaluation Framework | ⬜ Not yet converted (~1,540 lines in source) |
+
+## Cross-References Found While Converting
+
+- D1's Principle II (§5, "Open source as the sovereignty instrument") gives a precise three-condition test — hosting independence, update independence, fork rights — for when open-source software counts as sovereignty-compliant. Worth checking against the [Five-Year Finance Plan's](../strategy/five-year-finance-plan.md) 23-tool IT stack (Part IV) once Documents 2 and 3 are converted, to see whether each tool in that stack would actually pass this test.
+- D1 explicitly names the live reference points its principles are drawn from — SURF/SURFdrive, SWITCH, DH.NRW, DFN/eduGAIN, Finland's Digivisio 2030 — real European cooperative infrastructure bodies, not hypothetical examples. Worth knowing these are real, checkable precedents if this Manifesto is ever used externally (e.g. toward the partnerships suggested in the [Market Study](../communications/market-study.md)).
+
+## Site Navigation
+
+Added `digital-infrastructure/index.md` to `docs/_config.yml`'s `header_pages` list, and added a "Digital Infrastructure" section to the main `docs/index.md`, updating "seven connected domains" to "eight."
