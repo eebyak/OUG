@@ -1,5 +1,8 @@
-# Reader's Guide for the Accreditation Committee
-
+---
+layout: page
+title: "Reader's Guide for the Accreditation Committee"
+---
+ 
 *Open University of Germany · Institutional Accreditation · 2026*
 
 > **Source:** migrated from `OUG_Readers_Guide_Accreditation.docx`
