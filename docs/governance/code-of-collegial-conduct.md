@@ -1,4 +1,7 @@
-# Code of Collegial Conduct
+---
+layout: page
+title: "Code of Collegial Conduct"
+---  
 
 *Open University of Germany · Shared Compact · Living Document · 2026*
 
