@@ -5,7 +5,6 @@ title: "Digital Infrastructure"
 
 [← Back to main index](../index.md)
 
-# Digital Infrastructure
 
 This is the OUG's eighth domain — added because the documents that justify it now exist. The repository's own [known-gaps register](../known-gaps.md) had flagged "Institutional Digital and Data Architecture" as a cross-cutting concern that "may eventually justify a separate Operations and Implementation domain, but such a domain should only be created once the relevant documents exist." Four documents, found together, are exactly that occasion.
 
