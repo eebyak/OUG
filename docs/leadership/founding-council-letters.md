@@ -1,4 +1,7 @@
-# Founding Council Letters
+---
+layout: page
+title: "Founding Council Letters"
+---  
 
 *Open University of Germany · Konzeptbüro · 2026*
 
