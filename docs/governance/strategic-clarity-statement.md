@@ -1,4 +1,8 @@
-# Strategic Clarity Statement
+---
+layout: page
+title: "Strategic Clarity Statement"
+--- 
+
 
 *Open University of Germany · Public Document · 2026*
 
