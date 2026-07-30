@@ -1,4 +1,7 @@
-# Developmental Audit Framework
+---
+layout: page
+title: "Developmental Audit Framework"
+---   
 
 *Open University of Germany · Quality Architecture · 2026*
 
