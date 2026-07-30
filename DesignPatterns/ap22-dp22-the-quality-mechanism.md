@@ -37,7 +37,7 @@ Genuine participation is costly: it takes time, it produces unwelcome inputs, it
 The institution makes systematically worse decisions than it could — because the intelligence that genuine participation would have provided is absent from its decision-making. Over time, participants learn that their input has no effect and disengage. The institution loses access to the distributed knowledge that exists in its staff and student community. When the institution subsequently fails to anticipate or respond to a problem that participants had clearly signalled, it cannot understand why.
 
 **Counter-design — what prevents this structurally**
-Participation processes must be closed: for every consultation, the institution must publish what it heard, what it decided, and — crucially — how what it heard influenced what it decided. When a decision is made contrary to the weight of consultation input, the institution must explain why. This accountability loop is the structural mechanism that distinguishes real participation from its performance.
+Participation processes must be closed: for every consultation, the institution must publish what it heard, what it decided, and — crucially — how what it heard influenced what it decided. When a decision is made contrary to the weight of consultation input, the institution must explain why. This accountability loop is the structural mechanism that distinguishes real participation from its performance. (Its structural complement is [AP-30, The Participation Decoy](ap30-dp30-the-accountable-decision.md) — where this pattern addresses the absence of influence on decisions, AP-30 addresses the absence of accountability for those decisions.)
 
 ---
 
