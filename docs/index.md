@@ -30,7 +30,7 @@ To understand **why** each element exists, please refer to the book.
 
 > **When the same difficulties recur across institutions, roles, and reform efforts, the problem may not be the people. It may be the architecture.**
 
-The OUG therefore treats the university as a deliberately designed public institution. Its governance, curriculum, quality assurance, financing, legal structure, and digital infrastructure are developed as parts of one coherent system.
+The OUG therefore treats the university as a deliberately designed public institution. Its governance, curriculum, quality assurance, financing, legal structure, and digital infrastructure are developed as parts of one coherent system. [Reader's Guide to Accreditation](quality/readers-guide-accreditation.md)
 
 ---
 
