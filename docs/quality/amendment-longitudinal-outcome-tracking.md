@@ -1,4 +1,7 @@
-# Amendment: Longitudinal Outcome Tracking (GP-3)
+---
+layout: page
+title: "Amendment: Longitudinal Outcome Tracking (GP-3)"
+---  
 
 *Open University of Germany · Amendment Notice*
 *To: [Quality Assurance and Academic Governance](quality-assurance-academic-governance.md) · 2026*
