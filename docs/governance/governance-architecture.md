@@ -1,4 +1,7 @@
-# Governance & Decision Framework
+---
+layout: page
+title: "Governance & Decision Framework"
+--- 
 
 *Open University of Germany · Governance Architecture*
 
