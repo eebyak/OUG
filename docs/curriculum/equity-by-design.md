@@ -1,4 +1,7 @@
-# Equity by Design
+---
+layout: page
+title: "Equity by Design"
+---
 
 *Open University of Germany · Working Paper · Institutional Design · 2026*
 
