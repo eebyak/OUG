@@ -1,4 +1,7 @@
-# B.Sc. Digital Health Hub  
+---
+layout: page
+title: "B.Sc. Digital Health Hub"
+---
 
 *Open University of Germany · Digital Health Hub*
 *Programme Accreditation Document · 2026*
