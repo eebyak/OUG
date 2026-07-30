@@ -1,4 +1,7 @@
-# OUG Module Handbook
+---
+layout: page
+title: "OUG Module Handbook"
+---
 
 **Open University of Germany (OUG)**
 
