@@ -5,6 +5,7 @@ title: "Digital Infrastructure"
 
 [← Back to main index](../index.md)
 
+# Digital Infrastructure
 
 This is the OUG's eighth domain — added because the documents that justify it now exist. The repository's own [known-gaps register](../known-gaps.md) had flagged "Institutional Digital and Data Architecture" as a cross-cutting concern that "may eventually justify a separate Operations and Implementation domain, but such a domain should only be created once the relevant documents exist." Four documents, found together, are exactly that occasion.
 
@@ -22,6 +23,7 @@ It answers four questions in sequence: *why* should European higher education bu
 - **[HEI IT Architecture Evaluation Framework](hei-evaluation-framework.md)** *(Document 4)* — the complete self-assessment instrument: 37 binary compliance gates and 47 graduated maturity criteria (0–5 scale) across 9 sections, a 235-point scoring system with six interpretation bands (Not Compliant through Leading), section weighting with alliance-level compliance gates, and an improvement plan template.
 
 **All four documents of the framework are now converted.** ✅ See the note below on what that unblocks.
+**A working [maturity scorecard](maturity-scorecard-newstudy.md)** — structured directly against Document 4, partially pre-filled from real evidence found on the live platform's own privacy and accessibility pages — is also available for hand completion. See [known-gaps.md](known-gaps.md) for what it found and what's still open.
 
 See [conversion-notes.md](conversion-notes.md) for progress and [known-gaps.md](known-gaps.md) for what remains open in this domain.
 
