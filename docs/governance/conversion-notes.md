@@ -1,4 +1,7 @@
-# Conversion Notes — Governance
+---
+layout: page
+title: "onversion Notes — Governance"
+---  
 
 [← Back to Governance](index.md)
 
