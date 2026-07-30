@@ -1,4 +1,7 @@
-# Leadership & Stewardship Profiles
+---
+layout: page
+title: "Leadership & Stewardship Profiles"
+---   
 
 *Open University of Germany*
 
