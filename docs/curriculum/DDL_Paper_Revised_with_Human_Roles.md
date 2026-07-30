@@ -1,25 +1,13 @@
-# REVISED SECTIONS FOR DDL PAPER
+---
+layout: page
+title: "AI and Human Literacy"
+--- 
+
 ## Integration of Human Functional Roles
 
----
 
-## 4. The Decision-Dialogue Loop: Framework and Vocabulary
 
-### 4.1 The Four-Step Loop
-
-[This section remains substantially unchanged, but with one critical addition to the Authorial Input step:]
-
-**Authorial Input**: the human provides the core materials --- expert knowledge, domain understanding, intellectual decisions, value commitments, and evaluative criteria. This is the step at which the human's contribution to the work is established. **Crucially, the human must be able to name which functional roles they are exercising in this step (see Section 4.2a).**
-
----
-
-### 4.2 The Eight Functional Roles (AI)
-
-[This table remains exactly as in the original paper.]
-
----
-
-### 4.2a The Eight Functional Roles (Human)
+### The Eight Functional Roles (Human)
 
 The following roles describe what the human author contributes within the collaborative workflow. These roles are not mere negations of AI capabilities ("what the AI didn't do"); they are positive descriptions of intellectual labour that the human must exercise and protect. Making these roles explicit gives students a vocabulary for articulating their own contribution that is specific enough to be genuinely informative in a disclosure statement.
 
@@ -40,23 +28,15 @@ The human roles are grounded in the same inductive origin as the AI roles: they 
 
 ---
 
-### 4.3 Theoretical Foundations of the Decision-Dialogue Loop
+##  Pedagogical Implementation
 
-[This section remains substantially unchanged, but with the following addition to the discussion of metacognitive self-regulation:]
-
-The addition of explicit human functional roles strengthens this theoretical grounding. Metacognitive self-regulation requires not only monitoring one's own cognitive processes but monitoring the *division of labour* between human and machine. The human role taxonomy makes this division auditable: a student who cannot name which human roles they exercised in a given section of their work has, by that inability, revealed a gap in their metacognitive awareness that the framework is designed to surface and correct.
-
----
-
-## 5. Pedagogical Implementation
-
-### 5.1 The DDL Vocabulary as Disclosure Framework
+### The DDL Vocabulary as Disclosure Framework
 
 The primary pedagogical application of the DDL framework is as a shared vocabulary for AI disclosure. Students are introduced to the eight AI roles, the eight human roles, and the four-step loop at the beginning of the programme and are expected to use this vocabulary in the AI transparency sections of all three major written outputs.
 
 Rather than writing "AI was used for editing assistance," a student using the DDL vocabulary would complete a two-column disclosure for each major section of their work:
 
-**AI Roles Used:**
+**AI Roles Used:** (AI Roles - to be published)
 - Literature Synthesiser (Role 4): identifying connections across sources on neural network architectures
 - Writing Collaborator (Role 7): improving clarity and academic register of the requirements section
 
@@ -72,7 +52,7 @@ The shift from boilerplate to specific disclosure is not merely administrative. 
 
 ---
 
-### 5.2 Mapping DDL Roles to AI Maturity Levels
+### Mapping DDL Roles to AI Maturity Levels
 
 The maturity levels are now assessed against *both* AI role use and human role exercise. A student at Level 1 (Dependent Use) is characterised not only by uncritical delegation to AI but by an inability to name which human roles they exercised. A student at Level 4 (Expert/Ethical Use) is characterised by intentional, balanced engagement of both AI and human roles, with explicit justification for why each role was assigned to human or machine in each context.
 
@@ -87,7 +67,7 @@ This mapping serves three pedagogical purposes. First, it gives students a devel
 
 ---
 
-### 5.3 Alignment with the Evaluation Framework
+###  Alignment with the Evaluation Framework
 
 | **Grading framework element** | **DDL loop stage** | **Appropriate AI roles** | **Required human roles** |
 |------------------------------|-------------------|-------------------------|--------------------------|
@@ -103,7 +83,7 @@ This mapping makes visible a crucial pedagogical point: the grading framework re
 
 ---
 
-### 5.4 Implementation Across the Three-Stage Progression
+###  Implementation Across the Three-Stage Progression
 
 In Year 1, the emphasis is on honest description of *both* AI and human roles. Students learn that "I wrote it" is not a sufficient human disclosure --- they must name which human roles they exercised (e.g., "I was the Experience Bearer: these observations come from my company placement"). This establishes from the outset that disclosure is a two-column exercise, not a single statement about AI use.
 
@@ -113,9 +93,9 @@ In Year 3, students engage with the full DDL framework as both a process model a
 
 ---
 
-## 6. Theoretical Grounding
+## Theoretical Grounding
 
-### 6.1 Threshold Concepts and AI Literacy
+###  Threshold Concepts and AI Literacy
 
 The pedagogical rationale for the DDL framework is strengthened by independent empirical research on how students develop productive AI literacy. Anders and Dux Speltz (2026) investigated threshold concepts for AI-assisted writing --- conceptual transformations that prove troublesome yet irreversible once understood --- through an experimental "AI and Writing" course with undergraduate students from diverse academic backgrounds. Their analysis identified three threshold concepts essential for productive AI engagement.
 
@@ -131,9 +111,9 @@ These four threshold concepts map directly onto the DDL's structure, providing i
 
 ---
 
-## 7. Discussion, Limitations, and Future Directions
+##  Discussion, Limitations, and Future Directions
 
-### 7.1 What the Framework Offers
+###  What the Framework Offers
 
 The DDL framework addresses a specific gap in current approaches to AI use in engineering education: the absence of a shared vocabulary that enables students to disclose AI use meaningfully, to reflect on their own contribution honestly, and to understand the relationship between AI use and the competencies that their programme is designed to develop.
 
@@ -145,7 +125,7 @@ The framework also offers something that generic AI policies cannot provide: a p
 
 ---
 
-### 7.2 Limitations
+###  Limitations
 
 This paper presents the DDL framework as a theoretically grounded proposal for pedagogical implementation. It does not report empirical data on student outcomes, and its claims about the framework's effectiveness are therefore theoretical rather than evidential. The argument rests on the coherence of the framework itself, its alignment with established research on metacognition, threshold concepts, and transparency in AI-assisted writing, and its fit with the specific pedagogical context in which it is proposed.
 
@@ -159,7 +139,7 @@ Furthermore, the two-column disclosure structure, while designed to prevent comp
 
 ---
 
-### 7.3 Future Directions
+###  Future Directions
 
 The most immediate next step is empirical evaluation of the framework in practice. This requires collecting student disclosure statements across the three stages of the programme and analysing them for specificity, accuracy, and development over time. It also requires comparison between students who have been introduced to the DDL vocabulary (including the human roles) and those working under a generic AI policy, to assess whether the dual vocabulary produces meaningfully different disclosure practices and, critically, whether it prevents the entirely-AI-generated submissions with superficial compliance that the author observed.
 
@@ -171,7 +151,7 @@ A specific priority for future research is investigating how students at differe
 
 ---
 
-## 8. Conclusion
+##  Conclusion
 
 Engineering students who graduate without a framework for using AI productively, disclosing it honestly, and reflecting on their own contribution are not prepared for a professional context in which AI is standard practice. Generic AI policies, which define what is permitted and require some form of disclosure without providing a vocabulary for meaningful description, do not bridge this gap. Worse, they create a loophole: students can comply with disclosure requirements while delegating all intellectual labour to AI, producing work that satisfies administrative requirements but fails to develop the engineering judgement that education is designed to cultivate.
 
@@ -183,26 +163,15 @@ The framework is proposed here as a theoretically grounded contribution to the d
 
 ---
 
-## Declarations
-
-### Funding
-
-No funding was received for conducting this study.
-
-### Competing Interests
-
-The author has no competing interests to declare that are relevant to the content of this article.
 
 ### AI Disclosure
 
 During the preparation of this manuscript, the Decision-Dialogue Loop was applied throughout. In the Authorial Input step, the author supplied the institutional context, the pedagogical rationale, the framework structure, the grading philosophy, the self-reflection workbook content, and all intellectual commitments and arguments. The author exercised the following human functional roles as defined in this paper: **Problem Framer** (identifying the gap in current AI disclosure practices that the framework addresses); **Domain Authority** (drawing on experience in engineering education and technical writing instruction); **Decision Maker** (selecting the theoretical traditions to draw on, committing to the eight-role structure, and determining that human roles needed to be added after observing student compliance-only disclosures); **Evidence Interpreter** (evaluating whether the threshold concept research supported the framework's claims); **Value Arbiter** (determining that transparency and student development took priority over administrative simplicity); **Synthesis Integrator** (connecting the DDL structure to the grading framework, the workbook, and threshold concept theory); **Experience Bearer** (contributing classroom observations about what happened when students disclosed only AI use); and **Critical Reflector** (acknowledging the framework's limitations and identifying empirical evaluation as the necessary next step).
 
-The AI (Anthropic's Claude) performed the following functional roles as defined in this paper: Research Interlocutor (Role 1), challenging the framing of the contribution, identifying the argument's structure, and proposing the pedagogical reframe from research methodology to teaching framework; Structural Editor (Role 2), proposing and revising the section architecture across multiple iterations; Document Builder (Role 3), generating the manuscript text from the author's intellectual decisions and contextual materials; and Writing Collaborator (Role 7), calibrating register, prose, and academic tone throughout.
+The AI (Anthropic's Claude & Kimi) performed the following functional roles as defined in this paper: Research Interlocutor (Role 1), challenging the framing of the contribution, identifying the argument's structure, and proposing the pedagogical reframe from research methodology to teaching framework; Structural Editor (Role 2), proposing and revising the section architecture across multiple iterations; Document Builder (Role 3), generating the manuscript text from the author's intellectual decisions and contextual materials; and Writing Collaborator (Role 7), calibrating register, prose, and academic tone throughout.
 
 In the Authorial Evaluation step, the author critically reviewed, revised, and approved every section of the manuscript. The Iterative Refinement step was enacted across multiple exchanges in which the author redirected, corrected, and reshaped the AI's output to meet the manuscript's intellectual and scholarly standards. All intellectual decisions --- the conceptual argument, the framework claims, the pedagogical rationale, the selection and interpretation of all evidence, and the decision to add human functional roles after observing classroom practice --- were made by the author, who takes full responsibility for the final manuscript.
 
 This disclosure is itself a demonstration of the DDL transparency framework proposed in the paper: it names the AI roles, names the human roles, identifies the loop steps, and clearly delineates what the author contributed from what the AI contributed.
 
-### Data Availability
 
-This paper does not report empirical data. The pedagogical framework and supporting documents described are available from the corresponding author on request.
