@@ -1,4 +1,7 @@
-# Rechtliche Implementierungsvoraussetzungen
+---
+layout: page
+title: "Rechtliche Implementierungsvoraussetzungen"
+--- 
 
 *Open University of Germany · Akkreditierungsdokument*
 *Rechtliche Implementierungsvoraussetzungen · 2026*
