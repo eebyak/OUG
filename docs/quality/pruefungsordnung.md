@@ -1,4 +1,8 @@
-# Prüfungsordnung (kommentiert)
+---
+layout: page
+title: "Prüfungsordnung (kommentiert)"
+---   
+
 
 *Open University of Germany · für den Bachelorstudiengang Computer Science (B.Sc.)*
 
