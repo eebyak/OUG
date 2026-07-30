@@ -1,4 +1,7 @@
-# Strategy Formation Protocol
+---
+layout: page
+title: "Strategy Formation Protocol"
+--- 
 
 *Open University of Germany · Institutional Governance · 2026*
 *Operational Governance Document*
