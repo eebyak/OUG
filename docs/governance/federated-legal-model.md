@@ -1,4 +1,7 @@
-# Federated Legal Model
+---
+layout: page
+title: "Federated Legal Model"
+--- 
 
 *Open University of Germany · Constitutional Document*
 
