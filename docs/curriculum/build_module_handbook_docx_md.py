@@ -1088,7 +1088,16 @@ def build_markdown_handbook(
 ) -> None:
     """Write a clean, navigable Markdown edition of the module handbook."""
     lines: list[str] = []
-    lines.append(f"# {markdown_inline_text(title)}")
+    #---
+    #layout: page
+    #title: "OUG Module Handbook"
+    #---
+    lines.append(f"---")
+    lines.append(f"layout: page")
+    lines.append(f"title: {markdown_inline_text(title)}")
+    lines.append(f"---")
+
+    #lines.append(f"# {markdown_inline_text(title)}")
     lines.append("")
     lines.append(f"**{markdown_inline_text(institution)}**")
     if programme:
