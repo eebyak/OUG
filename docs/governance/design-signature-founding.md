@@ -1,4 +1,8 @@
-# Our Design Signature
+---
+layout: page
+title: "Our Design Signature"
+---  
+
 
 *Open University of Germany · Founding Document*
 *Second Edition · Six Dialogue Sources · 2026*
