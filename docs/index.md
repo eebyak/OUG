@@ -24,6 +24,10 @@ To understand **why** each element exists, please refer to the book.
 
 **Designing a University from First Principles**
 
+<a href="https://www.amazon.de/s?k=kay+berkling&i=stripbooks&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BG7FFXP3LQSQ&sprefix=kay+berkling%2Cstripbooks%2C120&ref=nb_sb_noss">
+  <img src="images/Book-Cover.300.FINAL.png" alt="Book cover: Designing a University from First Principles" width="100">
+</a>
+
 ---
 
 ## The Core Proposition
