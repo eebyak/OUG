@@ -1,4 +1,7 @@
-# Research & Doctoral Framework
+---
+layout: page
+title: "Research & Doctoral Framework"
+--- 
 
 *Open University of Germany · Institutional Document · Research Layer*
 *Version 1.0 · 2026*
