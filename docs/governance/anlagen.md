@@ -1,4 +1,7 @@
-# Anlagen
+---
+layout: page
+title: "Anlagen"
+--- 
 
 *Anlage 1 (Strategisches Rahmenwerk) and Anlage 2 (Strategic Decision Protocol), together — Bestandteil der Grundordnung gemäß § 16*
 
