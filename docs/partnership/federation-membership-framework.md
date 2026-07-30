@@ -1,4 +1,8 @@
-# Federation & Membership Framework
+---
+layout: page
+title: "Federation & Membership Framework"
+---
+ 
 
 *Open University of Germany*
 
