@@ -1,4 +1,8 @@
-# Committee Information Architecture
+---
+layout: page
+title: "Committee Information Architecture"
+---  
+
 
 *Open University of Germany · Institutional Governance · 2026*
 *Operational Governance Document*
