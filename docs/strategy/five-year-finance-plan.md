@@ -1,4 +1,7 @@
-# Five-Year Finance Plan 2026–2030
+---
+layout: page
+title: "Five-Year Finance Plan 2026–2030"
+--- 
 
 *Open University of Germany (OUG) · Offene Universität Deutschland*
 *Version 1.0 · May 2026 · Strictly Confidential*
