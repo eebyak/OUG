@@ -18,7 +18,7 @@ It answers four questions in sequence: *why* should European higher education bu
 ## What's Here
 
 - **[European HEI Digital Alliance Manifesto](manifesto.md)** *(Document 1)* — the declaration: digital infrastructure and AI as public goods, European sovereignty as a constitutional rather than commercial matter, and seventeen binding platform principles covering procurement, sovereignty, AI governance, student data rights, and cooperation over competition.
-- **Architecture Reference Model** *(Document 2 — in progress)* — the modular layer model, API-first principles, the three-zone sovereign deployment model, and the data-ownership boundaries between five functional domains.
+- **[Architecture Reference Model](architecture-reference-model.md)** *(Document 2)* — six binding architecture principles (identity first, API-first, standards over products, one data master per domain, exit capability by design, security and privacy as structural), the three-zone sovereign deployment model (Sovereign Core, European Platform Cloud, Federation & Partner Zone), and the five-layer platform architecture with explicit data ownership at every layer — including the exact Matrix/Element messaging component you mentioned, listed as the recommended Layer 5 tool.
 - **Functional Domain Specifications** *(Document 3 — in progress)* — detailed operational requirements for each of the five domains: Learning Systems; Credentialing & Student Records; Learning Analytics; Backend & Stakeholder Data; Administration Systems & AI.
 - **HEI IT Architecture Evaluation Framework** *(Document 4 — in progress)* — the self-assessment instrument: compliance gates, a maturity ladder, scoring, and an improvement roadmap.
 
