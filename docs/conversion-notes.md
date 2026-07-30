@@ -1,4 +1,8 @@
-# Conversion Notes — Strategy & Finance
+---
+layout: page
+title: "Conversion Notes — Strategy & Finance"
+---
+
 
 [← Back to Strategy & Finance](index.md)
 
