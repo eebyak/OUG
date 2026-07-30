@@ -1,4 +1,7 @@
-# The OUG Role Statement
+---
+layout: page
+title: "The OUG Role Statement"
+--- 
 
 *Open University of Germany · Strategic Positioning*
 *First Edition (Amended) · 2026 · Review due 2029*
