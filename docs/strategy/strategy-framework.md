@@ -1,4 +1,7 @@
-# Strategy Framework: Objectives & KPIs
+---
+layout: page
+title: "Strategy Framework: Objectives & KPIs"
+---  
 
 *Open University of Germany · Strategy & Finance*
 *2030 Horizon*
