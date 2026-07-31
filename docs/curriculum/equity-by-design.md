@@ -13,7 +13,7 @@ title: "Equity by Design"
 
 *A principle-based assessment of how the Open University of Germany addresses, partially addresses, and fails to address structural equity in governance, pedagogy, platform, and credential design*
 
-> **Abstract.** Educational inequity is reproduced at multiple institutional levels simultaneously — governance, pedagogy, platform, and credential design — and must therefore be addressed at multiple levels simultaneously. This working paper derives design principles from four empirical literatures: research on inequality framing effects on engagement and policy support (Lowery et al., 2011; Lowery & Wout, 2010; Malapally et al., 2025); task-based learning and learning analytics in programming education (Berkling, in review); and the structural analysis of advantage and disadvantage frames in public discourse (Malapally et al., 2025). Twenty design principles are derived across five domains — governance, institutional framing, pedagogy, platform design, and credential architecture — and each is assessed against the current OUG institutional design. As of this update, twelve principles are strongly addressed and eight are partially addressed, with no principle currently assessed as an unaddressed gap *(see the Section III scorecard for how this figure was reached, including a correction of pre-existing tabulation errors and two verdict changes driven by direct evidence from the live New Study platform)*. The document concludes with an integrated account of how governance-level and pedagogy-level equity mechanisms interact, and with a research agenda for testing these interactions empirically using the OUG as a case study.
+> **Abstract.** Educational inequity is reproduced at multiple institutional levels simultaneously — governance, pedagogy, platform, and credential design — and must therefore be addressed at multiple levels simultaneously. This working paper derives design principles from four empirical literatures: research on inequality framing effects on engagement and policy support (Lowery et al., 2012; Lowery & Wout, 2010; Malapally et al., 2025); task-based learning and learning analytics in programming education (Berkling, in review); and the structural analysis of advantage and disadvantage frames in public discourse (Malapally et al., 2025). Twenty design principles are derived across five domains — governance, institutional framing, pedagogy, platform design, and credential architecture — and each is assessed against the current OUG institutional design. As of this update, twelve principles are strongly addressed and eight are partially addressed, with no principle currently assessed as an unaddressed gap *(see the Section III scorecard for how this figure was reached, including a correction of pre-existing tabulation errors and two verdict changes driven by direct evidence from the live New Study platform)*. The document concludes with an integrated account of how governance-level and pedagogy-level equity mechanisms interact, and with a research agenda for testing these interactions empirically using the OUG as a case study.
 
 ---
 
@@ -21,7 +21,7 @@ title: "Equity by Design"
 
 ### 1.1 Inequality Framing and Its Effects on Engagement
 
-A foundational insight from social psychology is that the same inequality, described differently, produces different psychological and behavioural responses. Lowery et al. (2011) demonstrated across four studies that inequity framed as White advantage — rather than minority disadvantage — increases White participants' support for redistributive policies they perceive as harming their own group, driven by a desire to restore positive group esteem. The mechanism is significant for institutional design: framing shapes not just what people think about inequality, but whether they are motivated to act on it.
+A foundational insight from social psychology is that the same inequality, described differently, produces different psychological and behavioural responses. Lowery et al. (2012) demonstrated across four studies that inequity framed as White advantage — rather than minority disadvantage — increases White participants' support for redistributive policies they perceive as harming their own group, driven by a desire to restore positive group esteem. The mechanism is significant for institutional design: framing shapes not just what people think about inequality, but whether they are motivated to act on it.
 
 Lowery and Wout (2010) extended this finding to educational engagement directly. Across five experiments with Black, Latino, White, male, and female students, they showed that inequality framed as ingroup disadvantage causes members of subordinate groups to disengage their self-esteem from academic performance, while the same inequality framed as dominant-group advantage allows them to remain engaged. Crucially, the same framing that enables subordinate-group engagement causes dominant-group members to disengage. The authors concluded that changes in how institutions describe inequality may be sufficient to alter engagement patterns — without changing the structural facts of the inequality itself.
 
@@ -56,7 +56,7 @@ The following twenty principles are derived from the empirical literature review
 **Why it holds.** Representation is structurally designed rather than consultative. The critical question going forward is whether governance participation is genuinely accessible to OUG's target learners — working adults with caregiving responsibilities — or whether meeting formats, timing, and technical requirements inadvertently recreate the barriers they are designed to overcome. A governance accessibility audit should be conducted prior to the first student cohort.
 
 #### P2 — Checks and balances must structurally protect academic standards from financial pressure
-*Literature basis: Lowery et al., 2011; Malapally et al., 2025 — the parallel is the illegitimate advantage mechanism: when dominant interests can override academic standards, the credential loses legitimacy*
+*Literature basis: Lowery et al., 2012; Malapally et al., 2025 — the parallel is the illegitimate advantage mechanism: when dominant interests can override academic standards, the credential loses legitimacy*
 **Verdict: ● Strong Alignment**
 
 **OUG Design Response.** The OUG's Governance Architecture constitutionally insulates G3 (Academic & Quality Governance) from G2 (Strategic Steering) on academic decisions. Financial and executive authority cannot override academic standards, degree requirements, or assessment design. The Quality Commission issues action mandates that carry real authority; its recommendations must be responded to by Mission Hubs within defined timeframes.
@@ -90,7 +90,7 @@ The following twenty principles are derived from the empirical literature review
 **Why it holds.** This framing is consistent across the current document stack. The risk is institutional drift: as the OUG grows and encounters external pressure from accreditors, employers, or policy-makers who use deficit framing, the institutional language may gradually shift toward describing its learners as disadvantaged rather than as the audience for which the system was built. Monitoring institutional language as an equity metric — including in external communications, accreditation submissions, and partner documentation — should be an explicit governance responsibility.
 
 #### P6 — How inequality is described in institutional communications shapes whether learners engage or disengage
-*Literature basis: Lowery et al., 2011; Lowery & Wout, 2010; Malapally et al., 2025*
+*Literature basis: Lowery et al., 2012; Lowery & Wout, 2010; Malapally et al., 2025*
 **Verdict: ◑ Partial Alignment**
 
 **OUG Design Response.** The OUG's strategic positioning documents are consistent in framing its existence as a structural innovation rather than a remediation effort. The three-pillar financial model explicitly names the social pricing rationale (€25/ECTS) as a public good provision, not a discount for disadvantaged students. This is an advantage frame: the institution is designed this way because it is the right design, not because its students cannot afford more.
@@ -294,11 +294,11 @@ Guo, P. J., & Reinecke, K. (2014). Demographic differences in how students navig
 
 Kahneman, D., & Miller, D. T. (1986). Norm theory: Comparing reality to its alternatives. *Psychological Review*, 93(2), 136–153. https://doi.org/10.1037/0033-295X.93.2.136
 
-Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist*, 51(2), 289–299. https://doi.org/10.1080/10459284.2016.1183772
+Kapur, M. (2016). Examining productive failure, productive success, unproductive failure, and unproductive success in learning. *Educational Psychologist*, 51(2), 289–299. [https://doi.org/10.1080/10459284.2016.1183772](https://doi.org/10.1080/00461520.2016.1155457)
 
 Long, M. H. (2015). *Second language acquisition and task-based language teaching*. Wiley-Blackwell.
 
-Lowery, B. S., Chow, R. M., Knowles, E. D., & Unzueta, M. M. (2011). Paying for positive group esteem: How inequity frames affect Whites' responses to redistributive policies. *Journal of Personality and Social Psychology*, 102(2), 323–336. https://doi.org/10.1037/a0024598
+Lowery, B. S., Chow, R. M., Knowles, E. D., & Unzueta, M. M. (2012). Paying for positive group esteem: How inequity frames affect Whites' responses to redistributive policies. *Journal of Personality and Social Psychology*, 102(2), 323–336. https://doi.org/10.1037/a0024598
 
 Lowery, B. S., & Wout, D. A. (2010). When inequality matters: The effect of inequality frames on academic engagement. *Journal of Personality and Social Psychology*, 98(6), 956–966. https://doi.org/10.1037/a0017926
 
