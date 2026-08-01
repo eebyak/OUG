@@ -453,6 +453,18 @@ $oug-teal: #2f5d62;
   object-position: left center;
 }
 
+.oug-story-card--need .oug-story-card__visual::before {
+  background: linear-gradient(180deg, #2f5d62, #173f45);
+}
+
+.oug-story-card--design .oug-story-card__visual::before {
+  background: linear-gradient(180deg, #3d747a, #204d52);
+}
+
+.oug-story-card--proof .oug-story-card__visual::before {
+  background: linear-gradient(180deg, #315f72, #193e4b);
+}
+
 
 .oug-story-card:hover .oug-story-card__visual > img {
   transform: scale(1.035);
