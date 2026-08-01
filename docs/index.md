@@ -5,6 +5,40 @@
   <img src="images/Logo2-small.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380">
 </picture>
 
+
+<div class="oug-hero">
+
+  <img
+    class="oug-hero__background"
+    src="{{ '/images/oug-advertisement.png' | relative_url }}"
+    alt="Learners connected through local communities, public learning spaces and digital higher education"
+  >
+
+  <div class="oug-hero__logo">
+    <img
+      src="{{ '/images/Logo1-small.png' | relative_url }}"
+      alt="Open University of Germany"
+    >
+  </div>
+
+  <div class="oug-hero__content">
+    <div class="oug-hero__kicker">
+      Designing a University from First Principles
+    </div>
+
+    <h1>Open University of Germany</h1>
+
+    <p>
+      A public, federated university architecture for flexible,
+      high-quality learning across institutions, communities and life pathways.
+    </p>
+  </div>
+
+</div>
+
+
+
+
 ## Designing a University from First Principles
 
 The Open University of Germany (OUG) is a fictive, federated public-university model designed for a society in which learning no longer follows a single path, at a single pace, or within a single institution.
