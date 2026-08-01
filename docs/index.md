@@ -10,7 +10,7 @@
 
   <div class="oug-hero__logo">
     <img
-      src="{{ '/images/Logo1-small.png' | relative_url }}"
+      src="{{ '/images/Logo2-small.png' | relative_url }}"
       alt="Open University of Germany"
     >
   </div>
