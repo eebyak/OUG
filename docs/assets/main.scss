@@ -360,32 +360,49 @@ $oug-teal: #2f5d62;
 }
 
 /* Card image */
+/* =========================================================
+   Proposition-card banner images
+   ========================================================= */
 
-.oug-story-card__visual--old {
-  position: relative;
-  height: 142px;
-  overflow: hidden;
+/* Individual strip colours */
 
-  background: #173f45;
+.oug-story-card--need {
+  --oug-card-strip-top: #b87935;
+  --oug-card-strip-bottom: #75431f;
 }
+
+.oug-story-card--design {
+  --oug-card-strip-top: #3d747a;
+  --oug-card-strip-bottom: #204d52;
+}
+
+.oug-story-card--proof {
+  --oug-card-strip-top: #557b98;
+  --oug-card-strip-bottom: #2c4b65;
+}
+
+/*
+  The image itself determines the height.
+  All banner files use a 5:1 aspect ratio.
+*/
 
 .oug-story-card__visual {
   position: relative;
   display: grid;
-  grid-template-columns: 34px minmax(0, 1fr);
+  grid-template-columns: 22px minmax(0, 1fr);
 
   width: 100%;
-  height: 105px;
+  height: auto;
   overflow: hidden;
   padding: 0;
 
   background: #2f5d62;
 }
 
+/* Coloured lead-in column */
+
 .oug-story-card__visual::before {
   content: "";
-  position: relative;
-  z-index: 2;
 
   grid-column: 1;
   grid-row: 1;
@@ -400,62 +417,7 @@ $oug-teal: #2f5d62;
   );
 }
 
-.oug-story-card__visual.old::before {
-  content: "";
-  position: relative;
-  z-index: 2;
-
-  grid-column: 1;
-  grid-row: 1;
-
-  width: 100%;
-  height: 100%;
-
-  background: linear-gradient(
-    180deg,
-    #2f5d62 0%,
-    #173f45 100%
-  );
-}
-
-.oug-story-card__visual.old::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(13, 35, 40, 0.03),
-      rgba(13, 35, 40, 0.48)
-    );
-}
-
-.oug-story-card__visual::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 34px;
-  z-index: 1;
-
-  pointer-events: none;
-
-  background: linear-gradient(
-    180deg,
-    rgba(8, 25, 29, 0.01) 50%,
-    rgba(8, 25, 29, 0.16) 100%
-  );
-}
-.oug-story-card__visual.old img {
-  display: block;
-  width: 100%;
-  height: 100%;
-
-  object-fit: cover;
-  transition: transform 500ms ease;
-}
+/* Full banner without cropping */
 
 .oug-story-card__visual img {
   display: block;
@@ -464,76 +426,42 @@ $oug-teal: #2f5d62;
   grid-row: 1;
 
   width: 100%;
-  height: 100%;
+  height: auto;
+  aspect-ratio: 5 / 1;
   max-width: none;
 
-  object-fit: cover;
-  object-position: left center;
-}
-
-/* Individual colours for the three proposition-card image strips */
-
-/* 01 — unmet need: warm amber */
-.oug-story-card--need {
-  --oug-card-strip-top: #b87935;
-  --oug-card-strip-bottom: #75431f;
-}
-
-/* 02 — institutional design: OUG teal */
-.oug-story-card--design {
-  --oug-card-strip-top: #3d747a;
-  --oug-card-strip-bottom: #204d52;
-}
-
-/* 03 — proof of concept: confident blue */
-.oug-story-card--proof {
-  --oug-card-strip-top: #557b98;
-  --oug-card-strip-bottom: #2c4b65;
-}
-
-.oug-story-card:hover .oug-story-card__visual > img {
-  transform: scale(1.035);
-}
-
-/* Use different portions of the hero photograph */
-
-.oug-story-card--need .oug-story-card__visual img {
-  object-position: 9% center;
-}
-/*
-.oug-story-card--proof .oug-story-card__visual img {
-  object-position: 87% center;
-}
-*/
-/* Logo card */
-
-.oug-story-card__visual--logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  padding: 1.35rem;
-  background:
-    radial-gradient(
-      circle at top right,
-      rgba(75, 151, 159, 0.3),
-      transparent 47%
-    ),
-    linear-gradient(135deg, #133d43, #2f5d62);
-}
-
-.oug-story-card__visual--logo::after {
-  display: none;
-}
-
-.oug-story-card__visual--logo img {
-  width: auto;
-  max-width: 92%;
-  height: auto;
-  max-height: 94px;
-
   object-fit: contain;
-  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.13));
+  object-position: center;
+}
+
+/* Very subtle overlay over the photograph only */
+
+.oug-story-card__visual::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 22px;
+  z-index: 1;
+
+  pointer-events: none;
+
+  background: linear-gradient(
+    180deg,
+    rgba(8, 25, 29, 0) 55%,
+    rgba(8, 25, 29, 0.12) 100%
+  );
+}
+
+/* Subtle hover without enlarging or cropping the image */
+
+.oug-story-card__visual img {
+  transition: opacity 180ms ease;
+}
+
+.oug-story-card:hover .oug-story-card__visual img {
+  opacity: 0.96;
 }
 
 /* Main card heading */
@@ -791,9 +719,7 @@ $oug-teal: #2f5d62;
     grid-column: 1 / -1;
   }
 
-  .oug-story-card__visual {
-    height: 165px;
-  }
+  
 }
 
 /* Mobile */
@@ -819,9 +745,7 @@ $oug-teal: #2f5d62;
     display: block;
   }
 
-  .oug-story-card__visual {
-    height: 128px;
-  }
+  
 
   .oug-story-card__summary {
     padding: 1rem 0.95rem 0.75rem;
