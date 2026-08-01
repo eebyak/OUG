@@ -260,3 +260,504 @@ $oug-teal: #2f5d62;
 }
 
 
+
+
+
+
+
+
+/* =========================================================
+   OUG homepage proposition cards
+   ========================================================= */
+
+.oug-proposition {
+  margin: 2.75rem 0 3.5rem;
+}
+
+.oug-proposition__intro {
+  max-width: 850px;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+.oug-proposition__eyebrow {
+  margin: 0 0 0.5rem;
+
+  color: #2f5d62;
+  font-size: 0.84rem;
+  font-weight: 750;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.oug-proposition__intro h2 {
+  margin: 0 auto 0.8rem;
+  max-width: 790px;
+
+  color: #173f45;
+  font-size: clamp(1.65rem, 3vw, 2.45rem);
+  line-height: 1.15;
+}
+
+.oug-proposition__intro > p:last-child {
+  max-width: 720px;
+  margin: 0 auto;
+
+  color: #516267;
+  font-size: 1.04rem;
+  line-height: 1.65;
+}
+
+.oug-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.1rem;
+  align-items: start;
+}
+
+/* Individual expandable card */
+
+.oug-story-card {
+  position: relative;
+  overflow: hidden;
+
+  border: 1px solid rgba(47, 93, 98, 0.2);
+  border-radius: 17px;
+
+  background: #ffffff;
+  box-shadow: 0 6px 20px rgba(18, 49, 54, 0.08);
+
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    box-shadow 180ms ease;
+}
+
+.oug-story-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(47, 93, 98, 0.5);
+  box-shadow: 0 13px 31px rgba(18, 49, 54, 0.14);
+}
+
+.oug-story-card[open] {
+  border-color: rgba(47, 93, 98, 0.55);
+  box-shadow: 0 13px 34px rgba(18, 49, 54, 0.14);
+}
+
+.oug-story-card summary {
+  display: block;
+  cursor: pointer;
+  list-style: none;
+}
+
+.oug-story-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.oug-story-card summary:focus-visible {
+  outline: 3px solid rgba(47, 93, 98, 0.45);
+  outline-offset: -3px;
+}
+
+/* Card image */
+
+.oug-story-card__visual {
+  position: relative;
+  height: 142px;
+  overflow: hidden;
+
+  background: #173f45;
+}
+
+.oug-story-card__visual::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(13, 35, 40, 0.03),
+      rgba(13, 35, 40, 0.48)
+    );
+}
+
+.oug-story-card__visual img {
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  transition: transform 500ms ease;
+}
+
+.oug-story-card:hover .oug-story-card__visual > img {
+  transform: scale(1.035);
+}
+
+/* Use different portions of the hero photograph */
+
+.oug-story-card--need .oug-story-card__visual img {
+  object-position: 9% center;
+}
+
+.oug-story-card--proof .oug-story-card__visual img {
+  object-position: 87% center;
+}
+
+/* Logo card */
+
+.oug-story-card__visual--logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 1.35rem;
+  background:
+    radial-gradient(
+      circle at top right,
+      rgba(75, 151, 159, 0.3),
+      transparent 47%
+    ),
+    linear-gradient(135deg, #133d43, #2f5d62);
+}
+
+.oug-story-card__visual--logo::after {
+  display: none;
+}
+
+.oug-story-card__visual--logo img {
+  width: auto;
+  max-width: 92%;
+  height: auto;
+  max-height: 94px;
+
+  object-fit: contain;
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.13));
+}
+
+/* Main card heading */
+
+.oug-story-card__summary {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 0.75rem;
+  align-items: start;
+
+  padding: 1.15rem 1.15rem 0.85rem;
+}
+
+.oug-story-card__number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+
+  background: #e3eeee;
+  color: #2f5d62;
+
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.oug-story-card__label {
+  margin: 0 0 0.3rem;
+
+  color: #2f5d62;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.oug-story-card__summary h3 {
+  margin: 0;
+
+  color: #173f45;
+  font-size: 1.09rem;
+  line-height: 1.32;
+}
+
+.oug-story-card__toggle {
+  position: relative;
+
+  display: block;
+  width: 25px;
+  height: 25px;
+  margin-top: 3px;
+
+  border-radius: 50%;
+  background: #eef5f5;
+}
+
+.oug-story-card__toggle::before,
+.oug-story-card__toggle::after {
+  content: "";
+  position: absolute;
+  top: 12px;
+  left: 7px;
+
+  width: 11px;
+  height: 2px;
+
+  border-radius: 2px;
+  background: #2f5d62;
+
+  transition: transform 180ms ease;
+}
+
+.oug-story-card__toggle::after {
+  transform: rotate(90deg);
+}
+
+.oug-story-card[open] .oug-story-card__toggle::after {
+  transform: rotate(0);
+}
+
+/* Key facts */
+
+.oug-story-card__metrics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+
+  padding: 0 1.15rem 1.15rem;
+}
+
+.oug-story-card__metrics span {
+  display: inline-flex;
+  align-items: center;
+
+  min-height: 29px;
+  padding: 0.3rem 0.62rem;
+
+  border-radius: 999px;
+  background: #eff5f5;
+  color: #456064;
+
+  font-size: 0.76rem;
+  line-height: 1.25;
+}
+
+.oug-story-card__metrics strong {
+  margin-right: 0.23rem;
+  color: #1f555b;
+}
+
+/* Expanded text */
+
+.oug-story-card__body {
+  padding: 0 1.15rem 1.25rem;
+
+  border-top: 1px solid rgba(47, 93, 98, 0.13);
+  animation: oug-card-open 220ms ease;
+}
+
+.oug-story-card__body p,
+.oug-story-card__body li {
+  color: #4c5c60;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.oug-story-card__body p:first-child {
+  margin-top: 1rem;
+}
+
+.oug-story-card__body ul {
+  margin: 0.85rem 0 1rem;
+  padding-left: 1.2rem;
+}
+
+.oug-story-card__body li + li {
+  margin-top: 0.4rem;
+}
+
+.oug-story-card__body blockquote {
+  margin: 1rem 0;
+  padding: 0.8rem 0.9rem;
+
+  border-left: 4px solid #2f5d62;
+  border-radius: 0 9px 9px 0;
+
+  background: #f1f6f6;
+  color: #234d52;
+
+  font-size: 0.94rem;
+  font-style: italic;
+}
+
+.oug-story-card__link {
+  display: inline-flex;
+  gap: 0.45rem;
+  align-items: center;
+
+  margin-top: 0.25rem;
+  color: #256068;
+
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.oug-story-card__link:hover {
+  text-decoration: underline;
+}
+
+.oug-story-card__link span {
+  transition: transform 160ms ease;
+}
+
+.oug-story-card__link:hover span {
+  transform: translateX(3px);
+}
+
+@keyframes oug-card-open {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Closing invitation */
+
+.oug-proposition__next {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  justify-content: space-between;
+
+  margin-top: 1.4rem;
+  padding: 1.15rem 1.3rem;
+
+  border: 1px solid rgba(47, 93, 98, 0.2);
+  border-radius: 14px;
+
+  background: #f2f7f7;
+}
+
+.oug-proposition__next p {
+  max-width: 730px;
+  margin: 0;
+
+  color: #40575b;
+  font-size: 0.94rem;
+  line-height: 1.5;
+}
+
+.oug-primary-link {
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 0.45rem;
+  align-items: center;
+
+  padding: 0.67rem 0.9rem;
+  border-radius: 9px;
+
+  background: #2f5d62;
+  color: #ffffff !important;
+
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.oug-primary-link:hover {
+  background: #214b50;
+}
+
+/* Tablet */
+
+@media screen and (max-width: 930px) {
+  .oug-card-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .oug-story-card {
+    display: grid;
+    grid-template-columns: minmax(190px, 30%) 1fr;
+  }
+
+  .oug-story-card summary,
+  .oug-story-card__body {
+    grid-column: 1 / -1;
+  }
+
+  .oug-story-card__visual {
+    height: 165px;
+  }
+}
+
+/* Mobile */
+
+@media screen and (max-width: 700px) {
+  .oug-proposition {
+    margin-top: 2rem;
+  }
+
+  .oug-proposition__intro {
+    text-align: left;
+  }
+
+  .oug-proposition__intro h2 {
+    font-size: 1.65rem;
+  }
+
+  .oug-card-grid {
+    gap: 0.85rem;
+  }
+
+  .oug-story-card {
+    display: block;
+  }
+
+  .oug-story-card__visual {
+    height: 128px;
+  }
+
+  .oug-story-card__summary {
+    padding: 1rem 0.95rem 0.75rem;
+  }
+
+  .oug-story-card__metrics {
+    padding: 0 0.95rem 1rem;
+  }
+
+  .oug-story-card__body {
+    padding: 0 0.95rem 1.1rem;
+  }
+
+  .oug-proposition__next {
+    display: block;
+  }
+
+  .oug-primary-link {
+    margin-top: 0.9rem;
+  }
+}
+
+/* Respect reduced-motion preferences */
+
+@media (prefers-reduced-motion: reduce) {
+  .oug-story-card,
+  .oug-story-card__visual img,
+  .oug-story-card__toggle::before,
+  .oug-story-card__toggle::after,
+  .oug-story-card__link span {
+    transition: none;
+  }
+
+  .oug-story-card__body {
+    animation: none;
+  }
+}
+
+
