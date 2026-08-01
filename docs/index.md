@@ -246,7 +246,7 @@ This repository contains the evolving institutional architecture of the OUG.
 
 To understand **why** each element exists, please refer to the book.
 
-**Designing a University from First Principles**
+**Designing a University from First Principles (to be published in Fall 2026)**
 
 <a href="https://www.amazon.de/s?k=kay+berkling&i=stripbooks&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1BG7FFXP3LQSQ&sprefix=kay+berkling%2Cstripbooks%2C120&ref=nb_sb_noss" 
   target="_blank"
