@@ -1,7 +1,4 @@
----
-layout: home
-title: "Open University of Germany"
----
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/Logo1-small.png">
