@@ -30,7 +30,206 @@
 
 </div>
 
+<section class="oug-proposition" aria-labelledby="oug-proposition-title">
 
+  <div class="oug-proposition__intro">
+    <p class="oug-proposition__eyebrow">The idea in three steps</p>
+
+    <h2 id="oug-proposition-title">
+      The problem is not a lack of learners. It is the architecture around them.
+    </h2>
+
+    <p>
+      Germany already has the demand, the institutions and the academic expertise.
+      The OUG connects them through a public structure designed for flexible pathways,
+      reliable recognition and academic quality at scale.
+    </p>
+  </div>
+
+  <div class="oug-card-grid">
+
+    <!-- CARD 1 -->
+    <details class="oug-story-card oug-story-card--need">
+      <summary>
+        <div class="oug-story-card__visual">
+          <img
+            src="{{ '/images/oug-advertisement.png' | relative_url }}"
+            alt=""
+            aria-hidden="true"
+          >
+        </div>
+
+        <div class="oug-story-card__summary">
+          <span class="oug-story-card__number">01</span>
+
+          <div>
+            <p class="oug-story-card__label">The unmet need</p>
+            <h3>People want to study, but the system still expects a traditional life.</h3>
+          </div>
+
+          <span class="oug-story-card__toggle" aria-hidden="true"></span>
+        </div>
+
+        <div class="oug-story-card__metrics" aria-label="Key indicators">
+          <span><strong>140,000</strong> learners at one private provider</span>
+          <span><strong>37%</strong> of EU adults aged 25–54 without a higher-education qualification</span>
+        </div>
+      </summary>
+
+      <div class="oug-story-card__body">
+        <p>
+          The barriers are familiar: time, cost, geography, interrupted educational
+          biographies and entry rules that assume a single route into higher education.
+        </p>
+
+        <p>
+          Existing public provision demonstrates that distance education can work at
+          scale. Private growth demonstrates that demand is much larger. What remains
+          missing is a public architecture built around modular progression, lifelong
+          participation and multiple recognised entry points.
+        </p>
+
+        <blockquote>
+          “The problem may not be the people. It may be the architecture.”
+        </blockquote>
+
+        <a class="oug-story-card__link" href="{{ '/curriculum/' | relative_url }}">
+          Explore the learner-centred curriculum
+          <span aria-hidden="true">→</span>
+        </a>
+      </div>
+    </details>
+
+
+    <!-- CARD 2 -->
+    <details class="oug-story-card oug-story-card--design">
+      <summary>
+        <div class="oug-story-card__visual oug-story-card__visual--logo">
+          <img
+            src="{{ '/images/Logo2-small.png' | relative_url }}"
+            alt="Open University of Germany"
+          >
+        </div>
+
+        <div class="oug-story-card__summary">
+          <span class="oug-story-card__number">02</span>
+
+          <div>
+            <p class="oug-story-card__label">The institutional design</p>
+            <h3>A public university that connects institutions instead of duplicating them.</h3>
+          </div>
+
+          <span class="oug-story-card__toggle" aria-hidden="true"></span>
+        </div>
+
+        <div class="oug-story-card__metrics" aria-label="Design characteristics">
+          <span><strong>€25</strong> proposed contribution per ECTS</span>
+          <span><strong>Value from module one</strong></span>
+          <span><strong>Federated delivery</strong></span>
+        </div>
+      </summary>
+
+      <div class="oug-story-card__body">
+        <p>
+          OUG holds responsibility for curriculum architecture, academic standards,
+          recognition, assessment integrity and degree awards. Partner institutions
+          contribute teaching capacity, disciplinary expertise and local learning
+          environments.
+        </p>
+
+        <ul>
+          <li>
+            Every completed module can carry a portable and machine-readable credential.
+          </li>
+          <li>
+            Prior learning is treated as a primary pathway, not as an administrative exception.
+          </li>
+          <li>
+            Academic authority is protected from short-term financial or operational pressure.
+          </li>
+          <li>
+            Public institutions can cooperate nationally without surrendering their identity.
+          </li>
+        </ul>
+
+        <a class="oug-story-card__link" href="{{ '/governance/' | relative_url }}">
+          See the governance architecture
+          <span aria-hidden="true">→</span>
+        </a>
+      </div>
+    </details>
+
+
+    <!-- CARD 3 -->
+    <details class="oug-story-card oug-story-card--proof">
+      <summary>
+        <div class="oug-story-card__visual">
+          <img
+            src="{{ '/images/oug-advertisement.png' | relative_url }}"
+            alt=""
+            aria-hidden="true"
+          >
+        </div>
+
+        <div class="oug-story-card__summary">
+          <span class="oug-story-card__number">03</span>
+
+          <div>
+            <p class="oug-story-card__label">The proof of concept</p>
+            <h3>Its educational logic is already operating under real conditions.</h3>
+          </div>
+
+          <span class="oug-story-card__toggle" aria-hidden="true"></span>
+        </div>
+
+        <div class="oug-story-card__metrics" aria-label="New Study indicators">
+          <span><strong>50+</strong> students</span>
+          <span><strong>25</strong> countries</span>
+          <span><strong>42%</strong> women</span>
+        </div>
+      </summary>
+
+      <div class="oug-story-card__body">
+        <p>
+          New Study, the English-language B.Sc. Computer Science programme at DHBW,
+          demonstrates that digitally connected, internationally diverse and
+          work-integrated study can function inside public higher education.
+        </p>
+
+        <p>
+          The OUG does not begin with an untested teaching idea. It gives an already
+          functioning educational model the institutional home, governance system,
+          recognition architecture and digital infrastructure required to grow.
+        </p>
+
+        <a
+          class="oug-story-card__link"
+          href="https://newstudy.campuscircle.de/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visit the live New Study platform
+          <span aria-hidden="true">↗</span>
+        </a>
+      </div>
+    </details>
+
+  </div>
+
+  <div class="oug-proposition__next">
+    <p>
+      The complete institutional architecture — governance, curriculum, quality,
+      federation, leadership, strategy, finance and digital infrastructure — is
+      documented openly in this repository.
+    </p>
+
+    <a class="oug-primary-link" href="#start-here">
+      Explore the OUG architecture
+      <span aria-hidden="true">↓</span>
+    </a>
+  </div>
+
+</section>
 
 
 ## Designing a University from First Principles
