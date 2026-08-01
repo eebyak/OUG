@@ -260,12 +260,6 @@ $oug-teal: #2f5d62;
 }
 
 
-
-
-
-
-
-
 /* =========================================================
    OUG homepage proposition cards
    ========================================================= */
@@ -282,18 +276,16 @@ $oug-teal: #2f5d62;
 
 .oug-proposition__eyebrow {
   margin: 0 0 0.5rem;
-
   color: #2f5d62;
   font-size: 0.84rem;
-  font-weight: 750;
+  font-weight: 700;
   letter-spacing: 0.09em;
   text-transform: uppercase;
 }
 
 .oug-proposition__intro h2 {
-  margin: 0 auto 0.8rem;
   max-width: 790px;
-
+  margin: 0 auto 0.8rem;
   color: #173f45;
   font-size: clamp(1.65rem, 3vw, 2.45rem);
   line-height: 1.15;
@@ -302,7 +294,6 @@ $oug-teal: #2f5d62;
 .oug-proposition__intro > p:last-child {
   max-width: 720px;
   margin: 0 auto;
-
   color: #516267;
   font-size: 1.04rem;
   line-height: 1.65;
@@ -315,15 +306,18 @@ $oug-teal: #2f5d62;
   align-items: start;
 }
 
-/* Individual expandable card */
+
+/* =========================================================
+   Individual expandable cards
+   ========================================================= */
 
 .oug-story-card {
+  --oug-banner-accent: #2f5d62;
+
   position: relative;
   overflow: hidden;
-
   border: 1px solid rgba(47, 93, 98, 0.2);
   border-radius: 17px;
-
   background: #ffffff;
   box-shadow: 0 6px 20px rgba(18, 49, 54, 0.08);
 
@@ -331,6 +325,21 @@ $oug-teal: #2f5d62;
     transform 180ms ease,
     border-color 180ms ease,
     box-shadow 180ms ease;
+}
+
+/* 01 — unmet need */
+.oug-story-card--need {
+  --oug-banner-accent: #b87935;
+}
+
+/* 02 — institutional design */
+.oug-story-card--design {
+  --oug-banner-accent: #3d747a;
+}
+
+/* 03 — proof of concept */
+.oug-story-card--proof {
+  --oug-banner-accent: #557b98;
 }
 
 .oug-story-card:hover {
@@ -354,124 +363,90 @@ $oug-teal: #2f5d62;
   display: none;
 }
 
+.oug-story-card summary::marker {
+  content: "";
+}
+
 .oug-story-card summary:focus-visible {
   outline: 3px solid rgba(47, 93, 98, 0.45);
   outline-offset: -3px;
 }
 
-/* Card image */
+
 /* =========================================================
-   Proposition-card banner images
+   Card banners
    ========================================================= */
 
-/* Individual strip colours */
-
-.oug-story-card--need {
-  --oug-card-strip-top: #b87935;
-  --oug-card-strip-bottom: #75431f;
-}
-
-.oug-story-card--design {
-  --oug-card-strip-top: #3d747a;
-  --oug-card-strip-bottom: #204d52;
-}
-
-.oug-story-card--proof {
-  --oug-card-strip-top: #557b98;
-  --oug-card-strip-bottom: #2c4b65;
-}
-
 /*
-  The image itself determines the height.
-  All banner files use a 5:1 aspect ratio.
+  All three source images use a 5:1 aspect ratio.
+
+  The accent is a separate flex item. The image therefore keeps
+  its own proportions instead of being squeezed into a grid,
+  placed inside empty teal space, or cropped differently at
+  different browser widths.
 */
 
 .oug-story-card__visual {
   position: relative;
-  display: grid;
-  grid-template-columns: 22px minmax(0, 1fr);
-
+  display: flex;
+  align-items: stretch;
   width: 100%;
-  height: auto;
   overflow: hidden;
   padding: 0;
-
   background: #2f5d62;
 }
 
-/* Coloured lead-in column */
-
 .oug-story-card__visual::before {
   content: "";
-
-  grid-column: 1;
-  grid-row: 1;
-
-  width: 100%;
-  height: 100%;
-
-  background: linear-gradient(
-    180deg,
-    var(--oug-card-strip-top) 0%,
-    var(--oug-card-strip-bottom) 100%
-  );
+  flex: 0 0 14px;
+  width: 14px;
+  background: var(--oug-banner-accent);
 }
-
-/* Full banner without cropping */
 
 .oug-story-card__visual img {
   display: block;
-
-  grid-column: 2;
-  grid-row: 1;
-
-  width: 100%;
+  flex: 1 1 auto;
+  width: calc(100% - 14px);
   height: auto;
   aspect-ratio: 5 / 1;
   max-width: none;
-
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
+  transition: opacity 180ms ease;
 }
 
-/* Very subtle overlay over the photograph only */
-
+/* Very light lower-edge shading without changing the crop. */
 .oug-story-card__visual::after {
   content: "";
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 22px;
+  left: 14px;
   z-index: 1;
-
   pointer-events: none;
 
   background: linear-gradient(
     180deg,
-    rgba(8, 25, 29, 0) 55%,
-    rgba(8, 25, 29, 0.12) 100%
+    rgba(8, 25, 29, 0) 62%,
+    rgba(8, 25, 29, 0.10) 100%
   );
 }
 
-/* Subtle hover without enlarging or cropping the image */
-
-.oug-story-card__visual img {
-  transition: opacity 180ms ease;
-}
-
 .oug-story-card:hover .oug-story-card__visual img {
-  opacity: 0.96;
+  opacity: 0.97;
 }
 
-/* Main card heading */
+
+/* =========================================================
+   Card heading and toggle
+   ========================================================= */
 
 .oug-story-card__summary {
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   gap: 0.75rem;
   align-items: start;
-
   padding: 1.15rem 1.15rem 0.85rem;
 }
 
@@ -479,31 +454,26 @@ $oug-teal: #2f5d62;
   display: flex;
   align-items: center;
   justify-content: center;
-
   width: 34px;
   height: 34px;
   border-radius: 50%;
-
   background: #e3eeee;
   color: #2f5d62;
-
   font-size: 0.78rem;
   font-weight: 800;
 }
 
 .oug-story-card__label {
   margin: 0 0 0.3rem;
-
   color: #2f5d62;
   font-size: 0.78rem;
-  font-weight: 750;
+  font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
 .oug-story-card__summary h3 {
   margin: 0;
-
   color: #173f45;
   font-size: 1.09rem;
   line-height: 1.32;
@@ -511,12 +481,10 @@ $oug-teal: #2f5d62;
 
 .oug-story-card__toggle {
   position: relative;
-
   display: block;
   width: 25px;
   height: 25px;
   margin-top: 3px;
-
   border-radius: 50%;
   background: #eef5f5;
 }
@@ -527,13 +495,10 @@ $oug-teal: #2f5d62;
   position: absolute;
   top: 12px;
   left: 7px;
-
   width: 11px;
   height: 2px;
-
   border-radius: 2px;
   background: #2f5d62;
-
   transition: transform 180ms ease;
 }
 
@@ -545,27 +510,26 @@ $oug-teal: #2f5d62;
   transform: rotate(0);
 }
 
-/* Key facts */
+
+/* =========================================================
+   Card metrics
+   ========================================================= */
 
 .oug-story-card__metrics {
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
-
   padding: 0 1.15rem 1.15rem;
 }
 
 .oug-story-card__metrics span {
   display: inline-flex;
   align-items: center;
-
   min-height: 29px;
   padding: 0.3rem 0.62rem;
-
   border-radius: 999px;
   background: #eff5f5;
   color: #456064;
-
   font-size: 0.76rem;
   line-height: 1.25;
 }
@@ -575,11 +539,13 @@ $oug-teal: #2f5d62;
   color: #1f555b;
 }
 
-/* Expanded text */
+
+/* =========================================================
+   Expanded card content
+   ========================================================= */
 
 .oug-story-card__body {
   padding: 0 1.15rem 1.25rem;
-
   border-top: 1px solid rgba(47, 93, 98, 0.13);
   animation: oug-card-open 220ms ease;
 }
@@ -607,13 +573,10 @@ $oug-teal: #2f5d62;
 .oug-story-card__body blockquote {
   margin: 1rem 0;
   padding: 0.8rem 0.9rem;
-
   border-left: 4px solid #2f5d62;
   border-radius: 0 9px 9px 0;
-
   background: #f1f6f6;
   color: #234d52;
-
   font-size: 0.94rem;
   font-style: italic;
 }
@@ -622,10 +585,8 @@ $oug-teal: #2f5d62;
   display: inline-flex;
   gap: 0.45rem;
   align-items: center;
-
   margin-top: 0.25rem;
   color: #256068;
-
   font-size: 0.9rem;
   font-weight: 700;
   text-decoration: none;
@@ -655,27 +616,26 @@ $oug-teal: #2f5d62;
   }
 }
 
-/* Closing invitation */
+
+/* =========================================================
+   Closing invitation
+   ========================================================= */
 
 .oug-proposition__next {
   display: flex;
   gap: 1.25rem;
   align-items: center;
   justify-content: space-between;
-
   margin-top: 1.4rem;
   padding: 1.15rem 1.3rem;
-
   border: 1px solid rgba(47, 93, 98, 0.2);
   border-radius: 14px;
-
   background: #f2f7f7;
 }
 
 .oug-proposition__next p {
   max-width: 730px;
   margin: 0;
-
   color: #40575b;
   font-size: 0.94rem;
   line-height: 1.5;
@@ -686,13 +646,10 @@ $oug-teal: #2f5d62;
   flex: 0 0 auto;
   gap: 0.45rem;
   align-items: center;
-
   padding: 0.67rem 0.9rem;
   border-radius: 9px;
-
   background: #2f5d62;
   color: #ffffff !important;
-
   font-size: 0.88rem;
   font-weight: 700;
   text-decoration: none !important;
@@ -702,27 +659,21 @@ $oug-teal: #2f5d62;
   background: #214b50;
 }
 
-/* Tablet */
+
+/* =========================================================
+   Tablet
+   ========================================================= */
 
 @media screen and (max-width: 930px) {
   .oug-card-grid {
     grid-template-columns: 1fr;
   }
-
-  .oug-story-card {
-    display: grid;
-    grid-template-columns: minmax(190px, 30%) 1fr;
-  }
-
-  .oug-story-card summary,
-  .oug-story-card__body {
-    grid-column: 1 / -1;
-  }
-
-  
 }
 
-/* Mobile */
+
+/* =========================================================
+   Mobile
+   ========================================================= */
 
 @media screen and (max-width: 700px) {
   .oug-proposition {
@@ -741,14 +692,26 @@ $oug-teal: #2f5d62;
     gap: 0.85rem;
   }
 
-  .oug-story-card {
-    display: block;
+  .oug-story-card__visual::before {
+    flex-basis: 10px;
+    width: 10px;
   }
 
-  
+  .oug-story-card__visual img {
+    width: calc(100% - 10px);
+  }
+
+  .oug-story-card__visual::after {
+    left: 10px;
+  }
 
   .oug-story-card__summary {
+    gap: 0.65rem;
     padding: 1rem 0.95rem 0.75rem;
+  }
+
+  .oug-story-card__summary h3 {
+    font-size: 1.04rem;
   }
 
   .oug-story-card__metrics {
@@ -768,9 +731,13 @@ $oug-teal: #2f5d62;
   }
 }
 
-/* Respect reduced-motion preferences */
+
+/* =========================================================
+   Reduced motion
+   ========================================================= */
 
 @media (prefers-reduced-motion: reduce) {
+  .diagram-preview,
   .oug-story-card,
   .oug-story-card__visual img,
   .oug-story-card__toggle::before,
@@ -783,5 +750,3 @@ $oug-teal: #2f5d62;
     animation: none;
   }
 }
-
-
