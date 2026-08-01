@@ -305,7 +305,8 @@ This work distinguishes between:
 
 ---
 
-## Start Here
+
+<h2 id="start-here">Start Here</h2>
 
 The repository is organised into eight connected domains. Each domain overview explains the role of its documents and provides direct access to the current material.
 
