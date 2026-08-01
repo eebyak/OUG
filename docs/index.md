@@ -53,7 +53,7 @@
       <summary>
         <div class="oug-story-card__visual">
           <img
-            src="{{ '/images/oug-advertisement.png' | relative_url }}"
+            src="{{ '/images/banner1.png' | relative_url }}"
             alt=""
             aria-hidden="true"
           >
@@ -106,7 +106,7 @@
       <summary>
         <div class="oug-story-card__visual oug-story-card__visual--logo">
           <img
-            src="{{ '/images/Logo2-small.png' | relative_url }}"
+            src="{{ '/images/banner2.png' | relative_url }}"
             alt="Open University of Germany"
           >
         </div>
@@ -165,7 +165,7 @@
       <summary>
         <div class="oug-story-card__visual">
           <img
-            src="{{ '/images/oug-advertisement.png' | relative_url }}"
+            src="{{ '/images/banner3.png' | relative_url }}"
             alt=""
             aria-hidden="true"
           >
