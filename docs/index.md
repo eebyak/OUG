@@ -104,7 +104,7 @@
     <!-- CARD 2 -->
     <details class="oug-story-card oug-story-card--design">
       <summary>
-        <div class="oug-story-card__visual oug-story-card__visual">
+        <div class="oug-story-card__visual">
           <img
             src="{{ '/images/banner2.png' | relative_url }}"
             alt="Open University of Germany"
