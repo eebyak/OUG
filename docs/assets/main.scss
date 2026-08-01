@@ -116,3 +116,147 @@ $oug-teal: #2f5d62;
     max-height: 86vh;
   }
 }
+
+
+/* =========================================================
+   OUG homepage hero
+   ========================================================= */
+
+.oug-hero {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  min-height: 380px;
+  margin: 0 0 2rem;
+  overflow: hidden;
+
+  border-radius: 18px;
+  background: #123b42;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.18);
+}
+
+.oug-hero__background {
+  position: absolute;
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* Darkens the image enough for readable white text */
+.oug-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+
+  background:
+    linear-gradient(
+      180deg,
+      rgba(8, 20, 24, 0.05) 0%,
+      rgba(8, 20, 24, 0.22) 45%,
+      rgba(8, 20, 24, 0.82) 100%
+    ),
+    linear-gradient(
+      90deg,
+      rgba(18, 59, 66, 0.46) 0%,
+      rgba(18, 59, 66, 0.08) 65%
+    );
+}
+
+.oug-hero__logo {
+  position: absolute;
+  top: 22px;
+  left: 22px;
+  z-index: 2;
+
+  padding: 10px 15px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 14px;
+
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.16);
+
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.oug-hero__logo img {
+  display: block;
+  width: 260px;
+  max-width: 48vw;
+  height: auto;
+}
+
+.oug-hero__content {
+  position: relative;
+  z-index: 2;
+
+  max-width: 790px;
+  padding: 2rem 2rem 1.8rem;
+  color: #ffffff;
+}
+
+.oug-hero__kicker {
+  margin-bottom: 0.7rem;
+
+  color: #d4ebe8;
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.oug-hero__content h1 {
+  margin: 0 0 0.8rem;
+
+  color: #ffffff;
+  font-size: clamp(2rem, 4.5vw, 3.35rem);
+  font-weight: 800;
+  line-height: 1.06;
+}
+
+.oug-hero__content p {
+  max-width: 62ch;
+  margin: 0;
+
+  color: rgba(255, 255, 255, 0.94);
+  font-size: 1.08rem;
+  line-height: 1.55;
+}
+
+@media screen and (max-width: 700px) {
+  .oug-hero {
+    min-height: 330px;
+    border-radius: 13px;
+  }
+
+  .oug-hero__background {
+    object-position: 58% center;
+  }
+
+  .oug-hero__logo {
+    top: 13px;
+    left: 13px;
+    padding: 7px 10px;
+    border-radius: 10px;
+  }
+
+  .oug-hero__logo img {
+    width: 185px;
+    max-width: 70vw;
+  }
+
+  .oug-hero__content {
+    padding: 1.4rem 1.2rem 1.25rem;
+  }
+
+  .oug-hero__content p {
+    font-size: 1rem;
+  }
+}
+
+
