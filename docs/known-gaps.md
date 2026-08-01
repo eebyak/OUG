@@ -3,6 +3,11 @@ layout: page
 title: "Known Gaps"
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/Logo1-small.png">
+  <img src="images/Logo2-small.png" alt="OUG logo — an open book/gate whose three connected nodes represent distinct institutions and learners joined through a common academic structure, with the connecting lines standing for recognition across that federation" width="380">
+</picture>
+
 [← Back to main index](index.md)
 
 The OUG document architecture is substantial but not yet fully reconciled, legally reviewed, operationally implemented, or externally validated.
