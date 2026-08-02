@@ -8,6 +8,27 @@ title: Governance & Decision Framework
 > **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
 > **Position in the document architecture:** this framework operationalises the [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html) and informs the interpretation and development of the [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md), without replacing legally binding statutory competences. It is the base document that [`governance-principles-assessment.md`](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-principles-assessment.md) and several other converted documents in this repository cite simply as "the Governance Architecture."
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#governance">
+    <img
+      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      alt="OUG Governance">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="governance" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      alt="Enlarged OUG Governance">
+  </div>
+</div>
+
 ## 0. Purpose and Scope of the Governance & Decision Framework
 
 This Governance & Decision Framework specifies how the Open University of Germany (OUG) exercises authority, participation, and accountability in a legally compliant and academically robust manner. It operationalises the Strategy Constitution by translating constitutional principles into a clear architecture of decision-making, governance roles, and escalation paths. The framework ensures that strategic direction, academic quality, and operational execution are coherently aligned while remaining adaptable to change.
