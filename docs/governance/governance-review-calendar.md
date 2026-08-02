@@ -17,7 +17,7 @@ title: "Governance Review Calendar"
 <div class="diagram-block">
   <a class="diagram-preview" href="#calender">
     <img
-      src="{{ '../images/governance-review-calender.png' | relative_url }}"
+      src="{{ '/images/governance-review-calender.png' | relative_url }}"
       alt="OUG calender">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -30,7 +30,7 @@ title: "Governance Review Calendar"
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/governance-review-calender.png' | relative_url }}"
+      src="{{ '/images/governance-review-calender.png' | relative_url }}"
       alt="Enlarged OUG calender">
   </div>
 </div>
