@@ -20,7 +20,7 @@ title: "Mission Hub Permeability Architecture"
 <div class="diagram-block">
   <a class="diagram-preview" href="#mission-hub-permeability">
     <img
-      src="{{ '../images/mission-hub-permeability.png' | relative_url }}"
+      src="{{ '/images/mission-hub-permeability.png' | relative_url }}"
       alt="OUG Mission Hub">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -33,7 +33,7 @@ title: "Mission Hub Permeability Architecture"
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/mission-hub-permeability.png' | relative_url }}"
+      src="{{ '/images/mission-hub-permeability.png' | relative_url }}"
       alt="Enlarged OUG Mission Hub">
   </div>
 </div>
