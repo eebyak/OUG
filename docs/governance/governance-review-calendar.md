@@ -6,13 +6,21 @@ title: "Governance Review Calendar"
 *Open University of Germany · Governance Architecture · 2026*
 
 > **Source:** migrated from `OUG Governance Review Calendar.docx`
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
+> **Status:** *(to be set — see [Document Status](../index.md#document-status))* · **Version:** v3.0
 
 *Scheduled Legitimacy Reviews for Every Significant Governance Structure*
 
 > **Why this document exists.** Governance structures accumulate legitimacy through age and familiarity. A committee that has existed for ten years is experienced as a natural feature of the institution rather than a design decision that can be revisited. The cost of changing any element is visible and immediate. The cost of not changing is invisible and deferred. Left unmanaged, this asymmetry produces institutional calcification — the Frozen Structure antipattern (AP-20).
 >
 > The Governance Review Calendar prevents this by making structural revision a normal, scheduled operation rather than a crisis. Every significant governance structure has a review date. At that date, the structure must justify its continued existence against its current purpose. Structures that pass are confirmed. Structures that fail are reformed or retired. New structures are created with explicit review triggers.
+
+---
+
+## I. The Review Process
+
+Each governance structure review has three steps. First, the structure's current owners produce a one-page Legitimacy Statement: what is this structure for, what evidence shows it is still serving that purpose, and what would the institution lose if it did not exist? Second, a reviewer designated by the Hochschulrat (not the structure's own members) reads the Legitimacy Statement and the structure's record from the past cycle and produces a one-page Review Finding: confirmed, reformed (with specific required changes), or retired (with a transition plan). Third, the Hochschulrat endorses the Finding at its next scheduled meeting. The entire process takes no more than four weeks.
+
+The review is not a performance evaluation of the people who serve in the structure. It is a legitimacy assessment of the structure itself. A structure may be served by excellent people and still be no longer fit for its purpose. Equally, a structure that is struggling may need better support rather than retirement. The review asks the structural question, not the personal one.
 
 <div class="diagram-block">
   <a class="diagram-preview" href="#calender">
@@ -36,14 +44,6 @@ title: "Governance Review Calendar"
 </div>
 ---
 
-## I. The Review Process
-
-Each governance structure review has three steps. First, the structure's current owners produce a one-page Legitimacy Statement: what is this structure for, what evidence shows it is still serving that purpose, and what would the institution lose if it did not exist? Second, a reviewer designated by the Hochschulrat (not the structure's own members) reads the Legitimacy Statement and the structure's record from the past cycle and produces a one-page Review Finding: confirmed, reformed (with specific required changes), or retired (with a transition plan). Third, the Hochschulrat endorses the Finding at its next scheduled meeting. The entire process takes no more than four weeks.
-
-The review is not a performance evaluation of the people who serve in the structure. It is a legitimacy assessment of the structure itself. A structure may be served by excellent people and still be no longer fit for its purpose. Equally, a structure that is struggling may need better support rather than retirement. The review asks the structural question, not the personal one.
-
----
-
 ## II. The Calendar
 
 The table below specifies every significant OUG governance structure, its review frequency, its next scheduled review date (anchored to the Year 1 operational start), and the body responsible for the review finding.
@@ -64,7 +64,7 @@ The table below specifies every significant OUG governance structure, its review
 | **Bug Protocol** | G4/OKR | Annual | Is the Protocol producing structural responses (not individual blame)? Is it being used or avoided? | Rector reviews; G1 noting |
 | **Governance Mentor Pool** | Cross-layer | Every 2 years | Are mentors providing genuine development support? Is the pool composition still relevant to current role-holder needs? | G2/G3 joint review |
 
-> **Note:** the "Bug Protocol" row references a mechanism that hasn't been located as a standalone document anywhere in this repository — it's tracked in [known-gaps.md](../known-gaps.md) under Governance as one of the items chapter 17 expected to find but couldn't confirm. This Calendar entry is further evidence the mechanism is real and referenced consistently, even though the document itself remains unfiled or unwritten.
+> **Note:** the "Bug Protocol" is fully specified in [`strategy/okr-framework-dashboard.md`](../strategy/okr-framework-dashboard.md) § IV — a five-step process (Flag → Diagnose → Classify → Act → Learn) triggered when a Key Result scores below 0.4. Previously logged here as an unlocated mechanism; confirmed and resolved once the OKR Framework document itself was located. Referenced directly from [Grundordnung § 8 Absatz 10](grundordnung.md#-8-mission-hubs-fakultäten) and the [Mission Hub Challenge Framework](mission-hub-challenge-framework.md) § IV.
 >
 > **Note on the Community Circle row:** this structure was established in [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md) § 5 Absatz 14 and detailed in the [Governance & Decision Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-architecture.md) §§ 4.3 and 5.2, as a deliberate response to Senate meetings functioning as approval formalities rather than genuine strategic deliberation. Because it is new, its first review is scheduled at 2 years rather than matched immediately to the Senate's 3-year cycle — the shorter initial interval is intentional, so that if the Community Circle degrades into the same signature-moment pattern it was created to avoid, that failure is caught early rather than in three years' time.
 
@@ -79,3 +79,4 @@ Unscheduled reviews follow the same three-step process as scheduled reviews. The
 ---
 
 *Open University of Germany · Governance Review Calendar · SP-2 Gap Closure · 2026*
+ 
