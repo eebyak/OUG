@@ -5,213 +5,187 @@ title: "Federated Participation & Incentive Framework"
 
 
 *Open University of Germany · Institutional Document · Incentive Layer*
-*Version 1.0 · 2026*
+*Version 2.0 · 2026*
 
-> **Source:** migrated from `OUG Federated Participation Incentive Framework.docx`
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Note:** this document refers to a "Supervisory Board" and a "Finance Committee" as governance bodies with specific authority (setting the Tariff Schedule, approving compensation model changes). Neither term appears in any governance document converted elsewhere in this repository — the closest equivalents by function would be the Hochschulrat (G1) and a G2-level financial function, but this document doesn't map onto that vocabulary explicitly. Logged in [conversion-notes.md](conversion-notes.md) rather than silently renamed, since it's not clear whether "Supervisory Board" is a deliberate distinct body or an earlier-draft name for the Hochschulrat.
+> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
+> **Document role:** this framework explains why partner institutions and individual academic contributors participate in the OUG federation, and how compensation and non-financial incentives sustain that participation over time. **This version corrects two things the previous version got wrong**, both flagged in its own original conversion note: (1) it granted partner institutions Senate seats, which the LHG does not permit for an ordinarily-organised Hochschule (see § II below); (2) it named a "Supervisory Board" and "Finance Committee" without mapping them to this repository's actual governance vocabulary. Both are resolved below.
 
 ## Why Partner Universities and Academic Staff Participate in the OUG Federation — and How the OUG Sustains That Participation Over Time
 
-> **Preamble.** The federated model of the Open University of Germany depends on voluntary participation by partner universities and individual academic contributors. This participation is not guaranteed by contractual obligation alone. It must be earned through a value proposition that is concrete, fair, and sustained over time. This Framework answers the question that every potential partner will ask before committing to the federation: what do we gain, what do we give, and what protects us if things change? It is addressed to institutional partners, individual academic contributors, and accreditation bodies that need to understand whether the OUG's federated model is financially and organisationally viable over the long term.
+> **Preamble.** The federated model of the Open University of Germany depends on voluntary participation by partner universities and individual academic contributors. This participation is not guaranteed by contractual obligation alone. It must be earned through a value proposition that is concrete, fair, and sustained over time. This Framework answers the question that every potential partner will ask before committing to the federation: what do we gain, what do we give, and what protects us if things change?
 
 ---
 
 ## I. The Logic of the Federation: Why Partners Participate
 
-The OUG federation is not an act of institutional generosity by partner universities. It is a value exchange — one that must be sufficiently attractive on both sides to be sustainable. Understanding why partners participate requires being clear about what the OUG offers, what it asks, and why the exchange is structurally sound rather than contingent on goodwill.
-
 ### What the OUG Offers
 
-For partner universities, participation in the OUG federation creates access to four categories of value that would be difficult or impossible to generate independently.
+**New students, not competing students.** The OUG targets learners who cannot or will not access traditional university education. Partner universities that contribute teaching to OUG programmes reach a student cohort their own structures do not and cannot serve.
 
-**New students, not competing students.** The OUG targets learners who cannot or will not access traditional university education: working adults, caregivers, people in geographic locations without local university access, and international learners seeking German-accredited qualifications. These learners are not choosing between the OUG and a partner university. They are choosing between the OUG and no university at all. Partner universities that contribute teaching to OUG programmes reach a student cohort that their own structures do not and cannot serve.
+**ECTS-based revenue for existing academic capacity.** Contributing teaching capacity to OUG programmes generates direct, transparent revenue — calculated per ECTS credit delivered and verified through the quality assurance cycle.
 
-**ECTS-based revenue for existing academic capacity.** Partner universities hold academic expertise and teaching capacity that is rarely fully utilised across all periods and programme areas. Contributing this capacity to OUG programmes generates direct, transparent revenue — calculated per ECTS credit delivered and verified through the quality assurance cycle — without requiring additional infrastructure investment. This is revenue for capacity that already exists.
+**Structural standing in a new institutional type.** Partner universities that join the federation hold structural participation through the Programme Development Forum, External Cooperation Councils, and — for the specific Mission Hub their contribution serves — that Hub's Advisory Panel. **This corrects the previous version's promise of "Senate representation for long-term partners"** — see § II below for why, and for what actually replaces it.
 
-**Governance standing in a new institutional type.** Partner universities that join the federation are not merely service providers. They hold governance rights within the OUG — through Senate representation for long-term partners and through Mission Hub participation for all active contributors. This standing creates genuine influence over the academic direction of an institution whose growth trajectory may be significant. Early partners shape the OUG; later partners inherit the institution that early partners built.
-
-**Research and academic network effects.** Participation in OUG Research Clusters connects academic contributors to colleagues at other partner institutions across the federated network. Interdisciplinary collaborations, joint publications, and doctoral co-supervision arrangements that would not otherwise occur become structurally accessible. For smaller partner institutions in particular, the research network effect of federation may exceed the financial incentive.
+**Research and academic network effects.** Participation in OUG Research Clusters and Research Groups connects academic contributors to colleagues across the federated network.
 
 ### What the OUG Asks
 
-The value exchange requires contribution as well as benefit. Partner universities that join the federation commit to: providing teaching contributions that meet OUG quality standards, delivered by academic staff whose qualifications meet the requirements of the relevant programme; maintaining the quality of their contributions through participation in OUG quality assurance processes, including programme reviews and academic contributor assessments; respecting the academic authority of the OUG over degree standards (partner institutions contribute teaching; the OUG awards degrees — this distinction is non-negotiable and constitutionally anchored); and engaging in good faith with the governance processes through which federation members collectively shape the academic direction of the OUG.
-
-These obligations are proportionate to the rights and revenues that partnership confers. They are the conditions that make the partnership credible — and that protect all partners from the free-rider problem that would otherwise undermine the federation's academic integrity.
-
-> A federation that protects academic standards protects every partner's reputation. The obligations of partnership are the same mechanisms that ensure the OUG degree is worth something — for students, for employers, and for the partner universities whose teaching contributes to it.
+Partner universities commit to: teaching contributions meeting OUG quality standards; participation in OUG quality assurance processes; respect for OUG's academic authority over degree standards; good-faith engagement with the governance processes through which the federation shapes its academic direction — meaning the mechanisms in § III below, not a seat at a vote.
 
 ---
 
-## II. Incentive Architecture: Four Participation Types
+## II. Why Institutional Senate Seats Are Not the Model — and What Replaces Them
 
-Participation in the OUG federation takes four distinct forms, each with a corresponding incentive structure. Partners may operate at one or more levels simultaneously. The four types are not a hierarchy — they are different configurations of the same underlying value exchange, adapted to different institutional contexts and strategic interests.
+**This section did not exist in the previous version and is added specifically to correct it, rather than silently deleting the claim.**
+
+The previous version's Type B and Type C partnership tiers promised "Senate representation rights (one seat per active Programme Partner)" and "enhanced Senate representation" for deeper engagement. This is not available under the law governing OUG. The Grundordnung's Senate composition is fixed by LHG § 10 Absatz 1 and § 19: seats belong to elected representatives of statutory *person* groups (Hochschullehrer, Akademische Mitarbeiter, Studierende, sonstige Mitarbeiter), not to institutions. An institution cannot hold a Senate seat under this law — this is not a policy choice OUG could make more generously; it is a structural fact about what kind of entity OUG is.
+
+It is worth being precise about why, because the law is not uniformly this restrictive: the DHBW (Duale Hochschule Baden-Württemberg) *does* give its Duale Partner companies one institutional vote each in relevant Gremien, under a specific statutory architecture (§ 10 Absatz 1, § 65c LHG) built for a dual-education system. OUG is not organised as a DHBW-equivalent dual system, so this precedent doesn't transfer — but its existence means "no institutional votes" is a fact about OUG's specific legal form, not a general limitation German higher education law imposes on all federated institutions.
+
+**What replaces the promised institutional Senate seat, and is real rather than aspirational:**
+
+1. **Individual academics with sustained institutional commitment can hold real votes** — not the institution, but the person, engaged through a Freistellungsvereinbarung (Federated Legal Model § 7 Model B), which the Grundordnung already grants full active-and-passive Wahlrecht under § 12 Absatz 1 Nummer 3. A Strategic Partner institution that releases a senior academic into a substantial OUG role gives that academic real governance standing — earned individually, not allocated institutionally.
+2. **The Programme Development Forum** gives every contributing partner's Programme Director a genuine, documented contribution right into programme design (Partner Membership Framework, Right 2) — not a vote, but not merely consultative either.
+3. **External Cooperation Councils**, annually, and **Mission Hub Advisory Panels**, annually and Hub-specific, give partner institutions structured voice with — for the Advisory Panel specifically — an explicit Duty to Voice and a public Communiqué, which is a different and in some ways stronger form of influence than a single vote diluted among 21 Senate seats.
+
+Partner institutions considering deeper engagement should understand this honestly: **there is no institutional path to a Senate vote, at any partnership tier.** There is a real path to individual voting standing for academics whose engagement becomes substantial enough — and that path is available regardless of which Type the partner institution otherwise occupies.
+
+---
+
+## III. Incentive Architecture: Four Participation Types
+
+Participation in the OUG federation takes four distinct forms. Partners may operate at one or more levels simultaneously.
 
 ### Type A — Teaching Contributor
 
-**What the partner provides.** Teaching contributions to specified OUG modules or programme components, delivered by qualified academic staff. Contributions are scoped, agreed in advance, and subject to OUG quality standards.
+**Provides:** Teaching contributions to specified OUG modules, delivered by qualified academic staff under OUG quality standards.
 
-**What the partner receives.** ECTS-based remuneration at the rate defined in the Tariff Schedule. Recognition in OUG programme documentation. Access to OUG learning infrastructure. Participation in programme-level academic forums.
+**Receives:** ECTS-based remuneration per the Tariff Schedule. Recognition in OUG programme documentation. Access to OUG learning infrastructure. Community Circle advisory voice for contributing academics (Model A engagement).
 
 ### Type B — Programme Partner
 
-**What the partner provides.** Sustained contribution to a defined OUG programme, including teaching, curriculum input, and participation in the programme's academic community. Long-term engagement, typically over multiple academic years.
+**Provides:** Sustained contribution to a defined OUG programme, including curriculum input, over multiple academic years.
 
-**What the partner receives.** All Type A benefits, plus: Senate representation rights (one seat per active Programme Partner); co-branding options within defined guidelines; priority access to OUG doctoral co-supervision arrangements; participation in Research Cluster activities.
+**Receives:** All Type A benefits, plus: **a designated seat in the Programme Development Forum** (corrected from "Senate representation rights"); co-branding options within defined guidelines; priority access to doctoral co-supervision arrangements; Research Cluster/Research Group participation.
 
 ### Type C — Strategic Partner
 
-**What the partner provides.** Broad engagement across multiple OUG programmes and research activities. Contribution to OUG governance at the strategic level. Willingness to serve as an institutional anchor within the federation.
+**Provides:** Broad engagement across multiple OUG programmes and research activities; willingness to serve as an institutional anchor within the federation; readiness to release senior academic staff under a Freistellungsvereinbarung where engagement warrants it.
 
-**What the partner receives.** All Type B benefits, plus: enhanced Senate representation; named partnership status in OUG institutional communications and accreditation documentation; priority in OUG research funding applications as named collaborative partner; joint degree development opportunities.
+**Receives:** All Type B benefits, plus: **priority support in establishing Freistellungsvereinbarungen for staff whose engagement merits Model B status** (corrected from "enhanced Senate representation" — this is the honest replacement: OUG actively supports the paperwork and ministerial approval process that leads to real individual voting standing, rather than promising an institutional seat it cannot deliver); named partnership status in OUG institutional communications; priority in research funding applications; joint degree development discussions (subject to the review-triggered process in Degree and Examination Authority §§ 9–10, not automatic).
 
 ### Type D — Individual Academic Contributor
 
-**What the contributor provides.** Teaching contributions by individual academic staff, acting with the support of their home institution but without a formal institutional partnership agreement. Typically short-term or module-specific.
+**Provides:** Teaching contributions by individual academic staff, with home-institution support but without a formal institutional partnership agreement.
 
-**What the contributor receives.** Direct remuneration per module component or ECTS unit delivered. OUG academic community membership for the duration of engagement, including Mission Hub access and Research Cluster participation. Attribution in OUG programme documentation.
+**Receives:** Direct remuneration per ECTS unit delivered. Community Circle access for the duration of engagement, including Mission Hub Research Group participation. Attribution in OUG programme documentation.
 
 ---
 
-## III. The ECTS-Based Compensation Model
-
-The financial heart of the OUG's incentive architecture is the ECTS-based compensation model. It is designed to be transparent, predictable, and directly aligned with the value that partner contributions generate for the institution.
+## IV. The ECTS-Based Compensation Model
 
 ### The Core Logic
 
-The OUG collects tuition from students. A portion of that tuition is allocated to compensate the academic contributions that make each programme possible. Compensation flows to the institutions and individuals who contributed the teaching from which a student benefited — calculated per ECTS credit completed and verified.
-
-This model has three structural properties that make it sound for a federated institution.
-
-**Transparency.** Every partner can see exactly how compensation is calculated. There are no opaque allocation decisions and no negotiated exceptions. The Tariff Schedule is published, reviewed annually, and applied consistently.
-
-**Alignment.** Partners are compensated when students succeed — when ECTS credits are completed, not merely when teaching is delivered. This aligns the financial interest of partners with the educational interest of students.
-
-**Scalability.** As the OUG grows, compensation flows grow proportionally. Partners who contributed when the institution was small share in the growth they helped create. There is no arbitrary capping of partner revenues.
+Compensation flows to institutions and individuals who contributed teaching from which a student benefited — calculated per ECTS credit completed and verified, not merely delivered. This aligns partner financial interest with student educational interest, and scales with the institution's growth without arbitrary capping.
 
 ### Compensation Structure
 
+**This table corrects the previous version's rate-setting authority column**, which named a "Supervisory Board" and "Finance Committee" without grounding them in this repository's governance vocabulary.
+
 | Component | Basis | Rate-Setting Authority | Review Cycle |
 |---|---|---|---|
-| **Base Rate** | Compensation per ECTS credit completed by an enrolled student in a module to which the partner contributed | Published Tariff Schedule; set by Supervisory Board on Finance Committee recommendation | Annual |
-| **Quality Premium** | Additional compensation where partner contributions receive above-threshold quality assessment in the annual review | Academic Senate recommendation; Finance Committee approval | Annual |
-| **Partnership Tier Supplement** | Additional compensation reflecting sustained partnership commitment (Types B and C) | Supervisory Board; based on partnership tier classification | At partnership renewal |
+| **Base Rate** | Compensation per ECTS credit completed | **Rektorat (G2) proposes and adopts**, per Federated Legal Model § 11(4); Kanzlerin/Kanzler (G4) validates legality and executes | Annual |
+| **Quality Premium** | Additional compensation for above-threshold quality assessment | Quality Commission recommendation (Governance Review Calendar); **Rektorat approval** | Annual |
+| **Partnership Tier Supplement** | Reflects sustained partnership commitment (Types B and C) | **Rektorat**, based on partnership tier classification | At partnership renewal |
 
 ### The OUG Retained Share
 
-The OUG retains a portion of tuition revenue to fund central governance and quality assurance; the Research Office and doctoral support infrastructure; the digital learning platform; and the Academic Community structures in the Community Charter. The retained share is defined in the Financial Plan and disclosed in the annual Institutional Report. It is the institutional overhead that makes the federation viable — funding the infrastructure that makes partner participation valuable.
+OUG retains a portion of tuition revenue to fund central governance, quality assurance, the Research Office, the digital learning platform, and academic community structures — defined in the Financial Plan and disclosed in the annual Institutional Report.
 
-> **Institutional Safeguard.** The minimum Base Rate may not be reduced below the floor defined in the Tariff Schedule without Academic Senate approval. This protection ensures that financial pressures on the OUG central budget cannot be transferred to partners through unilateral rate reductions — a condition essential for long-term partner confidence.
-
----
-
-## IV. Non-Financial Incentives and Academic Value
-
-Financial compensation is necessary but not sufficient to sustain a federation of academic institutions. Universities are communities of inquiry with reputational, academic, and social commitments. The OUG's incentive architecture therefore includes non-financial incentives that address the academic and institutional interests of partners.
-
-**Reputational Association.** Participation in the OUG federation associates partner institutions with a new institutional type designed for accreditation, quality, and long-term viability. As the OUG builds its academic reputation — through its graduates, its research outputs, and its governance quality — that reputation extends to the institutions that contributed to its creation. This association is protected by the OUG's quality standards: it is earned, not merely contractual.
-
-**Access to New Learner Communities.** Partner institutions that contribute to OUG programmes develop knowledge of how to reach and support non-traditional learners. The digital pedagogies, accessibility practices, and modular learning designs that OUG programmes deploy are available to partners through the collaboration. Institutions that engage seriously with OUG programme development build internal capacity for flexible learning that has value beyond the federation.
-
-**Research Network and Doctoral Collaboration.** OUG Research Clusters connect academic contributors from across the federated network. For contributors at smaller partner institutions — where research communities may be thin and interdisciplinary collaboration rare — the Cluster network provides intellectual community that their home institution cannot easily provide independently. This is a genuine academic benefit.
-
-**Governance Influence Over a Growing Institution.** Partner universities that hold Senate seats and participate in Mission Hubs are co-authors of OUG development. The governance architecture is designed so that academic direction is genuinely shaped by the academic community, including partner institution representatives. This influence is most significant in the institution's early years, when foundational decisions are still being made.
+> **Institutional Safeguard.** The minimum Base Rate may not be reduced below the Tariff Schedule floor **without triggering the Senate consent right defined in Federated Legal Model § 11(4)** — that is: where the reduction would materially affect academic standards or programme viability, not as a general Senate veto over rate-setting. **This corrects the previous version's flat "Academic Senate approval" requirement**, which described Senate authority more broadly than the Decision-Rights Matrix actually grants it.
 
 ---
 
-## V. Protections for Partner Institutions
+## V. Non-Financial Incentives and Academic Value
 
-Participation in a federated institution involves dependency. Potential partners need to know that this dependency is bounded and that they are protected against the risks that federation creates.
+**Reputational Association.** Participation associates partner institutions with a new institutional type designed for accreditation, quality, and long-term viability.
+
+**Access to New Learner Communities.** Partner institutions develop knowledge of reaching and supporting non-traditional learners, transferable beyond the federation.
+
+**Research Network and Doctoral Collaboration.** OUG Research Clusters and Research Groups (Federation & Membership Framework § 10) connect academic contributors across the federated network.
+
+**Genuine Influence Over a Growing Institution — Correctly Described.** Partner-affiliated academics who hold real governance standing (through Model B engagement) and partner Programme Directors who contribute through the Programme Development Forum are genuine co-authors of OUG's academic direction. **This is influence exercised individually and structurally, not through an institutional vote** — a real distinction from the previous version's framing, not a weaker one.
+
+---
+
+## VI. Protections for Partner Institutions
 
 ### Autonomy Protection
 
-Partner institutions retain full institutional autonomy. Participation in the OUG federation does not: affect the partner's degree-awarding authority or the independence of its own programmes; create any obligation to modify the partner's internal governance or academic structures; give the OUG any legal authority over the partner's staff, budget, or strategic decisions; or restrict the partner's ability to participate in other academic partnerships.
-
-The OUG's governance authority over partner contributions extends only to the quality of teaching delivered within OUG programmes. It does not extend to the partner institution's wider academic life.
+Participation does not affect a partner's own degree-awarding authority, does not require modifying the partner's internal governance, gives OUG no legal authority over the partner's staff, budget, or strategic decisions beyond the quality of teaching delivered within OUG programmes, and does not restrict other academic partnerships.
 
 ### Financial Transparency and Predictability
 
-Partners have the right to: an annual compensation statement showing all amounts owed and their ECTS basis; a dispute process with independent review; access to the OUG's annual Institutional Report including summary financials; and twelve months' notice of any Tariff Schedule change that would reduce their compensation.
+Partners have the right to: an annual compensation statement; a dispute process with independent review, routed through the [Conflict Escalation Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/conflict-escalation-framework.md) Route 4 (administrative/legal); access to the OUG's annual Institutional Report; twelve months' notice of any Tariff Schedule change reducing their compensation.
 
 ### Exit Rights
 
-Partner institutions may withdraw from the federation with six months' notice (Teaching Contributor) or twelve months' notice (Programme and Strategic Partner), subject to completion of obligations to currently enrolled students. Students enrolled in programmes that rely on a departing partner's teaching are protected through the OUG's programme continuity obligations, including contingency arrangements with alternative teaching contributors.
+Partner institutions may withdraw with six months' (Teaching Contributor) or twelve months' (Programme and Strategic Partner) notice, subject to completion of obligations to currently enrolled students, per the Federated Legal Model § 12 degree-continuity guarantee.
 
 ### Academic Integrity Protection
 
-Partner institutions are protected against association with OUG decisions they did not participate in through the Senate's veto rights over changes to degree standards and academic policies. A partner that disagrees with a proposed policy change can raise its objection through its Senate representative — and, if the change nonetheless proceeds, withdraw from affected programmes without penalty.
+**This corrects the previous version's "Senate's veto rights over changes to degree standards" as a partner-specific grant.** Academic standards sit with the Senate (G3) as a matter of general institutional design, not as a right conferred on partners specifically. What partners genuinely have: a partner that disagrees with a proposed policy change can raise its objection through the Programme Development Forum or its Mission Hub Advisory Panel, and — if the change nonetheless proceeds — withdraw from affected programmes without penalty. That is a real protection; it does not require overstating Senate's structure to be true.
 
 ---
 
-## VI. Incentives for Individual Academic Contributors
+## VII. Incentives for Individual Academic Contributors
 
-Academic staff who contribute to OUG programmes are a distinct constituency with distinct interests. Sustainable federation depends on the willingness of individual academics to engage, not only on institutional agreements.
-
-### Why Individual Contributors Participate
-
-Academic contributors engage with OUG programmes for reasons that are primarily professional and intellectual. The more significant incentives are:
-
-**Reach.** Teaching at OUG means teaching students who are genuinely motivated — who have chosen to study while managing jobs, families, or other significant commitments. For many academic contributors, this student profile is intellectually more engaging than a cohort of traditional undergraduates attending university as a default pathway.
-
-**Interdisciplinary engagement.** OUG programmes cross disciplinary boundaries. Contributors who find their home department intellectually narrow find in the OUG's Mission Hubs and Research Clusters a community of colleagues with complementary interests.
-
-**Institutional building.** Some contributors are motivated by the opportunity to participate in creating a new institutional type. This is not common in a sector characterised by inertia. For those who value it, it is a significant non-financial incentive.
-
-**Attribution and recognition.** Academic contributors are named in OUG programme documentation, listed as community members, and acknowledged in Research Cluster outputs. This attribution matters in academic careers where visibility and association with quality institutions are professionally significant.
+Academic contributors engage for reasons that are primarily professional and intellectual: reach to a genuinely motivated student population; interdisciplinary engagement through Mission Hubs and Research Groups; the opportunity to participate in building a new institutional type; attribution and recognition in academic careers.
 
 ### Workload Protection
 
-The OUG recognises that academic contributors hold primary employment at partner institutions. Module contributions are scoped in advance with agreed time commitments. OUG programme teams do not make ad hoc requests outside the agreed scope without a corresponding compensation adjustment. Governance participation is voluntary for Type D contributors and compensated for sustained engagement beyond a defined threshold. The OUG provides administrative support for delivery so that contributors can focus on intellectual substance.
+Module contributions are scoped in advance with agreed time commitments (Partner Membership Framework § 6). OUG programme teams do not make ad hoc requests outside agreed scope without a corresponding compensation adjustment. Governance participation is voluntary for Type D contributors.
 
 ### Career Development
 
-For early-career contributors, engagement with OUG offers: teaching experience in a professionally designed digital learning environment; exposure to interdisciplinary research through Research Cluster membership; doctoral co-supervision opportunities for contributors with sufficient research standing; and a formal record of OUG contributions for academic CVs and promotion dossiers.
+Teaching experience in a professionally designed digital environment; Research Cluster and Research Group membership; doctoral co-supervision opportunities; a formal record of OUG contributions for academic CVs.
 
 ---
 
-## VII. Sustainability of the Incentive Model Over Time
-
-An incentive architecture that works at founding does not automatically sustain itself as the institution grows and the competitive environment evolves. This section addresses how the OUG ensures the value proposition for partners remains credible over the long term.
+## VIII. Sustainability of the Incentive Model Over Time
 
 ### Annual Partnership Review
 
-Every active partnership arrangement is subject to an Annual Partnership Review covering: teaching contribution quality and student outcomes; compensation accuracy and partner satisfaction; governance participation and Mission Hub engagement; and partner strategic interests and any changes to the partnership scope. Findings feed into the OUG's strategic planning cycle.
+Every active partnership is subject to Annual Partnership Review, feeding into OUG's strategic planning cycle.
 
 ### Tariff Schedule Review
 
-The Tariff Schedule is reviewed annually by the Finance Committee and the Academic Senate, taking into account the OUG's financial position, sector benchmarking, and partner feedback. The outcome of each review is communicated to all partners before the relevant academic year begins.
+Reviewed annually by the **Rektorat, with Quality Commission input on quality-premium criteria**, taking into account OUG's financial position, sector benchmarking, and partner feedback. **This corrects the previous version's "Finance Committee and the Academic Senate" review authority.**
 
 ### Partnership Development Pathway
 
-The OUG actively supports partners in deepening their engagement — from Teaching Contributor to Programme Partner to Strategic Partner — where this serves both parties' interests. This includes dedicated onboarding support, regular development conversations, and tailored integration of partner capabilities into programme development and Research Cluster activities.
-
-> **Long-Term Viability Signal.** The OUG's Financial Plan demonstrates a trajectory from launch-phase dependency on founding contributions to a self-sustaining ECTS-revenue model within the first five years of operation. Compensation rates are set at levels that are sustainable within the OUG's revenue model at scale — not inflated to attract early partners and subsequently reduced. This is the financial integrity assurance that accreditation bodies and potential partners require.
+OUG actively supports partners deepening engagement — from Teaching Contributor to Programme Partner to Strategic Partner, and, for individual academics whose engagement warrants it, toward Model B (Freistellungsvereinbarung) status — through dedicated onboarding support and regular development conversations.
 
 ---
 
-## VIII. Governance of the Incentive Framework
+## IX. Governance of the Incentive Framework
 
-The Federated Participation & Incentive Framework is a strategic governance document. Its administration is shared across two institutional layers:
+**This section replaces the previous version's "Supervisory Board and Finance Committee (G2)" structure entirely**, per the mapping resolved earlier in this repository's development:
 
-**Academic Senate (G3).** Responsible for ensuring that the incentive model does not compromise academic quality. The Senate approves changes to partner governance rights, reviews annual partnership quality data, and holds veto authority over any change to the compensation model that would reduce partner revenues below the Tariff Schedule floor.
+**Rektorat (G2).** Responsible for the financial sustainability of the compensation model: proposes and adopts the Tariff Schedule, monitors compensation flows, reports to the Hochschulrat on federation financial health.
 
-**Supervisory Board and Finance Committee (G2).** Responsible for the financial sustainability of the compensation model. The Supervisory Board approves the Tariff Schedule annually. The Finance Committee monitors compensation flows and reports to the Supervisory Board on federation financial health.
+**Senat (G3).** Responsible for ensuring the incentive model does not compromise academic quality: the narrow consent right defined in Federated Legal Model § 11(4), reviews annual partnership quality data via the Quality Commission.
 
-**Partnership Office (G4).** Operational unit managing partner relationships, administering compensation calculations, coordinating Annual Partnership Reviews, and supporting partner development. Reports to the Rector and to the Academic Senate's Quality Committee.
+**Hochschulrat (G1).** Institutional oversight — the "Supervisory Board" role the previous version gestured toward without naming — exercises the constitutional-stewardship function where a compensation dispute or partnership structure question rises to that level (Conflict Escalation Framework Route 5).
 
-This shared governance arrangement reflects the dual character of the incentive model: it is both a financial instrument and an academic quality instrument. Neither dimension can be managed well without the other.
-
----
-
-## IX. Entry into Force and Review
-
-This Framework enters into force upon adoption by the OUG Supervisory Board, with the Academic Senate's approval of the academic governance provisions. It is reviewed on a two-year cycle for the first six years of operation — reflecting the dynamic character of the federation in its early phase — and on a four-year cycle thereafter.
-
-This Framework is a foundational document for accreditation and for institutional partnerships. It demonstrates that the OUG has a coherent, institutionally governed approach to sustaining federated participation — one that is fair to partners, protective of academic quality, and financially credible over the long term.
-
-> The OUG does not ask partner universities to trust it. It asks them to evaluate a structure that is transparent, governed, and protective of their interests — and to join on that basis. Trust, where it comes, will be earned by the structure working as described.
+**Partnership Office (G4).** Operational unit managing partner relationships, administering compensation calculations, coordinating Annual Partnership Reviews. Reports to the Kanzlerin/Kanzler and to the Quality Commission.
 
 ---
 
-*Adopted by the OUG Supervisory Board · Version 1.0 · 2026*
-*Open University of Germany · Incentive Layer*
+## X. Entry into Force and Review
+
+This Framework enters into force upon adoption per the [Amendment Procedure](https://github.com/eebyak/OUG/blob/main/docs/governance/amendment-procedure.md). It should be added to the [Governance Review Calendar](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-review-calendar.md) — a 2-year cycle for the first six years of federation operation, 4-year cycle thereafter, is retained from the previous version as a sound proposal, alongside the Partnership Office's existing 3-year review entry.
+
+---
+
+*Open University of Germany · Federated Participation & Incentive Framework · Version 2.0*
