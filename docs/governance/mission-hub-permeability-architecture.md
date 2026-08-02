@@ -8,6 +8,7 @@ title: "Mission Hub Permeability Architecture"
 
 > **Source:** migrated from `OUG Mission Hub Permeability Architecture.docx`
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
+> **Position in the document architecture:** this document governs the *internal* interfaces between Mission Hubs — Hub to Hub. Its outward-facing counterpart, governing how each Hub stays connected to the society whose challenge it organises around, is the **[Mission Hub Advisory Panels](https://github.com/eebyak/OUG/blob/main/docs/governance/mission-hub-advisory-panels.md)** document — one dedicated external panel per Hub, deliberately run on the same annual cycle as the Permeability Review described below, so both questions are asked in the same season.
 
 *Designed Interfaces Between Mission Hubs — Preventing the New Silo*
 
@@ -60,6 +61,8 @@ The Permeability Statement is reviewed by the Senate alongside the Hub's academi
 Permeability is not the dissolution of Hub identity. A Hub that is required to collaborate so extensively that its members have no stable intellectual community is not a Hub — it is a matrix structure without homes, which the dialogue evidence shows to be consistently unsuccessful. The four mechanisms above are minimum requirements, not maximum limits. A Hub may be more permeable than this architecture requires. It may not be less.
 
 Permeability is also not diversity for its own sake. The purpose is specific: to ensure that each Hub encounters intellectual perspectives that its own culture cannot generate, and that this encounter is regular enough to prevent insularity from taking hold. A Hub that invites external presenters but never engages with their ideas has the form of permeability without the substance. The annual Permeability Review exists precisely to distinguish between the two.
+
+**This document's scope is deliberately internal.** It asks whether a Hub is connected to its sibling Hubs and to the wider OUG intellectual community. It does not ask whether the Hub remains relevant to the societal challenge it organises around in the first place — that is a different question, asked by a different body, on the same annual calendar: see the [Mission Hub Advisory Panels](https://github.com/eebyak/OUG/blob/main/docs/governance/mission-hub-advisory-panels.md) document.
 
 ---
 
