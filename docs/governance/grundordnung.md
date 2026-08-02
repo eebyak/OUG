@@ -1,17 +1,12 @@
 ---
 layout: page
-title: "Grundordnung"
---- 
+title: Grundordnung
+---
 
+*Open University of Germany* *Konsolidierte Fassung · 2026*
 
-*Open University of Germany*
-*Konsolidierte Fassung · 2026*
-
-> **Source:** consolidated from `OUG Grundordnung.docx` (original, with placeholder § 7 / § 10) plus `Abschlussbericht zur Vervollständigung der OUG-Grundordnung.docx` (completion report drafting the missing sections against Baden-Württemberg comparator statutes — Freiburg, Tübingen, Ulm, Heidelberg, Mannheim).
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Language note:** dieses Dokument ist auf Deutsch verfasst und wird im Original belassen — als founding statute (Grundordnung) ist es ein Rechtsdokument, das in seiner deutschen Fassung maßgeblich ist.
-> **Note on scope:** § 7 (Kanzler/Kanzlerin) and § 10 (Gleichstellung, Diversität, Chancengerechtigkeit) were placeholder text in the original document. Both are now fully drafted below, and § 16 has been revised to explicitly adopt the Anlagen by reference rather than leaving them as unattached "separate documents." Both Anlagen now exist as one consolidated, linked document — **[Anlagen](anlagen.md)** — built as a link-out index to already-converted repository documents rather than one giant merged file. Anlage 1's First Principles / Design Principles content is deliberately deferred to the book rather than duplicated here — see [Anlagen](anlagen.md) and [conversion-notes.md](conversion-notes.md) for the reasoning.
-> **Resolved:** the earlier open question about whether this document should stand in for chapter 17's "Federated Legal Model" entry has been resolved — the real document surfaced and is now converted separately as [`federated-legal-model.md`](federated-legal-model.md). Both documents exist independently now.
+> **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))*
+> **Language:** This founding statute is published in its authoritative German version.
 
 ## Grundordnung der Open University of Germany (OUG)
 
@@ -24,6 +19,10 @@ Die Open University of Germany versteht sich als eine Hochschule neuen Typs – 
 Die OUG stellt akademisches Vertrauen als Fundament ihres Wirkens über kurzfristige Wachstumslogiken. Sie versteht Zugang nicht als Versprechen bei Immatrikulation, sondern als Ergebnis wirksamer Unterstützung über den gesamten Studienverlauf. Sie begreift Skalierbarkeit als gestaltbare institutionelle Aufgabe, nicht als Selbstzweck.
 
 Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
+
+<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
+  <em>[Diagram placeholder — constitutional architecture: Landeshochschulgesetz → Grundordnung → Rektorat / Senat / Hochschulrat → Mission Hubs → Portfolio Governance → Studienangebote, Prüfungen, Studierende; with Strategic Constitution, Governance Architecture, Federated Legal Model, and Prüfungsordnung as the supporting constitutional framework. To be added.]</em>
+</div>
 
 ---
 
@@ -66,10 +65,10 @@ Die Organe der Hochschule sind:
 
 1. vier Mitglieder des Hochschulrats, von denen mindestens zwei externe Mitglieder des Hochschulrates sein müssen,
 2. vier Mitglieder des Senats, die nicht dem Rektorat angehören, und zwar
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der Hochschullehrerinnen und Hochschullehrer,
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der Akademischen Mitarbeitenden,
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der sonstigen Mitarbeitenden,
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der Studierenden,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der Hochschullehrerinnen und Hochschullehrer,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der Akademischen Mitarbeitenden,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der sonstigen Mitarbeitenden,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der Studierenden,
 3. eine Vertreterin oder ein Vertreter des Wissenschaftsministeriums mit beratender Funktion nach § 18 Absatz 1 LHG,
 4. die Gleichstellungsbeauftragte mit beratender Funktion.
 
@@ -112,6 +111,8 @@ Die Organe der Hochschule sind:
 
 (13) Ein Viertel der Senatsmitglieder kann in allen Angelegenheiten des Senats verlangen, dass das Rektorat den Senat unterrichtet. Jedes Mitglied des Senats kann an das Rektorat schriftliche, elektronische oder in einer Sitzung des Senats mündliche Anfragen über einzelne Angelegenheiten richten, welche in die Zuständigkeit des Senats fallen. Diese sind bis zur übernächsten Senatssitzung zu beantworten.
 
+(14) Zusätzlich zu seinen Sitzungen nach Absatz 1 tagt der Senat vierteljährlich als **Community Circle** in seiner konstitutionellen Identität nach dem Governance & Decision Framework. Der Community Circle dient der vertieften strategischen und akademischen Beratung im Vorfeld förmlicher Beschlussfassungen; er ist selbst kein Beschlussorgan im Sinne des § 2 und ersetzt keine Zuständigkeit nach Absatz 1. Auf Grundlage der Geschäftsordnung nach Absatz 12 können am Community Circle mit beratender Stimme zusätzlich teilnehmen: die Stewards of Missions der Mission Hubs (§ 8 Absatz 4) sowie akademisch affiliierte Personen im Sinne des Federated Legal Model. Stimmberechtigung und Zusammensetzung des Senats nach den Absätzen 4 bis 8 bleiben hiervon unberührt. Die Legitimität dieser Praxis wird im Turnus des Governance Review Calendar überprüft.
+
 ## § 6 Hochschulrat
 
 (1) Dem Hochschulrat gehören fünf externe Mitglieder und vier interne Mitglieder an. Mindestens vier Mitglieder müssen nach § 20 Absatz 3 LHG Frauen sein.
@@ -121,18 +122,16 @@ Die Organe der Hochschule sind:
 (3) Zur Auswahl der Mitglieder des Hochschulrates wird eine Findungskommission gebildet aus:
 
 1. sechs Mitgliedern des Senats, die nicht dem Rektorat angehören, mit Stimmberechtigung, davon
-   - drei Vertreterinnen und Vertreter aus der Gruppe der Hochschullehrerinnen und Hochschullehrer,
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der Akademischen Mitarbeiterinnen und Mitarbeiter,
-   - eine Vertreterin oder ein Vertreter aus der Gruppe der sonstigen Mitarbeiterinnen und Mitarbeiter,
-   - eine Vertreterin oder einem Vertreter aus der Gruppe der Studierenden,
+  - drei Vertreterinnen und Vertreter aus der Gruppe der Hochschullehrerinnen und Hochschullehrer,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der Akademischen Mitarbeiterinnen und Mitarbeiter,
+  - eine Vertreterin oder ein Vertreter aus der Gruppe der sonstigen Mitarbeiterinnen und Mitarbeiter,
+  - eine Vertreterin oder einem Vertreter aus der Gruppe der Studierenden,
 2. einer Vertreterin oder einem Vertreter oder auch mehreren Vertreterinnen und Vertretern des Wissenschaftsministeriums, die in der Summe so viele Stimmen führen, wie Senatsmitglieder der Kommission angehören,
 3. einer Vertreterin oder einem Vertreter des Hochschulrates und der Gleichstellungsbeauftragten als beratende Mitglieder.
 
 (4) Der Hochschulrat gibt sich eine Geschäftsordnung (§ 20 Absatz 11 LHG).
 
 ## § 7 Kanzler / Kanzlerin
-
-*(vollständig ausformuliert — vormals Platzhalter)*
 
 (1) Die Kanzlerin oder der Kanzler ist hauptamtliches Mitglied des Rektorats. Ihr oder ihm obliegen nach Maßgabe des Landeshochschulgesetzes, dieser Grundordnung und der Geschäftsordnung des Rektorats die Wirtschafts- und Personalverwaltung sowie die Leitung der zentralen Hochschulverwaltung.
 
@@ -167,28 +166,26 @@ Die Organe der Hochschule sind:
 
 (6) Die oder der Steward of Missions lädt die Mitglieder des Mission Hub zu den Sitzungen ein. Sie oder er vertritt den Mission Hub in anderen Gremien und teilt Beschlüsse und Vorschläge des Mission Hub dem Rektorat mit.
 
-(7) Mission Hubs sind die primären Orte kollegialer akademischer Selbstorganisation. Sie tragen Verantwortung für die fachliche Kohärenz ihrer Studienangebote, für die Qualität von Lehre und Prüfung sowie für die Abstimmung struktureller Weiterentwicklungen innerhalb ihres Verantwortungsbereichs.
+(7) Mission Hubs sind die primären Orte kollegialer akademischer Selbstverwaltung und akademischer Selbstorganisation. Sie tragen Verantwortung für die fachliche Kohärenz ihrer Studienangebote, für die Qualität von Lehre und Prüfung sowie für die Abstimmung struktureller Weiterentwicklungen innerhalb ihres Verantwortungsbereichs.
 
 (8) Mission Hubs wirken aktiv an der Weiterentwicklung des akademischen Portfolios der Hochschule mit. Sie koordinieren insbesondere solche Änderungen, die über einzelne Module hinausgehen, jedoch innerhalb ihres Verantwortungsbereichs verbleiben.
 
 ## § 9 Portfolio Governance
 
-(1) Die Hochschule entwickelt Studium, Lehre, Prüfungen und Lernorganisation in einem portfolio-basierten Governance-Modell weiter. Dieses dient der strukturierten, lernorientierten und verantwortungsvollen Weiterentwicklung des akademischen Angebots.
+(1) Über die Weiterentwicklung des akademischen Portfolios – insbesondere Einführung, wesentliche Änderung und Einstellung von Studienangeboten, Prüfungsformaten und Modulen – entscheiden die hierfür nach dieser Grundordnung zuständigen Organe und Mission Hubs; § 5 Absatz 1 sowie § 8 Absätze 7 und 8 bleiben unberührt.
 
-(2) Portfolio Governance beschreibt die Prozesse, nach denen Änderungen initiiert, koordiniert, reflektiert und – soweit erforderlich – legitimiert werden. Sie ergänzt die Zuständigkeiten der Organe der Hochschule, ersetzt diese jedoch nicht.
+(2) Änderungen, die die Struktur, den Zuschnitt oder die Kohärenz eines Studienangebots über den jeweiligen Mission Hub hinaus berühren, bedürfen der vorherigen Befassung des betroffenen Mission Hub sowie – soweit die Zuständigkeit des Senats nach § 5 Absatz 1 eröffnet ist – dessen Beschlussfassung. Portfolio Governance regelt insoweit ausschließlich das Verfahren der Vorbereitung, Koordination und Eskalation; sie begründet keine von den §§ 5, 6 und 8 abweichenden Zuständigkeiten und ersetzt diese nicht.
 
-(3) Portfolio Governance stellt sicher, dass
+(3) Entscheidungen im Rahmen der Portfolio Governance müssen gewährleisten, dass
 
-- Innovationen in Lehre und Prüfung ermöglicht und geschützt werden,
-- strukturelle Kohärenz und Vergleichbarkeit gewahrt bleiben,
-- Lern- und Verbesserungsschleifen institutionell verankert sind,
-- die Rechte der Studierenden gewahrt bleiben.
+1. Innovationen in Lehre und Prüfung im Rahmen des geltenden Rechts ermöglicht werden,
+2. strukturelle Kohärenz und Vergleichbarkeit des Studienangebots gewahrt bleiben,
+3. institutionalisierte Rückmeldeverfahren der Weiterentwicklung zugrunde liegen,
+4. die Rechte der Studierenden, insbesondere aus der Prüfungsordnung, unberührt bleiben.
 
-(4) Das Nähere regeln hochschulinterne Ordnungen und Rahmenwerke, insbesondere eine Portfolio-Governance-Ordnung, die vom Rektorat erlassen und dem Senat zur Kenntnis gegeben wird.
+(4) Das Rektorat erlässt im Benehmen mit dem Senat eine Portfolio-Governance-Ordnung, die das Verfahren nach Absatz 2 sowie die Zuständigkeiten der Mission Hubs, des Senats und des Rektorats im Einzelnen regelt. Die Portfolio-Governance-Ordnung darf gesetzliche und satzungsrechtliche Zuständigkeiten der Organe nicht verändern.
 
 ## § 10 Gleichstellung, Diversität, Chancengerechtigkeit
-
-*(vollständig ausformuliert — vormals Platzhalter)*
 
 (1) Die Hochschule fördert bei der Wahrnehmung aller Aufgaben die tatsächliche Gleichstellung von Frauen und Männern, wirkt auf die Beseitigung bestehender Nachteile hin und fördert aktiv die Erhöhung der Anteile von Frauen in allen Bereichen und auf allen Ebenen, in denen sie unterrepräsentiert sind. Sie verfolgt darüber hinaus das Ziel, Diversität zu fördern, chancengerechte Zugänge und Studienverläufe zu ermöglichen sowie Benachteiligungen im Sinne eines diskriminierungssensiblen Hochschulbetriebs abzubauen. Bei allen Entscheidungen sind die möglichen Auswirkungen auf Gleichstellung, Diversität und Chancengerechtigkeit zu berücksichtigen. Für Beschäftigte in Verwaltung, Service und Technik gelten ergänzend die Vorschriften des Chancengleichheitsrechts; Zuständigkeiten der Beauftragten für Chancengleichheit bleiben unberührt.
 
@@ -251,11 +248,9 @@ Die Gremienwahlen werden gemäß der Wahlordnung der Hochschule durchgeführt.
 
 ## § 16 Schlussbestimmungen
 
-*(überarbeitet — zieht Anlage 1 und Anlage 2 nun ausdrücklich durch Verweis ein, statt sie nur als gesonderte Dokumente anzukündigen; ergänzt um Übergangsregelung)*
-
 (1) Diese Grundordnung wird ergänzt durch Anlage 1 „Strategisches Rahmenwerk – First Principles and Derived Institutional Capabilities" und Anlage 2 „Strategic Decision Protocol". Beide Anlagen werden in gesonderten Dokumenten bekannt gemacht und sind in der zusammen mit dieser Grundordnung oder durch Satzung zu ihrer Änderung beschlossenen Fassung Bestandteil dieser Grundordnung.
 
-(2) Anlage 1 konkretisiert die Präambel sowie die in § 1, § 8 und § 9 niedergelegten institutionellen Leitprinzipien und abgeleiteten Handlungsfähigkeiten der Hochschule. Anlage 2 konkretisiert die Grundsätze der Entscheidungszuordnung, Entscheidungsvorbereitung und Eskalation für die Organe und Strukturen dieser Grundordnung. Die gesetzlichen und satzungsrechtlichen Zuständigkeiten der Organe werden dadurch nicht verändert.
+(2) Anlage 1 konkretisiert die Präambel sowie die in § 1, § 8 und § 9 niedergelegten institutionellen Leitprinzipien und abgeleiteten Handlungsfähigkeiten der Hochschule. Die First Principles selbst sind verbindlich in der [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html) (dort Abschnitt 2) definiert; Anlage 1 übernimmt sie von dort als kanonischer Quelle und leitet hieraus die Capability Domains und Fähigkeiten (C1–C19) ab, ohne die Prinzipien hier erneut eigenständig zu formulieren. Anlage 2 konkretisiert die Grundsätze der Entscheidungszuordnung, Entscheidungsvorbereitung und Eskalation für die Organe und Strukturen dieser Grundordnung. Die gesetzlichen und satzungsrechtlichen Zuständigkeiten der Organe werden dadurch nicht verändert.
 
 (3) Diese Grundordnung und ihre Anlagen sind systematisch zusammen auszulegen. Soweit diese Grundordnung für einen Sachverhalt eine abschließende Regelung trifft, geht ihr Wortlaut den Anlagen vor. Im Übrigen sind die Anlagen als verbindliche Konkretisierung und Auslegungshilfe heranzuziehen.
 
@@ -271,5 +266,4 @@ Die Gremienwahlen werden gemäß der Wahlordnung der Hochschule durchgeführt.
 
 ## Anlagen
 
-Beide Anlagen — **Anlage 1** (Strategisches Rahmenwerk) und **Anlage 2** (Strategic Decision Protocol) — sind gemeinsam als ein Dokument geführt: **[Anlagen](anlagen.md)**.
-*(Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3. Anlage 1 verweist bewusst auf das Buch für First Principles und Design Principles, statt diese hier zu duplizieren — siehe dort. Anlage 2 ist weitgehend vollständig.)*
+Beide Anlagen — **Anlage 1** (Strategisches Rahmenwerk) und **Anlage 2** (Strategic Decision Protocol) — sind gemeinsam als ein Dokument geführt: **[Anlagen](https://github.com/eebyak/OUG/blob/main/docs/governance/anlagen.md)**. *(Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3. Die First Principles sind kanonisch in der [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html), Abschnitt 2, definiert und werden von Anlage 1 referenziert statt dupliziert; das Buch erläutert ihre Herleitung. Anlage 2 ist weitgehend vollständig.)*
