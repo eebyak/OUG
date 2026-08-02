@@ -43,6 +43,27 @@ Simon, H. A. (1996). *The sciences of the artificial* (3rd ed.). MIT Press. Simo
 
 Kezar, A., & Eckel, P. D. (2002). The effect of institutional culture on change strategies in higher education: Universal principles or culturally responsive concepts? *The Journal of Higher Education, 73*(4), 435–460. This work supports the argument that generic change strategies fail in higher education, reinforcing the need for institution-specific, principle-driven strategic frameworks rather than standardized planning templates.
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#constituion">
+    <img
+      src="{{ '../images/constitution.png' | relative_url }}"
+      alt="OUG Strategic Constitution">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="constitution.png" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/constitution.png' | relative_url }}"
+      alt="Enlarged OUG Strategic Constitution">
+  </div>
+</div>
 ---
 
 ## Origin Narrative {#origin-narrative}
