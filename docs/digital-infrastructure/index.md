@@ -15,6 +15,30 @@ Every other domain in this repository assumes a working digital platform sits un
 
 It answers four questions in sequence: *why* should European higher education build sovereign digital infrastructure at all (the Manifesto); *what* architecture translates that commitment into decisions (the Architecture Reference Model); *what*, specifically, must each functional part of the platform do (the Functional Domain Specifications); and *how does an institution know* whether it has actually achieved what it committed to (the Evaluation Framework).
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#digitalisation">
+    <img
+      src="{{ '/images/digitalisation.png' | relative_url }}"
+      alt="OUG Digitalisation">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="digitalisation" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/digitalisation.png' | relative_url }}"
+      alt="Enlarged OUG Digitalisation">
+  </div>
+</div>
+
+
+
 ## What's Here
 
 - **[European HEI Digital Alliance Manifesto](manifesto.md)** *(Document 1)* — the declaration: digital infrastructure and AI as public goods, European sovereignty as a constitutional rather than commercial matter, and seventeen binding platform principles covering procurement, sovereignty, AI governance, student data rights, and cooperation over competition.
