@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "The OUG Design Authority"
----  
+---   
 
 
 *Open University of Germany · Academic Governance*
 *Design Authority · Constitution · First Edition · 2026*
 
-> **Source:** migrated from `OUG_Design_Authority_Constitution.docx`
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
+> **Correction note:** this version replaces every use of "President" with "Rector," consistent with the Grundordnung's exclusive use of Rektor/Rektorat and the correction already applied elsewhere in this repository (Federated Legal Model, Degree and Examination Authority). It also corrects the Rector's term, which was previously stated independently here as "4 years renewable once" — the Grundordnung (§ 4 Absatz 1) actually sets it at six to eight years, decided by the Hochschulrat. This document should not restate a term length; it should defer to the statute.
 
 *Constitution of the body that holds curriculum standard authority at the federation boundary*
 
@@ -22,7 +22,7 @@ title: "The OUG Design Authority"
 
 The Design Authority holds curriculum standard authority at the OUG. Its mandate is specific and bounded: it determines whether the curriculum design and learning architecture of any module, programme, or partner contribution meets the OUG's published curriculum standard — as specified in the Competency Codebook v10.0, the Didactic Framework, and the Bloom-level progression architecture. It does not govern operational quality (that is the Quality Commission's mandate), research (that is the Mission Hubs'), or partnerships (that is the Partnership Office's). It governs curriculum design quality.
 
-The Design Authority's decisions at the federation boundary are non-negotiable. A partner whose module does not meet the curriculum standard is not admitted to the federation on the basis of commercial or political considerations. The Design Authority's verdict is final within its mandate — it cannot be overruled by G2 executive authority. Appeals go to the Senate (G3), not to the Rector or Chancellor.
+The Design Authority's decisions at the federation boundary are non-negotiable. A partner whose module does not meet the curriculum standard is not admitted to the federation on the basis of commercial or political considerations. The Design Authority's verdict is final within its mandate — it cannot be overruled by G2 executive authority. Appeals go to the Senate (G3), consistent with the [Conflict Escalation Framework](conflict-escalation-framework.md) Route 3 (Academic Escalation) — not to the Rector or Kanzler/in.
 
 > The Design Authority is not a committee that reviews documents. It is the body whose judgment determines whether the OUG's credential means what it claims to mean.
 
@@ -34,11 +34,11 @@ The founding Design Authority operates during Phase 1 (Years 1–2) and the tran
 
 | Role | Member | Mandate in DA | Appointed by | Term |
 |---|---|---|---|---|
-| **DA Chair / President** | Founding President (Rektor) | Holds DA mandate authority. Convenes. Final tie-breaking vote. Reports to Senate (G3) on DA decisions. | Hochschulrat (G1) appointment | President's term — 4 years renewable once |
-| **Curriculum Standard Lead / Chancellor** | Founding Chancellor (Kanzler) | Holds the Competency Codebook and Didactic Framework. Governs standard documentation. Ensures Bloom-level compliance. | Hochschulrat (G1) appointment | Chancellor's term — 4 years renewable once |
+| **DA Chair / Rector** | Founding Rector | Holds DA mandate authority. Convenes. Final tie-breaking vote. Reports to Senate (G3) on DA decisions. | Hochschulrat (G1), via the joint Findungskommission process (Grundordnung § 4) | Rector's statutory term — six to eight years (Grundordnung § 4 Absatz 1) |
+| **Curriculum Standard Lead / Kanzler/in** | Founding Kanzler/in | Holds the Competency Codebook and Didactic Framework. Governs standard documentation. Ensures Bloom-level compliance. | Hochschulrat (G1), via the same Findungskommission process | Kanzler/in's statutory term (Grundordnung § 4 Absatz 1) |
 | **Mission Domain Expert — Digital Health** | Dean of Digital Health Mission Hub (W2 Professor) | Holds curriculum standard for the Digital Health domain. Assesses partner contributions in health informatics, digital therapeutics, and clinical data domains. | Senate (G3) on Rector recommendation | 4 years renewable once |
 | **Programme Architecture Lead — CS Bachelor** | Programme Lead, Computer Science Bachelor Stackable (W2 Professor) | Holds curriculum standard for the CS domain. Assesses stackable credential architecture. Ensures ECTS integrity across module combinations. | Senate (G3) on Rector recommendation | 4 years renewable once |
-| **Head of IT / Enterprise Architect** | Head of IT / Enterprise Architect | Technical curriculum compliance: OOAPI v5 format, ESCO competency mapping, platform compatibility of module metadata. Non-voting advisory member. | Chancellor appointment | Operational role duration |
+| **Head of IT / Enterprise Architect** | Head of IT / Enterprise Architect | Technical curriculum compliance: OOAPI v5 format, ESCO competency mapping, platform compatibility of module metadata. Non-voting advisory member. | Kanzler/in appointment | Operational role duration |
 
 *The five core staff roles (Student Services, Admissions/Prüfungsamt, Marketing and Partnerships) support DA operations but are not DA members. They provide operational intelligence — application data, partner onboarding documentation, learner feedback — that informs DA assessments without holding assessment authority.*
 
@@ -58,7 +58,7 @@ The DA reviews all modules in the federation on a two-year cycle, using the same
 
 ### Quorum and Voting
 
-DA decisions require a quorum of three members including the DA Chair. Decisions are made by simple majority. The DA Chair has a casting vote in the event of a tie. The Head of IT holds advisory standing — they contribute technical assessment but do not vote on eligibility outcomes. All decisions are recorded in the DA Decision Register maintained by the Chancellor.
+DA decisions require a quorum of three members including the DA Chair. Decisions are made by simple majority. The DA Chair has a casting vote in the event of a tie. The Head of IT holds advisory standing — they contribute technical assessment but do not vote on eligibility outcomes. All decisions are recorded in the DA Decision Register maintained by the Kanzler/in.
 
 ---
 
@@ -68,15 +68,15 @@ The founding DA is sized for the pilot phase — four voting members with deep k
 
 ### Year 3 — First Expansion
 
-When the Dean of Studies joins the institution (Year 2, per the finance plan) and when the third W2 Professor is appointed (Year 3), the DA adds two members: the Dean of Studies as Curriculum Integration Lead (holding the cross-domain coherence mandate) and the third professor in their domain area. The DA becomes a six-member voting body. The President retains the Chair and casting vote.
+When the Dean of Studies joins the institution (Year 2, per the finance plan) and when the third W2 Professor is appointed (Year 3), the DA adds two members: the Dean of Studies as Curriculum Integration Lead (holding the cross-domain coherence mandate) and the third professor in their domain area. The DA becomes a six-member voting body. The Rector retains the Chair and casting vote.
 
 ### Year 4 and Beyond — Full Body
 
-When each Mission Hub reaches operational maturity (defined as: at least three modules admitted to the federation, at least one complete programme pathway active, at least one full Stichprobe cycle completed), the Hub's Academic Steward Lead joins the DA as a voting domain expert for that Hub. The DA is capped at twelve voting members to preserve decision speed. When the cap is reached, domain representation rotates on a two-year cycle, with continuity ensured by the permanent Chancellor and President seats.
+When each Mission Hub reaches operational maturity (defined as: at least three modules admitted to the federation, at least one complete programme pathway active, at least one full Stichprobe cycle completed), the Hub's Academic Steward Lead joins the DA as a voting domain expert for that Hub. The DA is capped at twelve voting members to preserve decision speed. When the cap is reached, domain representation rotates on a two-year cycle, with continuity ensured by the permanent Kanzler/in and Rector seats.
 
 ### Succession
 
-When a founding DA member's term ends, their successor is appointed through the same process specified for their role — Senate (G3) appointment on Rector recommendation for academic members, Hochschulrat appointment for the President and Chancellor. The outgoing member produces a DA Handover Document naming the three most significant curriculum standard decisions of their term, the active Conditionally Eligible cases in their domain, and the emerging curriculum architecture questions their successor will need to engage with immediately.
+When a founding DA member's term ends, their successor is appointed through the same process specified for their role — Senate (G3) appointment on Rector recommendation for academic members, Hochschulrat appointment (via the Findungskommission) for the Rector and Kanzler/in. The outgoing member produces a DA Handover Document naming the three most significant curriculum standard decisions of their term, the active Conditionally Eligible cases in their domain, and the emerging curriculum architecture questions their successor will need to engage with immediately.
 
 ---
 
