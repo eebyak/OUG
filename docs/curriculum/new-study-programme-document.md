@@ -313,7 +313,7 @@ The adoption of the New Study programme from DHBW is not a licence arrangement o
 <div class="diagram-block">
  <a class="diagram-preview" href="#newstudy">
  <img
- src="{{ '/images/step1-out-ns.png' | relative_url }}"
+ src="{{ '/images/step1-oug-ns.png' | relative_url }}"
  alt="OUG New Study">
  </a>
  <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -326,7 +326,7 @@ The adoption of the New Study programme from DHBW is not a licence arrangement o
 
 ```
 <img
-src="{{ '/images/step1-out-ns.png' | relative_url }}"
+src="{{ '/images/step1-oug-ns.png' | relative_url }}"
 alt="Enlarged OUG New Study">
 ```
 
