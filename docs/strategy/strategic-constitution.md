@@ -1,16 +1,23 @@
 ---
 layout: page
-title: "Strategic Constitution"
+title: Strategic Constitution
 ---
 
+<a id="top"></a>
 
 *Open University of Germany · Strategy & Finance*
 
+> **Status:** Drafted — see [Document Status](https://eebyak.github.io/OUG/#document-status) · **Version:** v1.0 (2026)
 > **Source:** migrated from `Strategic Constitution` (native Google Doc)
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Note:** the table of contents from the source document is omitted here — Markdown's own header structure serves the same purpose.
+> **Note:** the table of contents from the source document is replaced below by a jump-navigation bar; Markdown's own header structure remains the underlying anchor scheme.
 
-## Prologue
+<nav class="toc" markdown="1">
+
+**Jump to:** [Prologue](#prologue) · [Origin Narrative](#origin-narrative) · [§0 Preamble](#section-0) · [§1 Problem & Intent](#section-1) · [§2 First Principles](#section-2) · [§3 Capability Domains](#section-3) · [§4 Strategic Pillars](#section-4) · [§5 Trade-offs & Precedence](#section-5) · [§6 Decision Logic](#section-6) · [§7 Open Design Space](#section-7) · [§8 Status & Revision](#section-8) · [Appendix A](#appendix-a) · [Appendix B](#appendix-b)
+
+</nav>
+
+## Prologue {#prologue}
 
 This strategic constitution applies constitutional design logic, common in political systems and large-scale infrastructures, to higher education, because incremental strategy is no longer sufficient under demographic and societal change.
 
@@ -26,7 +33,7 @@ This strategy is deliberately formulated as a **Strategy Constitution** rather t
 
 The methodological foundation of this approach draws on insights from constitutional design and institutional theory, rather than from classical strategic planning alone. In particular, it is informed by work on constitutional economics and rule-based governance (e.g. James M. Buchanan), which emphasizes the importance of agreed constraints and precedence rules in complex systems; by institutional analysis and design principles articulated by Elinor Ostrom, especially the role of clearly defined rules and accountability in sustaining collective action; and by theories of bounded rationality and decision-making under uncertainty (Herbert A. Simon), which highlight the limits of optimization and the need for robust, rule-based decision frameworks. Applied to higher education, this methodological synthesis treats the university not as a project to be optimized, but as a public knowledge institution whose integrity depends on explicit norms, protected priorities, and transparent trade-offs. The Strategy Constitution operationalizes this insight by making strategic tensions explicit, defining precedence among competing objectives, and providing a durable reference against which future decisions can be assessed.
 
-### References
+### References {#references}
 
 Buchanan, J. M. (1990). The domain of constitutional economics. *Constitutional Political Economy, 1*(1), 1–18. This paper establishes the core idea of constitutional economics: that complex collective systems require agreed rules, constraints, and precedence principles that govern decision-making over time, rather than ad hoc optimization. It provides the primary theoretical justification for treating strategy as a constitutional framework rather than an action plan.
 
@@ -38,11 +45,11 @@ Kezar, A., & Eckel, P. D. (2002). The effect of institutional culture on change 
 
 ---
 
-## Internal Design Vision
+## Origin Narrative {#origin-narrative}
 
-*Working Draft — Not for External Distribution*
+*This is the founding narrative that motivated the formal Strategy Constitution below, written before Sections 0–8 were formalized. It is preserved here for traceability, consistent with this repository's commitment to visible institutional reasoning. Where its language overlaps with the formal constitution that follows, the constitution is authoritative.*
 
-### 1. The Problem
+### The Problem
 
 Germany's higher education landscape is entering a decade of structural tension. Declining youth cohorts, demographic aging, sustained immigration, rapid labor-market transformation, persistent regional disparities, and rising demand for lifelong learning are converging — all within the constraints of limited public funding.
 
@@ -50,7 +57,7 @@ Traditional university models, designed for a narrow demographic window and rela
 
 The core challenge we address is therefore not simply one of "digitalization" or "innovation," but rather: how can high-quality bachelor-level education remain trustworthy, accessible, and sustainable for a highly diverse population over the next decade — without becoming brittle, exclusionary, or academically hollow?
 
-### 2. The Kind of Institution
+### The Kind of Institution
 
 We are designing a university model in which academic trust is treated as infrastructure, not reputation; access as an outcome, not an admission promise; and scale as a design challenge, not a growth objective.
 
@@ -58,57 +65,13 @@ This institution is conceived from first principles, not inherited structures. I
 
 The institution is not organized around a single campus, cohort, or life stage, but around durable academic standards that can be upheld across diverse contexts and learner pathways.
 
-### 3. Quality
-
-Academic quality is non-negotiable.
-
-In this model, quality is defined by coherent curricula, valid and reliable assessment, credible credentials, and demonstrable learning outcomes.
-
-Quality is not equated with exclusivity, historical prestige, or selectivity at entry. Nor is it reduced to throughput metrics or satisfaction scores.
-
-Where necessary, we deliberately separate the functions of teaching, assessment, and credentialing to protect academic standards while enabling pedagogical focus and operational scale.
-
-When a choice must be made between growth and trust, trust prevails.
-
-### 4. Access with Responsibility
-
-We pursue accessibility as a structural commitment, not a rhetorical stance.
-
-This means lowering barriers to participation — geographic, temporal, socioeconomic, and linguistic — without lowering academic expectations.
-
-Access without support is not access; it is attrition by design. Accordingly, learner support, progression guidance, and community-building are treated as integral components of the academic system, not ancillary services.
-
-We explicitly reject models that maximize entry while externalizing the risk of failure onto learners.
-
-### 5. Agility Without Fragmentation
-
-We recognize that curricula must evolve more rapidly than in the past in response to technological change, labor-market shifts, and broader societal transformation.
-
-Agility, however, is not improvisation. Curricular change is governed through clear guardrails, evidence-based evaluation, and reversible experimentation.
-
-Innovation is encouraged where it strengthens learning and relevance — and constrained where it threatens academic coherence or institutional trust.
-
-### 6. Sustainability as a Design Constraint
-
-This institution is designed to be financially and operationally sustainable by default, not reliant on exceptional funding or perpetual expansion.
-
-We embrace a portfolio logic: not every program must grow, not every offering must exist everywhere, and transparency about costs and trade-offs is a precondition for legitimacy.
-
-Financial sustainability is not antithetical to academic values; it is what enables them to endure.
-
-### 7. Governance That Is Participative and Decisive
-
-Participation is essential for legitimacy — but legitimacy ultimately depends on the capacity to make decisions.
-
-Governance in this model is explicitly designed to include relevant voices, clarify roles and responsibilities, provide transparent data, and preserve decision velocity.
-
-Consultation is meaningful; veto power is bounded. Accountability is explicit, not collective.
+*The five commitments implied above — on quality, access, agility, sustainability, and governance — are formalized as P1–P5 in [Section 2](#section-2) and are not restated separately here.*
 
 ---
 
-## Strategy Constitution
+## Strategy Constitution {#strategy-constitution}
 
-### Section 0 — Preamble: Purpose, Scope, and Status
+### Section 0 — Preamble: Purpose, Scope, and Status {#section-0}
 
 This Strategy Constitution establishes the binding strategic foundation for the design, governance, and long-term development of the institution.
 
@@ -126,7 +89,9 @@ The Strategy Constitution is designed to be a working instrument. It must be con
 
 It is not a public vision statement. Any external strategy, mission, or vision documents must be derived from and consistent with this constitution.
 
-### Section 1 — Problem Definition and Strategic Intent
+*Publication note: consistent with this repository's transparency principle, this internal governing document is published openly rather than withheld. "Internal" describes its role in the document hierarchy — the authoritative source other documents derive from — not its visibility.*
+
+### Section 1 — Problem Definition and Strategic Intent {#section-1}
 
 **1.1 Structural Context.** Higher education in Germany is entering a period of structural transformation rather than incremental change. Over the coming decade, the system will be shaped by a combination of persistent forces: declining and fluctuating cohorts of traditional school-leavers, an aging population and longer working lives, sustained immigration and increasing learner diversity, rapid technological and industrial change requiring continuous reskilling, pronounced regional disparities (particularly urban/rural), and increasing pressure on public funding and institutional capacity.
 
@@ -146,7 +111,7 @@ The institution is not conceived as an extension or optimization of existing str
 
 All subsequent sections of this constitution define the principles, capabilities, and decision rules through which this intent is operationalized.
 
-### Section 2 — First Principles
+### Section 2 — First Principles {#section-2}
 
 The following first principles define the non-negotiable constitutional commitments of the institution. They apply to all strategic, organizational, academic, and operational decisions, regardless of scale, delivery mode, or organizational form.
 
@@ -164,7 +129,7 @@ These principles do not describe *how* the institution operates. They define *wh
 
 **Status of the Principles.** These first principles are binding. They are not ranked by preference but governed by explicit precedence rules defined in Section 5. No strategic initiative, organizational arrangement, or operational practice may contradict these principles without a formal revision of the Strategy Constitution.
 
-### Section 3 — Derived Capability Domains
+### Section 3 — Derived Capability Domains {#section-3}
 
 The first principles establish *what must always hold*. They do not, by themselves, specify how the institution must be designed. This section translates them into derived capability domains — design requirements, not organizational units, projects, or functions — that constrain future structural, governance, and operational choices.
 
@@ -180,7 +145,7 @@ The first principles establish *what must always hold*. They do not, by themselv
 
 **Status of the Capability Domains.** Exhaustive and binding at the constitutional level. Future strategy documents, governance architectures, organizational structures, and program portfolios must be demonstrably aligned with these domains. No capability domain may be weakened or bypassed through local optimization or short-term considerations. Specific implementation is intentionally left open.
 
-### Section 4 — Strategic Pillars
+### Section 4 — Strategic Pillars {#section-4}
 
 The capability domains describe what the institution must be capable of doing. This section reorganizes them into Strategic Pillars — enduring strategic commitments, not projects or organizational units, that structure how the institution understands its mission, resolves trade-offs, and prioritizes decisions over time.
 
@@ -196,7 +161,7 @@ The capability domains describe what the institution must be capable of doing. T
 
 **Status of the Strategic Pillars.** The stable and enduring structure of the institution's strategy. All future strategy documents, governance designs, organizational structures, and programmatic decisions must be explicitly aligned with these pillars. No pillar may be selectively emphasized or ignored without violating the integrity of the Strategy Constitution.
 
-### Section 5 — Trade-offs, Precedence, and Decision Rules
+### Section 5 — Trade-offs, Precedence, and Decision Rules {#section-5}
 
 Strategic decisions in higher education inevitably involve conflicting objectives. Growth can conflict with quality; participation can conflict with decision speed; innovation can conflict with coherence; breadth can conflict with sustainability. This Strategy Constitution does not seek to eliminate such tensions — it makes them explicit and defines binding precedence rules for resolving them, to prevent implicit or ad hoc trade-offs, avoid strategic drift through accumulation of exceptions, and enable timely, defensible decisions under pressure.
 
@@ -226,7 +191,7 @@ Strategic decisions in higher education inevitably involve conflicting objective
 
 **Status of Trade-off Rules.** Binding across all domains, pillars, and governance levels. No local optimization, pilot, or exception may override these rules without a formal revision of the Strategy Constitution.
 
-### Section 6 — Decision Logic and Use of the Strategy Constitution
+### Section 6 — Decision Logic and Use of the Strategy Constitution {#section-6}
 
 This Strategy Constitution is a binding decision framework governing how strategic choices are made, evaluated, and justified over time.
 
@@ -244,7 +209,7 @@ This Strategy Constitution is a binding decision framework governing how strateg
 
 **Status of Use and Enforcement.** Adherence to this section is mandatory. Failure to apply the Strategy Constitution as defined constitutes a strategic governance failure and must be addressed through appropriate governance mechanisms.
 
-### Section 7 — Deliberate Non-Decisions and Open Design Space
+### Section 7 — Deliberate Non-Decisions and Open Design Space {#section-7}
 
 This Strategy Constitution is intentionally not exhaustive. Its purpose is to define binding commitments and decision logic, not to predetermine all future structures or solutions. Certain areas are deliberately left open — not omissions, but intentional design choices that preserve adaptability while remaining fully constrained by the principles, capability domains, strategic pillars, and trade-off rules defined above.
 
@@ -252,7 +217,7 @@ Explicitly outside the scope of this constitution: the specific governance bodie
 
 These elements must be designed later, but never arbitrarily — all future design choices must demonstrably uphold the first principles, enable the derived capability domains, align with the strategic pillars, and comply with the trade-off and precedence rules. This open design space allows the institution to respond to future developments without weakening its constitutional commitments. No non-decision listed here may be resolved in a way that implicitly contradicts this constitution — the appropriate response to such contradictions is explicit revision (Section 8), not silent deviation.
 
-### Section 8 — Status, Revision, and Evolution
+### Section 8 — Status, Revision, and Evolution {#section-8}
 
 **8.1 Status of the Strategy Constitution.** The highest internal strategic authority of the institution. Binding for strategic planning, governance design, organizational development, and major operational decisions. Not time-limited like action plans or funding cycles — valid until formally revised per this section.
 
@@ -264,7 +229,7 @@ These elements must be designed later, but never arbitrarily — all future desi
 
 **8.5 Relationship to Future Strategy and Communication.** Future public-facing strategy documents, mission statements, and vision narratives must be derived translations of this constitution. They may adapt language, emphasis, and framing for external audiences, but may not contradict the substance, priorities, or trade-off logic defined herein. This ensures continuity between internal strategic integrity and external communication.
 
-### Closing Statement
+### Closing Statement {#closing-statement}
 
 With the adoption of this Strategy Constitution, the institution commits itself to intentional design, explicit trade-offs, and principled decision-making under conditions of uncertainty and change.
 
@@ -272,29 +237,12 @@ This document does not eliminate complexity. It ensures that complexity is addre
 
 ---
 
-## Appendix A: First Principles and Capabilities
+## Appendix A: Derived Capabilities (C1–C19) {#appendix-a}
 
-*Strategic Framework: First Principles and Derived Institutional Capabilities*
-
-### First Principles
-
-*Foundational commitments that shape all subsequent design choices*
-
-**P1 — Academic Quality is Non-Negotiable.** The institution must guarantee high academic standards in teaching, assessment, and credentialing, independent of scale, modality, or learner profile. *This is the anchor principle. All other commitments bend to it, not the reverse.*
-
-**P2 — Education Must Be Accessible.** The institution must enable meaningful participation in higher education regardless of socio-economic background, life phase, or geographic location. *Accessibility is defined by outcomes — who succeeds — not by inputs or intentions.*
-
-**P3 — Financial Sustainability is a Design Constraint.** The institution must be economically viable over the long term without reliance on exceptional funding, short-term grants, or permanent expansion. *This guards against "pilot logic" — the assumption that innovation requires temporary exemption from sustainability requirements.*
-
-**P4 — The System Must Be Agile.** The institution must be capable of adapting programs, structures, and processes in response to societal, technological, and labor-market change — without compromising quality. *Agility is measured by responsible response time, not by velocity of innovation for its own sake.*
-
-**P5 — Governance Must Be Participative and Legitimate.** Decision-making structures must ensure transparency, accountability, and meaningful stakeholder participation, appropriate to the institution's scale and mission. *Participative does not mean consensus-driven. Legitimacy requires both inclusion and the capacity to decide.*
-
-### Derived System Properties
-
-*Institutional capabilities required to operationalize the First Principles*
+*Institutional capabilities required to operationalize the First Principles defined in [Section 2](#section-2). The first principles (P1–P5) are not restated here; this appendix documents the capabilities (C1–C19) derived from them, organized by the capability domains (D1–D5) introduced in [Section 3](#section-3).*
 
 #### Domain D1 — Academic Integrity and Quality Assurance
+
 *Guiding question: How do we guarantee academic trust at scale?*
 
 **C1 — Evidence-based quality at scale.** The institution must be able to demonstrate learning outcomes credibly — with valid, reliable, and integrity-assured assessment — across diverse learner populations and delivery modes. *This bridges accessibility and quality, necessitating rigorous assessment design and quality assurance.*
@@ -308,6 +256,7 @@ This document does not eliminate complexity. It ensures that complexity is addre
 **C17 — Separation of roles: teaching, assessment, credentialing.** The institution must be able — where strategically advantageous — to decouple learning experience delivery from assessment and credential awarding. *This optional architectural lever enables both quality protection and operational scale.*
 
 #### Domain D2 — Learner Access, Success and Agency
+
 *Guiding question: Who can participate — and who actually succeeds?*
 
 **C4 — Multi-barrier inclusion.** The institution must be able to remove barriers across multiple dimensions: temporal (working adults, part-time learners), geographic (remote and rural populations), prior educational attainment (bridging and foundation provision), linguistic and cultural, disability and neurodiversity, and financial constraints. *Accessibility is not a single intervention but a portfolio of barrier removals.*
@@ -321,6 +270,7 @@ This document does not eliminate complexity. It ensures that complexity is addre
 **C19 — Community as an academic asset.** The institution must be able to build learning communities that support persistence, identity formation, peer feedback, and belonging — at scale. *Community is a success driver for accessible education without quality compromise, not a supplementary amenity.*
 
 #### Domain D3 — Agility and Innovation Capacity
+
 *Guiding question: How fast can we adapt without breaking ourselves?*
 
 **C10 — Fast curriculum iteration with guardrails.** The institution must be able to update offerings rapidly in response to change, subject to quality guardrails: standards, peer review, and evidence thresholds. *Agility is speed with integrity, not speed alone.*
@@ -330,6 +280,7 @@ This document does not eliminate complexity. It ensures that complexity is addre
 **C12 — Interoperable by design.** The institution must be able to connect learners, learning records, recognition, and services across systems and partners. *The requirement is interoperability, not digitalization. Digital tools are one means to this end.*
 
 #### Domain D4 — Financial and Operational Sustainability
+
 *Guiding question: Can this institution survive its own success?*
 
 **C7 — Cost structure that improves with scale.** The institution must be able to achieve declining marginal cost per learner without declining quality. *This implies reusable components, efficient operations, and strategic staffing models — the specific mechanisms remain to be determined.*
@@ -339,6 +290,7 @@ This document does not eliminate complexity. It ensures that complexity is addre
 **C9 — Transparent unit economics.** The institution must be able to calculate cost and contribution margin at meaningful units — program, module, or service line — to enable evidence-based decision-making. *Without this capability, participative governance becomes debate without data.*
 
 #### Domain D5 — Governance, Participation and Decision Intelligence
+
 *Guiding question: Who decides what — and on what basis?*
 
 **C13 — Participation with decision velocity.** The institution must be able to include stakeholders meaningfully without causing decision paralysis. *This requires explicit role clarity: who proposes, who decides, who vetoes, who evaluates. Participation must be designed, not assumed.*
@@ -349,9 +301,11 @@ This document does not eliminate complexity. It ensures that complexity is addre
 
 *This framework is intended as a living document — subject to refinement as design work progresses, but stable enough to anchor subsequent decisions against first principles.*
 
+[↑ Back to top](#top)
+
 ---
 
-## Appendix B: Strategic Decision Protocol
+## Appendix B: Strategic Decision Protocol {#appendix-b}
 
 ### Purpose
 
@@ -359,8 +313,7 @@ This protocol provides a structured mechanism for evaluating strategic decisions
 
 ### When to Use
 
-**Full protocol:** major strategic decisions (new programs, partnerships, business models, structural changes).
-**Abridged protocol** (Pillars + Principles only): tactical decisions with limited constitutional implications.
+**Full protocol:** major strategic decisions (new programs, partnerships, business models, structural changes). **Abridged protocol** (Pillars + Principles only): tactical decisions with limited constitutional implications.
 
 ### The Protocol
 
@@ -381,7 +334,7 @@ This protocol provides a structured mechanism for evaluating strategic decisions
 **Step 3 — Weighting.**
 
 | Normative Priority | Weight | Strategic Dominance | Multiplier |
-|---|---|---|---|
+| ------------------- | ------ | -------------------- | ---------- |
 | NP 3 | ×3 | SD High | ×1.5 |
 | NP 2 | ×2 | SD Medium | ×1.2 |
 | NP 1 | ×1 | SD Low | ×1.0 |
@@ -406,6 +359,20 @@ This protocol provides a structured mechanism for evaluating strategic decisions
 
 Do not optimize for popularity, convenience, or short-term gains. Optimize strictly for principle-aligned, long-term institutional integrity.
 
+[↑ Back to top](#top)
+
 ---
 
 *Open University of Germany · Strategic Constitution · Strategy & Finance · 2026*
+
+© 2026 Kay Berkling.
+This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
+You may share this material in any medium or format, provided you give [appropriate credit](#attribution),
+provide a link to the license, and indicate if changes were made.
+You may not distribute modified material.
+
+**Attribution:** Kay Berkling, ["OUG: Designing a University from First Principles"](https://eebyak.github.io/OUG/) (2026).
+
+**Consulting:** <kay.berkling@dhbw.de> | Prof. Dr. Kay Berkling, DHBW Baden-Württemberg, Germany
+
+[License Legal Code](https://creativecommons.org/licenses/by-nd/4.0/legalcode) · [Repository](https://github.com/eebyak/OUG)
