@@ -22,7 +22,7 @@ Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
 <div class="diagram-block">
   <a class="diagram-preview" href="#grundordnung">
     <img
-      src="{{ '../images/grundordnung.png' | relative_url }}"
+      src="{{ '/images/grundordnung.png' | relative_url }}"
       alt="OUG Grundordnung">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -35,7 +35,7 @@ Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/grundordnung.png' | relative_url }}"
+      src="{{ '/images/grundordnung.png' | relative_url }}"
       alt="Enlarged OUG Grundordnung">
   </div>
 </div>
