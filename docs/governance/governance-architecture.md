@@ -8,26 +8,6 @@ title: Governance & Decision Framework
 > **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
 > **Position in the document architecture:** this framework operationalises the [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html) and informs the interpretation and development of the [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md), without replacing legally binding statutory competences. It is the base document that [`governance-principles-assessment.md`](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-principles-assessment.md) and several other converted documents in this repository cite simply as "the Governance Architecture."
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#governance">
-    <img
-      src="{{ '../images/governance-architecture.png' | relative_url }}"
-      alt="OUG Governance">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="governance" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '../images/governance-architecture.png' | relative_url }}"
-      alt="Enlarged OUG Governance">
-  </div>
-</div>
 
 ## 0. Purpose and Scope of the Governance & Decision Framework
 
@@ -87,6 +67,28 @@ Sections 2.1–2.4 define the four layers functionally. This table names, with s
 **Note on the Kanzler/in's dual position.** The Kanzlerin or Kanzler is, by law, a *member of the Rektorat* (§ 3 Absatz 2 Nr. 2) and therefore formally part of G2. Functionally, however, the Kanzler/in's statutory responsibility is *lawful execution* of the budget and administration (§ 7), which corresponds to a G4-type function. Section 3.7 below states this split explicitly for the resource-allocation domain.
 
 **Escalation between G1 and the Strategy Constitution's "highest strategic authority."** The Strategy Constitution (§ 6.4) reserves interpretation to "the highest strategic authority of the institution, as defined in subsequent governance arrangements." This table constitutes that governance arrangement: the highest strategic authority for constitutional interpretation is the **Hochschulrat**, acting as G1.
+
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#governance">
+    <img
+      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      alt="OUG Governance">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="governance" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      alt="Enlarged OUG Governance">
+  </div>
+</div>
 
 ---
 
@@ -151,6 +153,8 @@ Where decisions in any domain raise conflicts across domains or governance layer
 The OUG distinguishes deliberately between **decision authority** and **participatory intelligence**. While formal decision rights are clearly assigned to specific governance layers and decision domains (Section 3), the quality, legitimacy, and sustainability of those decisions depend on how issues are identified, options are developed, and perspectives are integrated **before** formal decisions are taken.
 
 This section defines the Participation and Agenda-Setting Architecture through which academic expertise, learner experience, and societal knowledge systematically shape institutional decisions. Participation is therefore not an informal add-on or a consultative gesture, but a **structurally embedded component** of governance.
+
+
 
 ### 4.1 Purpose of the Participation Architecture
 
