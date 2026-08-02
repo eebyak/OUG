@@ -14,6 +14,26 @@ title: "Governance Review Calendar"
 >
 > The Governance Review Calendar prevents this by making structural revision a normal, scheduled operation rather than a crisis. Every significant governance structure has a review date. At that date, the structure must justify its continued existence against its current purpose. Structures that pass are confirmed. Structures that fail are reformed or retired. New structures are created with explicit review triggers.
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#calender">
+    <img
+      src="{{ '../images/governance-review-calender.png' | relative_url }}"
+      alt="OUG calender">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="calender" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/governance-review-calender.png' | relative_url }}"
+      alt="Enlarged OUG calender">
+  </div>
+</div>
 ---
 
 ## I. The Review Process
