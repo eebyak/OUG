@@ -47,7 +47,7 @@ Kezar, A., & Eckel, P. D. (2002). The effect of institutional culture on change 
 <div class="diagram-block">
   <a class="diagram-preview" href="#constituion">
     <img
-      src="{{ '../images/constitution.png' | relative_url }}"
+      src="{{ '/images/constitution.png' | relative_url }}"
       alt="OUG Strategic Constitution">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -60,7 +60,7 @@ Kezar, A., & Eckel, P. D. (2002). The effect of institutional culture on change 
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/constitution.png' | relative_url }}"
+      src="{{ '/images/constitution.png' | relative_url }}"
       alt="Enlarged OUG Strategic Constitution">
   </div>
 </div>
