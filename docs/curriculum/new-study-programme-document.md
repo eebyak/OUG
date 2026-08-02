@@ -308,6 +308,31 @@ The adoption of the New Study programme from DHBW is not a licence arrangement o
 - **Quality assurance** — programme review, external examination, and quality monitoring are conducted by OUG's Quality Assurance and Academic Governance Framework.
 - **Micro-credential issuance** — Europass credentials for each module are issued by OUG, not by DHBW.
 
+
+
+<div class="diagram-block">
+ <a class="diagram-preview" href="#newstudy">
+ <img
+ src="{{ '/images/step1-out-ns.png' | relative_url }}"
+ alt="OUG New Study">
+ </a>
+ <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="newstudy" class="lightbox">
+ <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+ <div class="lightbox-panel">
+ <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+```
+<img
+src="{{ '/images/step1-out-ns.png' | relative_url }}"
+alt="Enlarged OUG New Study">
+```
+
+ </div>
+</div>
+
 ### The 80% Learning Outcome Principle
 
 The adoption is formally governed by the requirement that more than 80% of the programme's learning outcomes are shared between the DHBW New Study programme and the OUG version. This threshold ensures that the OUG programme is genuinely the same programme in academic substance, while allowing OUG to add its own governance requirements, its Europass credential architecture, and its modular stacking framework on top of an academically equivalent foundation.
