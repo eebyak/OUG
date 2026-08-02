@@ -44,6 +44,27 @@ Within the scope of this framework, the following precedence applies wherever in
 
 Where a partner institution's own mandatory legal duties (employment law, local examination-hosting rules, data protection obligations attaching to its own status) are incompatible with a lower-numbered instrument in this list, the conflict must be resolved contractually or the affected arrangement must cease — this framework does not require a partner to breach its own binding legal duties.
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#participation">
+    <img
+      src="{{ '../images/separation-of-authority.png' | relative_url }}"
+      alt="OUG participation">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="participation" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/separation-of-authority.png' | relative_url }}"
+      alt="Enlarged OUG participation">
+  </div>
+</div>
 ---
 
 # Part II — Allocation of Authority
