@@ -249,9 +249,9 @@ Amendments to this framework are governed by the [Amendment Procedure](https://g
 - **[Conflict Escalation Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/conflict-escalation-framework.md)** and **[Amendment Procedure](https://github.com/eebyak/OUG/blob/main/docs/governance/amendment-procedure.md):** incorporated by reference per §§ 17–18; not restated here.
 - **[Decision-Rights Matrix](https://github.com/eebyak/OUG/blob/main/docs/governance/decision-rights-matrix.md):** the general table this document's Appendix elaborates for federation-specific functions.
 - **Degree and Examination Authority** (companion document): degree-awarding protocol, joint/dual award taxonomy, and the ECTS-threshold formula.
-- **Academic Affiliation Agreement Template** (companion document): the contractual instrument implementing Part III.
-- **Prüfungsordnung** *(not yet linked — path to be confirmed):* the authoritative procedural instrument for assessment types, grading, retakes, misconduct, and appeals; this framework states only the federated *principle* that one OUG examination framework governs OUG awards.
-- **Federation & Membership Framework** *(not yet converted to Markdown in this repository):* the authoritative source for revenue pool composition, retention percentages, teach-out financial mechanics, and exit-penalty schedules referenced in principle only at § 11–12.
+- **[Academic Affiliation Agreement Template](academic-affiliation-agreement-template.md)** (companion document): the contractual instrument implementing Part III.
+- **[Prüfungsordnung](../quality/pruefungsordnung.md)**: the authoritative procedural instrument for assessment types, grading, retakes, misconduct, and appeals; this framework states only the federated *principle* that one OUG examination framework governs OUG awards.
+- **[Federation & Membership Framework](../partnership/federation-membership-framework.md)**: the authoritative source for revenue pool composition, retention percentages, teach-out financial mechanics, and exit-penalty schedules referenced in principle only at § 11–12.
 
 ## Status
 
