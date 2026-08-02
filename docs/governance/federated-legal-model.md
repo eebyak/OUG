@@ -8,10 +8,6 @@ title: Federated Legal Model
 > **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
 > **Document role:** this framework defines the allocation of legal and academic responsibility within the OUG federation. It is not itself a self-executing constitution; it is implemented through the [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md), the [Governance & Decision Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-architecture.md), the Prüfungsordnung, the Federation & Membership Framework, and individual affiliation and provider agreements. Provenance and migration notes for this document have moved to conversion-notes.md.
 
-<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
-  <em>[Diagram placeholder — the five-way authority separation, with the affiliated professor at the centre: employment contract → Home HEI; academic affiliation → OUG (Community Circle, advisory); teaching mandate → Mission Hub; examination appointment → OUG Examination Board (where applicable). Below: the learner journey, partner-supported learning → OUG-governed assessment → OUG-confirmed result → OUG registry → OUG degree, branching into OUG-only / dual / joint award. To be added.]</em>
-</div>
-
 ---
 
 # Part I — Status, Purpose, and Legal Hierarchy
@@ -48,7 +44,7 @@ Where a partner institution's own mandatory legal duties (employment law, local 
 <div class="diagram-block">
   <a class="diagram-preview" href="#participation">
     <img
-      src="{{ '../images/separation-of-authority.png' | relative_url }}"
+      src="{{ '/images/separation-of-authority.png' | relative_url }}"
       alt="OUG participation">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -61,7 +57,7 @@ Where a partner institution's own mandatory legal duties (employment law, local 
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/separation-of-authority.png' | relative_url }}"
+      src="{{ '/images/separation-of-authority.png' | relative_url }}"
       alt="Enlarged OUG participation">
   </div>
 </div>
@@ -103,7 +99,7 @@ Where a partner institution's own mandatory legal duties (employment law, local 
 <div class="diagram-block">
   <a class="diagram-preview" href="#person">
     <img
-      src="{{ '../images/one-person-five-relationships.png' | relative_url }}"
+      src="{{ '/images/one-person-five-relationships.png' | relative_url }}"
       alt="OUG person">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -116,7 +112,7 @@ Where a partner institution's own mandatory legal duties (employment law, local 
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/one-person-five-relationships.png' | relative_url }}"
+      src="{{ '/images/one-person-five-relationships.png' | relative_url }}"
       alt="Enlarged OUG person">
   </div>
 </div>
