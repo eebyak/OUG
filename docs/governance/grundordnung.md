@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grundordnung
+title: Grundordnung der Open University of Germany (OUG)
 ---
 
 *Open University of Germany* *Konsolidierte Fassung · 2026*
@@ -8,7 +8,7 @@ title: Grundordnung
 > **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))* · **Version:** v3.0
 > **Language:** This founding statute is published in its authoritative German version.
 
-## Grundordnung der Open University of Germany (OUG)
+
 
 ---
 
@@ -23,7 +23,7 @@ Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
 <div class="diagram-block">
   <a class="diagram-preview" href="#grundordnung">
     <img
-      src="{{ '/images/grundordnung' | relative_url }}"
+      src="{{ '/images/grundordnung.png' | relative_url }}"
       alt="OUG Grundordnung">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
