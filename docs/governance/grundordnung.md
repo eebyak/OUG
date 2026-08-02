@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Grundordnung
+title: Grundordnung der Open University of Germany (OUG)
 ---
 
 *Open University of Germany* *Konsolidierte Fassung · 2026*
 
 > **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))*
 > **Language:** This founding statute is published in its authoritative German version.
-
-## Grundordnung der Open University of Germany (OUG)
 
 ---
 
@@ -20,9 +18,6 @@ Die OUG stellt akademisches Vertrauen als Fundament ihres Wirkens über kurzfris
 
 Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
 
-<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
-  <em>[Diagram placeholder — constitutional architecture: Landeshochschulgesetz → Grundordnung → Rektorat / Senat / Hochschulrat → Mission Hubs → Portfolio Governance → Studienangebote, Prüfungen, Studierende; with Strategic Constitution, Governance Architecture, Federated Legal Model, and Prüfungsordnung as the supporting constitutional framework. To be added.]</em>
-</div>
 
 <div class="diagram-block">
   <a class="diagram-preview" href="#grundordnung">
