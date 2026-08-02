@@ -99,6 +99,28 @@ Where a partner institution's own mandatory legal duties (employment law, local 
 
 (2) OUG does not claim ownership over research output except where separately agreed in specific collaborative research contracts.
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#person">
+    <img
+      src="{{ '../images/one-person-five-relationships.png' | relative_url }}"
+      alt="OUG person">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="person" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/one-person-five-relationships.png' | relative_url }}"
+      alt="Enlarged OUG person">
+  </div>
+</div>
+
 ---
 
 # Part III — Academic Affiliation
