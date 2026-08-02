@@ -6,9 +6,9 @@ title: "Partner Membership Framework"
 *Open University of Germany · Partnership Framework*
 *Annex to the Partnership Agreement · 2026*
 
-> **Source:** migrated from `OUG Partner Membership Framework.docx`
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Note:** [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](amendment-lehrpersonalmodell.md) adds a new Section 2a to this Framework, specifying how partner teaching staff are legally engaged — read together with this document.
+> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
+> **Note:** [Amendment: Lehrpersonalmodell and Kapazitätswirksamkeit](https://github.com/eebyak/OUG/blob/main/docs/partnership/amendment-lehrpersonalmodell.md) adds Section 2a to this Framework, specifying the three engagement models (A/B/C) referenced throughout this document — read together with this document, and with the [Federated Legal Model](https://github.com/eebyak/OUG/blob/main/docs/governance/federated-legal-model.md) §§ 7–8, which is where the governance consequences of each model are specified in full.
+> **Correction note:** this version corrects one thing — Right 3 previously invented a standalone "Senate Strategy Session" that duplicated a mechanism this repository has since built properly (External Cooperation Councils, Governance Architecture § 4.3). It now points there instead. Everything else in this document was already well-aligned with the rest of the repository and is preserved as originally converted.
 
 *Task Architecture · Rights · Duties · Onboarding · Time Commitment*
 
@@ -40,7 +40,9 @@ A partner institution that has completed the onboarding process and holds active
 
 **Right 2 — Programme Development Participation.** The partner participates in joint programme development through the Programme Development Forum (Programmentwicklungsforum), a joint governance mechanism specified in Section 5. The partner's Programme Director (Studiendekan/in) contributes to decisions about the shape of the programmes in which their modules participate. This is a genuine contribution right, not a consultation. Partner input is documented and weighted in programme design decisions.
 
-**Right 3 — Senate Academic Voice.** Each partner institution designates one Academic Voice (Akademische Stimme) — typically the Programme Director (Studiendekan/in) — who is invited to the annual OUG Senate Strategy Session (Strategische Sitzung des Senats). The Academic Voice may speak and submit written contributions. They do not hold voting rights in the OUG Senate (Senat), which is composed of OUG academic contributors and enrolled learners. They are guests with a structured voice, not members.
+**Right 3 — Institutional Voice, and an Individual Path Beyond It.** Each partner institution designates one Academic Voice (Akademische Stimme) — typically the Programme Director (Studiendekan/in) — who is invited to the annual **External Cooperation Council** convening (Governance Architecture § 4.3), whose findings feed into the Senate's next Community Circle session. The Academic Voice may speak and submit written contributions. They do not hold voting rights in the OUG Senate (Senat) through this channel — they are a structured voice, not a vote.
+
+**This is deliberately not the only ceiling.** Where an individual academic's engagement with OUG deepens to a Freistellungsvereinbarung (Engagement Model B — see Section 2a via the Lehrpersonalmodell Amendment), that specific person holds the full active-and-passive Wahlrecht already granted by Grundordnung § 12 Absatz 1 Nummer 3, subject to the open question flagged in Federated Legal Model § 8(6) — a real, individually-earned governance standing that the institutional Academic Voice does not confer and was never meant to substitute for.
 
 ---
 
@@ -48,11 +50,11 @@ A partner institution that has completed the onboarding process and holds active
 
 A partner institution holds four duties within the OUG federation. These duties are minimal by design — sufficient to maintain the integrity of the credential architecture and the quality of the learner experience, and no more. Each duty is specified with enough precision to be verifiable.
 
-**Duty 1 — Module Delivery to Learning Outcome Standard.** The partner delivers each donated module to the learning outcome standard specified in the Module Agreement (Modulvereinbarung). The standard is defined in terms of competencies — what a learner who completes the module knows and can do — not in terms of content or pedagogy. The partner chooses how to teach. OUG verifies what is learned. If the Quality Commission (Qualitätskommission) finds through the Stichprobe (quality sampling) that learning outcomes are not being met, the partner is notified and a joint improvement process begins. Persistent failure triggers a module suspension process under Section 7 [sic — see Section 8, Module Suspension and Partnership Exit].
+**Duty 1 — Module Delivery to Learning Outcome Standard.** The partner delivers each donated module to the learning outcome standard specified in the Module Agreement (Modulvereinbarung). The standard is defined in terms of competencies — what a learner who completes the module knows and can do — not in terms of content or pedagogy. The partner chooses how to teach. OUG verifies what is learned. If the Quality Commission (Qualitätskommission) finds through the Stichprobe (quality sampling) that learning outcomes are not being met, the partner is notified and a joint improvement process begins. Persistent failure triggers the module suspension process under Section 8.
 
 **Duty 2 — Quarterly Signal Report.** The Partnership Contact (Kooperationsbeauftragte/r) submits a structured signal report to the OUG Partnership Office (Kooperationsbüro) four times per year. The report uses the OUG standard format: three metrics (module completion rate against expected pace, assessment integrity incidents, student query volume above baseline) and one open text field for anything the metrics do not capture. The report takes approximately 30–45 minutes to complete. OUG provides the form and the submission platform. The report is not an audit — it is an early warning mechanism that protects both the partner and the learner.
 
-**Duty 3 — Joint Governance Participation.** The partner participates in three joint governance mechanisms: the complaint escalation process (Beschwerdeeskalation) when a learner complaint cannot be resolved at module level; the Programme Development Forum (Programmentwicklungsforum) for annual programme review; and the module approval process (Modulzulassungsverfahren) when a new module is proposed or an existing module is significantly revised. Participation in each mechanism is defined in Section 5. The time commitment for each is specified in Section 6.
+**Duty 3 — Joint Governance Participation.** The partner participates in three joint governance mechanisms: the complaint escalation process (Beschwerdeeskalation — routed via the [Conflict Escalation Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/conflict-escalation-framework.md) Route 3 or 4 depending on subject matter) when a learner complaint cannot be resolved at module level; the Programme Development Forum (Programmentwicklungsforum) for annual programme review; and the module approval process (Modulzulassungsverfahren) when a new module is proposed or an existing module is significantly revised. Participation in each mechanism is defined in Section 5. The time commitment for each is specified in Section 6.
 
 **Duty 4 — Stichprobe Cooperation.** When the OUG Quality Commission (Qualitätskommission) triggers an independent quality sampling (Stichprobe) of a partner module, the partner cooperates fully. Cooperation means: providing access to assessment records for the sampled cohort, making the Module Lead (Modulverantwortliche/r) available for a structured conversation of no more than two hours, and responding to any quality improvement recommendations within the timeframe specified by the Quality Commission. The Stichprobe is not an inspection — it is the verification mechanism that gives the OUG credential its integrity. Partners who cooperate in good faith have nothing to fear from it.
 
@@ -134,7 +136,7 @@ The total annual time commitment for a partner institution at minimum partnershi
 | Partnership Contact | Annual partnership review meeting | 1× per year | ~3 hours |
 | Partnership Contact | Joint governance (escalations, ad hoc) | As needed — estimated | ~4 hours |
 | Programme Director | Programme Development Forum | 1× per year | ~4 hours |
-| Programme Director | Senate Strategy Session — as Academic Voice | 1× per year | ~3 hours |
+| Programme Director | External Cooperation Council — as Academic Voice | 1× per year | ~3 hours |
 | Module Lead (per module) | Module review and competency map update | 1× per year | ~2 hours |
 | Module Lead | Stichprobe cooperation — when triggered | ~once every 3 years per module | ~2 hours |
 | All roles | Onboarding — Phase 1 and 2 (one-time) | One-time investment | ~8 hours total |
@@ -184,7 +186,7 @@ Every partner institution enters the OUG federation through a three-phase onboar
 
 **Full partnership confirmation.** At the end of the probationary year, the OUG Partnership Office issues a Full Partnership Confirmation (Bestätigung der Vollmitgliedschaft) if: all four quarterly signal reports have been submitted, no unresolved quality issues remain, and both parties agree that the interface is functioning as designed. If issues remain, the probationary period may be extended by one semester with specific resolution conditions.
 
-**What full partnership means.** Full partnership status triggers the partner's right to Academic Voice in the OUG Senate Strategy Session, participation in the Programme Development Forum with full contribution rights, and eligibility to propose additional modules for federation inclusion.
+**What full partnership means.** Full partnership status triggers the partner's Right 3 institutional voice (External Cooperation Council), full contribution rights in the Programme Development Forum, and eligibility to propose additional modules for federation inclusion.
 
 ---
 
@@ -198,7 +200,7 @@ A module may be suspended from the OUG federation if: the Stichprobe finds that 
 
 ### Partnership Exit
 
-Either party may exit the partnership with six months written notice. During the notice period, no new learner enrolments are accepted into the departing partner's modules. Learners already enrolled are guaranteed the right to complete their current module under OUG credential architecture. Learners mid-programme are assigned alternative module provision by the OUG Academic Steward. The partner retains all credentials already issued to its learners. Module intellectual property remains with the partner at all times.
+Either party may exit the partnership with six months written notice, consistent with the degree-continuity guarantee in [Federated Legal Model](https://github.com/eebyak/OUG/blob/main/docs/governance/federated-legal-model.md) § 12. During the notice period, no new learner enrolments are accepted into the departing partner's modules. Learners already enrolled are guaranteed the right to complete their current module under OUG credential architecture. Learners mid-programme are assigned alternative module provision by the OUG Academic Steward. The partner retains all credentials already issued to its learners. Module intellectual property remains with the partner at all times.
 
 ### The Minimal Principle
 
