@@ -16,6 +16,27 @@ title: "Mission Hub Permeability Architecture"
 >
 > This document specifies the Permeability Architecture: the designed interfaces between Mission Hubs that ensure each Hub is simultaneously a home and a challenge. These interfaces are not optional enrichments. They are governance requirements — standing features of the OUG's academic design that every Hub must maintain, and that are reviewed annually alongside the Hub's academic plan.
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#mission-hub-permeability">
+    <img
+      src="{{ '../images/mission-hub-permeability.png' | relative_url }}"
+      alt="OUG Mission Hub">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="mission-hub-permeability" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/mission-hub-permeability.png' | relative_url }}"
+      alt="Enlarged OUG Mission Hub">
+  </div>
+</div>
 ---
 
 ## I. The Four Permeability Mechanisms
