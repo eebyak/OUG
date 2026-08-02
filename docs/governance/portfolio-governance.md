@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Portfolio Governance"
---- 
+---   
 
 
 *Open University of Germany · Governance Framework*
 
 > **Source:** migrated from `Portfolio Governance` (native Google Doc)
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Note:** this document was deferred as out-of-scope earlier in the governance conversion, then reprioritised — [Anlage 2](anlage-2-strategic-decision-protocol.md) formally depends on it (Decision Classes and Portfolio Governance Interaction), and Grundordnung § 9 already names it as a live mechanism. See [conversion-notes.md](conversion-notes.md).
+> **Note:** this document was deferred as out-of-scope earlier in the governance conversion, then reprioritised — [Anlage 2](anlagen.md) formally depends on it (Decision Classes and Portfolio Governance Interaction), and Grundordnung § 9 already names it as a live mechanism. See [conversion-notes.md](conversion-notes.md).
+> **Correction note:** § 9 previously referred to five other governance documents as "Document A" through "Document G" (skipping F), a lettering scheme not used anywhere else in this repository. Those references are now replaced with the documents' actual names and links. No other correction was needed here — this document already uses "Community Circle" consistently rather than the retired "Community Assembly," and its Class C/D routing already defers decision authority to "delegated authority" and "statutory responsibilities" rather than claiming independent authority, which is consistent with the Decision-Rights Matrix and the corrected Grundordnung § 9.
 
 ## 1. Purpose and Design Principles of Portfolio Governance
 
@@ -49,16 +50,16 @@ This distinction allows governance effort to scale with impact and risk, ensurin
 
 **Coherence over Uniformity.** The aim of portfolio governance is coherence across diversity, not standardisation. Multiple pathways, formats, and approaches may coexist as long as academic equivalence and integrity are maintained.
 
-> **Note on the "Subsidiarity" gap flagged in [Anlage 2](anlage-2-strategic-decision-protocol.md):** the flag was correct that no document *names* subsidiarity as an institution-wide constitutional principle — but this document does name it explicitly as a Portfolio Governance design principle, exactly as quoted above. Whether that's sufficient for Anlage 2's purposes, or whether subsidiarity deserves a wider constitutional statement beyond portfolio decisions specifically, is worth a decision — see [conversion-notes.md](conversion-notes.md).
+> **Note on the "Subsidiarity" gap flagged in [Anlagen, Anlage 2](anlagen.md):** the flag was correct that no document *names* subsidiarity as an institution-wide constitutional principle — but this document does name it explicitly as a Portfolio Governance design principle, exactly as quoted above. Whether that's sufficient for Anlage 2's purposes, or whether subsidiarity deserves a wider constitutional statement beyond portfolio decisions specifically, is worth a decision — see [conversion-notes.md](conversion-notes.md).
 
 ### 1.4 Relationship to Other Governance Documents
 
 The Portfolio Governance Framework operates in alignment with:
 
-- the Strategy Constitution (principles and pillars),
+- the Strategic Constitution (principles and pillars),
 - the Strategy and Development Plan (strategic goals and trajectories),
 - the Quality and Curriculum Framework (academic standards and architectures),
-- the Governance and Decision Framework (roles and escalation),
+- the Governance & Decision Framework (roles and escalation),
 - and the statutory regulations (including Prüfungsordnung).
 
 Where tensions arise between agility and regulation, the Portfolio Governance Framework provides structured pathways for resolution rather than ad-hoc exceptions.
@@ -141,8 +142,8 @@ Four classes of change are distinguished, cumulative: higher classes imply great
 | Class | Description | Typical examples | Governance approach |
 |---|---|---|---|
 | **A — Local and Reversible** | Local, low-risk, reversible. Occurs within existing curricular and regulatory frameworks; does not affect academic equivalence or institutional commitments. | Didactic adjustments within a module; changes to pacing, sequencing, or instructional methods; new learning tools within an existing framework; seminar formats, peer learning structures, feedback mechanisms. | Autonomously managed by professors and teaching teams. No approval required. Documented for transparency and learning, not escalated. |
-| **B — Structural but Bounded** | Affects the structure of teaching or assessment but remains bounded within existing programme or Mission Hub architectures. May affect learner experience or assessment formats, but does not alter qualification equivalence. | New assessment formats; modification of prerequisite logic within a curriculum; new microcredentials within an existing framework; systematic use of AI-aware assessment designs. | Coordination and light review at Mission Hub level. Purpose is coherence and shared understanding, not approval. Evidence and rationale recorded. |
-| **C — Portfolio-Level** | Affects the academic portfolio beyond a single Mission Hub or programme; may influence recognition, stacking logic, or learner pathways. Medium to long-term implications for institutional coherence. | New learner pathways or stackable degree routes; changes to aggregation or recognition rules; cross-hub integration of modules or credentials; changes affecting multiple learner populations. | Coordinated through Vice Rector-level integration, with involvement of affected Mission Hubs. Senate/Community Circle awareness ensured. Guided by evidence and strategic alignment. |
+| **B — Structural but Bounded** | Affects the structure of teaching or assessment but remains bounded within existing programme or Mission Hub architectures. May affect learner experience or assessment formats, but does not alter qualification equivalence. | New assessment formats; modification of prerequisite logic within a curriculum; new microcredentials within an existing framework; systematic use of AI-aware assessment designs; **organic growth of a degree programme already assigned to a Mission Hub** — new specialisation tracks, additional modules, enrolment growth — delegated entirely to the Hub (see [Mission Hub Challenge Framework § IV](mission-hub-challenge-framework.md) for the boundary between this and assigning a genuinely new degree). | Coordination and light review at Mission Hub level. Purpose is coherence and shared understanding, not approval. Evidence and rationale recorded. |
+| **C — Portfolio-Level** | Affects the academic portfolio beyond a single Mission Hub or programme; may influence recognition, stacking logic, or learner pathways. Medium to long-term implications for institutional coherence. | New learner pathways or stackable degree routes; **assigning a genuinely new degree programme to a Mission Hub** (as distinct from Class B's organic growth of an existing one); changes to aggregation or recognition rules; cross-hub integration of modules or credentials; changes affecting multiple learner populations. | Coordinated through Vice Rector-level integration, with involvement of affected Mission Hubs. Senate/Community Circle awareness ensured; where a new degree is being assigned to a Hub, the relevant [Mission Hub Advisory Panel](mission-hub-advisory-panels.md)'s most recent Communiqué is part of the awareness record, per [Mission Hub Challenge Framework § IV](mission-hub-challenge-framework.md). Guided by evidence and strategic alignment. |
 | **D — Normative or Institution-Wide** | Alters foundational institutional arrangements, statutory regulations, or externally visible commitments. Typically irreversible short-term; legal, accreditation, or reputational implications. | Changes to degree structures; revisions of Prüfungsordnung; new qualification types; fundamental changes to assessment regimes. | Formal institutional governance processes: Senate deliberation, Rectorate responsibility, and where applicable, external approval. Well prepared, evidence-informed, grounded in prior learning. |
 
 ### 3.4 Reclassification and Escalation
@@ -197,7 +198,7 @@ These functions may be carried by different actors depending on the change class
 | **Coordination** | None required beyond local documentation | Mission Hub coordination (e.g. Dean or designated coordinator) | Vice Rector(s) responsible for affected portfolio dimensions | Rector, supported by Vice Rectors |
 | **Decision** | Local academic judgement | Mission Hub academic bodies where required | Rectorate-level decision within delegated authority | Senate and Rectorate per statutory responsibilities |
 | **Awareness** | Optional; aggregated periodically for learning | Relevant Vice Rector(s) for thematic coherence | Senate / Community Circle for transparency and legitimacy | Entire academic community |
-| **Enablement** | Local infrastructure and support services | QA, Prüfungsamt, IT, or administrative services as needed | Chancellor and central services | Chancellor and relevant administrative units |
+| **Enablement** | Local infrastructure and support services | QA, Prüfungsamt, IT, or administrative services as needed | Kanzler/in and central services | Kanzler/in and relevant administrative units |
 
 Class A changes do not enter formal governance channels — they're documented to support transparency, peer learning, and potential future scaling. Class C routing focuses on cross-hub alignment and strategic coherence, with Senate involvement centered on awareness and deliberation rather than formal approval unless normative issues arise. Class D changes follow formal governance processes, prepared through prior learning rather than introduced abruptly.
 
@@ -211,7 +212,7 @@ Escalation occurs when one or more of the following conditions are met:
 - legal, accreditation, or reputational risk emerges,
 - or sustained disagreement cannot be resolved at the current level.
 
-Escalation is **procedural**, not punitive. It is intended to provide clarity and legitimacy, not to block change.
+Escalation is **procedural**, not punitive. It is intended to provide clarity and legitimacy, not to block change. Where escalation is needed beyond this framework's own routing, it follows the [Conflict Escalation Framework](conflict-escalation-framework.md) — most portfolio disputes will be Route 1 (Horizontal Coordination) or Route 2 (Competence-Boundary Review).
 
 ### 4.5 De-escalation and Resolution
 
@@ -384,11 +385,11 @@ Portfolio governance distinguishes between **doing the work**, **coordinating an
 
 **Vice Rectors.** Act as **thematic integrators** at portfolio level — coordinate Class C changes, align developments across Mission Hubs, and ensure consistency with institutional principles. Do not own programmes or command faculties; their role is to translate, connect, and surface strategic implications.
 
-**Rector.** Provides constitutional and strategic stewardship, ensuring portfolio governance remains aligned with the Strategy Constitution, intervening only where institutional coherence, legitimacy, or boundary discipline require it.
+**Rector.** Provides constitutional and strategic stewardship, ensuring portfolio governance remains aligned with the Strategic Constitution, intervening only where institutional coherence, legitimacy, or boundary discipline require it.
 
 **Senate / Community Circle.** Provides legitimacy, normative orientation, and collective academic oversight — involved in awareness, deliberation, and formal decision-making where changes affect institutional norms or statutory frameworks.
 
-**Chancellor and Central Services.** Enable portfolio change by ensuring legal, financial, and operational viability — supporting implementation without substituting administrative authority for academic judgement.
+**Kanzler/in and Central Services.** Enable portfolio change by ensuring legal, financial, and operational viability — supporting implementation without substituting administrative authority for academic judgement.
 
 ### 8.3 Responsibility Across the Change Lifecycle
 
@@ -398,7 +399,7 @@ Across all change classes, responsibilities are distributed as follows:
 - **Coordination**: Deans, portfolio coordinators, Vice Rectors
 - **Decision (where required)**: Mission Hubs, Rectorate, Senate
 - **Awareness and Transparency**: All relevant governance bodies
-- **Enablement**: Chancellor and central services
+- **Enablement**: Kanzler/in and central services
 
 This distribution ensures that innovation remains close to practice while maintaining coherence and legitimacy.
 
@@ -414,29 +415,29 @@ Portfolio governance explicitly avoids assigning multiple roles the same functio
 
 The Portfolio Governance Framework is a **connecting document**. It does not replace existing strategic, quality, or legal documents, but defines how they interact in daily academic life.
 
-### 9.2 Relationship to the Strategy Constitution (Document A)
+### 9.2 Relationship to the [Strategic Constitution](../strategy/strategic-constitution.md)
 
-The Strategy Constitution defines principles, pillars, and decision logic. Portfolio governance operationalises these principles by translating them into **processes for change, learning, and adaptation**. Where tensions arise, the Constitution provides normative orientation.
+The Strategic Constitution defines principles, pillars, and decision logic. Portfolio governance operationalises these principles by translating them into **processes for change, learning, and adaptation**. Where tensions arise, the Constitution provides normative orientation.
 
-### 9.3 Relationship to the Strategy and Development Plan (SEP, Document C)
+### 9.3 Relationship to the Strategy Framework / SEP
 
-The SEP defines strategic goals and trajectories. Portfolio governance provides the **mechanism through which these trajectories are explored, tested, and refined** over time through portfolio-level learning rather than one-off implementation.
+The Strategy Framework / SEP defines strategic goals and trajectories. Portfolio governance provides the **mechanism through which these trajectories are explored, tested, and refined** over time through portfolio-level learning rather than one-off implementation.
 
-### 9.4 Relationship to the Quality and Curriculum Framework (Document B)
+### 9.4 Relationship to the Quality and Curriculum Framework
 
-The Quality and Curriculum Framework defines academic standards and architectures. Portfolio governance ensures that changes to curricula, assessment, and learner pathways evolve **within these standards**, and that evidence from innovation feeds back into quality development.
+The Quality Assurance & Academic Governance framework (in the Quality Assurance domain) defines academic standards and architectures. Portfolio governance ensures that changes to curricula, assessment, and learner pathways evolve **within these standards**, and that evidence from innovation feeds back into quality development.
 
-### 9.5 Relationship to the Governance and Decision Framework (Document D)
+### 9.5 Relationship to the [Governance & Decision Framework](governance-architecture.md)
 
-The Governance and Decision Framework defines roles, bodies, and formal decision rights. Portfolio governance specifies **how these roles interact over time**, particularly for changes that do not require immediate formal decisions.
+The Governance & Decision Framework defines roles, bodies, and formal decision rights — including the Decision-Rights Matrix, which this document's Class routing must remain consistent with. Portfolio governance specifies **how these roles interact over time**, particularly for changes that do not require immediate formal decisions.
 
-### 9.6 Relationship to Leadership Profiles (Document E)
+### 9.6 Relationship to Leadership & Stewardship Profiles
 
-Leadership profiles clarify expectations and risk patterns for governance roles. Portfolio governance ensures that leadership authority is exercised **through process and stewardship**, rather than through informal control or personal agenda-setting.
+Leadership profiles (in the Leadership & People domain) clarify expectations and risk patterns for governance roles. Portfolio governance ensures that leadership authority is exercised **through process and stewardship**, rather than through informal control or personal agenda-setting.
 
-### 9.7 Relationship to Statutes and Prüfungsordnung (Document G)
+### 9.7 Relationship to the Grundordnung and Prüfungsordnung
 
-Statutes and Prüfungsordnung codify binding rules. Portfolio governance operates **upstream**, ensuring that normative changes are evidence-informed, well-prepared, and grounded in institutional learning before formal codification.
+The Grundordnung and the Prüfungsordnung codify binding rules — including Grundordnung § 9, which this framework implements procedurally without creating authority the statute doesn't already grant (see the correction applied there: Portfolio Governance regulates procedure, not competence). Portfolio governance operates **upstream**, ensuring that normative changes are evidence-informed, well-prepared, and grounded in institutional learning before formal codification.
 
 ### 9.8 Review and Evolution of the Portfolio Governance Framework
 
