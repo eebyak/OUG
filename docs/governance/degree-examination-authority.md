@@ -95,6 +95,27 @@ OUG implements secure digital verification for degree authentication, transcript
 
 ---
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#examination-authority">
+    <img
+      src="{{ '/images/examination-authority.png' | relative_url }}"
+      alt="OUG Examination Authority">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="examination-authority" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/examination-authority.png' | relative_url }}"
+      alt="Enlarged OUG Examination Authority">
+  </div>
+</div>
+
 ## Relationship to Other Instruments
 
 - **[Federated Legal Model](https://github.com/eebyak/OUG/blob/main/docs/governance/federated-legal-model.md):** the parent allocation framework this document implements.
