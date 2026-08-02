@@ -24,6 +24,27 @@ Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
   <em>[Diagram placeholder — constitutional architecture: Landeshochschulgesetz → Grundordnung → Rektorat / Senat / Hochschulrat → Mission Hubs → Portfolio Governance → Studienangebote, Prüfungen, Studierende; with Strategic Constitution, Governance Architecture, Federated Legal Model, and Prüfungsordnung as the supporting constitutional framework. To be added.]</em>
 </div>
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#grundordnung">
+    <img
+      src="{{ '../images/grundordnung.png' | relative_url }}"
+      alt="OUG Grundordnung">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="grundordnung" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '../images/grundordnung.png' | relative_url }}"
+      alt="Enlarged OUG Grundordnung">
+  </div>
+</div>
+
 ---
 
 ## § 1 Name, Rechtsstellung und Aufgaben
