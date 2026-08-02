@@ -68,11 +68,10 @@ Sections 2.1–2.4 define the four layers functionally. This table names, with s
 
 **Escalation between G1 and the Strategy Constitution's "highest strategic authority."** The Strategy Constitution (§ 6.4) reserves interpretation to "the highest strategic authority of the institution, as defined in subsequent governance arrangements." This table constitutes that governance arrangement: the highest strategic authority for constitutional interpretation is the **Hochschulrat**, acting as G1.
 
-
 <div class="diagram-block">
   <a class="diagram-preview" href="#governance">
     <img
-      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      src="{{ '/images/governance-architecture.png' | relative_url }}"
       alt="OUG Governance">
   </a>
   <p class="diagram-caption">Click the diagram to enlarge.</p>
@@ -85,10 +84,11 @@ Sections 2.1–2.4 define the four layers functionally. This table names, with s
     <a class="lightbox-close" href="#close" aria-label="Close">×</a>
 
     <img
-      src="{{ '../images/governance-architecture.png' | relative_url }}"
+      src="{{ '/images/governance-architecture.png' | relative_url }}"
       alt="Enlarged OUG Governance">
   </div>
 </div>
+
 
 ---
 
