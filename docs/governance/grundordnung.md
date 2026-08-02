@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Grundordnung der Open University of Germany (OUG)
+title: Grundordnung
 ---
 
 *Open University of Germany* *Konsolidierte Fassung · 2026*
 
-> **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))*
+> **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))* · **Version:** v3.0
 > **Language:** This founding statute is published in its authoritative German version.
+
+## Grundordnung der Open University of Germany (OUG)
 
 ---
 
@@ -18,26 +20,8 @@ Die OUG stellt akademisches Vertrauen als Fundament ihres Wirkens über kurzfris
 
 Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
 
-
-<div class="diagram-block">
-  <a class="diagram-preview" href="#grundordnung">
-    <img
-      src="{{ '/images/grundordnung.png' | relative_url }}"
-      alt="OUG Grundordnung">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="grundordnung" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '/images/grundordnung.png' | relative_url }}"
-      alt="Enlarged OUG Grundordnung">
-  </div>
+<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
+  <em>[Diagram placeholder — constitutional architecture: Landeshochschulgesetz → Grundordnung → Rektorat / Senat / Hochschulrat → Mission Hubs → Portfolio Governance → Studienangebote, Prüfungen, Studierende; with Strategic Constitution, Governance Architecture, Federated Legal Model, and Prüfungsordnung as the supporting constitutional framework. To be added.]</em>
 </div>
 
 ---
@@ -165,10 +149,7 @@ Die Organe der Hochschule sind:
 
 (1) Die Hochschule gliedert sich in Mission Hubs. Mission Hubs übernehmen die fachliche und akademische Verantwortung für zusammenhängende Themen-, Disziplin- oder Missionsbereiche der Hochschule. Sie entsprechen den Fakultäten im Sinne des LHG.
 
-(2) Es bestehen folgende Mission Hubs:
-
-1. Mission Hub 1: Informatik
-2. Mission Hub 2: Wirtschaft
+(2) Mission Hubs werden nicht nach Fachdisziplinen, sondern nach globalen gesellschaftlichen Herausforderungen benannt, denen sie sich interdisziplinär widmen; die Ausrichtung orientiert sich an anerkannten globalen Nachhaltigkeits- und Entwicklungszielen (näher ausgeführt im [Mission Hub Challenge Framework](mission-hub-challenge-framework.md)). Bei Gründung der Hochschule besteht beispielhaft ein Mission Hub: **Mission Hub 1: Digital Health.** Die Einrichtung weiterer Mission Hubs richtet sich nach Absatz 9; die Liste in Satz 2 ist beispielhaft, nicht abschließend, und wächst oder verändert sich nach dem dort geregelten Verfahren.
 
 (3) Mitglieder der Mission Hubs sind (analog § 22 Absatz 3 LHG):
 
@@ -185,6 +166,20 @@ Die Organe der Hochschule sind:
 (7) Mission Hubs sind die primären Orte kollegialer akademischer Selbstverwaltung und akademischer Selbstorganisation. Sie tragen Verantwortung für die fachliche Kohärenz ihrer Studienangebote, für die Qualität von Lehre und Prüfung sowie für die Abstimmung struktureller Weiterentwicklungen innerhalb ihres Verantwortungsbereichs.
 
 (8) Mission Hubs wirken aktiv an der Weiterentwicklung des akademischen Portfolios der Hochschule mit. Sie koordinieren insbesondere solche Änderungen, die über einzelne Module hinausgehen, jedoch innerhalb ihres Verantwortungsbereichs verbleiben.
+
+(9) **Einrichtung.** Ein neuer Mission Hub wird durch Beschluss des Rektorats eingerichtet, nach Anhörung des Senats; berührt die Einrichtung bestehende akademische Zuständigkeiten, bedarf sie der Zustimmung des Senats (§ 5 Absatz 1). Der Einrichtungsbeschluss benennt die globale gesellschaftliche Herausforderung, auf die sich der Mission Hub bezieht, sowie den vorgesehenen akademischen Zuschnitt, und stützt sich auf eine dokumentierte Begründung des gesellschaftlichen Bedarfs entsprechend dem [Mission Hub Challenge Framework](mission-hub-challenge-framework.md); wo bereits ein External Cooperation Council mit einschlägigem Bezug tätig ist, ist dessen Einschätzung einzuholen. Der Einrichtungsbeschluss weist dem Mission Hub zugleich ein Objective mit mindestens einem messbaren Key Result im Sinne des OKR-Rahmenwerks zu, damit die Begründung des gesellschaftlichen Bedarfs überprüfbar bleibt und nicht bei einer einmaligen Erklärung stehen bleibt.
+
+(10) **Schließung.** Ein Mission Hub wird geschlossen, wenn die turnusmäßige oder außerplanmäßige Überprüfung nach dem [Governance Review Calendar](governance-review-calendar.md) ergibt, dass er die ihm zugeordnete gesellschaftliche Herausforderung nicht mehr angemessen bearbeitet, oder auf Antrag des Rektorats mit Zustimmung des Senats. Die Überprüfung berücksichtigt die Communiqués des zuständigen [Mission Hub Advisory Panel](mission-hub-advisory-panels.md) der vorangegangenen Zyklen sowie den Stand des dem Mission Hub nach Absatz 9 zugewiesenen Objective; ein wiederholt unadressiertes Communiqué ist für sich ein eigenständiger Anlass für eine außerplanmäßige Überprüfung. Ein nachhaltig unterhalb der Bug-Protocol-Schwelle liegendes Key Result ist ein weiterer eigenständiger Anlass, jedoch erst, nachdem das Bug Protocol durchlaufen wurde (Flag, Diagnose, Klassifikation) und — soweit die Ursache akademischer Natur ist — der Senat im Rahmen seiner nach dem OKR-Rahmenwerk ausschließlichen Zuständigkeit für die Auslegung akademischer Befunde Stellung genommen hat; das Rektorat interpretiert akademisch begründete Befunde nicht selbst. Die Schließung regelt den geordneten Übergang eingeschriebener Studierender, laufender Module und zugeordneten Personals in andere Mission Hubs sowie erforderlichenfalls Auslaufregelungen, entsprechend dem Bestandsschutz bei Partneraustritt (Federated Legal Model § 12); die Rechte bereits eingeschriebener Studierender bleiben unberührt.
+
+(11) Kein Mission Hub begründet einen Anspruch auf Fortbestand. Mission Hubs sind auf die jeweilige gesellschaftliche Herausforderung bezogene, überprüfbare und veränderliche Organisationseinheiten — keine auf Dauer angelegten Fakultäten im herkömmlichen Sinne.
+
+(12) **Umbenennung.** Ein Mission Hub wird durch Beschluss des Rektorats nach Anhörung des Senats umbenannt, wenn sich die von ihm bearbeitete gesellschaftliche Herausforderung wesentlich verändert oder präzisiert hat. Die Umbenennung ist zu begründen und auf das jeweils letzte Communiqué des Mission Hub Advisory Panel Bezug zu nehmen; sie unterliegt denselben Anforderungen des Mission Hub Challenge Framework wie eine Neueinrichtung (Absatz 2). Eine Umbenennung, die lediglich einen zuvor fälschlich disziplinär gewählten Namen korrigiert, bedarf keiner erneuten Bedarfsbegründung nach Absatz 9.
+
+(13) Die Zuordnung eines neuen Studiengangs zu einem Mission Hub ist eine Angelegenheit der Portfolio Governance (§ 9) und richtet sich nach der dort vorgesehenen Klassifikation; das organische Wachstum eines bestehenden, einem Mission Hub bereits zugeordneten Studiengangs innerhalb dieses Mission Hub obliegt dem Mission Hub selbst und bedarf keiner Beteiligung nach den Absätzen 9 oder 10.
+
+
+
+
 
 ## § 9 Portfolio Governance
 
