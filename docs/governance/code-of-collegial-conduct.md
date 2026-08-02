@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Code of Collegial Conduct"
----  
+---   
 
 *Open University of Germany · Shared Compact · Living Document · 2026*
 
-> **Source:** migrated from `OUG Code of Collegial Conduct.docx`
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
+> **Correction note:** "the G2 Governing Council" corrected to "the Rektorat (G2)" below — the rest of this repository uses Rektorat consistently for the G2 executive body; "Governing Council" doesn't appear anywhere else and was very likely an earlier working name for the same body, not a distinct one.
 
 *A shared compact for everyone who participates in governing the Open University of Germany*
 
@@ -18,7 +18,7 @@ title: "Code of Collegial Conduct"
 
 ## Who Signs This Compact
 
-This compact is signed by every person who participates in the formal governance of the Open University of Germany — in any capacity, at any governance layer. This includes members of the G1 Constitutional Stewardship body, the G2 Governing Council, the Academic Senate and its committees, Mission Hubs, programme committees, the Doctoral Studies Committee, the Research Ethics Committee, and industrial governance members.
+This compact is signed by every person who participates in the formal governance of the Open University of Germany — in any capacity, at any governance layer. This includes members of the G1 Constitutional Stewardship body (the Hochschulrat), the Rektorat (G2), the Academic Senate and its committees, Mission Hubs, programme committees, the Doctoral Studies Committee, the Research Ethics Committee, and industrial governance members.
 
 It is signed at the moment of taking up a governance role and renewed at the start of each new term. It is not signed once and forgotten — it is a commitment that participants are expected to return to, particularly when governance is difficult or when the norms it describes are under pressure.
 
@@ -142,7 +142,7 @@ This compact is reviewed every two years by the Academic Senate, with input from
 |---|---|
 | Institution / Affiliation | |
 
-First signed: _______________ Renewed: _______________ _______________ _______________
+First signed: ______________ Renewed: ______________ ______________ ______________
 
 ---
 
