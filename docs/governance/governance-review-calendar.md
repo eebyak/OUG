@@ -22,26 +22,6 @@ Each governance structure review has three steps. First, the structure's current
 
 The review is not a performance evaluation of the people who serve in the structure. It is a legitimacy assessment of the structure itself. A structure may be served by excellent people and still be no longer fit for its purpose. Equally, a structure that is struggling may need better support rather than retirement. The review asks the structural question, not the personal one.
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#calender">
-    <img
-      src="{{ '/images/governance-review-calender.png' | relative_url }}"
-      alt="OUG calender">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="calender" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '/images/governance-review-calender.png' | relative_url }}"
-      alt="Enlarged OUG calender">
-  </div>
-</div>
 ---
 
 ## II. The Calendar
@@ -63,10 +43,34 @@ The table below specifies every significant OUG governance structure, its review
 | **Partnership Office** | G4 | Every 3 years | Is the Partnership Office functioning as intelligence function (not only compliance)? Is the three-layer crossing architecture operational? | G2 reviews with G3 input |
 | **Bug Protocol** | G4/OKR | Annual | Is the Protocol producing structural responses (not individual blame)? Is it being used or avoided? | Rector reviews; G1 noting |
 | **Governance Mentor Pool** | Cross-layer | Every 2 years | Are mentors providing genuine development support? Is the pool composition still relevant to current role-holder needs? | G2/G3 joint review |
+| **Governance Compliance Map** | G1 | Every 2 years, plus continuous updates via the Amendment Procedure's verification gate | Are the Statutory Requirement / Institutional Choice / Open Design Space classifications still accurate against current LHG text? Has the Open Design Space section actually been used as an active agenda, or has it sat unexamined since the last review? Is the Correction Log recording actual corrections, or has an error gone uncaught? | Hochschulrat designates reviewer |
 
 > **Note:** the "Bug Protocol" is fully specified in [`strategy/okr-framework-dashboard.md`](../strategy/okr-framework-dashboard.md) § IV — a five-step process (Flag → Diagnose → Classify → Act → Learn) triggered when a Key Result scores below 0.4. Previously logged here as an unlocated mechanism; confirmed and resolved once the OKR Framework document itself was located. Referenced directly from [Grundordnung § 8 Absatz 10](grundordnung.md#-8-mission-hubs-fakultäten) and the [Mission Hub Challenge Framework](mission-hub-challenge-framework.md) § IV.
 >
 > **Note on the Community Circle row:** this structure was established in [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md) § 5 Absatz 14 and detailed in the [Governance & Decision Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-architecture.md) §§ 4.3 and 5.2, as a deliberate response to Senate meetings functioning as approval formalities rather than genuine strategic deliberation. Because it is new, its first review is scheduled at 2 years rather than matched immediately to the Senate's 3-year cycle — the shorter initial interval is intentional, so that if the Community Circle degrades into the same signature-moment pattern it was created to avoid, that failure is caught early rather than in three years' time.
+
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#calender">
+    <img
+      src="{{ '/images/governance-review-calender.png' | relative_url }}"
+      alt="OUG calender">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="calender" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/governance-review-calender.png' | relative_url }}"
+      alt="Enlarged OUG calender">
+  </div>
+</div>
+
 
 ---
 
@@ -79,4 +83,3 @@ Unscheduled reviews follow the same three-step process as scheduled reviews. The
 ---
 
 *Open University of Germany · Governance Review Calendar · SP-2 Gap Closure · 2026*
- 
