@@ -9,8 +9,6 @@ title: "Pattern Application Log"
 > **What this document is.** A deliberate-choice audit, not a maturity scorecard. The [Design Signature](design-signature-founding.md) asks whether every one of 58 *principles* is honoured — principles are not optional. This document asks a different question: which of the 42 *patterns* from the [Design Pattern Register](design-pattern-register.md) were actually chosen as the structural response, where, and — just as importantly — where a principle was honoured by some other means entirely, without ever adopting the pattern built for it. That is not a gap. A principle can be satisfied by a single governance decision that never becomes a reusable pattern, the same way a well-written function doesn't need a design pattern wrapped around it to be correct.
 > **Organising scheme.** Patterns are sorted here by the three-tier taxonomy borrowed deliberately from software architecture: **Architectural** (shapes the whole institution's structure), **Structural** (defines bounded roles, bodies, and composition), and **Dynamic** (governs flows — decisions, information, review cycles — over time). This is a different sort from the Design Pattern Register's thirteen thematic groups; the same 42 patterns, organised by a different question.
 
----
-
 <div class="diagram-block">
   <a class="diagram-preview" href="#pattern-layers">
     <img
@@ -32,8 +30,7 @@ title: "Pattern Application Log"
   </div>
 </div>
 
-
-
+---
 
 ## I. Architectural Patterns
 
@@ -101,7 +98,7 @@ title: "Pattern Application Log"
 | DP-12 The Permission Floor | **Adopted, closed this session** | Same fix as DP-1 — the Governance Compliance Map is the shared artifact for both patterns, since they name the same underlying discipline from opposite directions. |
 | DP-21 The Home That Challenges | **Adopted, extensively built this session** | Mission Hub Permeability Architecture — its own book text names this pattern as its direct source, and the pattern's title is where the document's own name came from. |
 
----
+
 
 <div class="diagram-block">
   <a class="diagram-preview" href="#pattern-architecture">
@@ -124,7 +121,7 @@ title: "Pattern Application Log"
   </div>
 </div>
 
-
+---
 
 ## IV. What This Detective Work Actually Found
 
@@ -133,7 +130,6 @@ title: "Pattern Application Log"
 **Patterns deliberately left thin, and why that's a legitimate choice, not an oversight:** DP-4 (Need-Based Allocation) and several curriculum-domain patterns (DP-8, DP-9, DP-13, DP-17, DP-18) were not touched this session because this session's actual work was governance, federation, and Mission Hub architecture — not curriculum or finance. A pattern being thin here reflects where the session's attention actually went, not a judgment that the pattern doesn't matter. This is the "choose wisely" discipline you named: not every pattern needs equal investment in every pass.
 
 **One finding that was open, and is now closed rather than merely flagged:** DP-35 (The Evaluated Term). Reading the pattern directly surfaced a real gap — no mid-term Rector review with named goals existed anywhere in this repository. Grundordnung § 4 Absatz 4 now closes it directly, including a self-referential safeguard against the review itself becoming a formality (see the entry above).
-
 
 ---
 
@@ -213,3 +209,10 @@ Three concrete practices, not just a principle:
 ---
 
 *Open University of Germany · Pattern Application Log · Institutional Foundations · 2026*
+
+
+
+
+
+
+ 
