@@ -9,7 +9,7 @@ This is the constitutional layer: the documents that establish what the OUG lega
 
 First, the legal foundation is written explicitly as a public-benefit institution — not a discount version of a commercial one — because that status is what makes its funding model lawful under European state-aid law. Second, the governance architecture treats feedback as a structural obligation, not a cultural aspiration: there are documents whose only job is to specify how information gets from the people running a programme to the people who can change the strategy around it.
 
-Twenty-nine documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like twenty-nine separate things is really six clusters, each answering a different question.
+Thirty-two documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like thirty-two separate things is really six clusters, each answering a different question.
 
 <div class="diagram-block">
  <a class="diagram-preview" href="#governance-document-map">
