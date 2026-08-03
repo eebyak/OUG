@@ -5,7 +5,7 @@ title: Amendment Procedure
 
 *Open University of Germany · Governance Architecture*
 
-> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
+> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))* · **Version:** v3.0
 > **Scope:** this procedure governs amendment of the [Governance & Decision Framework](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-architecture.md) specifically, and serves as the default amendment procedure for any other instrument in this repository that does not define its own. It does **not** govern the Strategic Constitution or the Grundordnung, both of which already have their own amendment clauses — see § 1 below.
 
 ## 1. What This Document Does Not Cover
@@ -31,6 +31,8 @@ Following the Strategic Constitution's own principle of stability (§ 8.4), amen
 ## 3. Procedure
 
 **Step 1 — Proposal.** Any body named in the Institutional Mapping (§ 2.5 of the Governance & Decision Framework) or any recognised participatory body (§ 4.3 of that document) may propose an amendment. The proposal must identify the specific section(s) affected and the reason amendment is sought, by reference to § 2 above.
+
+**Step 1a — Statutory verification, where the proposal asserts a legal constraint.** Where a proposal's rationale includes a claim of the form *"the law requires..."* or *"we cannot do X because of the LHG"* (or another external statute), the proposal must cite the specific paragraph and clause relied upon — not a general area of law — and must add or confirm the corresponding entry in the [Governance Compliance Map](governance-compliance-map.md). A proposal that asserts a legal constraint without this citation is incomplete and does not proceed to Step 2. This step exists because the Kooperationsvereinbarung voting-rights finding (Governance Compliance Map, Section II) showed that institutional convention about what the LHG requires can be wrong even when repeated in good faith across multiple prior drafts — the check has to happen at the point of proposal, not be left to whoever happens to think of it.
 
 **Step 2 — Preparation and routing.** The Rektorat (G2) prepares the proposal for review, consolidating it with any related proposals and identifying which decision domains, principles, or dependencies (§ 5.4, § 7) are affected.
 
