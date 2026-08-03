@@ -9,7 +9,7 @@ This is the constitutional layer: the documents that establish what the OUG lega
 
 First, the legal foundation is written explicitly as a public-benefit institution — not a discount version of a commercial one — because that status is what makes its funding model lawful under European state-aid law. Second, the governance architecture treats feedback as a structural obligation, not a cultural aspiration: there are documents whose only job is to specify how information gets from the people running a programme to the people who can change the strategy around it.
 
-Twenty-six documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like twenty-six separate things is really six clusters, each answering a different question.
+Twenty-nine documents live in this folder. Read individually, several of them are dense. Read as a system, they're more legible than the count suggests — most of what looks like twenty-nine separate things is really six clusters, each answering a different question.
 
 <div class="diagram-block">
  <a class="diagram-preview" href="#governance-document-map">
@@ -36,7 +36,7 @@ alt="Enlarged OUG Governance Document Map">
 
 ## How to Read This Folder
 
-Six clusters, each doing a different job. The order below is roughly "read this first" — constitutional bedrock, then the machinery that runs day to day, then the documents that explain the institution to people outside it, then the two documents that grade everything else's homework.
+Six clusters, each doing a different job. The order below is roughly "read this first" — constitutional bedrock, then the machinery that runs day to day, then the documents that explain the institution to people outside it, then the ground-truth registers and the two scorecards built from them.
 
 ### 1. Constitutional Core
 
@@ -124,15 +124,19 @@ Six clusters, each doing a different job. The order below is roughly "read this 
 
 **Start here if:** you're drafting something for an external audience and need the version of the argument that's already been made for that audience.
 
-### 6. Self-Assessment Scorecards
+### 6. Ground-Truth Registers & Self-Assessment Scorecards
 
-*The OUG grading its own governance, in public*
+*The primary-source foundations, and the OUG grading its own governance against them, in public*
+
+* **[Principles Register](principles-register.md)** — every principle articulated across the book's dialogue sources, extracted directly from the source text rather than from any prior summary, and re-sorted by meaning into nine thematic sections instead of by which dialogue produced them. Fifty-eight dialogue-derived principles plus three founding principles reconstructed from the University of Bologna's original governing arrangement — sixty-one entries in total, each keeping its original source code only as a citation. Exists because the earlier, more familiar count of "forty-two" describes the derived pattern catalogue below, not the actual principle base underneath it — a distinction this register made explicit for the first time.
+
+* **[Design Pattern Register](design-pattern-register.md)** — the companion register for the book's 42 antipattern/design-pattern pairs, same treatment: re-sorted from the book's seven source blocks into thirteen thematic groupings, each pattern's full primary text read directly rather than summarised from the catalogue index. States plainly where this session's own governance work already implements a pattern by name, and flags at least one place where a pattern's own book citation pointed at a document this repository has since corrected (Pair 36's four-year Rector term, superseded by the Grundordnung's actual six-to-eight-year term).
 
 * **[Governance Principles Assessment](governance-principles-assessment.md)** — scores the institution against twelve unified principles drawn from two expert dialogues. It identifies five areas of strong alignment, five partial areas, and two gaps. Several of the mechanisms proposed in the assessment — including participatory strategy formation, an OKR framework, structured inter-layer feedback, committee information architecture, and leadership development — are now represented elsewhere in the repository. The assessment should therefore be read as a diagnostic document whose individual findings must be checked against the subsequent architecture.
 
-* **[Design Signature Founding](design-signature-founding.md)** — the full scorecard: forty-two principles across six dialogue sources, each rated Built, Partial, or Gap-with-a-committed-closure-date. The most rigorous single document in this folder for answering "how much of this is real versus aspirational" — including one place where it disagrees with Governance Gap Closure v2 about whether a specific gap (HP-7) is actually closed, which is noted rather than quietly resolved.
+* **[Design Signature](design-signature-founding.md)** — the full scorecard, rebuilt on the Principles Register above rather than on the earlier forty-two-principle count. Fifty-eight principles, organised into the Register's same nine thematic sections, each rated Built or Partial — the first edition with zero named gaps, and the first where every Partial entry carries a concrete Recommendation naming the existing mechanism that should close it, not just a future commitment date. States its own limits plainly: "Built" mostly means the specification exists, not that it has survived a full year of actual operation.
 
-**Start here if:** you want the unvarnished version — what's actually built, versus what's still a stated intention.
+**Start here if:** you want the unvarnished version — what's actually built, versus what's still a stated intention, and what the claim is actually derived from.
 
 Unresolved questions and matters requiring further reconciliation are maintained separately in the **[known gaps register](known-gaps.md)**.
 
