@@ -5,9 +5,8 @@ title: Governance & Decision Framework
 
 *Open University of Germany · Governance Architecture*
 
-> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))*
+> **Status:** *(to be set — see [Document Status](https://github.com/eebyak/OUG/blob/main/docs/index.md#document-status))* · **Version:** v3.0
 > **Position in the document architecture:** this framework operationalises the [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html) and informs the interpretation and development of the [Grundordnung](https://github.com/eebyak/OUG/blob/main/docs/governance/grundordnung.md), without replacing legally binding statutory competences. It is the base document that [`governance-principles-assessment.md`](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-principles-assessment.md) and several other converted documents in this repository cite simply as "the Governance Architecture."
-
 
 ## 0. Purpose and Scope of the Governance & Decision Framework
 
@@ -41,6 +40,28 @@ The governance model of the OUG is grounded in a set of explicit principles deri
 
 ---
 
+<div class="diagram-block">
+  <a class="diagram-preview" href="#governance">
+    <img
+      src="{{ '/images/governance-architecture.png' | relative_url }}"
+      alt="OUG Governance">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="governance" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/governance-architecture.png' | relative_url }}"
+      alt="Enlarged OUG Governance">
+  </div>
+</div>
+
+
 ## 2. Governance Layers and Their Roles
 
 To manage complexity without sacrificing clarity, governance at the OUG is structured into four interrelated layers. Each layer is defined by its purpose, decision horizon, and accountability logic. Together, they form a coherent system that separates constitutional stewardship, strategic steering, academic governance, and operational execution.
@@ -67,28 +88,6 @@ Sections 2.1–2.4 define the four layers functionally. This table names, with s
 **Note on the Kanzler/in's dual position.** The Kanzlerin or Kanzler is, by law, a *member of the Rektorat* (§ 3 Absatz 2 Nr. 2) and therefore formally part of G2. Functionally, however, the Kanzler/in's statutory responsibility is *lawful execution* of the budget and administration (§ 7), which corresponds to a G4-type function. Section 3.7 below states this split explicitly for the resource-allocation domain.
 
 **Escalation between G1 and the Strategy Constitution's "highest strategic authority."** The Strategy Constitution (§ 6.4) reserves interpretation to "the highest strategic authority of the institution, as defined in subsequent governance arrangements." This table constitutes that governance arrangement: the highest strategic authority for constitutional interpretation is the **Hochschulrat**, acting as G1.
-
-<div class="diagram-block">
-  <a class="diagram-preview" href="#governance">
-    <img
-      src="{{ '/images/governance-architecture.png' | relative_url }}"
-      alt="OUG Governance">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="governance" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '/images/governance-architecture.png' | relative_url }}"
-      alt="Enlarged OUG Governance">
-  </div>
-</div>
-
 
 ---
 
@@ -154,8 +153,6 @@ The OUG distinguishes deliberately between **decision authority** and **particip
 
 This section defines the Participation and Agenda-Setting Architecture through which academic expertise, learner experience, and societal knowledge systematically shape institutional decisions. Participation is therefore not an informal add-on or a consultative gesture, but a **structurally embedded component** of governance.
 
-
-
 ### 4.1 Purpose of the Participation Architecture
 
 The participation architecture serves four core purposes:
@@ -186,6 +183,8 @@ Each decision domain specifies which modes of participation apply and which bodi
 Within this architecture, existing legally recognised bodies operate with **expanded constitutional semantics**, and additional participatory formats are explicitly recognised as part of the governance system.
 
 **Community Circles.** Serving as primary agenda-setting forums for strategic direction, institutional priorities, and cross-cutting issues. This is the constitutional identity the Senate carries quarterly, in addition to its formal decision-making sessions (Grundordnung § 5 Absatz 14) — a deliberately separate convening, not restructured time inside the statutory vote. Participation is two-tier: the quarterly Community Circle itself seats the Senate together with Mission Hub Stewards and academically affiliated persons (advisory voice, per Grundordnung § 5 Absatz 14); External Cooperation Councils (below) feed into the Community Circle on a defined trigger rather than attending every session. For partner-institution input specifically into curriculum and programme design, the **Programme Development Forum** (see the [Governance Review Calendar](https://github.com/eebyak/OUG/blob/main/docs/governance/governance-review-calendar.md)) is the operative venue producing documented Decision Accounts, distinct from the Community Circle's broader strategic remit.
+
+**Permanent representation for non-degree lifelong learners.** Grundordnung § 5 Absatz 15 grants Kontaktstudium participants — learners engaged in non-degree stackable learning under § 31 LHG, who are not immatrikulierte students and therefore fall outside the Verfasste Studierendenschaft under § 65 LHG — a **standing, elected, permanent advisory seat** in the Community Circle, and, where relevant, in their Mission Hub's own sessions (Grundordnung § 8 Absatz 14). The seat count is not fixed at a token one regardless of scale: it starts at one, but rises to **two — matching the regular student seat count under § 5 Absatz 6 Nummer 3** — once Kontaktstudium participants are at least as numerous as immatrikulierte students, certified by the Kanzler/in against registry data before each electoral term and logged in the Governance Review Calendar. Once raised, the count does not fall again mid-term even if the ratio later shifts back. This is deliberately not an occasional guest invitation: the seat exists for the full electoral term, exactly as the Mission Hub Steward and affiliated-academic seats do. The distinction between this seat and a Senate vote is a real legal boundary, not a design choice OUG made — but the boundary stops at the vote. It does not extend to standing, voice, continuity of presence, or proportionality of representation as the population grows. A learner moving between immatrikuliertem Studium and Kontaktstudium participation — in either direction, at any point — does not lose institutional standing in the transition (Grundordnung § 5 Absatz 15).
 
 **Mission Hubs.** Operating at the level of faculties or academic domains, Mission Hubs combine disciplinary expertise with mission-oriented responsibility. They initiate agenda items related to portfolio logic, curriculum development, and academic innovation, and lead co-creation processes within their scope.
 
@@ -401,3 +400,7 @@ This framework does not stand alone. Its relationship to the other constitutiona
 ---
 
 *Open University of Germany · Governance & Decision Framework*
+
+
+
+
