@@ -353,6 +353,8 @@ Unresolved matters across the complete architecture are summarised in the **[rep
 - [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
 - [Principles Register](governance/principles-register.md)
 - [Design Pattern Register](governance/design-pattern-register.md)
+- [Pattern Application Log](governance/pattern-application-log.md)
+- [Design Pattern Signature](governance/design-pattern-signature.md)
 - [Governance Principles Assessment](governance/governance-principles-assessment.md)
 - [Design Signature Founding](governance/design-signature-founding.md)
 
