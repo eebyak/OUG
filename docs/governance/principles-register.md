@@ -22,6 +22,28 @@ title: "Principles Register"
 
 **What Is Available to Learn Is Determined by Learner Need.** The range of what an institution teaches should follow demonstrated need, not inherited disciplinary structure or supply-side convenience. Diversity of offering is a consequence of diversity of demand, not a faculty commitment pursued independently of it. *(Founding Principle 3, Chapter 1 — reconstructed from the original Bologna arrangement.)*
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#principles">
+    <img
+      src="{{ '/images/principles.png' | relative_url }}"
+      alt="OUG Principles">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="participation" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/principles.png' | relative_url }}"
+      alt="Enlarged OUG Principles">
+  </div>
+</div>
+
 ---
 
 ## 1. Purpose: Learning as the Institutional Goal, Not Its Byproduct
