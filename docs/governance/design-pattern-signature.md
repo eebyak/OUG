@@ -32,7 +32,8 @@ title: "Design Pattern Signature"
   </div>
 </div>
 
----
+
+
 ---
 
 ## 0. Founding Principles — What the Whole System Answers To
