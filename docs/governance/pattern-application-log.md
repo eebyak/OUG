@@ -9,6 +9,7 @@ title: "Pattern Application Log"
 > **What this document is.** A deliberate-choice audit, not a maturity scorecard. The [Design Signature](design-signature-founding.md) asks whether every one of 58 *principles* is honoured — principles are not optional. This document asks a different question: which of the 42 *patterns* from the [Design Pattern Register](design-pattern-register.md) were actually chosen as the structural response, where, and — just as importantly — where a principle was honoured by some other means entirely, without ever adopting the pattern built for it. That is not a gap. A principle can be satisfied by a single governance decision that never becomes a reusable pattern, the same way a well-written function doesn't need a design pattern wrapped around it to be correct.
 > **Organising scheme.** Patterns are sorted here by the three-tier taxonomy borrowed deliberately from software architecture: **Architectural** (shapes the whole institution's structure), **Structural** (defines bounded roles, bodies, and composition), and **Dynamic** (governs flows — decisions, information, review cycles — over time). This is a different sort from the Design Pattern Register's thirteen thematic groups; the same 42 patterns, organised by a different question.
 
+
 <div class="diagram-block">
   <a class="diagram-preview" href="#pattern-layers">
     <img
@@ -97,7 +98,6 @@ title: "Pattern Application Log"
 | DP-10 The Active Member | **Partial** | Statutory Senate seats exist; asynchronous participation design (this session flagged, not resolved) remains open — see Design Signature, LP-4. |
 | DP-12 The Permission Floor | **Adopted, closed this session** | Same fix as DP-1 — the Governance Compliance Map is the shared artifact for both patterns, since they name the same underlying discipline from opposite directions. |
 | DP-21 The Home That Challenges | **Adopted, extensively built this session** | Mission Hub Permeability Architecture — its own book text names this pattern as its direct source, and the pattern's title is where the document's own name came from. |
-
 
 
 <div class="diagram-block">
@@ -215,4 +215,11 @@ Three concrete practices, not just a principle:
 
 
 
- 
+
+
+
+
+
+
+
+
