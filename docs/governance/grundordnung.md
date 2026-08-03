@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grundordnung der Open University of Germany (OUG)
+title: Grundordnung
 ---
 
 *Open University of Germany* *Konsolidierte Fassung · 2026*
@@ -8,7 +8,7 @@ title: Grundordnung der Open University of Germany (OUG)
 > **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))* · **Version:** v3.0
 > **Language:** This founding statute is published in its authoritative German version.
 
-
+## Grundordnung der Open University of Germany (OUG)
 
 ---
 
@@ -20,26 +20,10 @@ Die OUG stellt akademisches Vertrauen als Fundament ihres Wirkens über kurzfris
 
 Diesem Auftrag verpflichtet, gibt sich die Hochschule folgende Grundordnung.
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#grundordnung">
-    <img
-      src="{{ '/images/grundordnung.png' | relative_url }}"
-      alt="OUG Grundordnung">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
+<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
+  <em>[Diagram placeholder — constitutional architecture: Landeshochschulgesetz → Grundordnung → Rektorat / Senat / Hochschulrat → Mission Hubs → Portfolio Governance → Studienangebote, Prüfungen, Studierende; with Strategic Constitution, Governance Architecture, Federated Legal Model, and Prüfungsordnung as the supporting constitutional framework. To be added.]</em>
 </div>
 
-<div id="grundordnung" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-    <img
-      src="{{ '/images/grundordnung.png' | relative_url }}"
-      alt="Enlarged OUG Grundordnung">
-  </div>
-</div>
 ---
 
 ## § 1 Name, Rechtsstellung und Aufgaben
@@ -89,6 +73,8 @@ Die Organe der Hochschule sind:
 4. die Gleichstellungsbeauftragte mit beratender Funktion.
 
 (3) Der Hochschulrat und der Senat wählen nach § 18 Absatz 2 LHG in einer gemeinsamen Sitzung die hauptamtlichen Rektoratsmitglieder.
+
+(4) Der Hochschulrat führt bei jedem hauptamtlichen Rektoratsmitglied zur Mitte der Amtszeit eine Zwischenevaluation durch. Grundlage ist ein bei Amtsantritt vom Hochschulrat gebilligtes Zielbild mit benannten Zielen und Zeithorizonten für die gesamte Amtszeit; das Zielbild ist kein Verwaltungsinternum, sondern wird hochschulöffentlich gemacht. Die Zwischenevaluation stellt fest, ob die bisherige Amtsführung dem Zielbild entspricht, und schließt mit genau einer der folgenden vier Feststellungen: uneingeschränkte Fortsetzung der Amtszeit; Fortsetzung unter benannten, terminierten Auflagen; Einleitung einer geordneten Übergabeplanung zum Amtszeitende; oder — nur aus wichtigem Grund und unter Wahrung der gesetzlichen Bestimmungen — sofortige Beendigung. Eine ausbleibende oder rein formal durchgeführte Zwischenevaluation ist selbst ein Gegenstand der Überprüfung des Hochschulrats nach dem Governance Review Calendar; die Zwischenevaluation ist dort in jedem Fall zu dokumentieren, unabhängig von ihrem Ergebnis.
 
 ## § 5 Senat
 
@@ -302,10 +288,3 @@ Die Gremienwahlen werden gemäß der Wahlordnung der Hochschule durchgeführt.
 ## Anlagen
 
 Beide Anlagen — **Anlage 1** (Strategisches Rahmenwerk) und **Anlage 2** (Strategic Decision Protocol) — sind gemeinsam als ein Dokument geführt: **[Anlagen](https://github.com/eebyak/OUG/blob/main/docs/governance/anlagen.md)**. *(Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3. Die First Principles sind kanonisch in der [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html), Abschnitt 2, definiert und werden von Anlage 1 referenziert statt dupliziert; das Buch erläutert ihre Herleitung. Anlage 2 ist weitgehend vollständig.)*
-
-
-
-
-
-
-
