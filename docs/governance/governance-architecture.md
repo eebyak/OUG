@@ -40,6 +40,7 @@ The governance model of the OUG is grounded in a set of explicit principles deri
 
 ---
 
+
 <div class="diagram-block">
   <a class="diagram-preview" href="#governance">
     <img
@@ -60,6 +61,7 @@ The governance model of the OUG is grounded in a set of explicit principles deri
       alt="Enlarged OUG Governance">
   </div>
 </div>
+
 
 
 ## 2. Governance Layers and Their Roles
@@ -393,14 +395,11 @@ This framework does not stand alone. Its relationship to the other constitutiona
 
 **8.4 Amendment.** Amendments to this framework follow the **[Amendment Procedure](https://github.com/eebyak/OUG/blob/main/docs/governance/amendment-procedure.md)**, which also clarifies its relationship to the Strategic Constitution's own § 8 procedure and the Grundordnung's § 16 procedure.
 
-<div style="border: 1px dashed #999; padding: 1.5em; text-align: center; margin: 1.5em 0; color: #666;">
-  <em>[Diagram placeholder — governance layer architecture: G1 (Hochschulrat) → G2 (Rektorat) → G3 (Senat, Mission Hubs, programme committees) → G4 (Kanzler/in and administration, Steward of Missions delivery), with the Participation and Agenda-Setting Architecture (Community Circles, Mission Hubs, Rapporteurs, Learner Communities, External Cooperation Councils) shown feeding into each layer via the coupling mechanisms in Section 6. To be added.]</em>
-</div>
+
 
 ---
 
 *Open University of Germany · Governance & Decision Framework*
-
 
 
 
