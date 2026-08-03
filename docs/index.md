@@ -333,6 +333,7 @@ Unresolved matters across the complete architecture are summarised in the **[rep
 - [Conflict Escalation Framework](governance/conflict-escalation-framework.md)
 - [Amendment Procedure](governance/amendment-procedure.md)
 - [Decision-Rights Matrix](governance/decision-rights-matrix.md)
+- [Governance Compliance Map](governance/governance-compliance-map.md)
 - [Anlagen: Anlage 1 and Anlage 2](governance/anlagen.md)
 - [Allgemeinwohl Verfassung: Public-Benefit Constitution](governance/allgemeinwohl-verfassung.md)
 - [Rechtliche Implementierungsvoraussetzungen: Legal Implementation Requirements](governance/legal-implementation-requirements.md)
