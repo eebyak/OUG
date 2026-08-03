@@ -10,6 +10,29 @@ title: "Design Pattern Signature"
 > **Organising scheme.** This document follows the taxonomy from the OUG Pattern Architecture diagram directly, rather than inventing a fourth structure: the Architectural tier; four Structural Pattern Families (Authority Architecture, Membership & Access, Roles & Leadership, Participation & Collegiality); five Dynamic Pattern Families (Decision Flow, Learning & Adaptation, Strategy & Transformation, Learner & Curriculum Flow, Institutional Permeability); and the five Cross-Cutting Spines the diagram identifies as influencing every other layer.
 > **How to read a maturity marker.** ● Built — structurally specified and, where noted, load-bearing in actual statute or governance text. ◑ Partial — adopted in principle, not yet fully operationalised. Every entry carries an **Antipattern-Slip Warning**: the specific early signal that would indicate drift back toward the pattern's paired dysfunction, not a generic reminder to "stay vigilant."
 
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#pattern-architecture">
+    <img
+      src="{{ '/images/pattern-architecture.png' | relative_url }}"
+      alt="OUG Pattern Architecture">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="pattern-architecture" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/pattern-architecture.png' | relative_url }}"
+      alt="Enlarged OUG Pattern Architecture">
+  </div>
+</div>
+
+---
 ---
 
 ## 0. Founding Principles — What the Whole System Answers To
