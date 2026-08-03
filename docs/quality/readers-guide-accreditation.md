@@ -2,13 +2,13 @@
 layout: page
 title: "Reader's Guide for the Accreditation Committee"
 ---
- 
+
 *Open University of Germany · Institutional Accreditation · 2026*
 
 > **Source:** migrated from `OUG_Readers_Guide_Accreditation.docx`
 > **Status:** *(to be set — see [Document Status](../index.md#document-status))*
 > **Note on the document reference table (Section IV):** this Guide uses its own document coding scheme (G-01, O-01, A-01, F-01, FIN-01, etc.) to map claims to source documents. Several of the documents it references either don't exist yet in this repository under that name, or were deliberately excluded from scope elsewhere: "Curriculum Framework," "Modulhandbuch," "Partnership Agreement Template" (F-02), "Financial Model v3 (Excel)," "Gebührenordnung," and "Hochschulfinanzierungsvertrag Plan" are all cited as if live documents but aren't yet converted — and Modulhandbuch/Curriculum Framework were specifically dropped from the curriculum domain's scope earlier by decision (their content is in the New Study Programme Document instead). "Leadership & Stewardship Profiles" (G-06) is cited repeatedly here and in other converted documents as an authoritative source of role competency requirements, but no standalone document under that name has been found — it may be embedded in the Leadership Development & Induction Framework, or it may be a genuine gap. See [conversion-notes.md](conversion-notes.md).
-
+> **Correction note:** the [Allgemeinwohl Verfassung](../governance/allgemeinwohl-verfassung.md) and the [Rechtliche Implementierungsvoraussetzungen](../governance/legal-implementation-requirements.md) were entirely absent from this Guide despite being — alongside the Grundordnung — the two documents that establish that the OUG is legally *possible*, not merely well-designed. A Guide whose stated purpose is to be "the only document you need to read in full" cannot omit the documents that make the public-benefit and legal-readiness case. Both are now linked at the point in Section I where the need/possibility argument is actually made, and added to the document stack table in Section IV and the reading guide in Section VIII, where they were previously simply missing.
 
 ## A New Kind of University
 
@@ -17,6 +17,7 @@ title: "Reader's Guide for the Accreditation Committee"
 > **To the Accreditation Committee.** The Open University of Germany has produced a substantial institutional document stack. This Reader's Guide is the entry point to that stack. It is the only document you need to read in full. Everything else exists to provide additional depth on demand.
 >
 > This Guide gives you a complete picture of what the OUG is, how it works, and why its design is sound. Where greater detail is available in a specific institutional document, you will find a clear reference. But you will not need to read those documents to understand the institution — only to verify particular claims or to satisfy specialist review requirements.
+
 
 <div class="diagram-block">
   <a class="diagram-preview" href="#living">
@@ -41,7 +42,6 @@ title: "Reader's Guide for the Accreditation Committee"
   </div>
 </div>
 
-
 ---
 
 ## I. What the OUG Is
@@ -56,33 +56,16 @@ The OUG was founded because that model does not reach everyone. Germany has hund
 
 > Private distance universities already serve many of these learners — at prices between €4,000 and €20,000 for a Bachelor's degree. The OUG offers the same access as a public institution, at €3,600–5,400 for a full Bachelor's — with academic standards equivalent to any German university, because the standards are governed by the same accreditation framework.
 
+**Two questions follow immediately from that claim, and this Guide does not defer either of them.** Why is an institution of this kind *needed* — beyond the general observation that access is uneven? And why is it *possible* — legally, not just architecturally — for a public university to operate this way, price this way, and be funded this way, without falling foul of German administrative law or European state-aid rules? Both questions are answered in full, not in summary, in two documents this Guide treats as foundational rather than supplementary:
+
+> *→ [Allgemeinwohl Verfassung](../governance/allgemeinwohl-verfassung.md) — the public-benefit legal case: why the OUG's fee structure is a cost contribution rather than a market price, and why that distinction is what makes public funding and federation resources compatible with EU state-aid law. This is the "why it is needed and legally sound" argument in full, not the compressed version.*
+> *→ [Rechtliche Implementierungsvoraussetzungen](../governance/legal-implementation-requirements.md) — the legal readiness checklist: seven concrete legal readiness points, each with a status marker and a deadline relative to the first partner contract, covering state recognition, teaching-capacity law, examination authority, GDPR across a federated model, copyright in jointly-produced modules, and accreditation readiness. This is the "why it is possible, specifically, right now" argument.*
+
+The rest of this section describes the architecture those two documents make legally possible.
+
 The OUG solves the access problem through a federated architecture. Instead of building a single institution with its own campus and permanent faculty, the OUG is constituted as the governance and credentialling centre of a network of partner universities. Partner institutions contribute teaching. The OUG awards the degrees. Academic quality is governed centrally. Financial flows are transparent, ECTS-based, and structured to benefit all parties.
 
 This is not a platform, a marketplace, or a consortium. The OUG is a university — with the legal standing, governance architecture, quality assurance infrastructure, and academic culture that university status requires. What distinguishes it is that it was designed, from the beginning, for a different kind of student, a different kind of learning, and a different financial architecture. Not adapted from an existing model. Built from first principles.
-
-<div class="diagram-block">
-  <a class="diagram-preview" href="#different">
-    <img
-      src="{{ '/quality/images/OUG-different.png' | relative_url }}"
-      alt="OUG What makes us different">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="different" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-```
-<img
-  src="{{ 'quality/images/OUG-different.png' | relative_url }}"
-  alt="Enlarged OUG What makes us different">
-```
-
-  </div>
-</div>
-
 
 ---
 
@@ -90,20 +73,15 @@ This is not a platform, a marketplace, or a consortium. The OUG is a university 
 
 Accreditation of a new institutional form raises legitimate questions that established universities do not face. The OUG's design anticipated these questions.
 
-**Is it a real university — or just a learning platform with a credential attached?**
-It is a real university. The OUG holds degree-awarding authority, operates under German higher education law, and is governed by a four-layer constitutional architecture that separates academic standards from financial and executive authority. It has a research framework, doctoral education, an academic Senate, and a Community Charter that creates genuine intellectual life for students who never share a campus. It awards degrees — not certificates, not badges. The credential belongs to the OUG, not to a partner platform.
+**Is it a real university — or just a learning platform with a credential attached?** It is a real university. The OUG holds degree-awarding authority, operates under German higher education law, and is governed by a four-layer constitutional architecture that separates academic standards from financial and executive authority. It has a research framework, doctoral education, an academic Senate, and a Community Charter that creates genuine intellectual life for students who never share a campus. It awards degrees — not certificates, not badges. The credential belongs to the OUG, not to a partner platform.
 
-**Who guarantees academic quality if teaching is distributed across partner institutions?**
-The OUG does. Academic quality is governed by the G3 Academic Governance layer — which is constitutionally insulated from financial and executive pressure. No partner institution has authority over degree standards, examination requirements, or programme learning outcomes. Partners teach; the OUG certifies. This separation is structurally analogous to the way a university school or department may outsource specialist teaching to visiting lecturers while retaining full examination authority.
+**Who guarantees academic quality if teaching is distributed across partner institutions?** The OUG does. Academic quality is governed by the G3 Academic Governance layer — which is constitutionally insulated from financial and executive pressure. No partner institution has authority over degree standards, examination requirements, or programme learning outcomes. Partners teach; the OUG certifies. This separation is structurally analogous to the way a university school or department may outsource specialist teaching to visiting lecturers while retaining full examination authority.
 
-**Can a federated model actually work — or will it fragment under the pressure of competing institutional interests?**
-It is designed not to. The federation is governed by a legal model that separates degree authority (OUG), teaching authority (partners), and institutional autonomy (both). Partners participate voluntarily and are compensated transparently per ECTS credit completed. Governance rights — Senate seats, committee membership — are offered in exchange for sustained institutional commitment. The Federated Participation & Incentive Framework specifies entry, exit, and protection rights for all parties. Partners do not depend on the OUG; they benefit from it. This is the condition for genuine, durable federation.
+**Can a federated model actually work — or will it fragment under the pressure of competing institutional interests?** It is designed not to. The federation is governed by a legal model that separates degree authority (OUG), teaching authority (partners), and institutional autonomy (both). Partners participate voluntarily and are compensated transparently per ECTS credit completed. Governance rights — Senate seats, committee membership — are offered in exchange for sustained institutional commitment. The Federated Participation & Incentive Framework specifies entry, exit, and protection rights for all parties. Partners do not depend on the OUG; they benefit from it. This is the condition for genuine, durable federation.
 
-**Is it financially sustainable — or dependent on a funding model that won't survive contact with reality?**
-The financial model rests on three independent pillars: public funding (BMBF project grants, EU funds, and a Hochschulfinanzierungsvertrag after accreditation), student fees (€25/ECTS — well below private alternatives, sustained through public co-funding), and institutional industry membership (governance rights in exchange for financial participation, the structural logic of the dual education system applied at university level). The model reaches operational break-even in Year 4–5 of the realistic scenario. Capital requirement is approximately €6M — less than one year's operating budget of a mid-sized public Fachhochschule.
+**Is it financially sustainable — or dependent on a funding model that won't survive contact with reality?** The financial model rests on three independent pillars: public funding (BMBF project grants, EU funds, and a Hochschulfinanzierungsvertrag after accreditation), student fees (€25/ECTS — well below private alternatives, sustained through public co-funding), and institutional industry membership (governance rights in exchange for financial participation, the structural logic of the dual education system applied at university level). The model reaches operational break-even in Year 4–5 of the realistic scenario. Capital requirement is approximately €6M — less than one year's operating budget of a mid-sized public Fachhochschule. *(The legal basis for the €25/ECTS pricing specifically — why it is a cost contribution and not a market price under EU state-aid law — is the Allgemeinwohl Verfassung's central argument; see Section I above.)*
 
-**Is this timely — or is it a solution looking for a problem that doesn't yet exist?**
-It is timely to the point of urgency. The OECD, the European Commission, and the Wissenschaftsrat have all, in the past five years, identified the same structural gap: the absence of a trusted, governed, interoperable credential infrastructure for lifelong learners. Private providers have occupied this space commercially. The OUG occupies it as a public institution. The policy window is open; the demand is demonstrably present; the technology and governance knowledge needed to build this institution exist now. Five years from now, the window may be narrower and the private alternatives more entrenched.
+**Is this timely — or is it a solution looking for a problem that doesn't yet exist?** It is timely to the point of urgency. The OECD, the European Commission, and the Wissenschaftsrat have all, in the past five years, identified the same structural gap: the absence of a trusted, governed, interoperable credential infrastructure for lifelong learners. Private providers have occupied this space commercially. The OUG occupies it as a public institution. The policy window is open; the demand is demonstrably present; the technology and governance knowledge needed to build this institution exist now. Five years from now, the window may be narrower and the private alternatives more entrenched.
 
 ---
 
@@ -129,30 +107,6 @@ The industry dimension adds a third source of institutional investment: companie
 
 *→ [Federated Participation & Incentive Framework](../partnership/federated-participation-incentive-framework.md) — governs partner rights, compensation, protections, and the four participation types.*
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#federation">
-    <img
-      src="{{ '/quality/images/OUG-partner-system.png' | relative_url }}"
-      alt="OUG Federation">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="federation" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-```
-<img
-  src="{{ 'quality/images/OUG-partner-system.png' | relative_url }}"
-  alt="Enlarged OUG Federation">
-```
-
-  </div>
-</div>
-
-
 ### Academic Logic: Research Informs Teaching, Community Sustains Both
 
 The OUG is research-active. This is not a claim appended for classification purposes — it is a design requirement. A university that does not produce original knowledge cannot credibly award degrees, cannot maintain the academic judgement that quality assurance requires, and cannot contribute to the intellectual conversations it claims to serve. Research Clusters organise research across the federated network. Doctoral education is governed to the same standards as any German research university.
@@ -169,7 +123,7 @@ The OUG's approach to strategy reflects a specific governance philosophy: strate
 Once strategy is adopted, it is governed through OKRs — Objectives and Key Results — rather than KPIs alone. The distinction is not methodological preference; it is a difference in institutional orientation. KPIs monitor whether the institution is healthy. OKRs drive it toward where it wants to go. For a new institution in a rapidly changing sector, governing primarily for stability is not an option. The Governance Dashboard makes OKR progress visible across all four layers, and the Bug Protocol — triggered when a Key Result falls below threshold — converts implementation failures into institutional learning rather than individual accountability.
 
 *→ Strategy Formation Protocol — seven-phase process for participatory strategy development. **(not yet converted — planned for the `strategy/` domain)***
-*→ OKR Framework & Governance Dashboard — transformation-oriented performance management and institutional transparency infrastructure. **(not yet converted — planned for the `strategy/` domain)***
+*→ [OKR Framework & Governance Dashboard](../strategy/okr-framework-dashboard.md) — transformation-oriented performance management and institutional transparency infrastructure.*
 
 ---
 
@@ -179,99 +133,62 @@ Once strategy is adopted, it is governed through OKRs — Objectives and Key Res
 
 The following table maps every institutional document in the OUG's document stack to its primary function and the accreditation question it answers, as this Guide's author organised it. Links are provided where the document has been converted into this repository; unlinked entries have not yet been converted, or (as noted at the top of this page) may not exist under this name at all.
 
+### Legal Foundation Layer
+
+*Added to this Guide's stack — previously present in the repository but absent from this table, despite being what makes everything below legally possible.*
+
+| #    | Document                                                                                                    | Primary Function                                                                                                              | Accreditation Question Answered                                    |
+| ---- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| L-01 | [Allgemeinwohl Verfassung](../governance/allgemeinwohl-verfassung.md)                                       | The public-benefit legal case: why the €25/ECTS structure is a cost contribution, not a market price, under EU state-aid law | Why is this pricing and funding model legally sound, not just cheap?    |
+| L-02 | [Rechtliche Implementierungsvoraussetzungen](../governance/legal-implementation-requirements.md)             | Seven-point legal readiness checklist: state recognition, teaching-capacity law, examination authority, GDPR, copyright, accreditation readiness | What has to be legally true before the OUG can operate, and by when?    |
+
 ### Constitutional & Governance Layer
 
-| # | Document | Primary Function | Accreditation Question Answered |
-|---|---|---|---|
-| G-01 | [Grundordnung](../governance/grundordnung.md) | Legal constitution of the university: institutional identity, governance organs, authority boundaries | Is this a legally constituted institution? |
-| G-02 | Strategic Constitution *(not yet converted)* | Long-term institutional principles and decision hierarchy for strategy | What may never change at OUG? |
-| G-03 | [Governance & Decision Framework](../governance/governance-architecture.md) | Defines the four layers (G1–G4), their mandates, accountability structures, and constitutional protections | How are decisions made? Who can override whom? |
-| G-04 | [Federated Legal Model](../governance/federated-legal-model.md) | How a distributed, federated university operates legally; degree authority vs. teaching authority | Is the federated model legally coherent? |
-| G-05 | [Portfolio Governance Framework](../governance/portfolio-governance.md) | Classifies institutional changes (A–D) and routes them through appropriate governance levels | How does the OUG manage institutional change without destabilising governance? |
-| G-06 | Leadership & Stewardship Profiles *(referenced throughout this repository but not found as a standalone document — see note at top of this page)* | Defines competency requirements, decision rights, and mandate boundaries for all governance roles | Who is responsible for what, and with what authority? |
-
-<div class="diagram-block">
-  <a class="diagram-preview" href="#governance">
-    <img
-      src="{{ '/quality/images/OUG-governance-layers.png' | relative_url }}"
-      alt="OUG Governance">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="governance" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-```
-<img
-  src="{{ 'quality/images/OUG-governance-layers.png' | relative_url }}"
-  alt="Enlarged OUG Governance">
-```
-
-  </div>
-</div>
-
+| #    | Document                                                                                                                                          | Primary Function                                                                                           | Accreditation Question Answered                                                |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| G-01 | [Grundordnung](../governance/grundordnung.md)                                                                                                 | Legal constitution of the university: institutional identity, governance organs, authority boundaries      | Is this a legally constituted institution?                                     |
+| G-02 | Strategic Constitution *(not yet converted)*                                                                                                      | Long-term institutional principles and decision hierarchy for strategy                                     | What may never change at OUG?                                                  |
+| G-03 | [Governance & Decision Framework](../governance/governance-architecture.md)                                                                   | Defines the four layers (G1–G4), their mandates, accountability structures, and constitutional protections | How are decisions made? Who can override whom?                                 |
+| G-04 | [Federated Legal Model](../governance/federated-legal-model.md)                                                                               | How a distributed, federated university operates legally; degree authority vs. teaching authority          | Is the federated model legally coherent?                                       |
+| G-05 | [Portfolio Governance Framework](../governance/portfolio-governance.md)                                                                       | Classifies institutional changes (A–D) and routes them through appropriate governance levels               | How does the OUG manage institutional change without destabilising governance? |
+| G-06 | Leadership & Stewardship Profiles *(referenced throughout this repository but not found as a standalone document — see note at top of this page)* | Defines competency requirements, decision rights, and mandate boundaries for all governance roles          | Who is responsible for what, and with what authority?                          |
 
 ### Operational Governance Layer
 
-| # | Document | Primary Function | Accreditation Question Answered |
-|---|---|---|---|
-| O-01 | Strategy Formation Protocol *(not yet converted)* | Seven-phase participatory process for building institutional strategy with the OUG community | How does strategy get made — and how do you know people will implement it? |
-| O-02 | OKR Framework & Governance Dashboard *(not yet converted)* | Transformation-oriented performance management; multi-layer OKR cascade; real-time governance transparency | How does the OUG steer itself and learn from implementation? |
-| O-03 | [Leadership Development & Induction Framework](../leadership/leadership-development-induction-framework.md) | Structured induction, five competency domains, annual development cycle, term limits, return pathways | Is governance competence-based or personality-dependent? |
+| #    | Document                                                                                                    | Primary Function                                                                                           | Accreditation Question Answered                                            |
+| ---- | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| O-01 | Strategy Formation Protocol *(not yet converted)*                                                           | Seven-phase participatory process for building institutional strategy with the OUG community               | How does strategy get made — and how do you know people will implement it? |
+| O-02 | [OKR Framework & Governance Dashboard](../strategy/okr-framework-dashboard.md)                                                  | Transformation-oriented performance management; multi-layer OKR cascade; real-time governance transparency | How does the OUG steer itself and learn from implementation?               |
+| O-03 | [Leadership Development & Induction Framework](../leadership/leadership-development-induction-framework.md) | Structured induction, five competency domains, annual development cycle, term limits, return pathways      | Is governance competence-based or personality-dependent?                   |
 
 ### Academic Layer
 
-| # | Document | Primary Function | Accreditation Question Answered |
-|---|---|---|---|
-| A-01 | [Quality Assurance & Academic Governance Framework](quality-assurance-academic-governance.md) | Academic standards, programme review processes, G3 independence from financial pressure | How is academic quality protected in a distributed institution? |
-| A-02 | Prüfungsordnung | Legal framework for examinations and degree requirements | Are degree requirements consistent and legally sound? |
-| A-03 | Curriculum Framework *(dropped from scope — see [curriculum/index.md](../curriculum/index.md); content lives in the New Study Programme Document instead)* | Overall programme architecture, modular structure, learning pathway design | Is the academic programme structure coherent and learner-appropriate? |
-| A-04 | Modulhandbuch *(dropped from scope — same note as A-03)* | Detailed module descriptions, learning outcomes, assessment criteria | What exactly do students learn, and how is it assessed? |
-| A-05 | [Research & Doctoral Framework](../curriculum/research-doctoral-framework.md) | Research organisation, Research Clusters, doctoral admission through examination, ethics, integrity | Is the OUG genuinely research-active? |
-| A-06 | [Academic Community & Collegial Life Charter](../leadership/academic-community-charter.md) | How intellectual community is built and sustained in a distributed institution; in-person formats, Mission Hubs, Senate participation | Is this a real academic community or just a delivery service? |
+| #    | Document                                                                                                                                             | Primary Function                                                                                                                      | Accreditation Question Answered                                       |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| A-01 | [Quality Assurance & Academic Governance Framework](../quality/quality-assurance-academic-governance.md)                                         | Academic standards, programme review processes, G3 independence from financial pressure                                               | How is academic quality protected in a distributed institution?       |
+| A-02 | Prüfungsordnung                                                                                                                                      | Legal framework for examinations and degree requirements                                                                              | Are degree requirements consistent and legally sound?                 |
+| A-03 | Curriculum Framework *(dropped from scope — see [curriculum/index.md](../curriculum/index.md); content lives in the New Study Programme Document instead)* | Overall programme architecture, modular structure, learning pathway design                                                            | Is the academic programme structure coherent and learner-appropriate? |
+| A-04 | Modulhandbuch *(dropped from scope — same note as A-03)*                                                                                             | Detailed module descriptions, learning outcomes, assessment criteria                                                                  | What exactly do students learn, and how is it assessed?               |
+| A-05 | [Research & Doctoral Framework](../curriculum/research-doctoral-framework.md)                                                                    | Research organisation, Research Clusters, doctoral admission through examination, ethics, integrity                                   | Is the OUG genuinely research-active?                                 |
+| A-06 | [Academic Community & Collegial Life Charter](../leadership/academic-community-charter.md)                                                       | How intellectual community is built and sustained in a distributed institution; in-person formats, Mission Hubs, Senate participation | Is this a real academic community or just a delivery service?         |
 
 ### Federation & Incentive Layer
 
-| # | Document | Primary Function | Accreditation Question Answered |
-|---|---|---|---|
-| F-01 | [Federated Participation & Incentive Framework](../partnership/federated-participation-incentive-framework.md) | Four partner participation types; ECTS-based compensation model; governance rights; exit protections | Why would partner universities join and stay? |
-| F-02 | Partnership Agreement Template *(not yet converted — may be embedded in the [Partner Membership Framework](../partnership/partner-membership-framework.md) rather than a separate template)* | Standard legal agreement governing partner rights, obligations, and protections | Is the legal basis for federation sound? |
+| #    | Document                                                                                                                                                                                         | Primary Function                                                                                     | Accreditation Question Answered               |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| F-01 | [Federated Participation & Incentive Framework](../partnership/federated-participation-incentive-framework.md)                                                                               | Four partner participation types; ECTS-based compensation model; governance rights; exit protections | Why would partner universities join and stay? |
+| F-02 | Partnership Agreement Template *(not yet converted — may be embedded in the [Partner Membership Framework](../partnership/partner-membership-framework.md) rather than a separate template)* | Standard legal agreement governing partner rights, obligations, and protections                      | Is the legal basis for federation sound?      |
 
 ### Financial Layer
 
-| # | Document | Primary Function | Accreditation Question Answered |
-|---|---|---|---|
-| FIN-01 | Financial Model v3 (Excel) *(not yet converted — planned as `finanzmodell-v3.xlsx` in `strategy/`)* | Ten-year projection; three-pillar funding model (public / student fees / industry); three scenarios; OKR-linked KPIs | Is this financially viable — and under what conditions? |
-| FIN-02 | Gebührenordnung *(not yet converted)* | Tuition fee structure and the social pricing rationale (€25/ECTS) | How are fees set, and why is this model sustainable at this price? |
-| FIN-03 | Hochschulfinanzierungsvertrag Plan *(not yet converted)* | Timeline and conditions for the public funding agreement expected after accreditation and first student cohort | When does state funding begin, and what triggers it? |
+| #      | Document                                                                                            | Primary Function                                                                                                     | Accreditation Question Answered                                    |
+| ------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| FIN-01 | Financial Model v3 (Excel) *(not yet converted — planned as `finanzmodell-v3.xlsx` in `strategy/`)* | Ten-year projection; three-pillar funding model (public / student fees / industry); three scenarios; OKR-linked KPIs | Is this financially viable — and under what conditions?            |
+| FIN-02 | Gebührenordnung *(not yet converted)*                                                               | Tuition fee structure and the social pricing rationale (€25/ECTS)                                                    | How are fees set, and why is this model sustainable at this price? |
+| FIN-03 | Hochschulfinanzierungsvertrag Plan *(not yet converted)*                                            | Timeline and conditions for the public funding agreement expected after accreditation and first student cohort       | When does state funding begin, and what triggers it?               |
 
 ---
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#overview">
-    <img
-      src="{{ '/quality/images/OUG-overview.png' | relative_url }}"
-      alt="OUG Overview">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="overview" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-```
-<img
-  src="{{ 'quality/images/OUG-overview.png' | relative_url }}"
-  alt="Enlarged OUG Overview">
-```
-
-  </div>
-</div>
 ## V. What Has Been Built
 
 *An account of strengths, partial progress, and remaining work*
@@ -296,7 +213,7 @@ The OUG's financial model is built on three pillars that are independent of each
 
 **Public funding (Pillar 1).** BMBF project grants (€500k/year, years 1–4) and EU programme funding (€300k/year, years 1–5) provide the primary operational foundation during the launch phase. A Hochschulfinanzierungsvertrag — the standard German public funding instrument for recognised universities — is expected after accreditation and first student cohort demonstration, providing a scaling per-capita public contribution from Year 3.
 
-**Student fees (Pillar 2).** Fees of €25/ECTS (degree programmes) and €40/ECTS (micro-credentials) are priced as a public good, not a commercial product. A full Bachelor's costs a student €4,500 — compared to €14,000–20,000 at private distance providers. This pricing is sustainable because it is supplemented by the other two pillars; it is intentional because it is the OUG's social mission made financially concrete.
+**Student fees (Pillar 2).** Fees of €25/ECTS (degree programmes) and €40/ECTS (micro-credentials) are priced as a public good, not a commercial product. A full Bachelor's costs a student €4,500 — compared to €14,000–20,000 at private distance providers. This pricing is sustainable because it is supplemented by the other two pillars; it is intentional because it is the OUG's social mission made financially concrete. *The legal argument for why this pricing does not constitute unlawful state aid is made in full in the Allgemeinwohl Verfassung (Section I, L-01).*
 
 **Industry membership (Pillar 3).** Companies hold Senate seats (€80,000/year), programme committee memberships (€30,000/year), and faculty board memberships (€20,000/year) in exchange for governance participation rights. This is the dual education system's institutional logic applied at university level. Industry participates in direction-setting, not standards-setting — academic authority remains entirely with G3.
 
@@ -326,44 +243,21 @@ New institutional forms appear at specific historical moments. The conditions th
 
 Different accreditation processes emphasise different dimensions of institutional quality. The following guide maps common accreditation review focuses to the specific documents in the OUG's stack, enabling targeted reading rather than sequential review of the entire collection.
 
-<div class="diagram-block">
-  <a class="diagram-preview" href="#reading">
-    <img
-      src="{{ '/quality/images/OUG-accreditation-parts.png' | relative_url }}"
-      alt="OUG Reading Guide">
-  </a>
-  <p class="diagram-caption">Click the diagram to enlarge.</p>
-</div>
-
-<div id="reading" class="lightbox">
-  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
-  <div class="lightbox-panel">
-    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
-
-```
-<img
-  src="{{ 'quality/images/OUG-accreditation-parts.png' | relative_url }}"
-  alt="Enlarged OUG Reading Guide">
-```
-
-  </div>
-</div>
-
-
-| If your review focuses on... | Start with these documents |
-|---|---|
-| Legal constitutionality and institutional status | G-01 Grundordnung · G-04 Federated Legal Model |
-| Governance structure and accountability | G-03 Governance & Decision Framework · G-02 Strategic Constitution · G-06 Leadership Profiles |
-| Academic quality and standards protection | A-01 Quality Assurance Framework · A-05 Research & Doctoral Framework · G-03 (G3 independence provisions) |
-| Programme structure and curriculum | A-03 Curriculum Framework · A-04 Modulhandbuch · A-02 Prüfungsordnung |
-| Research capacity and doctoral education | A-05 Research & Doctoral Framework |
-| Student experience and community | A-06 Academic Community Charter · A-01 QA Framework (student experience provisions) |
-| Financial sustainability | FIN-01 Financial Model · FIN-02 Gebührenordnung · FIN-03 HFV Plan |
-| Federation model and partner relationships | F-01 Federated Participation & Incentive Framework · G-04 Federated Legal Model |
-| Strategic planning and institutional direction | O-01 Strategy Formation Protocol · O-02 OKR Framework |
-| Governance capacity and leadership quality | O-03 Leadership Development & Induction Framework · G-06 Leadership Profiles |
-| Checks, balances, and conflict resolution | G-03 Governance & Decision Framework (G3 independence) · G-05 Portfolio Governance Framework |
-| Overall governance assessment against academic standards | Governance Principles Assessment (ASSESS) — cross-references all documents above |
+| If your review focuses on…                               | Start with these documents                                                                                |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Legal possibility and public-benefit status               | L-01 Allgemeinwohl Verfassung · L-02 Rechtliche Implementierungsvoraussetzungen                            |
+| Legal constitutionality and institutional status         | G-01 Grundordnung · G-04 Federated Legal Model                                                            |
+| Governance structure and accountability                  | G-03 Governance & Decision Framework · G-02 Strategic Constitution · G-06 Leadership Profiles             |
+| Academic quality and standards protection                | A-01 Quality Assurance Framework · A-05 Research & Doctoral Framework · G-03 (G3 independence provisions) |
+| Programme structure and curriculum                       | A-03 Curriculum Framework · A-04 Modulhandbuch · A-02 Prüfungsordnung                                     |
+| Research capacity and doctoral education                 | A-05 Research & Doctoral Framework                                                                        |
+| Student experience and community                         | A-06 Academic Community Charter · A-01 QA Framework (student experience provisions)                       |
+| Financial sustainability                                 | FIN-01 Financial Model · FIN-02 Gebührenordnung · FIN-03 HFV Plan · L-01 Allgemeinwohl Verfassung (state-aid basis) |
+| Federation model and partner relationships               | F-01 Federated Participation & Incentive Framework · G-04 Federated Legal Model                           |
+| Strategic planning and institutional direction           | O-01 Strategy Formation Protocol · O-02 OKR Framework                                                     |
+| Governance capacity and leadership quality               | O-03 Leadership Development & Induction Framework · G-06 Leadership Profiles                              |
+| Checks, balances, and conflict resolution                | G-03 Governance & Decision Framework (G3 independence) · G-05 Portfolio Governance Framework              |
+| Overall governance assessment against academic standards | Governance Principles Assessment (ASSESS) — cross-references all documents above                          |
 
 ---
 
@@ -381,3 +275,17 @@ The Open University of Germany is the next institutional step in that tradition 
 
 *Open University of Germany · Reader's Guide for the Accreditation Committee · 2026*
 *All referenced documents are included in the accreditation dossier.*
+
+© 2026 Kay Berkling.
+This work is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
+You may share this material in any medium or format, provided you give appropriate credit,
+provide a link to the license, and indicate if changes were made.
+You may not distribute modified material.
+
+**Attribution:** Kay Berkling, ["OUG: Designing a University from First Principles"](https://eebyak.github.io/OUG/) (2026).
+
+**Consulting:** <kay.berkling@dhbw.de> | Prof. Dr. Kay Berkling, DHBW Baden-Württemberg, Germany
+
+
+
+
