@@ -351,6 +351,8 @@ Unresolved matters across the complete architecture are summarised in the **[rep
 - [Governance Artikel v2](governance/governance-article-v2.md)
 - [Strategic Positioning — The Missing Layer](governance/strategic-positioning-missing-layer.md)
 - [Strategic Clarity Statement](governance/strategic-clarity-statement.md)
+- [Principles Register](governance/principles-register.md)
+- [Design Pattern Register](governance/design-pattern-register.md)
 - [Governance Principles Assessment](governance/governance-principles-assessment.md)
 - [Design Signature Founding](governance/design-signature-founding.md)
 
