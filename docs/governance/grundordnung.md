@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Grundordnung der Open University of Germany (OUG)
+
 ---
 
 *Open University of Germany* *Konsolidierte Fassung · 2026*
 
 > **Status:** *(to be set — see [Document Status](https://eebyak.github.io/OUG/#document-status))* · **Version:** v3.0
 > **Language:** This founding statute is published in its authoritative German version.
-
-
 
 ---
 
@@ -130,6 +129,12 @@ Die Organe der Hochschule sind:
 
 (14) Zusätzlich zu seinen Sitzungen nach Absatz 1 tagt der Senat vierteljährlich als **Community Circle** in seiner konstitutionellen Identität nach dem Governance & Decision Framework. Der Community Circle dient der vertieften strategischen und akademischen Beratung im Vorfeld förmlicher Beschlussfassungen; er ist selbst kein Beschlussorgan im Sinne des § 2 und ersetzt keine Zuständigkeit nach Absatz 1. Auf Grundlage der Geschäftsordnung nach Absatz 12 können am Community Circle mit beratender Stimme zusätzlich teilnehmen: die Stewards of Missions der Mission Hubs (§ 8 Absatz 4) sowie akademisch affiliierte Personen im Sinne des Federated Legal Model. Stimmberechtigung und Zusammensetzung des Senats nach den Absätzen 4 bis 8 bleiben hiervon unberührt. Die Legitimität dieser Praxis wird im Turnus des Governance Review Calendar überprüft.
 
+(15) Teilnehmerinnen und Teilnehmer an Kontaktstudienangeboten der Hochschule nach § 31 LHG — Personen, die nicht in einem Studiengang immatrikuliert sind und daher nicht der Verfassten Studierendenschaft nach § 65 LHG angehören — sind gleichwohl **dauerhaft** mit beratender Stimme am Community Circle nach Absatz 14 zu beteiligen. Diese Beteiligung ist ein ständiger Sitz für die Dauer der jeweiligen Wahlperiode, keine Einladung zu einzelnen Sitzungen.
+
+Die Zahl der Sitze nach diesem Absatz beträgt eins. Sie beträgt zwei — und entspricht damit der Zahl der studentischen Mitglieder nach Absatz 6 Nummer 3 —, sofern die Zahl der aktiven Teilnehmerinnen und Teilnehmer an Kontaktstudienangeboten zum für die jeweilige Wahlperiode maßgeblichen Stichtag mindestens der Zahl der zu diesem Stichtag immatrikulierten Studierenden entspricht. Die Kanzlerin oder der Kanzler stellt die maßgebliche Zahl jeweils vor Beginn der Wahlperiode anhand der Registerdaten fest und macht sie hochschulöffentlich bekannt; die Feststellung ist im Governance Review Calendar zu dokumentieren. Eine einmal auf zwei erhöhte Sitzzahl sinkt nicht während einer laufenden Wahlperiode, auch wenn sich das Zahlenverhältnis danach wieder ändert.
+
+Die Teilnehmerinnen und Teilnehmer wählen die ihrer Zahl nach Satz 2 bis 4 entsprechenden Vertretungen aus ihrer Mitte nach einem von der Hochschule bereitgestellten, asynchron zugänglichen Verfahren, das ihrer Lernsituation entspricht (§ 31 Absatz 2 Nummer 3 LHG). Die Zugehörigkeit zur Verfassten Studierendenschaft und die Beteiligung nach diesem Absatz schließen einander nicht aus; ein Wechsel zwischen immatrikuliertem Studium und Kontaktstudienangeboten ist jederzeit möglich und löst keinen erneuten Zulassungsprozess für bereits nachgewiesene Leistungen aus.
+
 ## § 6 Hochschulrat
 
 (1) Dem Hochschulrat gehören fünf externe Mitglieder und vier interne Mitglieder an. Mindestens vier Mitglieder müssen nach § 20 Absatz 3 LHG Frauen sein.
@@ -193,6 +198,8 @@ Die Organe der Hochschule sind:
 (12) **Umbenennung.** Ein Mission Hub wird durch Beschluss des Rektorats nach Anhörung des Senats umbenannt, wenn sich die von ihm bearbeitete gesellschaftliche Herausforderung wesentlich verändert oder präzisiert hat. Die Umbenennung ist zu begründen und auf das jeweils letzte Communiqué des Mission Hub Advisory Panel Bezug zu nehmen; sie unterliegt denselben Anforderungen des Mission Hub Challenge Framework wie eine Neueinrichtung (Absatz 2). Eine Umbenennung, die lediglich einen zuvor fälschlich disziplinär gewählten Namen korrigiert, bedarf keiner erneuten Bedarfsbegründung nach Absatz 9.
 
 (13) Die Zuordnung eines neuen Studiengangs zu einem Mission Hub ist eine Angelegenheit der Portfolio Governance (§ 9) und richtet sich nach der dort vorgesehenen Klassifikation; das organische Wachstum eines bestehenden, einem Mission Hub bereits zugeordneten Studiengangs innerhalb dieses Mission Hub obliegt dem Mission Hub selbst und bedarf keiner Beteiligung nach den Absätzen 9 oder 10.
+
+(14) Bezieht sich ein Kontaktstudienangebot nach § 31 LHG auf den Themenbereich eines Mission Hub, beteiligt dieser die hierfür nach § 5 Absatz 15 gewählte Vertretung dauerhaft mit beratender Stimme an seinen Sitzungen, soweit die dort behandelten Angelegenheiten dieses Angebot betreffen. Wie bei Absatz 13 handelt es sich um einen ständigen Sitz, nicht um eine einzelfallbezogene Einladung.
 
 
 
@@ -295,3 +302,14 @@ Die Gremienwahlen werden gemäß der Wahlordnung der Hochschule durchgeführt.
 ## Anlagen
 
 Beide Anlagen — **Anlage 1** (Strategisches Rahmenwerk) und **Anlage 2** (Strategic Decision Protocol) — sind gemeinsam als ein Dokument geführt: **[Anlagen](https://github.com/eebyak/OUG/blob/main/docs/governance/anlagen.md)**. *(Bestandteil dieser Grundordnung gemäß § 16 Absätze 1 bis 3. Die First Principles sind kanonisch in der [Strategic Constitution](https://eebyak.github.io/OUG/strategy/strategic-constitution.html), Abschnitt 2, definiert und werden von Anlage 1 referenziert statt dupliziert; das Buch erläutert ihre Herleitung. Anlage 2 ist weitgehend vollständig.)*
+
+
+
+
+
+
+
+
+
+
+ 
