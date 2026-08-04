@@ -1,18 +1,42 @@
 ---
 layout: page
 title: "OKR Framework & Governance Dashboard"
---- 
+---   
 
 *Open University of Germany · Institutional Governance · 2026*
 *Operational Governance Document*
 
 > **Source:** migrated from `OUG_OKR_Framework_Dashboard.docx`
-> **Status:** *(to be set — see [Document Status](../index.md#document-status))*
-> **Cross-reference:** the "Bug Protocol" described in Section IV is the actual document behind the item tracked as an unlocated gap in [known-gaps.md](../known-gaps.md) — its full five-step process is specified here. Worth marking that gap resolved.
+> **Status:** *(to be set — see [Document Status](../index.md#document-status))* · **Version:** v3.0
+> **Cross-reference:** the "Bug Protocol" described in Section IV is the actual document behind the item tracked as an unlocated gap in [known-gaps.md](../known-gaps.md) — its full five-step process is specified here. That gap is resolved.
+> **Relationship to the Strategy Framework / SEP.** The [Strategy Framework](strategy-framework.md) sets six Strategic Objectives (SO1–SO6) for the institution as a whole through 2030 — deliberately without operational targets; it states plainly that indicators are "selected and refined during implementation," leaving that operationalisation to this Framework. This document is where that happens: § II.4 below specifies the standing rule that connects every accredited programme's own OKRs back to one or more of those six Strategic Objectives, so the two documents function as one system rather than two independently maintained ones.
 
 ## From Monitoring to Transformation — How the OUG Measures What Matters and Learns From What It Finds
 
 > This Framework establishes the OUG's approach to Objectives and Key Results (OKRs) as its primary instrument for transformation-oriented performance management. It complements — but does not replace — the quality monitoring mechanisms in the Quality Assurance and Academic Governance Framework. OKRs ask where the institution is going; quality monitoring asks whether it is functioning well. Both are necessary; neither is sufficient alone. This Framework also specifies the Governance Dashboard — the institutional infrastructure through which OKR progress is made visible, discussed, and acted upon.
+
+
+<div class="diagram-block">
+  <a class="diagram-preview" href="#dashboard">
+    <img
+      src="{{ '/images/dashboard.png' | relative_url }}"
+      alt="OUG Dashboard">
+  </a>
+  <p class="diagram-caption">Click the diagram to enlarge.</p>
+</div>
+
+<div id="dashboard" class="lightbox">
+  <a class="lightbox-backdrop" href="#close" aria-label="Close"></a>
+
+  <div class="lightbox-panel">
+    <a class="lightbox-close" href="#close" aria-label="Close">×</a>
+
+    <img
+      src="{{ '/images/dashboard.png' | relative_url }}"
+      alt="Enlarged OUG Dashboard">
+  </div>
+</div>
+
 
 ---
 
@@ -53,9 +77,19 @@ OKRs operate at four levels in the OUG, corresponding to the four governance lay
 | **G3 Academic** | Academic Senate / Senate Committees | Academic quality and learning goals: "OUG programmes produce graduates with demonstrable competency in their field." | Employer survey: 85% rate graduate readiness as "strong"; programme completion rate above 75%; external examiner reports: no systematic quality concerns. | Semester review; Senate agenda item |
 | **G4 Operational** | Programme teams, Research Clusters, Partnership Office | Execution goals: "The partnership onboarding process is seamless for new contributors." | Time from signed agreement to first module delivery: under 6 weeks; partner satisfaction score above 4.0/5; 0 onboarding failures. | Monthly or quarterly; reported to G3 |
 
+### II.4 — Programme-Level Instantiation
+
+The cascade above sets institutional and layer-level direction. It does not, by itself, say how a specific accredited programme connects to that direction — the gap the Strategy Framework's own review notes leave open. This section closes it with a single standing rule, so that connecting a programme to institutional strategy is a generalised, repeatable step rather than a bespoke exercise performed once and re-invented for each new programme.
+
+**The rule.** Every accredited programme — current or future — is assigned an Objective with 2–4 Key Results at the point of Portfolio Governance approval. Each Objective must be explicitly derived from one or more of the Strategy Framework's Strategic Objectives (SO1–SO6), named in the assignment record. The Objective sits at the G3/G4 boundary, consistent with how a Mission Hub's own Objective is assigned at the point of its establishment (Grundordnung § 8 Absatz 9), and is reviewed on the same cadence as other G3/G4-level OKRs above. This assignment happens once, as a standing consequence of Portfolio Governance approval — a new programme triggers the rule automatically and does not require a new document, amendment, or bridge instrument of its own.
+
+**Worked example — New Study (B.Sc. Computer Science, Digital Health Hub).** New Study is the OUG's first programme instantiated under this rule. It was not adapted from an existing offering to fit the OUG: it was built years ahead of and substantially beyond DHBW's own current model — skills-based, fully digitised, deliberately designed past DHBW's own envelope — and is now upscaled into the OUG's federated architecture as the first proof of concept at working scale for what the institution's design can do.
+
+Its Objective draws on **SO1** (Academic Quality and Integrity at Scale) and **SO4** (Coherent Skill Profiles and Qualification Equivalence). Candidate Key Results are drawn from data the programme already produces rather than invented independently of it — module- and competency-level coverage from the Skill Profile Atlas, and the AI/human capability balance already tracked across its 31 modules — so the first instance of this rule is evidence-backed from the outset, not a fresh estimate.
+
 ### OKR Periods and Cycles
 
-Institutional OKRs (G1/G2) are set for the strategy period — typically four to six years — with annual check-ins. Strategic OKRs (G2/G3) are set annually, reviewed each semester. Operational OKRs (G3/G4) are set each semester and reviewed monthly or quarterly depending on the domain. This creates a system of nested cycles: long-range direction at the top, fast-cycle learning at the bottom.
+Institutional OKRs (G1/G2) are set for the strategy period — typically four to six years — with annual check-ins. Strategic OKRs (G2/G3) are set annually, reviewed each semester. Operational OKRs (G3/G4) are set each semester and reviewed monthly or quarterly depending on the domain. Programme-level Objectives under § II.4 follow the G3/G4 cadence. This creates a system of nested cycles: long-range direction at the top, fast-cycle learning at the bottom.
 
 ---
 
@@ -101,7 +135,7 @@ The dashboard is structured in four panels, one per governance layer. Each panel
 
 **G2 — Strategic Panel:** Federation growth (partner institutions signed, active, in pipeline); enrolment trajectory (actual vs. projected across programmes); revenue and sustainability (three-pillar funding — public / fees / industry — tracking); strategic OKR scores (semester update on G2-level Key Results).
 
-**G3 — Academic Quality Panel:** Programme completion and progression rates by programme; student experience indicators (survey results, community participation rates); academic contributor engagement (teaching quality indicators, research output); quality concern log (open items, resolved items, time-to-resolution).
+**G3 — Academic Quality Panel:** Programme completion and progression rates by programme; student experience indicators (survey results, community participation rates); academic contributor engagement (teaching quality indicators, research output); quality concern log (open items, resolved items, time-to-resolution); programme-level Objectives assigned under § II.4, one entry per accredited programme.
 
 **G4 — Operational Panel:** Partner onboarding pipeline (applications, agreements, active delivery); student support (advisory caseload, response times, escalation rate); platform performance (uptime, accessibility compliance, user satisfaction); OKR execution rate (% of G4 operational OKRs on track).
 
