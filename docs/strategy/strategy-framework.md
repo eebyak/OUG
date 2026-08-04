@@ -1,14 +1,15 @@
 ---
 layout: page
 title: "Strategy Framework: Objectives & KPIs"
----  
+---   
 
 *Open University of Germany · Strategy & Finance*
 *2030 Horizon*
 
 > **Source:** migrated from `Strategy Framework (Objectives & KPIs).docx`
 > **Status:** Drafted
-> **Cross-reference:** this is the document referred to as "the Strategy Framework / SEP" in [Leadership & Stewardship Profiles](../leadership/leadership-stewardship-profiles.md) — previously only referenced, not located. It translates the [Strategic Constitution](strategic-constitution.md) into a time-bound, measurable steering instrument, and functions as the OUG's *Struktur- und Entwicklungsplan* (SEP) equivalent under Baden-Württemberg practice.
+> **Cross-reference:** this is the document referred to as "the Strategy Framework / SEP" in [Leadership & Stewardship Profiles](../leadership/leadership-stewardship-profiles.md). It translates the [Strategic Constitution](strategic-constitution.md) into a time-bound, measurable steering instrument, and functions as the OUG's *Struktur- und Entwicklungsplan* (SEP) equivalent under Baden-Württemberg practice.
+> **Relationship to the OKR Framework.** This document sets six Strategic Objectives (SO1–SO6) as the institution's directional corridor through 2030 — deliberately without specifying measurable targets (see § 0.2, § 6). The [OKR Framework & Governance Dashboard](okr-framework-dashboard.md) is where these objectives become measurable at the level of an individual programme: § II.4 of that document specifies a standing rule under which every accredited programme, current or future, is assigned an Objective and Key Results explicitly derived from one or more Strategic Objectives below. This Framework does not itself name individual programmes — see § 5 — precisely so the connecting rule generalises automatically rather than requiring a new document each time a programme is added.
 
 ## 0. Purpose, Status, and Time Horizon
 
@@ -105,7 +106,7 @@ This objective balances relevance with autonomy.
 
 ### Status of Strategic Objectives
 
-Together, these objectives define the strategic development corridor of the OUG to 2030. They are intentionally non-operational and are realised through governed decision-making, quality assurance, and participatory processes as defined in the [Governance & Decision Framework](../governance/governance-architecture.md) and the [Quality Assurance & Academic Governance Concept](../quality/quality-assurance-academic-governance.md). Progress toward these objectives is observed and interpreted through strategic indicators and learning signals (Section 2).
+Together, these objectives define the strategic development corridor of the OUG to 2030. They are intentionally non-operational and are realised through governed decision-making, quality assurance, and participatory processes as defined in the [Governance & Decision Framework](../governance/governance-architecture.md) and the [Quality Assurance & Academic Governance Concept](../quality/quality-assurance-academic-governance.md). Progress toward these objectives is observed and interpreted through strategic indicators and learning signals (Section 2) at the institutional level, and through programme-level Objectives and Key Results at the level of an individual accredited programme (see § 5 and the [OKR Framework](okr-framework-dashboard.md) § II.4).
 
 ---
 
@@ -226,6 +227,8 @@ The Strategy Framework informs portfolio discussions and structural prioritisati
 The framework does **not**: define specific programmes or offerings; prescribe projects or measures; allocate budgets; or establish automatic funding formulas.
 
 Operational measures, initiatives, and resource allocations are developed and decided through the appropriate governance processes and may be adapted in response to funding availability. This separation ensures that strategy guides action without being reduced to a project list, and that learning from implementation can feed back into strategic review.
+
+**Where programme-level connection actually happens.** This Framework deliberately stops short of naming individual programmes, for the reason stated above — doing so here would make every new programme require an edit to this document. That connection is made instead by the [OKR Framework](okr-framework-dashboard.md) § II.4, which assigns every accredited programme an Objective derived from one or more Strategic Objectives above, once, at the point of Portfolio Governance approval. The rule generalises automatically; this Framework's own boundary against naming programmes is what makes that generalisation possible rather than something each new programme has to work around.
 
 ## 6. Safeguards Against Instrumentalisation
 
